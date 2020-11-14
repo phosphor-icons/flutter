@@ -18,3 +18,8 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
+  fonts:
+    - family: Phosphor
+      fonts:
+        - asset: lib/fonts/phosphor.ttf
+          weight: 400
