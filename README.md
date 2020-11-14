@@ -11,11 +11,24 @@ Phosphor is a flexible icon family for interfaces, diagrams, presentations — w
 
 ## Installation
 
-> **TDB**
+Add this to your `pubspec.yaml`
+
+```yaml
+dependencies:
+  phosphor_flutter: ^any
+```
 
 ## Usage
 
-> **TDB**
+Just add a `Icon()` widget passing any Phosphor Icon value
+
+```dart
+Icon(
+  PhosphorIcons.pencilLine,
+),
+```
+
+All the icons has their thin, light, regular, bold and fill versions.
 
 ## Related Projects
 
