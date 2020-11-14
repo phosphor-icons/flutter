@@ -1,7 +1,4 @@
 library phosphor_flutter;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'package:phosphor_flutter/src/icon_data.dart';
+export 'package:phosphor_flutter/src/phosphor_icons.dart';
