@@ -15,7 +15,18 @@ void main(List<String> arguments) {
 
 // Auto Generated File
 
-class PhosphorIcons {""",
+
+/// Class mean to be used inside a [Icon] widget
+/// 
+/// ```dart
+/// Icon(
+///   PhosphorIcons.pencilLine,
+/// ),
+/// ```
+/// 
+class PhosphorIcons {
+  // Prevents instantiation and extend
+  PhosphorIcons._();""",
   ];
   final constantsLines = <String>[];
   final mapGetterContent = <String>[
@@ -30,29 +41,34 @@ class PhosphorIcons {""",
   ];
 
   final mapBoldGetterContent = <String>[
-    '\n  static Map<String, PhosphorIconData> get boldIcons => {',
+    '\n  static Map<String, PhosphorIconDataBold> get boldIcons => {',
     '};'
   ];
 
   final mapRegularGetterContent = <String>[
-    '\n  static Map<String, PhosphorIconData> get regularIcons => {',
+    '\n  static Map<String, PhosphorIconDataRegular> get regularIcons => {',
     '};'
   ];
 
   final mapThinGetterContent = <String>[
-    '\n  static Map<String, PhosphorIconData> get thinIcons => {',
+    '\n  static Map<String, PhosphorIconDataThin> get thinIcons => {',
     '};'
   ];
 
   final mapLightGetterContent = <String>[
-    '\n  static Map<String, PhosphorIconData> get lightIcons => {',
+    '\n  static Map<String, PhosphorIconDataLight> get lightIcons => {',
     '};'
   ];
 
   final mapFillGetterContent = <String>[
-    '\n  static Map<String, PhosphorIconData> get fillIcons => {',
+    '\n  static Map<String, PhosphorIconDataFill> get fillIcons => {',
     '};'
   ];
+
+  final mapShadowsGetter = '''
+  static Map<PhosphorIconDataRegular, String> get shadows =>
+      regularIcons.map<PhosphorIconDataRegular, String>(
+          (key, value) => MapEntry(value, key + '-fill'));''';
 
   final iconsGetterContent =
       '\n  static List<PhosphorIconData> get icons => allIconsAsMap.values.toList();';
@@ -71,34 +87,46 @@ class PhosphorIcons {""",
       style = 'regular';
     }
 
+    var iconConstLine = '';
+
     switch (style) {
       case 'bold':
         mapBoldGetterContent.insert(
             mapBoldGetterContent.length - 1, "  '$fullName': $name,");
+        iconConstLine =
+            'static const $name = PhosphorIconDataBold($hexCode);\n';
         break;
       case 'fill':
         mapFillGetterContent.insert(
             mapFillGetterContent.length - 1, "  '$fullName': $name,");
+        iconConstLine =
+            'static const $name = PhosphorIconDataFill($hexCode);\n';
         break;
       case 'light':
         mapLightGetterContent.insert(
             mapLightGetterContent.length - 1, "  '$fullName': $name,");
+        iconConstLine =
+            'static const $name = PhosphorIconDataLight($hexCode);\n';
         break;
       case 'thin':
         mapThinGetterContent.insert(
             mapThinGetterContent.length - 1, "  '$fullName': $name,");
+        iconConstLine =
+            'static const $name = PhosphorIconDataThin($hexCode);\n';
         break;
       case 'regular':
       default:
         mapRegularGetterContent.insert(
             mapRegularGetterContent.length - 1, "  '$fullName': $name,");
+        iconConstLine =
+            'static const $name = PhosphorIconDataRegular($hexCode);\n';
         break;
     }
 
     constantsLines.add(
       '/// ![$fullName](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/$style/$fullName.svg)',
     );
-    constantsLines.add('static const $name = PhosphorIconData($hexCode);\n');
+    constantsLines.add(iconConstLine);
   });
 
   fileLines.addAll(constantsLines);
@@ -110,6 +138,7 @@ class PhosphorIcons {""",
   fileLines.addAll(mapFillGetterContent);
   fileLines.addAll(mapLightGetterContent);
   fileLines.addAll(mapThinGetterContent);
+  fileLines.add(mapShadowsGetter);
 
   final finalString = fileLines.join('\n  ') + '\n}';
 

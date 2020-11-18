@@ -30,6 +30,7 @@ class _IconsCatalogState extends State<IconsCatalog> {
   dynamic _icons;
   List<String> _iconsNames;
   String _title = 'Icons Catalog - Regular';
+  bool _isDuotone = false;
 
   @override
   void initState() {
@@ -69,13 +70,11 @@ class _IconsCatalogState extends State<IconsCatalog> {
                 'Regular',
                 'Bold',
                 'Fill',
+                'Duotone',
               }.map((style) {
                 var icon;
 
                 switch (style) {
-                  case 'Regular':
-                    icon = PhosphorIcons.pencilLine;
-                    break;
                   case 'Bold':
                     icon = PhosphorIcons.pencilLineBold;
                     break;
@@ -88,17 +87,25 @@ class _IconsCatalogState extends State<IconsCatalog> {
                   case 'Thin':
                     icon = PhosphorIcons.pencilLineThin;
                     break;
+                  case 'Regular':
+                  case 'Duotone':
                   default:
+                    icon = PhosphorIcons.pencilLine;
                     break;
                 }
 
                 return PopupMenuItem<String>(
                   child: Row(
                     children: [
-                      Icon(
-                        icon,
-                        color: Colors.black,
-                      ),
+                      if (style == 'Duotone')
+                        PhosphorIconDuotone(
+                          icon: icon,
+                        )
+                      else
+                        Icon(
+                          icon,
+                          color: Colors.black,
+                        ),
                       SizedBox(
                         width: 8,
                       ),
@@ -130,6 +137,7 @@ class _IconsCatalogState extends State<IconsCatalog> {
                   icons = PhosphorIcons.thinIcons.values.toList();
                   iconsNames = PhosphorIcons.thinIcons.keys.toList();
                   break;
+                case 'Duotone':
                 case 'Regular':
                 default:
                   icons = PhosphorIcons.regularIcons.values.toList();
@@ -141,6 +149,7 @@ class _IconsCatalogState extends State<IconsCatalog> {
                 _icons = icons;
                 _iconsNames = iconsNames;
                 _title = 'Icons Catalog - $value';
+                _isDuotone = value == 'Duotone';
               });
             },
           ),
@@ -161,13 +170,16 @@ class _IconsCatalogState extends State<IconsCatalog> {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                if (_icons is List<PhosphorIconData>)
-                  Icon(
-                    _icons[index],
+                if (_isDuotone)
+                  PhosphorIconDuotone(
+                    icon: _icons[index],
                     size: 48,
                   )
                 else
-                  _icons[index],
+                  Icon(
+                    _icons[index],
+                    size: 48,
+                  ),
                 Text(
                   _iconsNames[index],
                   textAlign: TextAlign.center,
