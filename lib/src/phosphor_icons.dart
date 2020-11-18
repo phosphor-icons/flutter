@@ -2,8826 +2,8837 @@ import 'package:phosphor_flutter/phosphor_flutter.dart';
 
 // Auto Generated File
 
+
+/// Class mean to be used inside a [Icon] widget
+/// 
+/// ```dart
+/// Icon(
+///   PhosphorIcons.pencilLine,
+/// ),
+/// ```
+/// 
 class PhosphorIcons {
+  // Prevents instantiation and extend
+  PhosphorIcons._();
   /// ![activity](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/activity.svg)
-  static const activity = PhosphorIconData(0xe900);
+  static const activity = PhosphorIconDataRegular(0xe900);
 
   /// ![activity-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/activity-bold.svg)
-  static const activityBold = PhosphorIconData(0xe901);
+  static const activityBold = PhosphorIconDataBold(0xe901);
 
   /// ![activity-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/activity-fill.svg)
-  static const activityFill = PhosphorIconData(0xe902);
+  static const activityFill = PhosphorIconDataFill(0xe902);
 
   /// ![activity-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/activity-light.svg)
-  static const activityLight = PhosphorIconData(0xe903);
+  static const activityLight = PhosphorIconDataLight(0xe903);
 
   /// ![activity-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/activity-thin.svg)
-  static const activityThin = PhosphorIconData(0xe904);
+  static const activityThin = PhosphorIconDataThin(0xe904);
 
   /// ![airplane](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/airplane.svg)
-  static const airplane = PhosphorIconData(0xe905);
+  static const airplane = PhosphorIconDataRegular(0xe905);
 
   /// ![airplane-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/airplane-bold.svg)
-  static const airplaneBold = PhosphorIconData(0xe906);
+  static const airplaneBold = PhosphorIconDataBold(0xe906);
 
   /// ![airplane-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/airplane-fill.svg)
-  static const airplaneFill = PhosphorIconData(0xe907);
+  static const airplaneFill = PhosphorIconDataFill(0xe907);
 
   /// ![airplane-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/airplane-light.svg)
-  static const airplaneLight = PhosphorIconData(0xe908);
+  static const airplaneLight = PhosphorIconDataLight(0xe908);
 
   /// ![airplane-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/airplane-thin.svg)
-  static const airplaneThin = PhosphorIconData(0xe909);
+  static const airplaneThin = PhosphorIconDataThin(0xe909);
 
   /// ![airplay](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/airplay.svg)
-  static const airplay = PhosphorIconData(0xe90a);
+  static const airplay = PhosphorIconDataRegular(0xe90a);
 
   /// ![airplay-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/airplay-bold.svg)
-  static const airplayBold = PhosphorIconData(0xe90b);
+  static const airplayBold = PhosphorIconDataBold(0xe90b);
 
   /// ![airplay-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/airplay-fill.svg)
-  static const airplayFill = PhosphorIconData(0xe90c);
+  static const airplayFill = PhosphorIconDataFill(0xe90c);
 
   /// ![airplay-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/airplay-light.svg)
-  static const airplayLight = PhosphorIconData(0xe90d);
+  static const airplayLight = PhosphorIconDataLight(0xe90d);
 
   /// ![airplay-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/airplay-thin.svg)
-  static const airplayThin = PhosphorIconData(0xe90e);
+  static const airplayThin = PhosphorIconDataThin(0xe90e);
 
   /// ![alarm](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/alarm.svg)
-  static const alarm = PhosphorIconData(0xe90f);
+  static const alarm = PhosphorIconDataRegular(0xe90f);
 
   /// ![alarm-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/alarm-bold.svg)
-  static const alarmBold = PhosphorIconData(0xe910);
+  static const alarmBold = PhosphorIconDataBold(0xe910);
 
   /// ![alarm-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/alarm-fill.svg)
-  static const alarmFill = PhosphorIconData(0xe911);
+  static const alarmFill = PhosphorIconDataFill(0xe911);
 
   /// ![alarm-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/alarm-light.svg)
-  static const alarmLight = PhosphorIconData(0xe912);
+  static const alarmLight = PhosphorIconDataLight(0xe912);
 
   /// ![alarm-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/alarm-thin.svg)
-  static const alarmThin = PhosphorIconData(0xe913);
+  static const alarmThin = PhosphorIconDataThin(0xe913);
 
   /// ![android-logo](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/android-logo.svg)
-  static const androidLogo = PhosphorIconData(0xe914);
+  static const androidLogo = PhosphorIconDataRegular(0xe914);
 
   /// ![android-logo-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/android-logo-bold.svg)
-  static const androidLogoBold = PhosphorIconData(0xe915);
+  static const androidLogoBold = PhosphorIconDataBold(0xe915);
 
   /// ![android-logo-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/android-logo-fill.svg)
-  static const androidLogoFill = PhosphorIconData(0xe916);
+  static const androidLogoFill = PhosphorIconDataFill(0xe916);
 
   /// ![android-logo-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/android-logo-light.svg)
-  static const androidLogoLight = PhosphorIconData(0xe917);
+  static const androidLogoLight = PhosphorIconDataLight(0xe917);
 
   /// ![android-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/android-logo-thin.svg)
-  static const androidLogoThin = PhosphorIconData(0xe918);
+  static const androidLogoThin = PhosphorIconDataThin(0xe918);
 
   /// ![aperture](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/aperture.svg)
-  static const aperture = PhosphorIconData(0xe919);
+  static const aperture = PhosphorIconDataRegular(0xe919);
 
   /// ![aperture-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/aperture-bold.svg)
-  static const apertureBold = PhosphorIconData(0xe91a);
+  static const apertureBold = PhosphorIconDataBold(0xe91a);
 
   /// ![aperture-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/aperture-fill.svg)
-  static const apertureFill = PhosphorIconData(0xe91b);
+  static const apertureFill = PhosphorIconDataFill(0xe91b);
 
   /// ![aperture-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/aperture-light.svg)
-  static const apertureLight = PhosphorIconData(0xe91c);
+  static const apertureLight = PhosphorIconDataLight(0xe91c);
 
   /// ![aperture-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/aperture-thin.svg)
-  static const apertureThin = PhosphorIconData(0xe91d);
+  static const apertureThin = PhosphorIconDataThin(0xe91d);
 
   /// ![archive](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/archive.svg)
-  static const archive = PhosphorIconData(0xe91e);
+  static const archive = PhosphorIconDataRegular(0xe91e);
 
   /// ![archive-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/archive-bold.svg)
-  static const archiveBold = PhosphorIconData(0xe91f);
+  static const archiveBold = PhosphorIconDataBold(0xe91f);
 
   /// ![archive-box](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/archive-box.svg)
-  static const archiveBox = PhosphorIconData(0xe920);
+  static const archiveBox = PhosphorIconDataRegular(0xe920);
 
   /// ![archive-box-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/archive-box-bold.svg)
-  static const archiveBoxBold = PhosphorIconData(0xe921);
+  static const archiveBoxBold = PhosphorIconDataBold(0xe921);
 
   /// ![archive-box-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/archive-box-fill.svg)
-  static const archiveBoxFill = PhosphorIconData(0xe922);
+  static const archiveBoxFill = PhosphorIconDataFill(0xe922);
 
   /// ![archive-box-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/archive-box-light.svg)
-  static const archiveBoxLight = PhosphorIconData(0xe923);
+  static const archiveBoxLight = PhosphorIconDataLight(0xe923);
 
   /// ![archive-box-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/archive-box-thin.svg)
-  static const archiveBoxThin = PhosphorIconData(0xe924);
+  static const archiveBoxThin = PhosphorIconDataThin(0xe924);
 
   /// ![archive-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/archive-fill.svg)
-  static const archiveFill = PhosphorIconData(0xe925);
+  static const archiveFill = PhosphorIconDataFill(0xe925);
 
   /// ![archive-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/archive-light.svg)
-  static const archiveLight = PhosphorIconData(0xe926);
+  static const archiveLight = PhosphorIconDataLight(0xe926);
 
   /// ![archive-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/archive-thin.svg)
-  static const archiveThin = PhosphorIconData(0xe927);
+  static const archiveThin = PhosphorIconDataThin(0xe927);
 
   /// ![archive-tray](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/archive-tray.svg)
-  static const archiveTray = PhosphorIconData(0xe928);
+  static const archiveTray = PhosphorIconDataRegular(0xe928);
 
   /// ![archive-tray-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/archive-tray-bold.svg)
-  static const archiveTrayBold = PhosphorIconData(0xe929);
+  static const archiveTrayBold = PhosphorIconDataBold(0xe929);
 
   /// ![archive-tray-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/archive-tray-fill.svg)
-  static const archiveTrayFill = PhosphorIconData(0xe92a);
+  static const archiveTrayFill = PhosphorIconDataFill(0xe92a);
 
   /// ![archive-tray-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/archive-tray-light.svg)
-  static const archiveTrayLight = PhosphorIconData(0xe92b);
+  static const archiveTrayLight = PhosphorIconDataLight(0xe92b);
 
   /// ![archive-tray-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/archive-tray-thin.svg)
-  static const archiveTrayThin = PhosphorIconData(0xe92c);
+  static const archiveTrayThin = PhosphorIconDataThin(0xe92c);
 
   /// ![arrow-arc-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-arc-left.svg)
-  static const arrowArcLeft = PhosphorIconData(0xe92d);
+  static const arrowArcLeft = PhosphorIconDataRegular(0xe92d);
 
   /// ![arrow-arc-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-arc-left-bold.svg)
-  static const arrowArcLeftBold = PhosphorIconData(0xe92e);
+  static const arrowArcLeftBold = PhosphorIconDataBold(0xe92e);
 
   /// ![arrow-arc-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-arc-left-fill.svg)
-  static const arrowArcLeftFill = PhosphorIconData(0xe92f);
+  static const arrowArcLeftFill = PhosphorIconDataFill(0xe92f);
 
   /// ![arrow-arc-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-arc-left-light.svg)
-  static const arrowArcLeftLight = PhosphorIconData(0xe930);
+  static const arrowArcLeftLight = PhosphorIconDataLight(0xe930);
 
   /// ![arrow-arc-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-arc-left-thin.svg)
-  static const arrowArcLeftThin = PhosphorIconData(0xe931);
+  static const arrowArcLeftThin = PhosphorIconDataThin(0xe931);
 
   /// ![arrow-arc-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-arc-right.svg)
-  static const arrowArcRight = PhosphorIconData(0xe932);
+  static const arrowArcRight = PhosphorIconDataRegular(0xe932);
 
   /// ![arrow-arc-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-arc-right-bold.svg)
-  static const arrowArcRightBold = PhosphorIconData(0xe933);
+  static const arrowArcRightBold = PhosphorIconDataBold(0xe933);
 
   /// ![arrow-arc-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-arc-right-fill.svg)
-  static const arrowArcRightFill = PhosphorIconData(0xe934);
+  static const arrowArcRightFill = PhosphorIconDataFill(0xe934);
 
   /// ![arrow-arc-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-arc-right-light.svg)
-  static const arrowArcRightLight = PhosphorIconData(0xe935);
+  static const arrowArcRightLight = PhosphorIconDataLight(0xe935);
 
   /// ![arrow-arc-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-arc-right-thin.svg)
-  static const arrowArcRightThin = PhosphorIconData(0xe936);
+  static const arrowArcRightThin = PhosphorIconDataThin(0xe936);
 
   /// ![arrow-bend-double-up-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-bend-double-up-left.svg)
-  static const arrowBendDoubleUpLeft = PhosphorIconData(0xe937);
+  static const arrowBendDoubleUpLeft = PhosphorIconDataRegular(0xe937);
 
   /// ![arrow-bend-double-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-bend-double-up-left-bold.svg)
-  static const arrowBendDoubleUpLeftBold = PhosphorIconData(0xe938);
+  static const arrowBendDoubleUpLeftBold = PhosphorIconDataBold(0xe938);
 
   /// ![arrow-bend-double-up-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-bend-double-up-left-fill.svg)
-  static const arrowBendDoubleUpLeftFill = PhosphorIconData(0xe939);
+  static const arrowBendDoubleUpLeftFill = PhosphorIconDataFill(0xe939);
 
   /// ![arrow-bend-double-up-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-bend-double-up-left-light.svg)
-  static const arrowBendDoubleUpLeftLight = PhosphorIconData(0xe93a);
+  static const arrowBendDoubleUpLeftLight = PhosphorIconDataLight(0xe93a);
 
   /// ![arrow-bend-double-up-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-bend-double-up-left-thin.svg)
-  static const arrowBendDoubleUpLeftThin = PhosphorIconData(0xe93b);
+  static const arrowBendDoubleUpLeftThin = PhosphorIconDataThin(0xe93b);
 
   /// ![arrow-bend-double-up-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-bend-double-up-right.svg)
-  static const arrowBendDoubleUpRight = PhosphorIconData(0xe93c);
+  static const arrowBendDoubleUpRight = PhosphorIconDataRegular(0xe93c);
 
   /// ![arrow-bend-double-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-bend-double-up-right-bold.svg)
-  static const arrowBendDoubleUpRightBold = PhosphorIconData(0xe93d);
+  static const arrowBendDoubleUpRightBold = PhosphorIconDataBold(0xe93d);
 
   /// ![arrow-bend-double-up-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-bend-double-up-right-fill.svg)
-  static const arrowBendDoubleUpRightFill = PhosphorIconData(0xe93e);
+  static const arrowBendDoubleUpRightFill = PhosphorIconDataFill(0xe93e);
 
   /// ![arrow-bend-double-up-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-bend-double-up-right-light.svg)
-  static const arrowBendDoubleUpRightLight = PhosphorIconData(0xe93f);
+  static const arrowBendDoubleUpRightLight = PhosphorIconDataLight(0xe93f);
 
   /// ![arrow-bend-double-up-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-bend-double-up-right-thin.svg)
-  static const arrowBendDoubleUpRightThin = PhosphorIconData(0xe940);
+  static const arrowBendDoubleUpRightThin = PhosphorIconDataThin(0xe940);
 
   /// ![arrow-bend-down-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-bend-down-left.svg)
-  static const arrowBendDownLeft = PhosphorIconData(0xe941);
+  static const arrowBendDownLeft = PhosphorIconDataRegular(0xe941);
 
   /// ![arrow-bend-down-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-bend-down-left-bold.svg)
-  static const arrowBendDownLeftBold = PhosphorIconData(0xe942);
+  static const arrowBendDownLeftBold = PhosphorIconDataBold(0xe942);
 
   /// ![arrow-bend-down-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-bend-down-left-fill.svg)
-  static const arrowBendDownLeftFill = PhosphorIconData(0xe943);
+  static const arrowBendDownLeftFill = PhosphorIconDataFill(0xe943);
 
   /// ![arrow-bend-down-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-bend-down-left-light.svg)
-  static const arrowBendDownLeftLight = PhosphorIconData(0xe944);
+  static const arrowBendDownLeftLight = PhosphorIconDataLight(0xe944);
 
   /// ![arrow-bend-down-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-bend-down-left-thin.svg)
-  static const arrowBendDownLeftThin = PhosphorIconData(0xe945);
+  static const arrowBendDownLeftThin = PhosphorIconDataThin(0xe945);
 
   /// ![arrow-bend-down-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-bend-down-right.svg)
-  static const arrowBendDownRight = PhosphorIconData(0xe946);
+  static const arrowBendDownRight = PhosphorIconDataRegular(0xe946);
 
   /// ![arrow-bend-down-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-bend-down-right-bold.svg)
-  static const arrowBendDownRightBold = PhosphorIconData(0xe947);
+  static const arrowBendDownRightBold = PhosphorIconDataBold(0xe947);
 
   /// ![arrow-bend-down-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-bend-down-right-fill.svg)
-  static const arrowBendDownRightFill = PhosphorIconData(0xe948);
+  static const arrowBendDownRightFill = PhosphorIconDataFill(0xe948);
 
   /// ![arrow-bend-down-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-bend-down-right-light.svg)
-  static const arrowBendDownRightLight = PhosphorIconData(0xe949);
+  static const arrowBendDownRightLight = PhosphorIconDataLight(0xe949);
 
   /// ![arrow-bend-down-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-bend-down-right-thin.svg)
-  static const arrowBendDownRightThin = PhosphorIconData(0xe94a);
+  static const arrowBendDownRightThin = PhosphorIconDataThin(0xe94a);
 
   /// ![arrow-bend-left-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-bend-left-down.svg)
-  static const arrowBendLeftDown = PhosphorIconData(0xe94b);
+  static const arrowBendLeftDown = PhosphorIconDataRegular(0xe94b);
 
   /// ![arrow-bend-left-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-bend-left-down-bold.svg)
-  static const arrowBendLeftDownBold = PhosphorIconData(0xe94c);
+  static const arrowBendLeftDownBold = PhosphorIconDataBold(0xe94c);
 
   /// ![arrow-bend-left-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-bend-left-down-fill.svg)
-  static const arrowBendLeftDownFill = PhosphorIconData(0xe94d);
+  static const arrowBendLeftDownFill = PhosphorIconDataFill(0xe94d);
 
   /// ![arrow-bend-left-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-bend-left-down-light.svg)
-  static const arrowBendLeftDownLight = PhosphorIconData(0xe94e);
+  static const arrowBendLeftDownLight = PhosphorIconDataLight(0xe94e);
 
   /// ![arrow-bend-left-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-bend-left-down-thin.svg)
-  static const arrowBendLeftDownThin = PhosphorIconData(0xe94f);
+  static const arrowBendLeftDownThin = PhosphorIconDataThin(0xe94f);
 
   /// ![arrow-bend-left-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-bend-left-up.svg)
-  static const arrowBendLeftUp = PhosphorIconData(0xe950);
+  static const arrowBendLeftUp = PhosphorIconDataRegular(0xe950);
 
   /// ![arrow-bend-left-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-bend-left-up-bold.svg)
-  static const arrowBendLeftUpBold = PhosphorIconData(0xe951);
+  static const arrowBendLeftUpBold = PhosphorIconDataBold(0xe951);
 
   /// ![arrow-bend-left-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-bend-left-up-fill.svg)
-  static const arrowBendLeftUpFill = PhosphorIconData(0xe952);
+  static const arrowBendLeftUpFill = PhosphorIconDataFill(0xe952);
 
   /// ![arrow-bend-left-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-bend-left-up-light.svg)
-  static const arrowBendLeftUpLight = PhosphorIconData(0xe953);
+  static const arrowBendLeftUpLight = PhosphorIconDataLight(0xe953);
 
   /// ![arrow-bend-left-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-bend-left-up-thin.svg)
-  static const arrowBendLeftUpThin = PhosphorIconData(0xe954);
+  static const arrowBendLeftUpThin = PhosphorIconDataThin(0xe954);
 
   /// ![arrow-bend-right-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-bend-right-down.svg)
-  static const arrowBendRightDown = PhosphorIconData(0xe955);
+  static const arrowBendRightDown = PhosphorIconDataRegular(0xe955);
 
   /// ![arrow-bend-right-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-bend-right-down-bold.svg)
-  static const arrowBendRightDownBold = PhosphorIconData(0xe956);
+  static const arrowBendRightDownBold = PhosphorIconDataBold(0xe956);
 
   /// ![arrow-bend-right-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-bend-right-down-fill.svg)
-  static const arrowBendRightDownFill = PhosphorIconData(0xe957);
+  static const arrowBendRightDownFill = PhosphorIconDataFill(0xe957);
 
   /// ![arrow-bend-right-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-bend-right-down-light.svg)
-  static const arrowBendRightDownLight = PhosphorIconData(0xe958);
+  static const arrowBendRightDownLight = PhosphorIconDataLight(0xe958);
 
   /// ![arrow-bend-right-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-bend-right-down-thin.svg)
-  static const arrowBendRightDownThin = PhosphorIconData(0xe959);
+  static const arrowBendRightDownThin = PhosphorIconDataThin(0xe959);
 
   /// ![arrow-bend-right-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-bend-right-up.svg)
-  static const arrowBendRightUp = PhosphorIconData(0xe95a);
+  static const arrowBendRightUp = PhosphorIconDataRegular(0xe95a);
 
   /// ![arrow-bend-right-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-bend-right-up-bold.svg)
-  static const arrowBendRightUpBold = PhosphorIconData(0xe95b);
+  static const arrowBendRightUpBold = PhosphorIconDataBold(0xe95b);
 
   /// ![arrow-bend-right-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-bend-right-up-fill.svg)
-  static const arrowBendRightUpFill = PhosphorIconData(0xe95c);
+  static const arrowBendRightUpFill = PhosphorIconDataFill(0xe95c);
 
   /// ![arrow-bend-right-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-bend-right-up-light.svg)
-  static const arrowBendRightUpLight = PhosphorIconData(0xe95d);
+  static const arrowBendRightUpLight = PhosphorIconDataLight(0xe95d);
 
   /// ![arrow-bend-right-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-bend-right-up-thin.svg)
-  static const arrowBendRightUpThin = PhosphorIconData(0xe95e);
+  static const arrowBendRightUpThin = PhosphorIconDataThin(0xe95e);
 
   /// ![arrow-bend-up-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-bend-up-left.svg)
-  static const arrowBendUpLeft = PhosphorIconData(0xe95f);
+  static const arrowBendUpLeft = PhosphorIconDataRegular(0xe95f);
 
   /// ![arrow-bend-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-bend-up-left-bold.svg)
-  static const arrowBendUpLeftBold = PhosphorIconData(0xe960);
+  static const arrowBendUpLeftBold = PhosphorIconDataBold(0xe960);
 
   /// ![arrow-bend-up-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-bend-up-left-fill.svg)
-  static const arrowBendUpLeftFill = PhosphorIconData(0xe961);
+  static const arrowBendUpLeftFill = PhosphorIconDataFill(0xe961);
 
   /// ![arrow-bend-up-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-bend-up-left-light.svg)
-  static const arrowBendUpLeftLight = PhosphorIconData(0xe962);
+  static const arrowBendUpLeftLight = PhosphorIconDataLight(0xe962);
 
   /// ![arrow-bend-up-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-bend-up-left-thin.svg)
-  static const arrowBendUpLeftThin = PhosphorIconData(0xe963);
+  static const arrowBendUpLeftThin = PhosphorIconDataThin(0xe963);
 
   /// ![arrow-bend-up-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-bend-up-right.svg)
-  static const arrowBendUpRight = PhosphorIconData(0xe964);
+  static const arrowBendUpRight = PhosphorIconDataRegular(0xe964);
 
   /// ![arrow-bend-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-bend-up-right-bold.svg)
-  static const arrowBendUpRightBold = PhosphorIconData(0xe965);
+  static const arrowBendUpRightBold = PhosphorIconDataBold(0xe965);
 
   /// ![arrow-bend-up-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-bend-up-right-fill.svg)
-  static const arrowBendUpRightFill = PhosphorIconData(0xe966);
+  static const arrowBendUpRightFill = PhosphorIconDataFill(0xe966);
 
   /// ![arrow-bend-up-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-bend-up-right-light.svg)
-  static const arrowBendUpRightLight = PhosphorIconData(0xe967);
+  static const arrowBendUpRightLight = PhosphorIconDataLight(0xe967);
 
   /// ![arrow-bend-up-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-bend-up-right-thin.svg)
-  static const arrowBendUpRightThin = PhosphorIconData(0xe968);
+  static const arrowBendUpRightThin = PhosphorIconDataThin(0xe968);
 
   /// ![arrow-circle-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-circle-down.svg)
-  static const arrowCircleDown = PhosphorIconData(0xe969);
+  static const arrowCircleDown = PhosphorIconDataRegular(0xe969);
 
   /// ![arrow-circle-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-circle-down-bold.svg)
-  static const arrowCircleDownBold = PhosphorIconData(0xe96a);
+  static const arrowCircleDownBold = PhosphorIconDataBold(0xe96a);
 
   /// ![arrow-circle-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-circle-down-fill.svg)
-  static const arrowCircleDownFill = PhosphorIconData(0xe96b);
+  static const arrowCircleDownFill = PhosphorIconDataFill(0xe96b);
 
   /// ![arrow-circle-down-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-circle-down-left.svg)
-  static const arrowCircleDownLeft = PhosphorIconData(0xe96c);
+  static const arrowCircleDownLeft = PhosphorIconDataRegular(0xe96c);
 
   /// ![arrow-circle-down-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-circle-down-left-bold.svg)
-  static const arrowCircleDownLeftBold = PhosphorIconData(0xe96d);
+  static const arrowCircleDownLeftBold = PhosphorIconDataBold(0xe96d);
 
   /// ![arrow-circle-down-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-circle-down-left-fill.svg)
-  static const arrowCircleDownLeftFill = PhosphorIconData(0xe96e);
+  static const arrowCircleDownLeftFill = PhosphorIconDataFill(0xe96e);
 
   /// ![arrow-circle-down-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-circle-down-left-light.svg)
-  static const arrowCircleDownLeftLight = PhosphorIconData(0xe96f);
+  static const arrowCircleDownLeftLight = PhosphorIconDataLight(0xe96f);
 
   /// ![arrow-circle-down-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-circle-down-left-thin.svg)
-  static const arrowCircleDownLeftThin = PhosphorIconData(0xe970);
+  static const arrowCircleDownLeftThin = PhosphorIconDataThin(0xe970);
 
   /// ![arrow-circle-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-circle-down-light.svg)
-  static const arrowCircleDownLight = PhosphorIconData(0xe971);
+  static const arrowCircleDownLight = PhosphorIconDataLight(0xe971);
 
   /// ![arrow-circle-down-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-circle-down-right.svg)
-  static const arrowCircleDownRight = PhosphorIconData(0xe972);
+  static const arrowCircleDownRight = PhosphorIconDataRegular(0xe972);
 
   /// ![arrow-circle-down-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-circle-down-right-bold.svg)
-  static const arrowCircleDownRightBold = PhosphorIconData(0xe973);
+  static const arrowCircleDownRightBold = PhosphorIconDataBold(0xe973);
 
   /// ![arrow-circle-down-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-circle-down-right-fill.svg)
-  static const arrowCircleDownRightFill = PhosphorIconData(0xe974);
+  static const arrowCircleDownRightFill = PhosphorIconDataFill(0xe974);
 
   /// ![arrow-circle-down-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-circle-down-right-light.svg)
-  static const arrowCircleDownRightLight = PhosphorIconData(0xe975);
+  static const arrowCircleDownRightLight = PhosphorIconDataLight(0xe975);
 
   /// ![arrow-circle-down-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-circle-down-right-thin.svg)
-  static const arrowCircleDownRightThin = PhosphorIconData(0xe976);
+  static const arrowCircleDownRightThin = PhosphorIconDataThin(0xe976);
 
   /// ![arrow-circle-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-circle-down-thin.svg)
-  static const arrowCircleDownThin = PhosphorIconData(0xe977);
+  static const arrowCircleDownThin = PhosphorIconDataThin(0xe977);
 
   /// ![arrow-circle-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-circle-left.svg)
-  static const arrowCircleLeft = PhosphorIconData(0xe978);
+  static const arrowCircleLeft = PhosphorIconDataRegular(0xe978);
 
   /// ![arrow-circle-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-circle-left-bold.svg)
-  static const arrowCircleLeftBold = PhosphorIconData(0xe979);
+  static const arrowCircleLeftBold = PhosphorIconDataBold(0xe979);
 
   /// ![arrow-circle-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-circle-left-fill.svg)
-  static const arrowCircleLeftFill = PhosphorIconData(0xe97a);
+  static const arrowCircleLeftFill = PhosphorIconDataFill(0xe97a);
 
   /// ![arrow-circle-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-circle-left-light.svg)
-  static const arrowCircleLeftLight = PhosphorIconData(0xe97b);
+  static const arrowCircleLeftLight = PhosphorIconDataLight(0xe97b);
 
   /// ![arrow-circle-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-circle-left-thin.svg)
-  static const arrowCircleLeftThin = PhosphorIconData(0xe97c);
+  static const arrowCircleLeftThin = PhosphorIconDataThin(0xe97c);
 
   /// ![arrow-circle-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-circle-right.svg)
-  static const arrowCircleRight = PhosphorIconData(0xe97d);
+  static const arrowCircleRight = PhosphorIconDataRegular(0xe97d);
 
   /// ![arrow-circle-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-circle-right-bold.svg)
-  static const arrowCircleRightBold = PhosphorIconData(0xe97e);
+  static const arrowCircleRightBold = PhosphorIconDataBold(0xe97e);
 
   /// ![arrow-circle-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-circle-right-fill.svg)
-  static const arrowCircleRightFill = PhosphorIconData(0xe97f);
+  static const arrowCircleRightFill = PhosphorIconDataFill(0xe97f);
 
   /// ![arrow-circle-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-circle-right-light.svg)
-  static const arrowCircleRightLight = PhosphorIconData(0xe980);
+  static const arrowCircleRightLight = PhosphorIconDataLight(0xe980);
 
   /// ![arrow-circle-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-circle-right-thin.svg)
-  static const arrowCircleRightThin = PhosphorIconData(0xe981);
+  static const arrowCircleRightThin = PhosphorIconDataThin(0xe981);
 
   /// ![arrow-circle-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-circle-up.svg)
-  static const arrowCircleUp = PhosphorIconData(0xe982);
+  static const arrowCircleUp = PhosphorIconDataRegular(0xe982);
 
   /// ![arrow-circle-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-circle-up-bold.svg)
-  static const arrowCircleUpBold = PhosphorIconData(0xe983);
+  static const arrowCircleUpBold = PhosphorIconDataBold(0xe983);
 
   /// ![arrow-circle-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-circle-up-fill.svg)
-  static const arrowCircleUpFill = PhosphorIconData(0xe984);
+  static const arrowCircleUpFill = PhosphorIconDataFill(0xe984);
 
   /// ![arrow-circle-up-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-circle-up-left.svg)
-  static const arrowCircleUpLeft = PhosphorIconData(0xe985);
+  static const arrowCircleUpLeft = PhosphorIconDataRegular(0xe985);
 
   /// ![arrow-circle-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-circle-up-left-bold.svg)
-  static const arrowCircleUpLeftBold = PhosphorIconData(0xe986);
+  static const arrowCircleUpLeftBold = PhosphorIconDataBold(0xe986);
 
   /// ![arrow-circle-up-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-circle-up-left-fill.svg)
-  static const arrowCircleUpLeftFill = PhosphorIconData(0xe987);
+  static const arrowCircleUpLeftFill = PhosphorIconDataFill(0xe987);
 
   /// ![arrow-circle-up-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-circle-up-left-light.svg)
-  static const arrowCircleUpLeftLight = PhosphorIconData(0xe988);
+  static const arrowCircleUpLeftLight = PhosphorIconDataLight(0xe988);
 
   /// ![arrow-circle-up-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-circle-up-left-thin.svg)
-  static const arrowCircleUpLeftThin = PhosphorIconData(0xe989);
+  static const arrowCircleUpLeftThin = PhosphorIconDataThin(0xe989);
 
   /// ![arrow-circle-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-circle-up-light.svg)
-  static const arrowCircleUpLight = PhosphorIconData(0xe98a);
+  static const arrowCircleUpLight = PhosphorIconDataLight(0xe98a);
 
   /// ![arrow-circle-up-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-circle-up-right.svg)
-  static const arrowCircleUpRight = PhosphorIconData(0xe98b);
+  static const arrowCircleUpRight = PhosphorIconDataRegular(0xe98b);
 
   /// ![arrow-circle-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-circle-up-right-bold.svg)
-  static const arrowCircleUpRightBold = PhosphorIconData(0xe98c);
+  static const arrowCircleUpRightBold = PhosphorIconDataBold(0xe98c);
 
   /// ![arrow-circle-up-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-circle-up-right-fill.svg)
-  static const arrowCircleUpRightFill = PhosphorIconData(0xe98d);
+  static const arrowCircleUpRightFill = PhosphorIconDataFill(0xe98d);
 
   /// ![arrow-circle-up-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-circle-up-right-light.svg)
-  static const arrowCircleUpRightLight = PhosphorIconData(0xe98e);
+  static const arrowCircleUpRightLight = PhosphorIconDataLight(0xe98e);
 
   /// ![arrow-circle-up-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-circle-up-right-thin.svg)
-  static const arrowCircleUpRightThin = PhosphorIconData(0xe98f);
+  static const arrowCircleUpRightThin = PhosphorIconDataThin(0xe98f);
 
   /// ![arrow-circle-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-circle-up-thin.svg)
-  static const arrowCircleUpThin = PhosphorIconData(0xe990);
+  static const arrowCircleUpThin = PhosphorIconDataThin(0xe990);
 
   /// ![arrow-clockwise](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-clockwise.svg)
-  static const arrowClockwise = PhosphorIconData(0xe991);
+  static const arrowClockwise = PhosphorIconDataRegular(0xe991);
 
   /// ![arrow-clockwise-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-clockwise-bold.svg)
-  static const arrowClockwiseBold = PhosphorIconData(0xe992);
+  static const arrowClockwiseBold = PhosphorIconDataBold(0xe992);
 
   /// ![arrow-clockwise-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-clockwise-fill.svg)
-  static const arrowClockwiseFill = PhosphorIconData(0xe993);
+  static const arrowClockwiseFill = PhosphorIconDataFill(0xe993);
 
   /// ![arrow-clockwise-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-clockwise-light.svg)
-  static const arrowClockwiseLight = PhosphorIconData(0xe994);
+  static const arrowClockwiseLight = PhosphorIconDataLight(0xe994);
 
   /// ![arrow-clockwise-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-clockwise-thin.svg)
-  static const arrowClockwiseThin = PhosphorIconData(0xe995);
+  static const arrowClockwiseThin = PhosphorIconDataThin(0xe995);
 
   /// ![arrow-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-counter-clockwise.svg)
-  static const arrowCounterClockwise = PhosphorIconData(0xe996);
+  static const arrowCounterClockwise = PhosphorIconDataRegular(0xe996);
 
   /// ![arrow-counter-clockwise-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-counter-clockwise-bold.svg)
-  static const arrowCounterClockwiseBold = PhosphorIconData(0xe997);
+  static const arrowCounterClockwiseBold = PhosphorIconDataBold(0xe997);
 
   /// ![arrow-counter-clockwise-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-counter-clockwise-fill.svg)
-  static const arrowCounterClockwiseFill = PhosphorIconData(0xe998);
+  static const arrowCounterClockwiseFill = PhosphorIconDataFill(0xe998);
 
   /// ![arrow-counter-clockwise-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-counter-clockwise-light.svg)
-  static const arrowCounterClockwiseLight = PhosphorIconData(0xe999);
+  static const arrowCounterClockwiseLight = PhosphorIconDataLight(0xe999);
 
   /// ![arrow-counter-clockwise-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-counter-clockwise-thin.svg)
-  static const arrowCounterClockwiseThin = PhosphorIconData(0xe99a);
+  static const arrowCounterClockwiseThin = PhosphorIconDataThin(0xe99a);
 
   /// ![arrow-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-down.svg)
-  static const arrowDown = PhosphorIconData(0xe99b);
+  static const arrowDown = PhosphorIconDataRegular(0xe99b);
 
   /// ![arrow-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-down-bold.svg)
-  static const arrowDownBold = PhosphorIconData(0xe99c);
+  static const arrowDownBold = PhosphorIconDataBold(0xe99c);
 
   /// ![arrow-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-down-fill.svg)
-  static const arrowDownFill = PhosphorIconData(0xe99d);
+  static const arrowDownFill = PhosphorIconDataFill(0xe99d);
 
   /// ![arrow-down-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-down-left.svg)
-  static const arrowDownLeft = PhosphorIconData(0xe99e);
+  static const arrowDownLeft = PhosphorIconDataRegular(0xe99e);
 
   /// ![arrow-down-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-down-left-bold.svg)
-  static const arrowDownLeftBold = PhosphorIconData(0xe99f);
+  static const arrowDownLeftBold = PhosphorIconDataBold(0xe99f);
 
   /// ![arrow-down-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-down-left-fill.svg)
-  static const arrowDownLeftFill = PhosphorIconData(0xe9a0);
+  static const arrowDownLeftFill = PhosphorIconDataFill(0xe9a0);
 
   /// ![arrow-down-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-down-left-light.svg)
-  static const arrowDownLeftLight = PhosphorIconData(0xe9a1);
+  static const arrowDownLeftLight = PhosphorIconDataLight(0xe9a1);
 
   /// ![arrow-down-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-down-left-thin.svg)
-  static const arrowDownLeftThin = PhosphorIconData(0xe9a2);
+  static const arrowDownLeftThin = PhosphorIconDataThin(0xe9a2);
 
   /// ![arrow-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-down-light.svg)
-  static const arrowDownLight = PhosphorIconData(0xe9a3);
+  static const arrowDownLight = PhosphorIconDataLight(0xe9a3);
 
   /// ![arrow-down-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-down-right.svg)
-  static const arrowDownRight = PhosphorIconData(0xe9a4);
+  static const arrowDownRight = PhosphorIconDataRegular(0xe9a4);
 
   /// ![arrow-down-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-down-right-bold.svg)
-  static const arrowDownRightBold = PhosphorIconData(0xe9a5);
+  static const arrowDownRightBold = PhosphorIconDataBold(0xe9a5);
 
   /// ![arrow-down-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-down-right-fill.svg)
-  static const arrowDownRightFill = PhosphorIconData(0xe9a6);
+  static const arrowDownRightFill = PhosphorIconDataFill(0xe9a6);
 
   /// ![arrow-down-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-down-right-light.svg)
-  static const arrowDownRightLight = PhosphorIconData(0xe9a7);
+  static const arrowDownRightLight = PhosphorIconDataLight(0xe9a7);
 
   /// ![arrow-down-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-down-right-thin.svg)
-  static const arrowDownRightThin = PhosphorIconData(0xe9a8);
+  static const arrowDownRightThin = PhosphorIconDataThin(0xe9a8);
 
   /// ![arrow-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-down-thin.svg)
-  static const arrowDownThin = PhosphorIconData(0xe9a9);
+  static const arrowDownThin = PhosphorIconDataThin(0xe9a9);
 
   /// ![arrow-elbow-down-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-elbow-down-left.svg)
-  static const arrowElbowDownLeft = PhosphorIconData(0xe9aa);
+  static const arrowElbowDownLeft = PhosphorIconDataRegular(0xe9aa);
 
   /// ![arrow-elbow-down-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-elbow-down-left-bold.svg)
-  static const arrowElbowDownLeftBold = PhosphorIconData(0xe9ab);
+  static const arrowElbowDownLeftBold = PhosphorIconDataBold(0xe9ab);
 
   /// ![arrow-elbow-down-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-elbow-down-left-fill.svg)
-  static const arrowElbowDownLeftFill = PhosphorIconData(0xe9ac);
+  static const arrowElbowDownLeftFill = PhosphorIconDataFill(0xe9ac);
 
   /// ![arrow-elbow-down-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-elbow-down-left-light.svg)
-  static const arrowElbowDownLeftLight = PhosphorIconData(0xe9ad);
+  static const arrowElbowDownLeftLight = PhosphorIconDataLight(0xe9ad);
 
   /// ![arrow-elbow-down-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-elbow-down-left-thin.svg)
-  static const arrowElbowDownLeftThin = PhosphorIconData(0xe9ae);
+  static const arrowElbowDownLeftThin = PhosphorIconDataThin(0xe9ae);
 
   /// ![arrow-elbow-down-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-elbow-down-right.svg)
-  static const arrowElbowDownRight = PhosphorIconData(0xe9af);
+  static const arrowElbowDownRight = PhosphorIconDataRegular(0xe9af);
 
   /// ![arrow-elbow-down-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-elbow-down-right-bold.svg)
-  static const arrowElbowDownRightBold = PhosphorIconData(0xe9b0);
+  static const arrowElbowDownRightBold = PhosphorIconDataBold(0xe9b0);
 
   /// ![arrow-elbow-down-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-elbow-down-right-fill.svg)
-  static const arrowElbowDownRightFill = PhosphorIconData(0xe9b1);
+  static const arrowElbowDownRightFill = PhosphorIconDataFill(0xe9b1);
 
   /// ![arrow-elbow-down-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-elbow-down-right-light.svg)
-  static const arrowElbowDownRightLight = PhosphorIconData(0xe9b2);
+  static const arrowElbowDownRightLight = PhosphorIconDataLight(0xe9b2);
 
   /// ![arrow-elbow-down-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-elbow-down-right-thin.svg)
-  static const arrowElbowDownRightThin = PhosphorIconData(0xe9b3);
+  static const arrowElbowDownRightThin = PhosphorIconDataThin(0xe9b3);
 
   /// ![arrow-elbow-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-elbow-left.svg)
-  static const arrowElbowLeft = PhosphorIconData(0xe9b4);
+  static const arrowElbowLeft = PhosphorIconDataRegular(0xe9b4);
 
   /// ![arrow-elbow-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-elbow-left-bold.svg)
-  static const arrowElbowLeftBold = PhosphorIconData(0xe9b5);
+  static const arrowElbowLeftBold = PhosphorIconDataBold(0xe9b5);
 
   /// ![arrow-elbow-left-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-elbow-left-down.svg)
-  static const arrowElbowLeftDown = PhosphorIconData(0xe9b6);
+  static const arrowElbowLeftDown = PhosphorIconDataRegular(0xe9b6);
 
   /// ![arrow-elbow-left-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-elbow-left-down-bold.svg)
-  static const arrowElbowLeftDownBold = PhosphorIconData(0xe9b7);
+  static const arrowElbowLeftDownBold = PhosphorIconDataBold(0xe9b7);
 
   /// ![arrow-elbow-left-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-elbow-left-down-fill.svg)
-  static const arrowElbowLeftDownFill = PhosphorIconData(0xe9b8);
+  static const arrowElbowLeftDownFill = PhosphorIconDataFill(0xe9b8);
 
   /// ![arrow-elbow-left-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-elbow-left-down-light.svg)
-  static const arrowElbowLeftDownLight = PhosphorIconData(0xe9b9);
+  static const arrowElbowLeftDownLight = PhosphorIconDataLight(0xe9b9);
 
   /// ![arrow-elbow-left-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-elbow-left-down-thin.svg)
-  static const arrowElbowLeftDownThin = PhosphorIconData(0xe9ba);
+  static const arrowElbowLeftDownThin = PhosphorIconDataThin(0xe9ba);
 
   /// ![arrow-elbow-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-elbow-left-fill.svg)
-  static const arrowElbowLeftFill = PhosphorIconData(0xe9bb);
+  static const arrowElbowLeftFill = PhosphorIconDataFill(0xe9bb);
 
   /// ![arrow-elbow-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-elbow-left-light.svg)
-  static const arrowElbowLeftLight = PhosphorIconData(0xe9bc);
+  static const arrowElbowLeftLight = PhosphorIconDataLight(0xe9bc);
 
   /// ![arrow-elbow-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-elbow-left-thin.svg)
-  static const arrowElbowLeftThin = PhosphorIconData(0xe9bd);
+  static const arrowElbowLeftThin = PhosphorIconDataThin(0xe9bd);
 
   /// ![arrow-elbow-left-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-elbow-left-up.svg)
-  static const arrowElbowLeftUp = PhosphorIconData(0xe9be);
+  static const arrowElbowLeftUp = PhosphorIconDataRegular(0xe9be);
 
   /// ![arrow-elbow-left-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-elbow-left-up-bold.svg)
-  static const arrowElbowLeftUpBold = PhosphorIconData(0xe9bf);
+  static const arrowElbowLeftUpBold = PhosphorIconDataBold(0xe9bf);
 
   /// ![arrow-elbow-left-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-elbow-left-up-fill.svg)
-  static const arrowElbowLeftUpFill = PhosphorIconData(0xe9c0);
+  static const arrowElbowLeftUpFill = PhosphorIconDataFill(0xe9c0);
 
   /// ![arrow-elbow-left-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-elbow-left-up-light.svg)
-  static const arrowElbowLeftUpLight = PhosphorIconData(0xe9c1);
+  static const arrowElbowLeftUpLight = PhosphorIconDataLight(0xe9c1);
 
   /// ![arrow-elbow-left-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-elbow-left-up-thin.svg)
-  static const arrowElbowLeftUpThin = PhosphorIconData(0xe9c2);
+  static const arrowElbowLeftUpThin = PhosphorIconDataThin(0xe9c2);
 
   /// ![arrow-elbow-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-elbow-right.svg)
-  static const arrowElbowRight = PhosphorIconData(0xe9c3);
+  static const arrowElbowRight = PhosphorIconDataRegular(0xe9c3);
 
   /// ![arrow-elbow-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-elbow-right-bold.svg)
-  static const arrowElbowRightBold = PhosphorIconData(0xe9c4);
+  static const arrowElbowRightBold = PhosphorIconDataBold(0xe9c4);
 
   /// ![arrow-elbow-right-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-elbow-right-down.svg)
-  static const arrowElbowRightDown = PhosphorIconData(0xe9c5);
+  static const arrowElbowRightDown = PhosphorIconDataRegular(0xe9c5);
 
   /// ![arrow-elbow-right-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-elbow-right-down-bold.svg)
-  static const arrowElbowRightDownBold = PhosphorIconData(0xe9c6);
+  static const arrowElbowRightDownBold = PhosphorIconDataBold(0xe9c6);
 
   /// ![arrow-elbow-right-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-elbow-right-down-fill.svg)
-  static const arrowElbowRightDownFill = PhosphorIconData(0xe9c7);
+  static const arrowElbowRightDownFill = PhosphorIconDataFill(0xe9c7);
 
   /// ![arrow-elbow-right-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-elbow-right-down-light.svg)
-  static const arrowElbowRightDownLight = PhosphorIconData(0xe9c8);
+  static const arrowElbowRightDownLight = PhosphorIconDataLight(0xe9c8);
 
   /// ![arrow-elbow-right-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-elbow-right-down-thin.svg)
-  static const arrowElbowRightDownThin = PhosphorIconData(0xe9c9);
+  static const arrowElbowRightDownThin = PhosphorIconDataThin(0xe9c9);
 
   /// ![arrow-elbow-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-elbow-right-fill.svg)
-  static const arrowElbowRightFill = PhosphorIconData(0xe9ca);
+  static const arrowElbowRightFill = PhosphorIconDataFill(0xe9ca);
 
   /// ![arrow-elbow-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-elbow-right-light.svg)
-  static const arrowElbowRightLight = PhosphorIconData(0xe9cb);
+  static const arrowElbowRightLight = PhosphorIconDataLight(0xe9cb);
 
   /// ![arrow-elbow-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-elbow-right-thin.svg)
-  static const arrowElbowRightThin = PhosphorIconData(0xe9cc);
+  static const arrowElbowRightThin = PhosphorIconDataThin(0xe9cc);
 
   /// ![arrow-elbow-right-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-elbow-right-up.svg)
-  static const arrowElbowRightUp = PhosphorIconData(0xe9cd);
+  static const arrowElbowRightUp = PhosphorIconDataRegular(0xe9cd);
 
   /// ![arrow-elbow-right-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-elbow-right-up-bold.svg)
-  static const arrowElbowRightUpBold = PhosphorIconData(0xe9ce);
+  static const arrowElbowRightUpBold = PhosphorIconDataBold(0xe9ce);
 
   /// ![arrow-elbow-right-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-elbow-right-up-fill.svg)
-  static const arrowElbowRightUpFill = PhosphorIconData(0xe9cf);
+  static const arrowElbowRightUpFill = PhosphorIconDataFill(0xe9cf);
 
   /// ![arrow-elbow-right-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-elbow-right-up-light.svg)
-  static const arrowElbowRightUpLight = PhosphorIconData(0xe9d0);
+  static const arrowElbowRightUpLight = PhosphorIconDataLight(0xe9d0);
 
   /// ![arrow-elbow-right-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-elbow-right-up-thin.svg)
-  static const arrowElbowRightUpThin = PhosphorIconData(0xe9d1);
+  static const arrowElbowRightUpThin = PhosphorIconDataThin(0xe9d1);
 
   /// ![arrow-elbow-up-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-elbow-up-left.svg)
-  static const arrowElbowUpLeft = PhosphorIconData(0xe9d2);
+  static const arrowElbowUpLeft = PhosphorIconDataRegular(0xe9d2);
 
   /// ![arrow-elbow-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-elbow-up-left-bold.svg)
-  static const arrowElbowUpLeftBold = PhosphorIconData(0xe9d3);
+  static const arrowElbowUpLeftBold = PhosphorIconDataBold(0xe9d3);
 
   /// ![arrow-elbow-up-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-elbow-up-left-fill.svg)
-  static const arrowElbowUpLeftFill = PhosphorIconData(0xe9d4);
+  static const arrowElbowUpLeftFill = PhosphorIconDataFill(0xe9d4);
 
   /// ![arrow-elbow-up-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-elbow-up-left-light.svg)
-  static const arrowElbowUpLeftLight = PhosphorIconData(0xe9d5);
+  static const arrowElbowUpLeftLight = PhosphorIconDataLight(0xe9d5);
 
   /// ![arrow-elbow-up-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-elbow-up-left-thin.svg)
-  static const arrowElbowUpLeftThin = PhosphorIconData(0xe9d6);
+  static const arrowElbowUpLeftThin = PhosphorIconDataThin(0xe9d6);
 
   /// ![arrow-elbow-up-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-elbow-up-right.svg)
-  static const arrowElbowUpRight = PhosphorIconData(0xe9d7);
+  static const arrowElbowUpRight = PhosphorIconDataRegular(0xe9d7);
 
   /// ![arrow-elbow-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-elbow-up-right-bold.svg)
-  static const arrowElbowUpRightBold = PhosphorIconData(0xe9d8);
+  static const arrowElbowUpRightBold = PhosphorIconDataBold(0xe9d8);
 
   /// ![arrow-elbow-up-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-elbow-up-right-fill.svg)
-  static const arrowElbowUpRightFill = PhosphorIconData(0xe9d9);
+  static const arrowElbowUpRightFill = PhosphorIconDataFill(0xe9d9);
 
   /// ![arrow-elbow-up-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-elbow-up-right-light.svg)
-  static const arrowElbowUpRightLight = PhosphorIconData(0xe9da);
+  static const arrowElbowUpRightLight = PhosphorIconDataLight(0xe9da);
 
   /// ![arrow-elbow-up-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-elbow-up-right-thin.svg)
-  static const arrowElbowUpRightThin = PhosphorIconData(0xe9db);
+  static const arrowElbowUpRightThin = PhosphorIconDataThin(0xe9db);
 
   /// ![arrow-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-left.svg)
-  static const arrowLeft = PhosphorIconData(0xe9dc);
+  static const arrowLeft = PhosphorIconDataRegular(0xe9dc);
 
   /// ![arrow-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-left-bold.svg)
-  static const arrowLeftBold = PhosphorIconData(0xe9dd);
+  static const arrowLeftBold = PhosphorIconDataBold(0xe9dd);
 
   /// ![arrow-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-left-fill.svg)
-  static const arrowLeftFill = PhosphorIconData(0xe9de);
+  static const arrowLeftFill = PhosphorIconDataFill(0xe9de);
 
   /// ![arrow-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-left-light.svg)
-  static const arrowLeftLight = PhosphorIconData(0xe9df);
+  static const arrowLeftLight = PhosphorIconDataLight(0xe9df);
 
   /// ![arrow-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-left-thin.svg)
-  static const arrowLeftThin = PhosphorIconData(0xe9e0);
+  static const arrowLeftThin = PhosphorIconDataThin(0xe9e0);
 
   /// ![arrow-line-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-line-down.svg)
-  static const arrowLineDown = PhosphorIconData(0xe9e1);
+  static const arrowLineDown = PhosphorIconDataRegular(0xe9e1);
 
   /// ![arrow-line-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-line-down-bold.svg)
-  static const arrowLineDownBold = PhosphorIconData(0xe9e2);
+  static const arrowLineDownBold = PhosphorIconDataBold(0xe9e2);
 
   /// ![arrow-line-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-line-down-fill.svg)
-  static const arrowLineDownFill = PhosphorIconData(0xe9e3);
+  static const arrowLineDownFill = PhosphorIconDataFill(0xe9e3);
 
   /// ![arrow-line-down-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-line-down-left.svg)
-  static const arrowLineDownLeft = PhosphorIconData(0xe9e4);
+  static const arrowLineDownLeft = PhosphorIconDataRegular(0xe9e4);
 
   /// ![arrow-line-down-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-line-down-left-bold.svg)
-  static const arrowLineDownLeftBold = PhosphorIconData(0xe9e5);
+  static const arrowLineDownLeftBold = PhosphorIconDataBold(0xe9e5);
 
   /// ![arrow-line-down-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-line-down-left-fill.svg)
-  static const arrowLineDownLeftFill = PhosphorIconData(0xe9e6);
+  static const arrowLineDownLeftFill = PhosphorIconDataFill(0xe9e6);
 
   /// ![arrow-line-down-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-line-down-left-light.svg)
-  static const arrowLineDownLeftLight = PhosphorIconData(0xe9e7);
+  static const arrowLineDownLeftLight = PhosphorIconDataLight(0xe9e7);
 
   /// ![arrow-line-down-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-line-down-left-thin.svg)
-  static const arrowLineDownLeftThin = PhosphorIconData(0xe9e8);
+  static const arrowLineDownLeftThin = PhosphorIconDataThin(0xe9e8);
 
   /// ![arrow-line-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-line-down-light.svg)
-  static const arrowLineDownLight = PhosphorIconData(0xe9e9);
+  static const arrowLineDownLight = PhosphorIconDataLight(0xe9e9);
 
   /// ![arrow-line-down-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-line-down-right.svg)
-  static const arrowLineDownRight = PhosphorIconData(0xe9ea);
+  static const arrowLineDownRight = PhosphorIconDataRegular(0xe9ea);
 
   /// ![arrow-line-down-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-line-down-right-bold.svg)
-  static const arrowLineDownRightBold = PhosphorIconData(0xe9eb);
+  static const arrowLineDownRightBold = PhosphorIconDataBold(0xe9eb);
 
   /// ![arrow-line-down-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-line-down-right-fill.svg)
-  static const arrowLineDownRightFill = PhosphorIconData(0xe9ec);
+  static const arrowLineDownRightFill = PhosphorIconDataFill(0xe9ec);
 
   /// ![arrow-line-down-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-line-down-right-light.svg)
-  static const arrowLineDownRightLight = PhosphorIconData(0xe9ed);
+  static const arrowLineDownRightLight = PhosphorIconDataLight(0xe9ed);
 
   /// ![arrow-line-down-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-line-down-right-thin.svg)
-  static const arrowLineDownRightThin = PhosphorIconData(0xe9ee);
+  static const arrowLineDownRightThin = PhosphorIconDataThin(0xe9ee);
 
   /// ![arrow-line-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-line-down-thin.svg)
-  static const arrowLineDownThin = PhosphorIconData(0xe9ef);
+  static const arrowLineDownThin = PhosphorIconDataThin(0xe9ef);
 
   /// ![arrow-line-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-line-left.svg)
-  static const arrowLineLeft = PhosphorIconData(0xe9f0);
+  static const arrowLineLeft = PhosphorIconDataRegular(0xe9f0);
 
   /// ![arrow-line-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-line-left-bold.svg)
-  static const arrowLineLeftBold = PhosphorIconData(0xe9f1);
+  static const arrowLineLeftBold = PhosphorIconDataBold(0xe9f1);
 
   /// ![arrow-line-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-line-left-fill.svg)
-  static const arrowLineLeftFill = PhosphorIconData(0xe9f2);
+  static const arrowLineLeftFill = PhosphorIconDataFill(0xe9f2);
 
   /// ![arrow-line-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-line-left-light.svg)
-  static const arrowLineLeftLight = PhosphorIconData(0xe9f3);
+  static const arrowLineLeftLight = PhosphorIconDataLight(0xe9f3);
 
   /// ![arrow-line-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-line-left-thin.svg)
-  static const arrowLineLeftThin = PhosphorIconData(0xe9f4);
+  static const arrowLineLeftThin = PhosphorIconDataThin(0xe9f4);
 
   /// ![arrow-line-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-line-right.svg)
-  static const arrowLineRight = PhosphorIconData(0xe9f5);
+  static const arrowLineRight = PhosphorIconDataRegular(0xe9f5);
 
   /// ![arrow-line-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-line-right-bold.svg)
-  static const arrowLineRightBold = PhosphorIconData(0xe9f6);
+  static const arrowLineRightBold = PhosphorIconDataBold(0xe9f6);
 
   /// ![arrow-line-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-line-right-fill.svg)
-  static const arrowLineRightFill = PhosphorIconData(0xe9f7);
+  static const arrowLineRightFill = PhosphorIconDataFill(0xe9f7);
 
   /// ![arrow-line-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-line-right-light.svg)
-  static const arrowLineRightLight = PhosphorIconData(0xe9f8);
+  static const arrowLineRightLight = PhosphorIconDataLight(0xe9f8);
 
   /// ![arrow-line-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-line-right-thin.svg)
-  static const arrowLineRightThin = PhosphorIconData(0xe9f9);
+  static const arrowLineRightThin = PhosphorIconDataThin(0xe9f9);
 
   /// ![arrow-line-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-line-up.svg)
-  static const arrowLineUp = PhosphorIconData(0xe9fa);
+  static const arrowLineUp = PhosphorIconDataRegular(0xe9fa);
 
   /// ![arrow-line-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-line-up-bold.svg)
-  static const arrowLineUpBold = PhosphorIconData(0xe9fb);
+  static const arrowLineUpBold = PhosphorIconDataBold(0xe9fb);
 
   /// ![arrow-line-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-line-up-fill.svg)
-  static const arrowLineUpFill = PhosphorIconData(0xe9fc);
+  static const arrowLineUpFill = PhosphorIconDataFill(0xe9fc);
 
   /// ![arrow-line-up-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-line-up-left.svg)
-  static const arrowLineUpLeft = PhosphorIconData(0xe9fd);
+  static const arrowLineUpLeft = PhosphorIconDataRegular(0xe9fd);
 
   /// ![arrow-line-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-line-up-left-bold.svg)
-  static const arrowLineUpLeftBold = PhosphorIconData(0xe9fe);
+  static const arrowLineUpLeftBold = PhosphorIconDataBold(0xe9fe);
 
   /// ![arrow-line-up-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-line-up-left-fill.svg)
-  static const arrowLineUpLeftFill = PhosphorIconData(0xe9ff);
+  static const arrowLineUpLeftFill = PhosphorIconDataFill(0xe9ff);
 
   /// ![arrow-line-up-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-line-up-left-light.svg)
-  static const arrowLineUpLeftLight = PhosphorIconData(0xea00);
+  static const arrowLineUpLeftLight = PhosphorIconDataLight(0xea00);
 
   /// ![arrow-line-up-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-line-up-left-thin.svg)
-  static const arrowLineUpLeftThin = PhosphorIconData(0xea01);
+  static const arrowLineUpLeftThin = PhosphorIconDataThin(0xea01);
 
   /// ![arrow-line-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-line-up-light.svg)
-  static const arrowLineUpLight = PhosphorIconData(0xea02);
+  static const arrowLineUpLight = PhosphorIconDataLight(0xea02);
 
   /// ![arrow-line-up-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-line-up-right.svg)
-  static const arrowLineUpRight = PhosphorIconData(0xea03);
+  static const arrowLineUpRight = PhosphorIconDataRegular(0xea03);
 
   /// ![arrow-line-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-line-up-right-bold.svg)
-  static const arrowLineUpRightBold = PhosphorIconData(0xea04);
+  static const arrowLineUpRightBold = PhosphorIconDataBold(0xea04);
 
   /// ![arrow-line-up-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-line-up-right-fill.svg)
-  static const arrowLineUpRightFill = PhosphorIconData(0xea05);
+  static const arrowLineUpRightFill = PhosphorIconDataFill(0xea05);
 
   /// ![arrow-line-up-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-line-up-right-light.svg)
-  static const arrowLineUpRightLight = PhosphorIconData(0xea06);
+  static const arrowLineUpRightLight = PhosphorIconDataLight(0xea06);
 
   /// ![arrow-line-up-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-line-up-right-thin.svg)
-  static const arrowLineUpRightThin = PhosphorIconData(0xea07);
+  static const arrowLineUpRightThin = PhosphorIconDataThin(0xea07);
 
   /// ![arrow-line-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-line-up-thin.svg)
-  static const arrowLineUpThin = PhosphorIconData(0xea08);
+  static const arrowLineUpThin = PhosphorIconDataThin(0xea08);
 
   /// ![arrow-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-right.svg)
-  static const arrowRight = PhosphorIconData(0xea09);
+  static const arrowRight = PhosphorIconDataRegular(0xea09);
 
   /// ![arrow-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-right-bold.svg)
-  static const arrowRightBold = PhosphorIconData(0xea0a);
+  static const arrowRightBold = PhosphorIconDataBold(0xea0a);
 
   /// ![arrow-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-right-fill.svg)
-  static const arrowRightFill = PhosphorIconData(0xea0b);
+  static const arrowRightFill = PhosphorIconDataFill(0xea0b);
 
   /// ![arrow-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-right-light.svg)
-  static const arrowRightLight = PhosphorIconData(0xea0c);
+  static const arrowRightLight = PhosphorIconDataLight(0xea0c);
 
   /// ![arrow-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-right-thin.svg)
-  static const arrowRightThin = PhosphorIconData(0xea0d);
+  static const arrowRightThin = PhosphorIconDataThin(0xea0d);
 
   /// ![arrow-square-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-square-down.svg)
-  static const arrowSquareDown = PhosphorIconData(0xea0e);
+  static const arrowSquareDown = PhosphorIconDataRegular(0xea0e);
 
   /// ![arrow-square-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-square-down-bold.svg)
-  static const arrowSquareDownBold = PhosphorIconData(0xea0f);
+  static const arrowSquareDownBold = PhosphorIconDataBold(0xea0f);
 
   /// ![arrow-square-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-square-down-fill.svg)
-  static const arrowSquareDownFill = PhosphorIconData(0xea10);
+  static const arrowSquareDownFill = PhosphorIconDataFill(0xea10);
 
   /// ![arrow-square-down-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-square-down-left.svg)
-  static const arrowSquareDownLeft = PhosphorIconData(0xea11);
+  static const arrowSquareDownLeft = PhosphorIconDataRegular(0xea11);
 
   /// ![arrow-square-down-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-square-down-left-bold.svg)
-  static const arrowSquareDownLeftBold = PhosphorIconData(0xea12);
+  static const arrowSquareDownLeftBold = PhosphorIconDataBold(0xea12);
 
   /// ![arrow-square-down-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-square-down-left-fill.svg)
-  static const arrowSquareDownLeftFill = PhosphorIconData(0xea13);
+  static const arrowSquareDownLeftFill = PhosphorIconDataFill(0xea13);
 
   /// ![arrow-square-down-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-square-down-left-light.svg)
-  static const arrowSquareDownLeftLight = PhosphorIconData(0xea14);
+  static const arrowSquareDownLeftLight = PhosphorIconDataLight(0xea14);
 
   /// ![arrow-square-down-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-square-down-left-thin.svg)
-  static const arrowSquareDownLeftThin = PhosphorIconData(0xea15);
+  static const arrowSquareDownLeftThin = PhosphorIconDataThin(0xea15);
 
   /// ![arrow-square-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-square-down-light.svg)
-  static const arrowSquareDownLight = PhosphorIconData(0xea16);
+  static const arrowSquareDownLight = PhosphorIconDataLight(0xea16);
 
   /// ![arrow-square-down-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-square-down-right.svg)
-  static const arrowSquareDownRight = PhosphorIconData(0xea17);
+  static const arrowSquareDownRight = PhosphorIconDataRegular(0xea17);
 
   /// ![arrow-square-down-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-square-down-right-bold.svg)
-  static const arrowSquareDownRightBold = PhosphorIconData(0xea18);
+  static const arrowSquareDownRightBold = PhosphorIconDataBold(0xea18);
 
   /// ![arrow-square-down-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-square-down-right-fill.svg)
-  static const arrowSquareDownRightFill = PhosphorIconData(0xea19);
+  static const arrowSquareDownRightFill = PhosphorIconDataFill(0xea19);
 
   /// ![arrow-square-down-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-square-down-right-light.svg)
-  static const arrowSquareDownRightLight = PhosphorIconData(0xea1a);
+  static const arrowSquareDownRightLight = PhosphorIconDataLight(0xea1a);
 
   /// ![arrow-square-down-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-square-down-right-thin.svg)
-  static const arrowSquareDownRightThin = PhosphorIconData(0xea1b);
+  static const arrowSquareDownRightThin = PhosphorIconDataThin(0xea1b);
 
   /// ![arrow-square-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-square-down-thin.svg)
-  static const arrowSquareDownThin = PhosphorIconData(0xea1c);
+  static const arrowSquareDownThin = PhosphorIconDataThin(0xea1c);
 
   /// ![arrow-square-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-square-left.svg)
-  static const arrowSquareLeft = PhosphorIconData(0xea1d);
+  static const arrowSquareLeft = PhosphorIconDataRegular(0xea1d);
 
   /// ![arrow-square-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-square-left-bold.svg)
-  static const arrowSquareLeftBold = PhosphorIconData(0xea1e);
+  static const arrowSquareLeftBold = PhosphorIconDataBold(0xea1e);
 
   /// ![arrow-square-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-square-left-fill.svg)
-  static const arrowSquareLeftFill = PhosphorIconData(0xea1f);
+  static const arrowSquareLeftFill = PhosphorIconDataFill(0xea1f);
 
   /// ![arrow-square-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-square-left-light.svg)
-  static const arrowSquareLeftLight = PhosphorIconData(0xea20);
+  static const arrowSquareLeftLight = PhosphorIconDataLight(0xea20);
 
   /// ![arrow-square-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-square-left-thin.svg)
-  static const arrowSquareLeftThin = PhosphorIconData(0xea21);
+  static const arrowSquareLeftThin = PhosphorIconDataThin(0xea21);
 
   /// ![arrow-square-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-square-right.svg)
-  static const arrowSquareRight = PhosphorIconData(0xea22);
+  static const arrowSquareRight = PhosphorIconDataRegular(0xea22);
 
   /// ![arrow-square-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-square-right-bold.svg)
-  static const arrowSquareRightBold = PhosphorIconData(0xea23);
+  static const arrowSquareRightBold = PhosphorIconDataBold(0xea23);
 
   /// ![arrow-square-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-square-right-fill.svg)
-  static const arrowSquareRightFill = PhosphorIconData(0xea24);
+  static const arrowSquareRightFill = PhosphorIconDataFill(0xea24);
 
   /// ![arrow-square-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-square-right-light.svg)
-  static const arrowSquareRightLight = PhosphorIconData(0xea25);
+  static const arrowSquareRightLight = PhosphorIconDataLight(0xea25);
 
   /// ![arrow-square-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-square-right-thin.svg)
-  static const arrowSquareRightThin = PhosphorIconData(0xea26);
+  static const arrowSquareRightThin = PhosphorIconDataThin(0xea26);
 
   /// ![arrow-square-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-square-up.svg)
-  static const arrowSquareUp = PhosphorIconData(0xea27);
+  static const arrowSquareUp = PhosphorIconDataRegular(0xea27);
 
   /// ![arrow-square-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-square-up-bold.svg)
-  static const arrowSquareUpBold = PhosphorIconData(0xea28);
+  static const arrowSquareUpBold = PhosphorIconDataBold(0xea28);
 
   /// ![arrow-square-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-square-up-fill.svg)
-  static const arrowSquareUpFill = PhosphorIconData(0xea29);
+  static const arrowSquareUpFill = PhosphorIconDataFill(0xea29);
 
   /// ![arrow-square-up-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-square-up-left.svg)
-  static const arrowSquareUpLeft = PhosphorIconData(0xea2a);
+  static const arrowSquareUpLeft = PhosphorIconDataRegular(0xea2a);
 
   /// ![arrow-square-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-square-up-left-bold.svg)
-  static const arrowSquareUpLeftBold = PhosphorIconData(0xea2b);
+  static const arrowSquareUpLeftBold = PhosphorIconDataBold(0xea2b);
 
   /// ![arrow-square-up-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-square-up-left-fill.svg)
-  static const arrowSquareUpLeftFill = PhosphorIconData(0xea2c);
+  static const arrowSquareUpLeftFill = PhosphorIconDataFill(0xea2c);
 
   /// ![arrow-square-up-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-square-up-left-light.svg)
-  static const arrowSquareUpLeftLight = PhosphorIconData(0xea2d);
+  static const arrowSquareUpLeftLight = PhosphorIconDataLight(0xea2d);
 
   /// ![arrow-square-up-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-square-up-left-thin.svg)
-  static const arrowSquareUpLeftThin = PhosphorIconData(0xea2e);
+  static const arrowSquareUpLeftThin = PhosphorIconDataThin(0xea2e);
 
   /// ![arrow-square-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-square-up-light.svg)
-  static const arrowSquareUpLight = PhosphorIconData(0xea2f);
+  static const arrowSquareUpLight = PhosphorIconDataLight(0xea2f);
 
   /// ![arrow-square-up-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-square-up-right.svg)
-  static const arrowSquareUpRight = PhosphorIconData(0xea30);
+  static const arrowSquareUpRight = PhosphorIconDataRegular(0xea30);
 
   /// ![arrow-square-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-square-up-right-bold.svg)
-  static const arrowSquareUpRightBold = PhosphorIconData(0xea31);
+  static const arrowSquareUpRightBold = PhosphorIconDataBold(0xea31);
 
   /// ![arrow-square-up-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-square-up-right-fill.svg)
-  static const arrowSquareUpRightFill = PhosphorIconData(0xea32);
+  static const arrowSquareUpRightFill = PhosphorIconDataFill(0xea32);
 
   /// ![arrow-square-up-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-square-up-right-light.svg)
-  static const arrowSquareUpRightLight = PhosphorIconData(0xea33);
+  static const arrowSquareUpRightLight = PhosphorIconDataLight(0xea33);
 
   /// ![arrow-square-up-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-square-up-right-thin.svg)
-  static const arrowSquareUpRightThin = PhosphorIconData(0xea34);
+  static const arrowSquareUpRightThin = PhosphorIconDataThin(0xea34);
 
   /// ![arrow-square-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-square-up-thin.svg)
-  static const arrowSquareUpThin = PhosphorIconData(0xea35);
+  static const arrowSquareUpThin = PhosphorIconDataThin(0xea35);
 
   /// ![arrow-u-down-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-u-down-left.svg)
-  static const arrowUDownLeft = PhosphorIconData(0xea36);
+  static const arrowUDownLeft = PhosphorIconDataRegular(0xea36);
 
   /// ![arrow-u-down-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-u-down-left-bold.svg)
-  static const arrowUDownLeftBold = PhosphorIconData(0xea37);
+  static const arrowUDownLeftBold = PhosphorIconDataBold(0xea37);
 
   /// ![arrow-u-down-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-u-down-left-fill.svg)
-  static const arrowUDownLeftFill = PhosphorIconData(0xea38);
+  static const arrowUDownLeftFill = PhosphorIconDataFill(0xea38);
 
   /// ![arrow-u-down-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-u-down-left-light.svg)
-  static const arrowUDownLeftLight = PhosphorIconData(0xea39);
+  static const arrowUDownLeftLight = PhosphorIconDataLight(0xea39);
 
   /// ![arrow-u-down-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-u-down-left-thin.svg)
-  static const arrowUDownLeftThin = PhosphorIconData(0xea3a);
+  static const arrowUDownLeftThin = PhosphorIconDataThin(0xea3a);
 
   /// ![arrow-u-down-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-u-down-right.svg)
-  static const arrowUDownRight = PhosphorIconData(0xea3b);
+  static const arrowUDownRight = PhosphorIconDataRegular(0xea3b);
 
   /// ![arrow-u-down-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-u-down-right-bold.svg)
-  static const arrowUDownRightBold = PhosphorIconData(0xea3c);
+  static const arrowUDownRightBold = PhosphorIconDataBold(0xea3c);
 
   /// ![arrow-u-down-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-u-down-right-fill.svg)
-  static const arrowUDownRightFill = PhosphorIconData(0xea3d);
+  static const arrowUDownRightFill = PhosphorIconDataFill(0xea3d);
 
   /// ![arrow-u-down-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-u-down-right-light.svg)
-  static const arrowUDownRightLight = PhosphorIconData(0xea3e);
+  static const arrowUDownRightLight = PhosphorIconDataLight(0xea3e);
 
   /// ![arrow-u-down-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-u-down-right-thin.svg)
-  static const arrowUDownRightThin = PhosphorIconData(0xea3f);
+  static const arrowUDownRightThin = PhosphorIconDataThin(0xea3f);
 
   /// ![arrow-u-left-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-u-left-down.svg)
-  static const arrowULeftDown = PhosphorIconData(0xea40);
+  static const arrowULeftDown = PhosphorIconDataRegular(0xea40);
 
   /// ![arrow-u-left-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-u-left-down-bold.svg)
-  static const arrowULeftDownBold = PhosphorIconData(0xea41);
+  static const arrowULeftDownBold = PhosphorIconDataBold(0xea41);
 
   /// ![arrow-u-left-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-u-left-down-fill.svg)
-  static const arrowULeftDownFill = PhosphorIconData(0xea42);
+  static const arrowULeftDownFill = PhosphorIconDataFill(0xea42);
 
   /// ![arrow-u-left-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-u-left-down-light.svg)
-  static const arrowULeftDownLight = PhosphorIconData(0xea43);
+  static const arrowULeftDownLight = PhosphorIconDataLight(0xea43);
 
   /// ![arrow-u-left-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-u-left-down-thin.svg)
-  static const arrowULeftDownThin = PhosphorIconData(0xea44);
+  static const arrowULeftDownThin = PhosphorIconDataThin(0xea44);
 
   /// ![arrow-u-left-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-u-left-up.svg)
-  static const arrowULeftUp = PhosphorIconData(0xea45);
+  static const arrowULeftUp = PhosphorIconDataRegular(0xea45);
 
   /// ![arrow-u-left-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-u-left-up-bold.svg)
-  static const arrowULeftUpBold = PhosphorIconData(0xea46);
+  static const arrowULeftUpBold = PhosphorIconDataBold(0xea46);
 
   /// ![arrow-u-left-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-u-left-up-fill.svg)
-  static const arrowULeftUpFill = PhosphorIconData(0xea47);
+  static const arrowULeftUpFill = PhosphorIconDataFill(0xea47);
 
   /// ![arrow-u-left-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-u-left-up-light.svg)
-  static const arrowULeftUpLight = PhosphorIconData(0xea48);
+  static const arrowULeftUpLight = PhosphorIconDataLight(0xea48);
 
   /// ![arrow-u-left-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-u-left-up-thin.svg)
-  static const arrowULeftUpThin = PhosphorIconData(0xea49);
+  static const arrowULeftUpThin = PhosphorIconDataThin(0xea49);
 
   /// ![arrow-u-right-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-u-right-down.svg)
-  static const arrowURightDown = PhosphorIconData(0xea4a);
+  static const arrowURightDown = PhosphorIconDataRegular(0xea4a);
 
   /// ![arrow-u-right-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-u-right-down-bold.svg)
-  static const arrowURightDownBold = PhosphorIconData(0xea4b);
+  static const arrowURightDownBold = PhosphorIconDataBold(0xea4b);
 
   /// ![arrow-u-right-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-u-right-down-fill.svg)
-  static const arrowURightDownFill = PhosphorIconData(0xea4c);
+  static const arrowURightDownFill = PhosphorIconDataFill(0xea4c);
 
   /// ![arrow-u-right-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-u-right-down-light.svg)
-  static const arrowURightDownLight = PhosphorIconData(0xea4d);
+  static const arrowURightDownLight = PhosphorIconDataLight(0xea4d);
 
   /// ![arrow-u-right-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-u-right-down-thin.svg)
-  static const arrowURightDownThin = PhosphorIconData(0xea4e);
+  static const arrowURightDownThin = PhosphorIconDataThin(0xea4e);
 
   /// ![arrow-u-right-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-u-right-up.svg)
-  static const arrowURightUp = PhosphorIconData(0xea4f);
+  static const arrowURightUp = PhosphorIconDataRegular(0xea4f);
 
   /// ![arrow-u-right-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-u-right-up-bold.svg)
-  static const arrowURightUpBold = PhosphorIconData(0xea50);
+  static const arrowURightUpBold = PhosphorIconDataBold(0xea50);
 
   /// ![arrow-u-right-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-u-right-up-fill.svg)
-  static const arrowURightUpFill = PhosphorIconData(0xea51);
+  static const arrowURightUpFill = PhosphorIconDataFill(0xea51);
 
   /// ![arrow-u-right-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-u-right-up-light.svg)
-  static const arrowURightUpLight = PhosphorIconData(0xea52);
+  static const arrowURightUpLight = PhosphorIconDataLight(0xea52);
 
   /// ![arrow-u-right-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-u-right-up-thin.svg)
-  static const arrowURightUpThin = PhosphorIconData(0xea53);
+  static const arrowURightUpThin = PhosphorIconDataThin(0xea53);
 
   /// ![arrow-u-up-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-u-up-left.svg)
-  static const arrowUUpLeft = PhosphorIconData(0xea54);
+  static const arrowUUpLeft = PhosphorIconDataRegular(0xea54);
 
   /// ![arrow-u-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-u-up-left-bold.svg)
-  static const arrowUUpLeftBold = PhosphorIconData(0xea55);
+  static const arrowUUpLeftBold = PhosphorIconDataBold(0xea55);
 
   /// ![arrow-u-up-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-u-up-left-fill.svg)
-  static const arrowUUpLeftFill = PhosphorIconData(0xea56);
+  static const arrowUUpLeftFill = PhosphorIconDataFill(0xea56);
 
   /// ![arrow-u-up-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-u-up-left-light.svg)
-  static const arrowUUpLeftLight = PhosphorIconData(0xea57);
+  static const arrowUUpLeftLight = PhosphorIconDataLight(0xea57);
 
   /// ![arrow-u-up-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-u-up-left-thin.svg)
-  static const arrowUUpLeftThin = PhosphorIconData(0xea58);
+  static const arrowUUpLeftThin = PhosphorIconDataThin(0xea58);
 
   /// ![arrow-u-up-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-u-up-right.svg)
-  static const arrowUUpRight = PhosphorIconData(0xea59);
+  static const arrowUUpRight = PhosphorIconDataRegular(0xea59);
 
   /// ![arrow-u-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-u-up-right-bold.svg)
-  static const arrowUUpRightBold = PhosphorIconData(0xea5a);
+  static const arrowUUpRightBold = PhosphorIconDataBold(0xea5a);
 
   /// ![arrow-u-up-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-u-up-right-fill.svg)
-  static const arrowUUpRightFill = PhosphorIconData(0xea5b);
+  static const arrowUUpRightFill = PhosphorIconDataFill(0xea5b);
 
   /// ![arrow-u-up-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-u-up-right-light.svg)
-  static const arrowUUpRightLight = PhosphorIconData(0xea5c);
+  static const arrowUUpRightLight = PhosphorIconDataLight(0xea5c);
 
   /// ![arrow-u-up-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-u-up-right-thin.svg)
-  static const arrowUUpRightThin = PhosphorIconData(0xea5d);
+  static const arrowUUpRightThin = PhosphorIconDataThin(0xea5d);
 
   /// ![arrow-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-up.svg)
-  static const arrowUp = PhosphorIconData(0xea5e);
+  static const arrowUp = PhosphorIconDataRegular(0xea5e);
 
   /// ![arrow-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-up-bold.svg)
-  static const arrowUpBold = PhosphorIconData(0xea5f);
+  static const arrowUpBold = PhosphorIconDataBold(0xea5f);
 
   /// ![arrow-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-up-fill.svg)
-  static const arrowUpFill = PhosphorIconData(0xea60);
+  static const arrowUpFill = PhosphorIconDataFill(0xea60);
 
   /// ![arrow-up-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-up-left.svg)
-  static const arrowUpLeft = PhosphorIconData(0xea61);
+  static const arrowUpLeft = PhosphorIconDataRegular(0xea61);
 
   /// ![arrow-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-up-left-bold.svg)
-  static const arrowUpLeftBold = PhosphorIconData(0xea62);
+  static const arrowUpLeftBold = PhosphorIconDataBold(0xea62);
 
   /// ![arrow-up-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-up-left-fill.svg)
-  static const arrowUpLeftFill = PhosphorIconData(0xea63);
+  static const arrowUpLeftFill = PhosphorIconDataFill(0xea63);
 
   /// ![arrow-up-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-up-left-light.svg)
-  static const arrowUpLeftLight = PhosphorIconData(0xea64);
+  static const arrowUpLeftLight = PhosphorIconDataLight(0xea64);
 
   /// ![arrow-up-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-up-left-thin.svg)
-  static const arrowUpLeftThin = PhosphorIconData(0xea65);
+  static const arrowUpLeftThin = PhosphorIconDataThin(0xea65);
 
   /// ![arrow-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-up-light.svg)
-  static const arrowUpLight = PhosphorIconData(0xea66);
+  static const arrowUpLight = PhosphorIconDataLight(0xea66);
 
   /// ![arrow-up-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrow-up-right.svg)
-  static const arrowUpRight = PhosphorIconData(0xea67);
+  static const arrowUpRight = PhosphorIconDataRegular(0xea67);
 
   /// ![arrow-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrow-up-right-bold.svg)
-  static const arrowUpRightBold = PhosphorIconData(0xea68);
+  static const arrowUpRightBold = PhosphorIconDataBold(0xea68);
 
   /// ![arrow-up-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrow-up-right-fill.svg)
-  static const arrowUpRightFill = PhosphorIconData(0xea69);
+  static const arrowUpRightFill = PhosphorIconDataFill(0xea69);
 
   /// ![arrow-up-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrow-up-right-light.svg)
-  static const arrowUpRightLight = PhosphorIconData(0xea6a);
+  static const arrowUpRightLight = PhosphorIconDataLight(0xea6a);
 
   /// ![arrow-up-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-up-right-thin.svg)
-  static const arrowUpRightThin = PhosphorIconData(0xea6b);
+  static const arrowUpRightThin = PhosphorIconDataThin(0xea6b);
 
   /// ![arrow-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrow-up-thin.svg)
-  static const arrowUpThin = PhosphorIconData(0xea6c);
+  static const arrowUpThin = PhosphorIconDataThin(0xea6c);
 
   /// ![arrows-clockwise](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrows-clockwise.svg)
-  static const arrowsClockwise = PhosphorIconData(0xea6d);
+  static const arrowsClockwise = PhosphorIconDataRegular(0xea6d);
 
   /// ![arrows-clockwise-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrows-clockwise-bold.svg)
-  static const arrowsClockwiseBold = PhosphorIconData(0xea6e);
+  static const arrowsClockwiseBold = PhosphorIconDataBold(0xea6e);
 
   /// ![arrows-clockwise-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrows-clockwise-fill.svg)
-  static const arrowsClockwiseFill = PhosphorIconData(0xea6f);
+  static const arrowsClockwiseFill = PhosphorIconDataFill(0xea6f);
 
   /// ![arrows-clockwise-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrows-clockwise-light.svg)
-  static const arrowsClockwiseLight = PhosphorIconData(0xea70);
+  static const arrowsClockwiseLight = PhosphorIconDataLight(0xea70);
 
   /// ![arrows-clockwise-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrows-clockwise-thin.svg)
-  static const arrowsClockwiseThin = PhosphorIconData(0xea71);
+  static const arrowsClockwiseThin = PhosphorIconDataThin(0xea71);
 
   /// ![arrows-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrows-counter-clockwise.svg)
-  static const arrowsCounterClockwise = PhosphorIconData(0xea72);
+  static const arrowsCounterClockwise = PhosphorIconDataRegular(0xea72);
 
   /// ![arrows-counter-clockwise-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrows-counter-clockwise-bold.svg)
-  static const arrowsCounterClockwiseBold = PhosphorIconData(0xea73);
+  static const arrowsCounterClockwiseBold = PhosphorIconDataBold(0xea73);
 
   /// ![arrows-counter-clockwise-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrows-counter-clockwise-fill.svg)
-  static const arrowsCounterClockwiseFill = PhosphorIconData(0xea74);
+  static const arrowsCounterClockwiseFill = PhosphorIconDataFill(0xea74);
 
   /// ![arrows-counter-clockwise-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrows-counter-clockwise-light.svg)
-  static const arrowsCounterClockwiseLight = PhosphorIconData(0xea75);
+  static const arrowsCounterClockwiseLight = PhosphorIconDataLight(0xea75);
 
   /// ![arrows-counter-clockwise-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrows-counter-clockwise-thin.svg)
-  static const arrowsCounterClockwiseThin = PhosphorIconData(0xea76);
+  static const arrowsCounterClockwiseThin = PhosphorIconDataThin(0xea76);
 
   /// ![arrows-down-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrows-down-up.svg)
-  static const arrowsDownUp = PhosphorIconData(0xea77);
+  static const arrowsDownUp = PhosphorIconDataRegular(0xea77);
 
   /// ![arrows-down-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrows-down-up-bold.svg)
-  static const arrowsDownUpBold = PhosphorIconData(0xea78);
+  static const arrowsDownUpBold = PhosphorIconDataBold(0xea78);
 
   /// ![arrows-down-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrows-down-up-fill.svg)
-  static const arrowsDownUpFill = PhosphorIconData(0xea79);
+  static const arrowsDownUpFill = PhosphorIconDataFill(0xea79);
 
   /// ![arrows-down-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrows-down-up-light.svg)
-  static const arrowsDownUpLight = PhosphorIconData(0xea7a);
+  static const arrowsDownUpLight = PhosphorIconDataLight(0xea7a);
 
   /// ![arrows-down-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrows-down-up-thin.svg)
-  static const arrowsDownUpThin = PhosphorIconData(0xea7b);
+  static const arrowsDownUpThin = PhosphorIconDataThin(0xea7b);
 
   /// ![arrows-in](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrows-in.svg)
-  static const arrowsIn = PhosphorIconData(0xea7c);
+  static const arrowsIn = PhosphorIconDataRegular(0xea7c);
 
   /// ![arrows-in-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrows-in-bold.svg)
-  static const arrowsInBold = PhosphorIconData(0xea7d);
+  static const arrowsInBold = PhosphorIconDataBold(0xea7d);
 
   /// ![arrows-in-cardinal](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrows-in-cardinal.svg)
-  static const arrowsInCardinal = PhosphorIconData(0xea7e);
+  static const arrowsInCardinal = PhosphorIconDataRegular(0xea7e);
 
   /// ![arrows-in-cardinal-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrows-in-cardinal-bold.svg)
-  static const arrowsInCardinalBold = PhosphorIconData(0xea7f);
+  static const arrowsInCardinalBold = PhosphorIconDataBold(0xea7f);
 
   /// ![arrows-in-cardinal-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrows-in-cardinal-fill.svg)
-  static const arrowsInCardinalFill = PhosphorIconData(0xea80);
+  static const arrowsInCardinalFill = PhosphorIconDataFill(0xea80);
 
   /// ![arrows-in-cardinal-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrows-in-cardinal-light.svg)
-  static const arrowsInCardinalLight = PhosphorIconData(0xea81);
+  static const arrowsInCardinalLight = PhosphorIconDataLight(0xea81);
 
   /// ![arrows-in-cardinal-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrows-in-cardinal-thin.svg)
-  static const arrowsInCardinalThin = PhosphorIconData(0xea82);
+  static const arrowsInCardinalThin = PhosphorIconDataThin(0xea82);
 
   /// ![arrows-in-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrows-in-fill.svg)
-  static const arrowsInFill = PhosphorIconData(0xea83);
+  static const arrowsInFill = PhosphorIconDataFill(0xea83);
 
   /// ![arrows-in-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrows-in-light.svg)
-  static const arrowsInLight = PhosphorIconData(0xea84);
+  static const arrowsInLight = PhosphorIconDataLight(0xea84);
 
   /// ![arrows-in-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrows-in-simple.svg)
-  static const arrowsInSimple = PhosphorIconData(0xea85);
+  static const arrowsInSimple = PhosphorIconDataRegular(0xea85);
 
   /// ![arrows-in-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrows-in-simple-bold.svg)
-  static const arrowsInSimpleBold = PhosphorIconData(0xea86);
+  static const arrowsInSimpleBold = PhosphorIconDataBold(0xea86);
 
   /// ![arrows-in-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrows-in-simple-fill.svg)
-  static const arrowsInSimpleFill = PhosphorIconData(0xea87);
+  static const arrowsInSimpleFill = PhosphorIconDataFill(0xea87);
 
   /// ![arrows-in-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrows-in-simple-light.svg)
-  static const arrowsInSimpleLight = PhosphorIconData(0xea88);
+  static const arrowsInSimpleLight = PhosphorIconDataLight(0xea88);
 
   /// ![arrows-in-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrows-in-simple-thin.svg)
-  static const arrowsInSimpleThin = PhosphorIconData(0xea89);
+  static const arrowsInSimpleThin = PhosphorIconDataThin(0xea89);
 
   /// ![arrows-in-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrows-in-thin.svg)
-  static const arrowsInThin = PhosphorIconData(0xea8a);
+  static const arrowsInThin = PhosphorIconDataThin(0xea8a);
 
   /// ![arrows-left-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrows-left-right.svg)
-  static const arrowsLeftRight = PhosphorIconData(0xea8b);
+  static const arrowsLeftRight = PhosphorIconDataRegular(0xea8b);
 
   /// ![arrows-left-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrows-left-right-bold.svg)
-  static const arrowsLeftRightBold = PhosphorIconData(0xea8c);
+  static const arrowsLeftRightBold = PhosphorIconDataBold(0xea8c);
 
   /// ![arrows-left-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrows-left-right-fill.svg)
-  static const arrowsLeftRightFill = PhosphorIconData(0xea8d);
+  static const arrowsLeftRightFill = PhosphorIconDataFill(0xea8d);
 
   /// ![arrows-left-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrows-left-right-light.svg)
-  static const arrowsLeftRightLight = PhosphorIconData(0xea8e);
+  static const arrowsLeftRightLight = PhosphorIconDataLight(0xea8e);
 
   /// ![arrows-left-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrows-left-right-thin.svg)
-  static const arrowsLeftRightThin = PhosphorIconData(0xea8f);
+  static const arrowsLeftRightThin = PhosphorIconDataThin(0xea8f);
 
   /// ![arrows-out](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrows-out.svg)
-  static const arrowsOut = PhosphorIconData(0xea90);
+  static const arrowsOut = PhosphorIconDataRegular(0xea90);
 
   /// ![arrows-out-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrows-out-bold.svg)
-  static const arrowsOutBold = PhosphorIconData(0xea91);
+  static const arrowsOutBold = PhosphorIconDataBold(0xea91);
 
   /// ![arrows-out-cardinal](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrows-out-cardinal.svg)
-  static const arrowsOutCardinal = PhosphorIconData(0xea92);
+  static const arrowsOutCardinal = PhosphorIconDataRegular(0xea92);
 
   /// ![arrows-out-cardinal-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrows-out-cardinal-bold.svg)
-  static const arrowsOutCardinalBold = PhosphorIconData(0xea93);
+  static const arrowsOutCardinalBold = PhosphorIconDataBold(0xea93);
 
   /// ![arrows-out-cardinal-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrows-out-cardinal-fill.svg)
-  static const arrowsOutCardinalFill = PhosphorIconData(0xea94);
+  static const arrowsOutCardinalFill = PhosphorIconDataFill(0xea94);
 
   /// ![arrows-out-cardinal-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrows-out-cardinal-light.svg)
-  static const arrowsOutCardinalLight = PhosphorIconData(0xea95);
+  static const arrowsOutCardinalLight = PhosphorIconDataLight(0xea95);
 
   /// ![arrows-out-cardinal-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrows-out-cardinal-thin.svg)
-  static const arrowsOutCardinalThin = PhosphorIconData(0xea96);
+  static const arrowsOutCardinalThin = PhosphorIconDataThin(0xea96);
 
   /// ![arrows-out-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrows-out-fill.svg)
-  static const arrowsOutFill = PhosphorIconData(0xea97);
+  static const arrowsOutFill = PhosphorIconDataFill(0xea97);
 
   /// ![arrows-out-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrows-out-light.svg)
-  static const arrowsOutLight = PhosphorIconData(0xea98);
+  static const arrowsOutLight = PhosphorIconDataLight(0xea98);
 
   /// ![arrows-out-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/arrows-out-simple.svg)
-  static const arrowsOutSimple = PhosphorIconData(0xea99);
+  static const arrowsOutSimple = PhosphorIconDataRegular(0xea99);
 
   /// ![arrows-out-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/arrows-out-simple-bold.svg)
-  static const arrowsOutSimpleBold = PhosphorIconData(0xea9a);
+  static const arrowsOutSimpleBold = PhosphorIconDataBold(0xea9a);
 
   /// ![arrows-out-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/arrows-out-simple-fill.svg)
-  static const arrowsOutSimpleFill = PhosphorIconData(0xea9b);
+  static const arrowsOutSimpleFill = PhosphorIconDataFill(0xea9b);
 
   /// ![arrows-out-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/arrows-out-simple-light.svg)
-  static const arrowsOutSimpleLight = PhosphorIconData(0xea9c);
+  static const arrowsOutSimpleLight = PhosphorIconDataLight(0xea9c);
 
   /// ![arrows-out-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrows-out-simple-thin.svg)
-  static const arrowsOutSimpleThin = PhosphorIconData(0xea9d);
+  static const arrowsOutSimpleThin = PhosphorIconDataThin(0xea9d);
 
   /// ![arrows-out-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/arrows-out-thin.svg)
-  static const arrowsOutThin = PhosphorIconData(0xea9e);
+  static const arrowsOutThin = PhosphorIconDataThin(0xea9e);
 
   /// ![article](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/article.svg)
-  static const article = PhosphorIconData(0xea9f);
+  static const article = PhosphorIconDataRegular(0xea9f);
 
   /// ![article-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/article-bold.svg)
-  static const articleBold = PhosphorIconData(0xeaa0);
+  static const articleBold = PhosphorIconDataBold(0xeaa0);
 
   /// ![article-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/article-fill.svg)
-  static const articleFill = PhosphorIconData(0xeaa1);
+  static const articleFill = PhosphorIconDataFill(0xeaa1);
 
   /// ![article-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/article-light.svg)
-  static const articleLight = PhosphorIconData(0xeaa2);
+  static const articleLight = PhosphorIconDataLight(0xeaa2);
 
   /// ![article-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/article-thin.svg)
-  static const articleThin = PhosphorIconData(0xeaa3);
+  static const articleThin = PhosphorIconDataThin(0xeaa3);
 
   /// ![asterisk](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/asterisk.svg)
-  static const asterisk = PhosphorIconData(0xeaa4);
+  static const asterisk = PhosphorIconDataRegular(0xeaa4);
 
   /// ![asterisk-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/asterisk-bold.svg)
-  static const asteriskBold = PhosphorIconData(0xeaa5);
+  static const asteriskBold = PhosphorIconDataBold(0xeaa5);
 
   /// ![asterisk-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/asterisk-fill.svg)
-  static const asteriskFill = PhosphorIconData(0xeaa6);
+  static const asteriskFill = PhosphorIconDataFill(0xeaa6);
 
   /// ![asterisk-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/asterisk-light.svg)
-  static const asteriskLight = PhosphorIconData(0xeaa7);
+  static const asteriskLight = PhosphorIconDataLight(0xeaa7);
 
   /// ![asterisk-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/asterisk-thin.svg)
-  static const asteriskThin = PhosphorIconData(0xeaa8);
+  static const asteriskThin = PhosphorIconDataThin(0xeaa8);
 
   /// ![at](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/at.svg)
-  static const at = PhosphorIconData(0xeaa9);
+  static const at = PhosphorIconDataRegular(0xeaa9);
 
   /// ![at-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/at-bold.svg)
-  static const atBold = PhosphorIconData(0xeaaa);
+  static const atBold = PhosphorIconDataBold(0xeaaa);
 
   /// ![at-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/at-fill.svg)
-  static const atFill = PhosphorIconData(0xeaab);
+  static const atFill = PhosphorIconDataFill(0xeaab);
 
   /// ![at-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/at-light.svg)
-  static const atLight = PhosphorIconData(0xeaac);
+  static const atLight = PhosphorIconDataLight(0xeaac);
 
   /// ![at-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/at-thin.svg)
-  static const atThin = PhosphorIconData(0xeaad);
+  static const atThin = PhosphorIconDataThin(0xeaad);
 
   /// ![backspace](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/backspace.svg)
-  static const backspace = PhosphorIconData(0xeaae);
+  static const backspace = PhosphorIconDataRegular(0xeaae);
 
   /// ![backspace-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/backspace-bold.svg)
-  static const backspaceBold = PhosphorIconData(0xeaaf);
+  static const backspaceBold = PhosphorIconDataBold(0xeaaf);
 
   /// ![backspace-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/backspace-fill.svg)
-  static const backspaceFill = PhosphorIconData(0xeab0);
+  static const backspaceFill = PhosphorIconDataFill(0xeab0);
 
   /// ![backspace-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/backspace-light.svg)
-  static const backspaceLight = PhosphorIconData(0xeab1);
+  static const backspaceLight = PhosphorIconDataLight(0xeab1);
 
   /// ![backspace-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/backspace-thin.svg)
-  static const backspaceThin = PhosphorIconData(0xeab2);
+  static const backspaceThin = PhosphorIconDataThin(0xeab2);
 
   /// ![bag](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bag.svg)
-  static const bag = PhosphorIconData(0xeab3);
+  static const bag = PhosphorIconDataRegular(0xeab3);
 
   /// ![bag-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bag-bold.svg)
-  static const bagBold = PhosphorIconData(0xeab4);
+  static const bagBold = PhosphorIconDataBold(0xeab4);
 
   /// ![bag-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bag-fill.svg)
-  static const bagFill = PhosphorIconData(0xeab5);
+  static const bagFill = PhosphorIconDataFill(0xeab5);
 
   /// ![bag-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bag-light.svg)
-  static const bagLight = PhosphorIconData(0xeab6);
+  static const bagLight = PhosphorIconDataLight(0xeab6);
 
   /// ![bag-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bag-thin.svg)
-  static const bagThin = PhosphorIconData(0xeab7);
+  static const bagThin = PhosphorIconDataThin(0xeab7);
 
   /// ![bandaids](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bandaids.svg)
-  static const bandaids = PhosphorIconData(0xeab8);
+  static const bandaids = PhosphorIconDataRegular(0xeab8);
 
   /// ![bandaids-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bandaids-bold.svg)
-  static const bandaidsBold = PhosphorIconData(0xeab9);
+  static const bandaidsBold = PhosphorIconDataBold(0xeab9);
 
   /// ![bandaids-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bandaids-fill.svg)
-  static const bandaidsFill = PhosphorIconData(0xeaba);
+  static const bandaidsFill = PhosphorIconDataFill(0xeaba);
 
   /// ![bandaids-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bandaids-light.svg)
-  static const bandaidsLight = PhosphorIconData(0xeabb);
+  static const bandaidsLight = PhosphorIconDataLight(0xeabb);
 
   /// ![bandaids-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bandaids-thin.svg)
-  static const bandaidsThin = PhosphorIconData(0xeabc);
+  static const bandaidsThin = PhosphorIconDataThin(0xeabc);
 
   /// ![bank](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bank.svg)
-  static const bank = PhosphorIconData(0xeabd);
+  static const bank = PhosphorIconDataRegular(0xeabd);
 
   /// ![bank-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bank-bold.svg)
-  static const bankBold = PhosphorIconData(0xeabe);
+  static const bankBold = PhosphorIconDataBold(0xeabe);
 
   /// ![bank-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bank-fill.svg)
-  static const bankFill = PhosphorIconData(0xeabf);
+  static const bankFill = PhosphorIconDataFill(0xeabf);
 
   /// ![bank-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bank-light.svg)
-  static const bankLight = PhosphorIconData(0xeac0);
+  static const bankLight = PhosphorIconDataLight(0xeac0);
 
   /// ![bank-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bank-thin.svg)
-  static const bankThin = PhosphorIconData(0xeac1);
+  static const bankThin = PhosphorIconDataThin(0xeac1);
 
   /// ![barbell](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/barbell.svg)
-  static const barbell = PhosphorIconData(0xeac2);
+  static const barbell = PhosphorIconDataRegular(0xeac2);
 
   /// ![barbell-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/barbell-bold.svg)
-  static const barbellBold = PhosphorIconData(0xeac3);
+  static const barbellBold = PhosphorIconDataBold(0xeac3);
 
   /// ![barbell-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/barbell-fill.svg)
-  static const barbellFill = PhosphorIconData(0xeac4);
+  static const barbellFill = PhosphorIconDataFill(0xeac4);
 
   /// ![barbell-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/barbell-light.svg)
-  static const barbellLight = PhosphorIconData(0xeac5);
+  static const barbellLight = PhosphorIconDataLight(0xeac5);
 
   /// ![barbell-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/barbell-thin.svg)
-  static const barbellThin = PhosphorIconData(0xeac6);
+  static const barbellThin = PhosphorIconDataThin(0xeac6);
 
   /// ![barcode](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/barcode.svg)
-  static const barcode = PhosphorIconData(0xeac7);
+  static const barcode = PhosphorIconDataRegular(0xeac7);
 
   /// ![barcode-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/barcode-bold.svg)
-  static const barcodeBold = PhosphorIconData(0xeac8);
+  static const barcodeBold = PhosphorIconDataBold(0xeac8);
 
   /// ![barcode-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/barcode-fill.svg)
-  static const barcodeFill = PhosphorIconData(0xeac9);
+  static const barcodeFill = PhosphorIconDataFill(0xeac9);
 
   /// ![barcode-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/barcode-light.svg)
-  static const barcodeLight = PhosphorIconData(0xeaca);
+  static const barcodeLight = PhosphorIconDataLight(0xeaca);
 
   /// ![barcode-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/barcode-thin.svg)
-  static const barcodeThin = PhosphorIconData(0xeacb);
+  static const barcodeThin = PhosphorIconDataThin(0xeacb);
 
   /// ![battery-charging](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/battery-charging.svg)
-  static const batteryCharging = PhosphorIconData(0xeacc);
+  static const batteryCharging = PhosphorIconDataRegular(0xeacc);
 
   /// ![battery-charging-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/battery-charging-bold.svg)
-  static const batteryChargingBold = PhosphorIconData(0xeacd);
+  static const batteryChargingBold = PhosphorIconDataBold(0xeacd);
 
   /// ![battery-charging-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/battery-charging-fill.svg)
-  static const batteryChargingFill = PhosphorIconData(0xeace);
+  static const batteryChargingFill = PhosphorIconDataFill(0xeace);
 
   /// ![battery-charging-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/battery-charging-light.svg)
-  static const batteryChargingLight = PhosphorIconData(0xeacf);
+  static const batteryChargingLight = PhosphorIconDataLight(0xeacf);
 
   /// ![battery-charging-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/battery-charging-thin.svg)
-  static const batteryChargingThin = PhosphorIconData(0xead0);
+  static const batteryChargingThin = PhosphorIconDataThin(0xead0);
 
   /// ![battery-charging-vertical](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/battery-charging-vertical.svg)
-  static const batteryChargingVertical = PhosphorIconData(0xead1);
+  static const batteryChargingVertical = PhosphorIconDataRegular(0xead1);
 
   /// ![battery-charging-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/battery-charging-vertical-bold.svg)
-  static const batteryChargingVerticalBold = PhosphorIconData(0xead2);
+  static const batteryChargingVerticalBold = PhosphorIconDataBold(0xead2);
 
   /// ![battery-charging-vertical-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/battery-charging-vertical-fill.svg)
-  static const batteryChargingVerticalFill = PhosphorIconData(0xead3);
+  static const batteryChargingVerticalFill = PhosphorIconDataFill(0xead3);
 
   /// ![battery-charging-vertical-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/battery-charging-vertical-light.svg)
-  static const batteryChargingVerticalLight = PhosphorIconData(0xead4);
+  static const batteryChargingVerticalLight = PhosphorIconDataLight(0xead4);
 
   /// ![battery-charging-vertical-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/battery-charging-vertical-thin.svg)
-  static const batteryChargingVerticalThin = PhosphorIconData(0xead5);
+  static const batteryChargingVerticalThin = PhosphorIconDataThin(0xead5);
 
   /// ![battery-empty](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/battery-empty.svg)
-  static const batteryEmpty = PhosphorIconData(0xead6);
+  static const batteryEmpty = PhosphorIconDataRegular(0xead6);
 
   /// ![battery-empty-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/battery-empty-bold.svg)
-  static const batteryEmptyBold = PhosphorIconData(0xead7);
+  static const batteryEmptyBold = PhosphorIconDataBold(0xead7);
 
   /// ![battery-empty-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/battery-empty-fill.svg)
-  static const batteryEmptyFill = PhosphorIconData(0xead8);
+  static const batteryEmptyFill = PhosphorIconDataFill(0xead8);
 
   /// ![battery-empty-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/battery-empty-light.svg)
-  static const batteryEmptyLight = PhosphorIconData(0xead9);
+  static const batteryEmptyLight = PhosphorIconDataLight(0xead9);
 
   /// ![battery-empty-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/battery-empty-thin.svg)
-  static const batteryEmptyThin = PhosphorIconData(0xeada);
+  static const batteryEmptyThin = PhosphorIconDataThin(0xeada);
 
   /// ![battery-full](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/battery-full.svg)
-  static const batteryFull = PhosphorIconData(0xeadb);
+  static const batteryFull = PhosphorIconDataRegular(0xeadb);
 
   /// ![battery-full-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/battery-full-bold.svg)
-  static const batteryFullBold = PhosphorIconData(0xeadc);
+  static const batteryFullBold = PhosphorIconDataBold(0xeadc);
 
   /// ![battery-full-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/battery-full-fill.svg)
-  static const batteryFullFill = PhosphorIconData(0xeadd);
+  static const batteryFullFill = PhosphorIconDataFill(0xeadd);
 
   /// ![battery-full-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/battery-full-light.svg)
-  static const batteryFullLight = PhosphorIconData(0xeade);
+  static const batteryFullLight = PhosphorIconDataLight(0xeade);
 
   /// ![battery-full-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/battery-full-thin.svg)
-  static const batteryFullThin = PhosphorIconData(0xeadf);
+  static const batteryFullThin = PhosphorIconDataThin(0xeadf);
 
   /// ![battery-high](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/battery-high.svg)
-  static const batteryHigh = PhosphorIconData(0xeae0);
+  static const batteryHigh = PhosphorIconDataRegular(0xeae0);
 
   /// ![battery-high-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/battery-high-bold.svg)
-  static const batteryHighBold = PhosphorIconData(0xeae1);
+  static const batteryHighBold = PhosphorIconDataBold(0xeae1);
 
   /// ![battery-high-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/battery-high-fill.svg)
-  static const batteryHighFill = PhosphorIconData(0xeae2);
+  static const batteryHighFill = PhosphorIconDataFill(0xeae2);
 
   /// ![battery-high-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/battery-high-light.svg)
-  static const batteryHighLight = PhosphorIconData(0xeae3);
+  static const batteryHighLight = PhosphorIconDataLight(0xeae3);
 
   /// ![battery-high-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/battery-high-thin.svg)
-  static const batteryHighThin = PhosphorIconData(0xeae4);
+  static const batteryHighThin = PhosphorIconDataThin(0xeae4);
 
   /// ![battery-low](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/battery-low.svg)
-  static const batteryLow = PhosphorIconData(0xeae5);
+  static const batteryLow = PhosphorIconDataRegular(0xeae5);
 
   /// ![battery-low-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/battery-low-bold.svg)
-  static const batteryLowBold = PhosphorIconData(0xeae6);
+  static const batteryLowBold = PhosphorIconDataBold(0xeae6);
 
   /// ![battery-low-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/battery-low-fill.svg)
-  static const batteryLowFill = PhosphorIconData(0xeae7);
+  static const batteryLowFill = PhosphorIconDataFill(0xeae7);
 
   /// ![battery-low-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/battery-low-light.svg)
-  static const batteryLowLight = PhosphorIconData(0xeae8);
+  static const batteryLowLight = PhosphorIconDataLight(0xeae8);
 
   /// ![battery-low-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/battery-low-thin.svg)
-  static const batteryLowThin = PhosphorIconData(0xeae9);
+  static const batteryLowThin = PhosphorIconDataThin(0xeae9);
 
   /// ![battery-medium](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/battery-medium.svg)
-  static const batteryMedium = PhosphorIconData(0xeaea);
+  static const batteryMedium = PhosphorIconDataRegular(0xeaea);
 
   /// ![battery-medium-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/battery-medium-bold.svg)
-  static const batteryMediumBold = PhosphorIconData(0xeaeb);
+  static const batteryMediumBold = PhosphorIconDataBold(0xeaeb);
 
   /// ![battery-medium-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/battery-medium-fill.svg)
-  static const batteryMediumFill = PhosphorIconData(0xeaec);
+  static const batteryMediumFill = PhosphorIconDataFill(0xeaec);
 
   /// ![battery-medium-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/battery-medium-light.svg)
-  static const batteryMediumLight = PhosphorIconData(0xeaed);
+  static const batteryMediumLight = PhosphorIconDataLight(0xeaed);
 
   /// ![battery-medium-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/battery-medium-thin.svg)
-  static const batteryMediumThin = PhosphorIconData(0xeaee);
+  static const batteryMediumThin = PhosphorIconDataThin(0xeaee);
 
   /// ![battery-warning](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/battery-warning.svg)
-  static const batteryWarning = PhosphorIconData(0xeaef);
+  static const batteryWarning = PhosphorIconDataRegular(0xeaef);
 
   /// ![battery-warning-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/battery-warning-bold.svg)
-  static const batteryWarningBold = PhosphorIconData(0xeaf0);
+  static const batteryWarningBold = PhosphorIconDataBold(0xeaf0);
 
   /// ![battery-warning-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/battery-warning-fill.svg)
-  static const batteryWarningFill = PhosphorIconData(0xeaf1);
+  static const batteryWarningFill = PhosphorIconDataFill(0xeaf1);
 
   /// ![battery-warning-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/battery-warning-light.svg)
-  static const batteryWarningLight = PhosphorIconData(0xeaf2);
+  static const batteryWarningLight = PhosphorIconDataLight(0xeaf2);
 
   /// ![battery-warning-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/battery-warning-thin.svg)
-  static const batteryWarningThin = PhosphorIconData(0xeaf3);
+  static const batteryWarningThin = PhosphorIconDataThin(0xeaf3);
 
   /// ![battery-warning-vertical](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/battery-warning-vertical.svg)
-  static const batteryWarningVertical = PhosphorIconData(0xeaf4);
+  static const batteryWarningVertical = PhosphorIconDataRegular(0xeaf4);
 
   /// ![battery-warning-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/battery-warning-vertical-bold.svg)
-  static const batteryWarningVerticalBold = PhosphorIconData(0xeaf5);
+  static const batteryWarningVerticalBold = PhosphorIconDataBold(0xeaf5);
 
   /// ![battery-warning-vertical-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/battery-warning-vertical-fill.svg)
-  static const batteryWarningVerticalFill = PhosphorIconData(0xeaf6);
+  static const batteryWarningVerticalFill = PhosphorIconDataFill(0xeaf6);
 
   /// ![battery-warning-vertical-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/battery-warning-vertical-light.svg)
-  static const batteryWarningVerticalLight = PhosphorIconData(0xeaf7);
+  static const batteryWarningVerticalLight = PhosphorIconDataLight(0xeaf7);
 
   /// ![battery-warning-vertical-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/battery-warning-vertical-thin.svg)
-  static const batteryWarningVerticalThin = PhosphorIconData(0xeaf8);
+  static const batteryWarningVerticalThin = PhosphorIconDataThin(0xeaf8);
 
   /// ![bed](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bed.svg)
-  static const bed = PhosphorIconData(0xeaf9);
+  static const bed = PhosphorIconDataRegular(0xeaf9);
 
   /// ![bed-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bed-bold.svg)
-  static const bedBold = PhosphorIconData(0xeafa);
+  static const bedBold = PhosphorIconDataBold(0xeafa);
 
   /// ![bed-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bed-fill.svg)
-  static const bedFill = PhosphorIconData(0xeafb);
+  static const bedFill = PhosphorIconDataFill(0xeafb);
 
   /// ![bed-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bed-light.svg)
-  static const bedLight = PhosphorIconData(0xeafc);
+  static const bedLight = PhosphorIconDataLight(0xeafc);
 
   /// ![bed-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bed-thin.svg)
-  static const bedThin = PhosphorIconData(0xeafd);
+  static const bedThin = PhosphorIconDataThin(0xeafd);
 
   /// ![bell](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bell.svg)
-  static const bell = PhosphorIconData(0xeafe);
+  static const bell = PhosphorIconDataRegular(0xeafe);
 
   /// ![bell-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bell-bold.svg)
-  static const bellBold = PhosphorIconData(0xeaff);
+  static const bellBold = PhosphorIconDataBold(0xeaff);
 
   /// ![bell-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bell-fill.svg)
-  static const bellFill = PhosphorIconData(0xeb00);
+  static const bellFill = PhosphorIconDataFill(0xeb00);
 
   /// ![bell-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bell-light.svg)
-  static const bellLight = PhosphorIconData(0xeb01);
+  static const bellLight = PhosphorIconDataLight(0xeb01);
 
   /// ![bell-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bell-simple.svg)
-  static const bellSimple = PhosphorIconData(0xeb02);
+  static const bellSimple = PhosphorIconDataRegular(0xeb02);
 
   /// ![bell-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bell-simple-bold.svg)
-  static const bellSimpleBold = PhosphorIconData(0xeb03);
+  static const bellSimpleBold = PhosphorIconDataBold(0xeb03);
 
   /// ![bell-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bell-simple-fill.svg)
-  static const bellSimpleFill = PhosphorIconData(0xeb04);
+  static const bellSimpleFill = PhosphorIconDataFill(0xeb04);
 
   /// ![bell-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bell-simple-light.svg)
-  static const bellSimpleLight = PhosphorIconData(0xeb05);
+  static const bellSimpleLight = PhosphorIconDataLight(0xeb05);
 
   /// ![bell-simple-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bell-simple-slash.svg)
-  static const bellSimpleSlash = PhosphorIconData(0xeb06);
+  static const bellSimpleSlash = PhosphorIconDataRegular(0xeb06);
 
   /// ![bell-simple-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bell-simple-slash-bold.svg)
-  static const bellSimpleSlashBold = PhosphorIconData(0xeb07);
+  static const bellSimpleSlashBold = PhosphorIconDataBold(0xeb07);
 
   /// ![bell-simple-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bell-simple-slash-fill.svg)
-  static const bellSimpleSlashFill = PhosphorIconData(0xeb08);
+  static const bellSimpleSlashFill = PhosphorIconDataFill(0xeb08);
 
   /// ![bell-simple-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bell-simple-slash-light.svg)
-  static const bellSimpleSlashLight = PhosphorIconData(0xeb09);
+  static const bellSimpleSlashLight = PhosphorIconDataLight(0xeb09);
 
   /// ![bell-simple-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bell-simple-slash-thin.svg)
-  static const bellSimpleSlashThin = PhosphorIconData(0xeb0a);
+  static const bellSimpleSlashThin = PhosphorIconDataThin(0xeb0a);
 
   /// ![bell-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bell-simple-thin.svg)
-  static const bellSimpleThin = PhosphorIconData(0xeb0b);
+  static const bellSimpleThin = PhosphorIconDataThin(0xeb0b);
 
   /// ![bell-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bell-slash.svg)
-  static const bellSlash = PhosphorIconData(0xeb0c);
+  static const bellSlash = PhosphorIconDataRegular(0xeb0c);
 
   /// ![bell-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bell-slash-bold.svg)
-  static const bellSlashBold = PhosphorIconData(0xeb0d);
+  static const bellSlashBold = PhosphorIconDataBold(0xeb0d);
 
   /// ![bell-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bell-slash-fill.svg)
-  static const bellSlashFill = PhosphorIconData(0xeb0e);
+  static const bellSlashFill = PhosphorIconDataFill(0xeb0e);
 
   /// ![bell-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bell-slash-light.svg)
-  static const bellSlashLight = PhosphorIconData(0xeb0f);
+  static const bellSlashLight = PhosphorIconDataLight(0xeb0f);
 
   /// ![bell-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bell-slash-thin.svg)
-  static const bellSlashThin = PhosphorIconData(0xeb10);
+  static const bellSlashThin = PhosphorIconDataThin(0xeb10);
 
   /// ![bell-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bell-thin.svg)
-  static const bellThin = PhosphorIconData(0xeb11);
+  static const bellThin = PhosphorIconDataThin(0xeb11);
 
   /// ![bicycle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bicycle.svg)
-  static const bicycle = PhosphorIconData(0xeb12);
+  static const bicycle = PhosphorIconDataRegular(0xeb12);
 
   /// ![bicycle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bicycle-bold.svg)
-  static const bicycleBold = PhosphorIconData(0xeb13);
+  static const bicycleBold = PhosphorIconDataBold(0xeb13);
 
   /// ![bicycle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bicycle-fill.svg)
-  static const bicycleFill = PhosphorIconData(0xeb14);
+  static const bicycleFill = PhosphorIconDataFill(0xeb14);
 
   /// ![bicycle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bicycle-light.svg)
-  static const bicycleLight = PhosphorIconData(0xeb15);
+  static const bicycleLight = PhosphorIconDataLight(0xeb15);
 
   /// ![bicycle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bicycle-thin.svg)
-  static const bicycleThin = PhosphorIconData(0xeb16);
+  static const bicycleThin = PhosphorIconDataThin(0xeb16);
 
   /// ![bluetooth](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bluetooth.svg)
-  static const bluetooth = PhosphorIconData(0xeb17);
+  static const bluetooth = PhosphorIconDataRegular(0xeb17);
 
   /// ![bluetooth-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bluetooth-bold.svg)
-  static const bluetoothBold = PhosphorIconData(0xeb18);
+  static const bluetoothBold = PhosphorIconDataBold(0xeb18);
 
   /// ![bluetooth-connected](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bluetooth-connected.svg)
-  static const bluetoothConnected = PhosphorIconData(0xeb19);
+  static const bluetoothConnected = PhosphorIconDataRegular(0xeb19);
 
   /// ![bluetooth-connected-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bluetooth-connected-bold.svg)
-  static const bluetoothConnectedBold = PhosphorIconData(0xeb1a);
+  static const bluetoothConnectedBold = PhosphorIconDataBold(0xeb1a);
 
   /// ![bluetooth-connected-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bluetooth-connected-fill.svg)
-  static const bluetoothConnectedFill = PhosphorIconData(0xeb1b);
+  static const bluetoothConnectedFill = PhosphorIconDataFill(0xeb1b);
 
   /// ![bluetooth-connected-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bluetooth-connected-light.svg)
-  static const bluetoothConnectedLight = PhosphorIconData(0xeb1c);
+  static const bluetoothConnectedLight = PhosphorIconDataLight(0xeb1c);
 
   /// ![bluetooth-connected-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bluetooth-connected-thin.svg)
-  static const bluetoothConnectedThin = PhosphorIconData(0xeb1d);
+  static const bluetoothConnectedThin = PhosphorIconDataThin(0xeb1d);
 
   /// ![bluetooth-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bluetooth-fill.svg)
-  static const bluetoothFill = PhosphorIconData(0xeb1e);
+  static const bluetoothFill = PhosphorIconDataFill(0xeb1e);
 
   /// ![bluetooth-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bluetooth-light.svg)
-  static const bluetoothLight = PhosphorIconData(0xeb1f);
+  static const bluetoothLight = PhosphorIconDataLight(0xeb1f);
 
   /// ![bluetooth-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bluetooth-slash.svg)
-  static const bluetoothSlash = PhosphorIconData(0xeb20);
+  static const bluetoothSlash = PhosphorIconDataRegular(0xeb20);
 
   /// ![bluetooth-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bluetooth-slash-bold.svg)
-  static const bluetoothSlashBold = PhosphorIconData(0xeb21);
+  static const bluetoothSlashBold = PhosphorIconDataBold(0xeb21);
 
   /// ![bluetooth-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bluetooth-slash-fill.svg)
-  static const bluetoothSlashFill = PhosphorIconData(0xeb22);
+  static const bluetoothSlashFill = PhosphorIconDataFill(0xeb22);
 
   /// ![bluetooth-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bluetooth-slash-light.svg)
-  static const bluetoothSlashLight = PhosphorIconData(0xeb23);
+  static const bluetoothSlashLight = PhosphorIconDataLight(0xeb23);
 
   /// ![bluetooth-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bluetooth-slash-thin.svg)
-  static const bluetoothSlashThin = PhosphorIconData(0xeb24);
+  static const bluetoothSlashThin = PhosphorIconDataThin(0xeb24);
 
   /// ![bluetooth-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bluetooth-thin.svg)
-  static const bluetoothThin = PhosphorIconData(0xeb25);
+  static const bluetoothThin = PhosphorIconDataThin(0xeb25);
 
   /// ![bluetooth-x](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bluetooth-x.svg)
-  static const bluetoothX = PhosphorIconData(0xeb26);
+  static const bluetoothX = PhosphorIconDataRegular(0xeb26);
 
   /// ![bluetooth-x-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bluetooth-x-bold.svg)
-  static const bluetoothXBold = PhosphorIconData(0xeb27);
+  static const bluetoothXBold = PhosphorIconDataBold(0xeb27);
 
   /// ![bluetooth-x-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bluetooth-x-fill.svg)
-  static const bluetoothXFill = PhosphorIconData(0xeb28);
+  static const bluetoothXFill = PhosphorIconDataFill(0xeb28);
 
   /// ![bluetooth-x-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bluetooth-x-light.svg)
-  static const bluetoothXLight = PhosphorIconData(0xeb29);
+  static const bluetoothXLight = PhosphorIconDataLight(0xeb29);
 
   /// ![bluetooth-x-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bluetooth-x-thin.svg)
-  static const bluetoothXThin = PhosphorIconData(0xeb2a);
+  static const bluetoothXThin = PhosphorIconDataThin(0xeb2a);
 
   /// ![book](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/book.svg)
-  static const book = PhosphorIconData(0xeb2b);
+  static const book = PhosphorIconDataRegular(0xeb2b);
 
   /// ![book-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/book-bold.svg)
-  static const bookBold = PhosphorIconData(0xeb2c);
+  static const bookBold = PhosphorIconDataBold(0xeb2c);
 
   /// ![book-bookmark](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/book-bookmark.svg)
-  static const bookBookmark = PhosphorIconData(0xeb2d);
+  static const bookBookmark = PhosphorIconDataRegular(0xeb2d);
 
   /// ![book-bookmark-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/book-bookmark-bold.svg)
-  static const bookBookmarkBold = PhosphorIconData(0xeb2e);
+  static const bookBookmarkBold = PhosphorIconDataBold(0xeb2e);
 
   /// ![book-bookmark-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/book-bookmark-fill.svg)
-  static const bookBookmarkFill = PhosphorIconData(0xeb2f);
+  static const bookBookmarkFill = PhosphorIconDataFill(0xeb2f);
 
   /// ![book-bookmark-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/book-bookmark-light.svg)
-  static const bookBookmarkLight = PhosphorIconData(0xeb30);
+  static const bookBookmarkLight = PhosphorIconDataLight(0xeb30);
 
   /// ![book-bookmark-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/book-bookmark-thin.svg)
-  static const bookBookmarkThin = PhosphorIconData(0xeb31);
+  static const bookBookmarkThin = PhosphorIconDataThin(0xeb31);
 
   /// ![book-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/book-fill.svg)
-  static const bookFill = PhosphorIconData(0xeb32);
+  static const bookFill = PhosphorIconDataFill(0xeb32);
 
   /// ![book-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/book-light.svg)
-  static const bookLight = PhosphorIconData(0xeb33);
+  static const bookLight = PhosphorIconDataLight(0xeb33);
 
   /// ![book-open](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/book-open.svg)
-  static const bookOpen = PhosphorIconData(0xeb34);
+  static const bookOpen = PhosphorIconDataRegular(0xeb34);
 
   /// ![book-open-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/book-open-bold.svg)
-  static const bookOpenBold = PhosphorIconData(0xeb35);
+  static const bookOpenBold = PhosphorIconDataBold(0xeb35);
 
   /// ![book-open-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/book-open-fill.svg)
-  static const bookOpenFill = PhosphorIconData(0xeb36);
+  static const bookOpenFill = PhosphorIconDataFill(0xeb36);
 
   /// ![book-open-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/book-open-light.svg)
-  static const bookOpenLight = PhosphorIconData(0xeb37);
+  static const bookOpenLight = PhosphorIconDataLight(0xeb37);
 
   /// ![book-open-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/book-open-thin.svg)
-  static const bookOpenThin = PhosphorIconData(0xeb38);
+  static const bookOpenThin = PhosphorIconDataThin(0xeb38);
 
   /// ![book-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/book-thin.svg)
-  static const bookThin = PhosphorIconData(0xeb39);
+  static const bookThin = PhosphorIconDataThin(0xeb39);
 
   /// ![bookmark](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bookmark.svg)
-  static const bookmark = PhosphorIconData(0xeb3a);
+  static const bookmark = PhosphorIconDataRegular(0xeb3a);
 
   /// ![bookmark-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bookmark-bold.svg)
-  static const bookmarkBold = PhosphorIconData(0xeb3b);
+  static const bookmarkBold = PhosphorIconDataBold(0xeb3b);
 
   /// ![bookmark-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bookmark-fill.svg)
-  static const bookmarkFill = PhosphorIconData(0xeb3c);
+  static const bookmarkFill = PhosphorIconDataFill(0xeb3c);
 
   /// ![bookmark-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bookmark-light.svg)
-  static const bookmarkLight = PhosphorIconData(0xeb3d);
+  static const bookmarkLight = PhosphorIconDataLight(0xeb3d);
 
   /// ![bookmark-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bookmark-simple.svg)
-  static const bookmarkSimple = PhosphorIconData(0xeb3e);
+  static const bookmarkSimple = PhosphorIconDataRegular(0xeb3e);
 
   /// ![bookmark-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bookmark-simple-bold.svg)
-  static const bookmarkSimpleBold = PhosphorIconData(0xeb3f);
+  static const bookmarkSimpleBold = PhosphorIconDataBold(0xeb3f);
 
   /// ![bookmark-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bookmark-simple-fill.svg)
-  static const bookmarkSimpleFill = PhosphorIconData(0xeb40);
+  static const bookmarkSimpleFill = PhosphorIconDataFill(0xeb40);
 
   /// ![bookmark-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bookmark-simple-light.svg)
-  static const bookmarkSimpleLight = PhosphorIconData(0xeb41);
+  static const bookmarkSimpleLight = PhosphorIconDataLight(0xeb41);
 
   /// ![bookmark-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bookmark-simple-thin.svg)
-  static const bookmarkSimpleThin = PhosphorIconData(0xeb42);
+  static const bookmarkSimpleThin = PhosphorIconDataThin(0xeb42);
 
   /// ![bookmark-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bookmark-thin.svg)
-  static const bookmarkThin = PhosphorIconData(0xeb43);
+  static const bookmarkThin = PhosphorIconDataThin(0xeb43);
 
   /// ![bookmarks](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bookmarks.svg)
-  static const bookmarks = PhosphorIconData(0xeb44);
+  static const bookmarks = PhosphorIconDataRegular(0xeb44);
 
   /// ![bookmarks-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bookmarks-bold.svg)
-  static const bookmarksBold = PhosphorIconData(0xeb45);
+  static const bookmarksBold = PhosphorIconDataBold(0xeb45);
 
   /// ![bookmarks-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bookmarks-fill.svg)
-  static const bookmarksFill = PhosphorIconData(0xeb46);
+  static const bookmarksFill = PhosphorIconDataFill(0xeb46);
 
   /// ![bookmarks-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bookmarks-light.svg)
-  static const bookmarksLight = PhosphorIconData(0xeb47);
+  static const bookmarksLight = PhosphorIconDataLight(0xeb47);
 
   /// ![bookmarks-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bookmarks-thin.svg)
-  static const bookmarksThin = PhosphorIconData(0xeb48);
+  static const bookmarksThin = PhosphorIconDataThin(0xeb48);
 
   /// ![briefcase](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/briefcase.svg)
-  static const briefcase = PhosphorIconData(0xeb49);
+  static const briefcase = PhosphorIconDataRegular(0xeb49);
 
   /// ![briefcase-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/briefcase-bold.svg)
-  static const briefcaseBold = PhosphorIconData(0xeb4a);
+  static const briefcaseBold = PhosphorIconDataBold(0xeb4a);
 
   /// ![briefcase-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/briefcase-fill.svg)
-  static const briefcaseFill = PhosphorIconData(0xeb4b);
+  static const briefcaseFill = PhosphorIconDataFill(0xeb4b);
 
   /// ![briefcase-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/briefcase-light.svg)
-  static const briefcaseLight = PhosphorIconData(0xeb4c);
+  static const briefcaseLight = PhosphorIconDataLight(0xeb4c);
 
   /// ![briefcase-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/briefcase-simple.svg)
-  static const briefcaseSimple = PhosphorIconData(0xeb4d);
+  static const briefcaseSimple = PhosphorIconDataRegular(0xeb4d);
 
   /// ![briefcase-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/briefcase-simple-bold.svg)
-  static const briefcaseSimpleBold = PhosphorIconData(0xeb4e);
+  static const briefcaseSimpleBold = PhosphorIconDataBold(0xeb4e);
 
   /// ![briefcase-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/briefcase-simple-fill.svg)
-  static const briefcaseSimpleFill = PhosphorIconData(0xeb4f);
+  static const briefcaseSimpleFill = PhosphorIconDataFill(0xeb4f);
 
   /// ![briefcase-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/briefcase-simple-light.svg)
-  static const briefcaseSimpleLight = PhosphorIconData(0xeb50);
+  static const briefcaseSimpleLight = PhosphorIconDataLight(0xeb50);
 
   /// ![briefcase-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/briefcase-simple-thin.svg)
-  static const briefcaseSimpleThin = PhosphorIconData(0xeb51);
+  static const briefcaseSimpleThin = PhosphorIconDataThin(0xeb51);
 
   /// ![briefcase-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/briefcase-thin.svg)
-  static const briefcaseThin = PhosphorIconData(0xeb52);
+  static const briefcaseThin = PhosphorIconDataThin(0xeb52);
 
   /// ![broadcast](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/broadcast.svg)
-  static const broadcast = PhosphorIconData(0xeb53);
+  static const broadcast = PhosphorIconDataRegular(0xeb53);
 
   /// ![broadcast-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/broadcast-bold.svg)
-  static const broadcastBold = PhosphorIconData(0xeb54);
+  static const broadcastBold = PhosphorIconDataBold(0xeb54);
 
   /// ![broadcast-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/broadcast-fill.svg)
-  static const broadcastFill = PhosphorIconData(0xeb55);
+  static const broadcastFill = PhosphorIconDataFill(0xeb55);
 
   /// ![broadcast-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/broadcast-light.svg)
-  static const broadcastLight = PhosphorIconData(0xeb56);
+  static const broadcastLight = PhosphorIconDataLight(0xeb56);
 
   /// ![broadcast-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/broadcast-thin.svg)
-  static const broadcastThin = PhosphorIconData(0xeb57);
+  static const broadcastThin = PhosphorIconDataThin(0xeb57);
 
   /// ![browser](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/browser.svg)
-  static const browser = PhosphorIconData(0xeb58);
+  static const browser = PhosphorIconDataRegular(0xeb58);
 
   /// ![browser-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/browser-bold.svg)
-  static const browserBold = PhosphorIconData(0xeb59);
+  static const browserBold = PhosphorIconDataBold(0xeb59);
 
   /// ![browser-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/browser-fill.svg)
-  static const browserFill = PhosphorIconData(0xeb5a);
+  static const browserFill = PhosphorIconDataFill(0xeb5a);
 
   /// ![browser-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/browser-light.svg)
-  static const browserLight = PhosphorIconData(0xeb5b);
+  static const browserLight = PhosphorIconDataLight(0xeb5b);
 
   /// ![browser-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/browser-thin.svg)
-  static const browserThin = PhosphorIconData(0xeb5c);
+  static const browserThin = PhosphorIconDataThin(0xeb5c);
 
   /// ![browsers](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/browsers.svg)
-  static const browsers = PhosphorIconData(0xeb5d);
+  static const browsers = PhosphorIconDataRegular(0xeb5d);
 
   /// ![browsers-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/browsers-bold.svg)
-  static const browsersBold = PhosphorIconData(0xeb5e);
+  static const browsersBold = PhosphorIconDataBold(0xeb5e);
 
   /// ![browsers-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/browsers-fill.svg)
-  static const browsersFill = PhosphorIconData(0xeb5f);
+  static const browsersFill = PhosphorIconDataFill(0xeb5f);
 
   /// ![browsers-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/browsers-light.svg)
-  static const browsersLight = PhosphorIconData(0xeb60);
+  static const browsersLight = PhosphorIconDataLight(0xeb60);
 
   /// ![browsers-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/browsers-simple.svg)
-  static const browsersSimple = PhosphorIconData(0xeb61);
+  static const browsersSimple = PhosphorIconDataRegular(0xeb61);
 
   /// ![browsers-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/browsers-simple-bold.svg)
-  static const browsersSimpleBold = PhosphorIconData(0xeb62);
+  static const browsersSimpleBold = PhosphorIconDataBold(0xeb62);
 
   /// ![browsers-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/browsers-simple-fill.svg)
-  static const browsersSimpleFill = PhosphorIconData(0xeb63);
+  static const browsersSimpleFill = PhosphorIconDataFill(0xeb63);
 
   /// ![browsers-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/browsers-simple-light.svg)
-  static const browsersSimpleLight = PhosphorIconData(0xeb64);
+  static const browsersSimpleLight = PhosphorIconDataLight(0xeb64);
 
   /// ![browsers-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/browsers-simple-thin.svg)
-  static const browsersSimpleThin = PhosphorIconData(0xeb65);
+  static const browsersSimpleThin = PhosphorIconDataThin(0xeb65);
 
   /// ![browsers-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/browsers-thin.svg)
-  static const browsersThin = PhosphorIconData(0xeb66);
+  static const browsersThin = PhosphorIconDataThin(0xeb66);
 
   /// ![buildings](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/buildings.svg)
-  static const buildings = PhosphorIconData(0xeb67);
+  static const buildings = PhosphorIconDataRegular(0xeb67);
 
   /// ![buildings-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/buildings-bold.svg)
-  static const buildingsBold = PhosphorIconData(0xeb68);
+  static const buildingsBold = PhosphorIconDataBold(0xeb68);
 
   /// ![buildings-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/buildings-fill.svg)
-  static const buildingsFill = PhosphorIconData(0xeb69);
+  static const buildingsFill = PhosphorIconDataFill(0xeb69);
 
   /// ![buildings-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/buildings-light.svg)
-  static const buildingsLight = PhosphorIconData(0xeb6a);
+  static const buildingsLight = PhosphorIconDataLight(0xeb6a);
 
   /// ![buildings-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/buildings-thin.svg)
-  static const buildingsThin = PhosphorIconData(0xeb6b);
+  static const buildingsThin = PhosphorIconDataThin(0xeb6b);
 
   /// ![bus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/bus.svg)
-  static const bus = PhosphorIconData(0xeb6c);
+  static const bus = PhosphorIconDataRegular(0xeb6c);
 
   /// ![bus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/bus-bold.svg)
-  static const busBold = PhosphorIconData(0xeb6d);
+  static const busBold = PhosphorIconDataBold(0xeb6d);
 
   /// ![bus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/bus-fill.svg)
-  static const busFill = PhosphorIconData(0xeb6e);
+  static const busFill = PhosphorIconDataFill(0xeb6e);
 
   /// ![bus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/bus-light.svg)
-  static const busLight = PhosphorIconData(0xeb6f);
+  static const busLight = PhosphorIconDataLight(0xeb6f);
 
   /// ![bus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/bus-thin.svg)
-  static const busThin = PhosphorIconData(0xeb70);
+  static const busThin = PhosphorIconDataThin(0xeb70);
 
   /// ![calendar](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/calendar.svg)
-  static const calendar = PhosphorIconData(0xeb71);
+  static const calendar = PhosphorIconDataRegular(0xeb71);
 
   /// ![calendar-blank](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/calendar-blank.svg)
-  static const calendarBlank = PhosphorIconData(0xeb72);
+  static const calendarBlank = PhosphorIconDataRegular(0xeb72);
 
   /// ![calendar-blank-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/calendar-blank-bold.svg)
-  static const calendarBlankBold = PhosphorIconData(0xeb73);
+  static const calendarBlankBold = PhosphorIconDataBold(0xeb73);
 
   /// ![calendar-blank-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/calendar-blank-fill.svg)
-  static const calendarBlankFill = PhosphorIconData(0xeb74);
+  static const calendarBlankFill = PhosphorIconDataFill(0xeb74);
 
   /// ![calendar-blank-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/calendar-blank-light.svg)
-  static const calendarBlankLight = PhosphorIconData(0xeb75);
+  static const calendarBlankLight = PhosphorIconDataLight(0xeb75);
 
   /// ![calendar-blank-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/calendar-blank-thin.svg)
-  static const calendarBlankThin = PhosphorIconData(0xeb76);
+  static const calendarBlankThin = PhosphorIconDataThin(0xeb76);
 
   /// ![calendar-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/calendar-bold.svg)
-  static const calendarBold = PhosphorIconData(0xeb77);
+  static const calendarBold = PhosphorIconDataBold(0xeb77);
 
   /// ![calendar-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/calendar-fill.svg)
-  static const calendarFill = PhosphorIconData(0xeb78);
+  static const calendarFill = PhosphorIconDataFill(0xeb78);
 
   /// ![calendar-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/calendar-light.svg)
-  static const calendarLight = PhosphorIconData(0xeb79);
+  static const calendarLight = PhosphorIconDataLight(0xeb79);
 
   /// ![calendar-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/calendar-thin.svg)
-  static const calendarThin = PhosphorIconData(0xeb7a);
+  static const calendarThin = PhosphorIconDataThin(0xeb7a);
 
   /// ![calendar-x](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/calendar-x.svg)
-  static const calendarX = PhosphorIconData(0xeb7b);
+  static const calendarX = PhosphorIconDataRegular(0xeb7b);
 
   /// ![calendar-x-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/calendar-x-bold.svg)
-  static const calendarXBold = PhosphorIconData(0xeb7c);
+  static const calendarXBold = PhosphorIconDataBold(0xeb7c);
 
   /// ![calendar-x-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/calendar-x-fill.svg)
-  static const calendarXFill = PhosphorIconData(0xeb7d);
+  static const calendarXFill = PhosphorIconDataFill(0xeb7d);
 
   /// ![calendar-x-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/calendar-x-light.svg)
-  static const calendarXLight = PhosphorIconData(0xeb7e);
+  static const calendarXLight = PhosphorIconDataLight(0xeb7e);
 
   /// ![calendar-x-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/calendar-x-thin.svg)
-  static const calendarXThin = PhosphorIconData(0xeb7f);
+  static const calendarXThin = PhosphorIconDataThin(0xeb7f);
 
   /// ![camera](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/camera.svg)
-  static const camera = PhosphorIconData(0xeb80);
+  static const camera = PhosphorIconDataRegular(0xeb80);
 
   /// ![camera-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/camera-bold.svg)
-  static const cameraBold = PhosphorIconData(0xeb81);
+  static const cameraBold = PhosphorIconDataBold(0xeb81);
 
   /// ![camera-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/camera-fill.svg)
-  static const cameraFill = PhosphorIconData(0xeb82);
+  static const cameraFill = PhosphorIconDataFill(0xeb82);
 
   /// ![camera-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/camera-light.svg)
-  static const cameraLight = PhosphorIconData(0xeb83);
+  static const cameraLight = PhosphorIconDataLight(0xeb83);
 
   /// ![camera-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/camera-slash.svg)
-  static const cameraSlash = PhosphorIconData(0xeb84);
+  static const cameraSlash = PhosphorIconDataRegular(0xeb84);
 
   /// ![camera-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/camera-slash-bold.svg)
-  static const cameraSlashBold = PhosphorIconData(0xeb85);
+  static const cameraSlashBold = PhosphorIconDataBold(0xeb85);
 
   /// ![camera-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/camera-slash-fill.svg)
-  static const cameraSlashFill = PhosphorIconData(0xeb86);
+  static const cameraSlashFill = PhosphorIconDataFill(0xeb86);
 
   /// ![camera-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/camera-slash-light.svg)
-  static const cameraSlashLight = PhosphorIconData(0xeb87);
+  static const cameraSlashLight = PhosphorIconDataLight(0xeb87);
 
   /// ![camera-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/camera-slash-thin.svg)
-  static const cameraSlashThin = PhosphorIconData(0xeb88);
+  static const cameraSlashThin = PhosphorIconDataThin(0xeb88);
 
   /// ![camera-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/camera-thin.svg)
-  static const cameraThin = PhosphorIconData(0xeb89);
+  static const cameraThin = PhosphorIconDataThin(0xeb89);
 
   /// ![car](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/car.svg)
-  static const car = PhosphorIconData(0xeb8a);
+  static const car = PhosphorIconDataRegular(0xeb8a);
 
   /// ![car-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/car-bold.svg)
-  static const carBold = PhosphorIconData(0xeb8b);
+  static const carBold = PhosphorIconDataBold(0xeb8b);
 
   /// ![car-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/car-fill.svg)
-  static const carFill = PhosphorIconData(0xeb8c);
+  static const carFill = PhosphorIconDataFill(0xeb8c);
 
   /// ![car-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/car-light.svg)
-  static const carLight = PhosphorIconData(0xeb8d);
+  static const carLight = PhosphorIconDataLight(0xeb8d);
 
   /// ![car-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/car-simple.svg)
-  static const carSimple = PhosphorIconData(0xeb8e);
+  static const carSimple = PhosphorIconDataRegular(0xeb8e);
 
   /// ![car-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/car-simple-bold.svg)
-  static const carSimpleBold = PhosphorIconData(0xeb8f);
+  static const carSimpleBold = PhosphorIconDataBold(0xeb8f);
 
   /// ![car-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/car-simple-fill.svg)
-  static const carSimpleFill = PhosphorIconData(0xeb90);
+  static const carSimpleFill = PhosphorIconDataFill(0xeb90);
 
   /// ![car-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/car-simple-light.svg)
-  static const carSimpleLight = PhosphorIconData(0xeb91);
+  static const carSimpleLight = PhosphorIconDataLight(0xeb91);
 
   /// ![car-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/car-simple-thin.svg)
-  static const carSimpleThin = PhosphorIconData(0xeb92);
+  static const carSimpleThin = PhosphorIconDataThin(0xeb92);
 
   /// ![car-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/car-thin.svg)
-  static const carThin = PhosphorIconData(0xeb93);
+  static const carThin = PhosphorIconDataThin(0xeb93);
 
   /// ![caret-circle-double-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-circle-double-down.svg)
-  static const caretCircleDoubleDown = PhosphorIconData(0xeb94);
+  static const caretCircleDoubleDown = PhosphorIconDataRegular(0xeb94);
 
   /// ![caret-circle-double-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-circle-double-down-bold.svg)
-  static const caretCircleDoubleDownBold = PhosphorIconData(0xeb95);
+  static const caretCircleDoubleDownBold = PhosphorIconDataBold(0xeb95);
 
   /// ![caret-circle-double-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-circle-double-down-fill.svg)
-  static const caretCircleDoubleDownFill = PhosphorIconData(0xeb96);
+  static const caretCircleDoubleDownFill = PhosphorIconDataFill(0xeb96);
 
   /// ![caret-circle-double-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-circle-double-down-light.svg)
-  static const caretCircleDoubleDownLight = PhosphorIconData(0xeb97);
+  static const caretCircleDoubleDownLight = PhosphorIconDataLight(0xeb97);
 
   /// ![caret-circle-double-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-circle-double-down-thin.svg)
-  static const caretCircleDoubleDownThin = PhosphorIconData(0xeb98);
+  static const caretCircleDoubleDownThin = PhosphorIconDataThin(0xeb98);
 
   /// ![caret-circle-double-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-circle-double-left.svg)
-  static const caretCircleDoubleLeft = PhosphorIconData(0xeb99);
+  static const caretCircleDoubleLeft = PhosphorIconDataRegular(0xeb99);
 
   /// ![caret-circle-double-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-circle-double-left-bold.svg)
-  static const caretCircleDoubleLeftBold = PhosphorIconData(0xeb9a);
+  static const caretCircleDoubleLeftBold = PhosphorIconDataBold(0xeb9a);
 
   /// ![caret-circle-double-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-circle-double-left-fill.svg)
-  static const caretCircleDoubleLeftFill = PhosphorIconData(0xeb9b);
+  static const caretCircleDoubleLeftFill = PhosphorIconDataFill(0xeb9b);
 
   /// ![caret-circle-double-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-circle-double-left-light.svg)
-  static const caretCircleDoubleLeftLight = PhosphorIconData(0xeb9c);
+  static const caretCircleDoubleLeftLight = PhosphorIconDataLight(0xeb9c);
 
   /// ![caret-circle-double-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-circle-double-left-thin.svg)
-  static const caretCircleDoubleLeftThin = PhosphorIconData(0xeb9d);
+  static const caretCircleDoubleLeftThin = PhosphorIconDataThin(0xeb9d);
 
   /// ![caret-circle-double-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-circle-double-right.svg)
-  static const caretCircleDoubleRight = PhosphorIconData(0xeb9e);
+  static const caretCircleDoubleRight = PhosphorIconDataRegular(0xeb9e);
 
   /// ![caret-circle-double-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-circle-double-right-bold.svg)
-  static const caretCircleDoubleRightBold = PhosphorIconData(0xeb9f);
+  static const caretCircleDoubleRightBold = PhosphorIconDataBold(0xeb9f);
 
   /// ![caret-circle-double-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-circle-double-right-fill.svg)
-  static const caretCircleDoubleRightFill = PhosphorIconData(0xeba0);
+  static const caretCircleDoubleRightFill = PhosphorIconDataFill(0xeba0);
 
   /// ![caret-circle-double-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-circle-double-right-light.svg)
-  static const caretCircleDoubleRightLight = PhosphorIconData(0xeba1);
+  static const caretCircleDoubleRightLight = PhosphorIconDataLight(0xeba1);
 
   /// ![caret-circle-double-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-circle-double-right-thin.svg)
-  static const caretCircleDoubleRightThin = PhosphorIconData(0xeba2);
+  static const caretCircleDoubleRightThin = PhosphorIconDataThin(0xeba2);
 
   /// ![caret-circle-double-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-circle-double-up.svg)
-  static const caretCircleDoubleUp = PhosphorIconData(0xeba3);
+  static const caretCircleDoubleUp = PhosphorIconDataRegular(0xeba3);
 
   /// ![caret-circle-double-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-circle-double-up-bold.svg)
-  static const caretCircleDoubleUpBold = PhosphorIconData(0xeba4);
+  static const caretCircleDoubleUpBold = PhosphorIconDataBold(0xeba4);
 
   /// ![caret-circle-double-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-circle-double-up-fill.svg)
-  static const caretCircleDoubleUpFill = PhosphorIconData(0xeba5);
+  static const caretCircleDoubleUpFill = PhosphorIconDataFill(0xeba5);
 
   /// ![caret-circle-double-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-circle-double-up-light.svg)
-  static const caretCircleDoubleUpLight = PhosphorIconData(0xeba6);
+  static const caretCircleDoubleUpLight = PhosphorIconDataLight(0xeba6);
 
   /// ![caret-circle-double-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-circle-double-up-thin.svg)
-  static const caretCircleDoubleUpThin = PhosphorIconData(0xeba7);
+  static const caretCircleDoubleUpThin = PhosphorIconDataThin(0xeba7);
 
   /// ![caret-circle-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-circle-down.svg)
-  static const caretCircleDown = PhosphorIconData(0xeba8);
+  static const caretCircleDown = PhosphorIconDataRegular(0xeba8);
 
   /// ![caret-circle-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-circle-down-bold.svg)
-  static const caretCircleDownBold = PhosphorIconData(0xeba9);
+  static const caretCircleDownBold = PhosphorIconDataBold(0xeba9);
 
   /// ![caret-circle-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-circle-down-fill.svg)
-  static const caretCircleDownFill = PhosphorIconData(0xebaa);
+  static const caretCircleDownFill = PhosphorIconDataFill(0xebaa);
 
   /// ![caret-circle-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-circle-down-light.svg)
-  static const caretCircleDownLight = PhosphorIconData(0xebab);
+  static const caretCircleDownLight = PhosphorIconDataLight(0xebab);
 
   /// ![caret-circle-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-circle-down-thin.svg)
-  static const caretCircleDownThin = PhosphorIconData(0xebac);
+  static const caretCircleDownThin = PhosphorIconDataThin(0xebac);
 
   /// ![caret-circle-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-circle-left.svg)
-  static const caretCircleLeft = PhosphorIconData(0xebad);
+  static const caretCircleLeft = PhosphorIconDataRegular(0xebad);
 
   /// ![caret-circle-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-circle-left-bold.svg)
-  static const caretCircleLeftBold = PhosphorIconData(0xebae);
+  static const caretCircleLeftBold = PhosphorIconDataBold(0xebae);
 
   /// ![caret-circle-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-circle-left-fill.svg)
-  static const caretCircleLeftFill = PhosphorIconData(0xebaf);
+  static const caretCircleLeftFill = PhosphorIconDataFill(0xebaf);
 
   /// ![caret-circle-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-circle-left-light.svg)
-  static const caretCircleLeftLight = PhosphorIconData(0xebb0);
+  static const caretCircleLeftLight = PhosphorIconDataLight(0xebb0);
 
   /// ![caret-circle-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-circle-left-thin.svg)
-  static const caretCircleLeftThin = PhosphorIconData(0xebb1);
+  static const caretCircleLeftThin = PhosphorIconDataThin(0xebb1);
 
   /// ![caret-circle-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-circle-right.svg)
-  static const caretCircleRight = PhosphorIconData(0xebb2);
+  static const caretCircleRight = PhosphorIconDataRegular(0xebb2);
 
   /// ![caret-circle-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-circle-right-bold.svg)
-  static const caretCircleRightBold = PhosphorIconData(0xebb3);
+  static const caretCircleRightBold = PhosphorIconDataBold(0xebb3);
 
   /// ![caret-circle-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-circle-right-fill.svg)
-  static const caretCircleRightFill = PhosphorIconData(0xebb4);
+  static const caretCircleRightFill = PhosphorIconDataFill(0xebb4);
 
   /// ![caret-circle-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-circle-right-light.svg)
-  static const caretCircleRightLight = PhosphorIconData(0xebb5);
+  static const caretCircleRightLight = PhosphorIconDataLight(0xebb5);
 
   /// ![caret-circle-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-circle-right-thin.svg)
-  static const caretCircleRightThin = PhosphorIconData(0xebb6);
+  static const caretCircleRightThin = PhosphorIconDataThin(0xebb6);
 
   /// ![caret-circle-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-circle-up.svg)
-  static const caretCircleUp = PhosphorIconData(0xebb7);
+  static const caretCircleUp = PhosphorIconDataRegular(0xebb7);
 
   /// ![caret-circle-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-circle-up-bold.svg)
-  static const caretCircleUpBold = PhosphorIconData(0xebb8);
+  static const caretCircleUpBold = PhosphorIconDataBold(0xebb8);
 
   /// ![caret-circle-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-circle-up-fill.svg)
-  static const caretCircleUpFill = PhosphorIconData(0xebb9);
+  static const caretCircleUpFill = PhosphorIconDataFill(0xebb9);
 
   /// ![caret-circle-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-circle-up-light.svg)
-  static const caretCircleUpLight = PhosphorIconData(0xebba);
+  static const caretCircleUpLight = PhosphorIconDataLight(0xebba);
 
   /// ![caret-circle-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-circle-up-thin.svg)
-  static const caretCircleUpThin = PhosphorIconData(0xebbb);
+  static const caretCircleUpThin = PhosphorIconDataThin(0xebbb);
 
   /// ![caret-double-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-double-down.svg)
-  static const caretDoubleDown = PhosphorIconData(0xebbc);
+  static const caretDoubleDown = PhosphorIconDataRegular(0xebbc);
 
   /// ![caret-double-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-double-down-bold.svg)
-  static const caretDoubleDownBold = PhosphorIconData(0xebbd);
+  static const caretDoubleDownBold = PhosphorIconDataBold(0xebbd);
 
   /// ![caret-double-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-double-down-fill.svg)
-  static const caretDoubleDownFill = PhosphorIconData(0xebbe);
+  static const caretDoubleDownFill = PhosphorIconDataFill(0xebbe);
 
   /// ![caret-double-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-double-down-light.svg)
-  static const caretDoubleDownLight = PhosphorIconData(0xebbf);
+  static const caretDoubleDownLight = PhosphorIconDataLight(0xebbf);
 
   /// ![caret-double-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-double-down-thin.svg)
-  static const caretDoubleDownThin = PhosphorIconData(0xebc0);
+  static const caretDoubleDownThin = PhosphorIconDataThin(0xebc0);
 
   /// ![caret-double-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-double-left.svg)
-  static const caretDoubleLeft = PhosphorIconData(0xebc1);
+  static const caretDoubleLeft = PhosphorIconDataRegular(0xebc1);
 
   /// ![caret-double-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-double-left-bold.svg)
-  static const caretDoubleLeftBold = PhosphorIconData(0xebc2);
+  static const caretDoubleLeftBold = PhosphorIconDataBold(0xebc2);
 
   /// ![caret-double-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-double-left-fill.svg)
-  static const caretDoubleLeftFill = PhosphorIconData(0xebc3);
+  static const caretDoubleLeftFill = PhosphorIconDataFill(0xebc3);
 
   /// ![caret-double-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-double-left-light.svg)
-  static const caretDoubleLeftLight = PhosphorIconData(0xebc4);
+  static const caretDoubleLeftLight = PhosphorIconDataLight(0xebc4);
 
   /// ![caret-double-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-double-left-thin.svg)
-  static const caretDoubleLeftThin = PhosphorIconData(0xebc5);
+  static const caretDoubleLeftThin = PhosphorIconDataThin(0xebc5);
 
   /// ![caret-double-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-double-right.svg)
-  static const caretDoubleRight = PhosphorIconData(0xebc6);
+  static const caretDoubleRight = PhosphorIconDataRegular(0xebc6);
 
   /// ![caret-double-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-double-right-bold.svg)
-  static const caretDoubleRightBold = PhosphorIconData(0xebc7);
+  static const caretDoubleRightBold = PhosphorIconDataBold(0xebc7);
 
   /// ![caret-double-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-double-right-fill.svg)
-  static const caretDoubleRightFill = PhosphorIconData(0xebc8);
+  static const caretDoubleRightFill = PhosphorIconDataFill(0xebc8);
 
   /// ![caret-double-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-double-right-light.svg)
-  static const caretDoubleRightLight = PhosphorIconData(0xebc9);
+  static const caretDoubleRightLight = PhosphorIconDataLight(0xebc9);
 
   /// ![caret-double-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-double-right-thin.svg)
-  static const caretDoubleRightThin = PhosphorIconData(0xebca);
+  static const caretDoubleRightThin = PhosphorIconDataThin(0xebca);
 
   /// ![caret-double-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-double-up.svg)
-  static const caretDoubleUp = PhosphorIconData(0xebcb);
+  static const caretDoubleUp = PhosphorIconDataRegular(0xebcb);
 
   /// ![caret-double-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-double-up-bold.svg)
-  static const caretDoubleUpBold = PhosphorIconData(0xebcc);
+  static const caretDoubleUpBold = PhosphorIconDataBold(0xebcc);
 
   /// ![caret-double-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-double-up-fill.svg)
-  static const caretDoubleUpFill = PhosphorIconData(0xebcd);
+  static const caretDoubleUpFill = PhosphorIconDataFill(0xebcd);
 
   /// ![caret-double-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-double-up-light.svg)
-  static const caretDoubleUpLight = PhosphorIconData(0xebce);
+  static const caretDoubleUpLight = PhosphorIconDataLight(0xebce);
 
   /// ![caret-double-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-double-up-thin.svg)
-  static const caretDoubleUpThin = PhosphorIconData(0xebcf);
+  static const caretDoubleUpThin = PhosphorIconDataThin(0xebcf);
 
   /// ![caret-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-down.svg)
-  static const caretDown = PhosphorIconData(0xebd0);
+  static const caretDown = PhosphorIconDataRegular(0xebd0);
 
   /// ![caret-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-down-bold.svg)
-  static const caretDownBold = PhosphorIconData(0xebd1);
+  static const caretDownBold = PhosphorIconDataBold(0xebd1);
 
   /// ![caret-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-down-fill.svg)
-  static const caretDownFill = PhosphorIconData(0xebd2);
+  static const caretDownFill = PhosphorIconDataFill(0xebd2);
 
   /// ![caret-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-down-light.svg)
-  static const caretDownLight = PhosphorIconData(0xebd3);
+  static const caretDownLight = PhosphorIconDataLight(0xebd3);
 
   /// ![caret-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-down-thin.svg)
-  static const caretDownThin = PhosphorIconData(0xebd4);
+  static const caretDownThin = PhosphorIconDataThin(0xebd4);
 
   /// ![caret-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-left.svg)
-  static const caretLeft = PhosphorIconData(0xebd5);
+  static const caretLeft = PhosphorIconDataRegular(0xebd5);
 
   /// ![caret-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-left-bold.svg)
-  static const caretLeftBold = PhosphorIconData(0xebd6);
+  static const caretLeftBold = PhosphorIconDataBold(0xebd6);
 
   /// ![caret-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-left-fill.svg)
-  static const caretLeftFill = PhosphorIconData(0xebd7);
+  static const caretLeftFill = PhosphorIconDataFill(0xebd7);
 
   /// ![caret-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-left-light.svg)
-  static const caretLeftLight = PhosphorIconData(0xebd8);
+  static const caretLeftLight = PhosphorIconDataLight(0xebd8);
 
   /// ![caret-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-left-thin.svg)
-  static const caretLeftThin = PhosphorIconData(0xebd9);
+  static const caretLeftThin = PhosphorIconDataThin(0xebd9);
 
   /// ![caret-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-right.svg)
-  static const caretRight = PhosphorIconData(0xebda);
+  static const caretRight = PhosphorIconDataRegular(0xebda);
 
   /// ![caret-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-right-bold.svg)
-  static const caretRightBold = PhosphorIconData(0xebdb);
+  static const caretRightBold = PhosphorIconDataBold(0xebdb);
 
   /// ![caret-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-right-fill.svg)
-  static const caretRightFill = PhosphorIconData(0xebdc);
+  static const caretRightFill = PhosphorIconDataFill(0xebdc);
 
   /// ![caret-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-right-light.svg)
-  static const caretRightLight = PhosphorIconData(0xebdd);
+  static const caretRightLight = PhosphorIconDataLight(0xebdd);
 
   /// ![caret-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-right-thin.svg)
-  static const caretRightThin = PhosphorIconData(0xebde);
+  static const caretRightThin = PhosphorIconDataThin(0xebde);
 
   /// ![caret-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/caret-up.svg)
-  static const caretUp = PhosphorIconData(0xebdf);
+  static const caretUp = PhosphorIconDataRegular(0xebdf);
 
   /// ![caret-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/caret-up-bold.svg)
-  static const caretUpBold = PhosphorIconData(0xebe0);
+  static const caretUpBold = PhosphorIconDataBold(0xebe0);
 
   /// ![caret-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/caret-up-fill.svg)
-  static const caretUpFill = PhosphorIconData(0xebe1);
+  static const caretUpFill = PhosphorIconDataFill(0xebe1);
 
   /// ![caret-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/caret-up-light.svg)
-  static const caretUpLight = PhosphorIconData(0xebe2);
+  static const caretUpLight = PhosphorIconDataLight(0xebe2);
 
   /// ![caret-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/caret-up-thin.svg)
-  static const caretUpThin = PhosphorIconData(0xebe3);
+  static const caretUpThin = PhosphorIconDataThin(0xebe3);
 
   /// ![cell-signal-full](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cell-signal-full.svg)
-  static const cellSignalFull = PhosphorIconData(0xebe4);
+  static const cellSignalFull = PhosphorIconDataRegular(0xebe4);
 
   /// ![cell-signal-full-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cell-signal-full-bold.svg)
-  static const cellSignalFullBold = PhosphorIconData(0xebe5);
+  static const cellSignalFullBold = PhosphorIconDataBold(0xebe5);
 
   /// ![cell-signal-full-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cell-signal-full-fill.svg)
-  static const cellSignalFullFill = PhosphorIconData(0xebe6);
+  static const cellSignalFullFill = PhosphorIconDataFill(0xebe6);
 
   /// ![cell-signal-full-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cell-signal-full-light.svg)
-  static const cellSignalFullLight = PhosphorIconData(0xebe7);
+  static const cellSignalFullLight = PhosphorIconDataLight(0xebe7);
 
   /// ![cell-signal-full-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cell-signal-full-thin.svg)
-  static const cellSignalFullThin = PhosphorIconData(0xebe8);
+  static const cellSignalFullThin = PhosphorIconDataThin(0xebe8);
 
   /// ![cell-signal-high](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cell-signal-high.svg)
-  static const cellSignalHigh = PhosphorIconData(0xebe9);
+  static const cellSignalHigh = PhosphorIconDataRegular(0xebe9);
 
   /// ![cell-signal-high-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cell-signal-high-bold.svg)
-  static const cellSignalHighBold = PhosphorIconData(0xebea);
+  static const cellSignalHighBold = PhosphorIconDataBold(0xebea);
 
   /// ![cell-signal-high-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cell-signal-high-fill.svg)
-  static const cellSignalHighFill = PhosphorIconData(0xebeb);
+  static const cellSignalHighFill = PhosphorIconDataFill(0xebeb);
 
   /// ![cell-signal-high-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cell-signal-high-light.svg)
-  static const cellSignalHighLight = PhosphorIconData(0xebec);
+  static const cellSignalHighLight = PhosphorIconDataLight(0xebec);
 
   /// ![cell-signal-high-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cell-signal-high-thin.svg)
-  static const cellSignalHighThin = PhosphorIconData(0xebed);
+  static const cellSignalHighThin = PhosphorIconDataThin(0xebed);
 
   /// ![cell-signal-low](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cell-signal-low.svg)
-  static const cellSignalLow = PhosphorIconData(0xebee);
+  static const cellSignalLow = PhosphorIconDataRegular(0xebee);
 
   /// ![cell-signal-low-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cell-signal-low-bold.svg)
-  static const cellSignalLowBold = PhosphorIconData(0xebef);
+  static const cellSignalLowBold = PhosphorIconDataBold(0xebef);
 
   /// ![cell-signal-low-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cell-signal-low-fill.svg)
-  static const cellSignalLowFill = PhosphorIconData(0xebf0);
+  static const cellSignalLowFill = PhosphorIconDataFill(0xebf0);
 
   /// ![cell-signal-low-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cell-signal-low-light.svg)
-  static const cellSignalLowLight = PhosphorIconData(0xebf1);
+  static const cellSignalLowLight = PhosphorIconDataLight(0xebf1);
 
   /// ![cell-signal-low-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cell-signal-low-thin.svg)
-  static const cellSignalLowThin = PhosphorIconData(0xebf2);
+  static const cellSignalLowThin = PhosphorIconDataThin(0xebf2);
 
   /// ![cell-signal-medium](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cell-signal-medium.svg)
-  static const cellSignalMedium = PhosphorIconData(0xebf3);
+  static const cellSignalMedium = PhosphorIconDataRegular(0xebf3);
 
   /// ![cell-signal-medium-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cell-signal-medium-bold.svg)
-  static const cellSignalMediumBold = PhosphorIconData(0xebf4);
+  static const cellSignalMediumBold = PhosphorIconDataBold(0xebf4);
 
   /// ![cell-signal-medium-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cell-signal-medium-fill.svg)
-  static const cellSignalMediumFill = PhosphorIconData(0xebf5);
+  static const cellSignalMediumFill = PhosphorIconDataFill(0xebf5);
 
   /// ![cell-signal-medium-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cell-signal-medium-light.svg)
-  static const cellSignalMediumLight = PhosphorIconData(0xebf6);
+  static const cellSignalMediumLight = PhosphorIconDataLight(0xebf6);
 
   /// ![cell-signal-medium-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cell-signal-medium-thin.svg)
-  static const cellSignalMediumThin = PhosphorIconData(0xebf7);
+  static const cellSignalMediumThin = PhosphorIconDataThin(0xebf7);
 
   /// ![cell-signal-none](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cell-signal-none.svg)
-  static const cellSignalNone = PhosphorIconData(0xebf8);
+  static const cellSignalNone = PhosphorIconDataRegular(0xebf8);
 
   /// ![cell-signal-none-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cell-signal-none-bold.svg)
-  static const cellSignalNoneBold = PhosphorIconData(0xebf9);
+  static const cellSignalNoneBold = PhosphorIconDataBold(0xebf9);
 
   /// ![cell-signal-none-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cell-signal-none-fill.svg)
-  static const cellSignalNoneFill = PhosphorIconData(0xebfa);
+  static const cellSignalNoneFill = PhosphorIconDataFill(0xebfa);
 
   /// ![cell-signal-none-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cell-signal-none-light.svg)
-  static const cellSignalNoneLight = PhosphorIconData(0xebfb);
+  static const cellSignalNoneLight = PhosphorIconDataLight(0xebfb);
 
   /// ![cell-signal-none-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cell-signal-none-thin.svg)
-  static const cellSignalNoneThin = PhosphorIconData(0xebfc);
+  static const cellSignalNoneThin = PhosphorIconDataThin(0xebfc);
 
   /// ![cell-signal-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cell-signal-slash.svg)
-  static const cellSignalSlash = PhosphorIconData(0xebfd);
+  static const cellSignalSlash = PhosphorIconDataRegular(0xebfd);
 
   /// ![cell-signal-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cell-signal-slash-bold.svg)
-  static const cellSignalSlashBold = PhosphorIconData(0xebfe);
+  static const cellSignalSlashBold = PhosphorIconDataBold(0xebfe);
 
   /// ![cell-signal-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cell-signal-slash-fill.svg)
-  static const cellSignalSlashFill = PhosphorIconData(0xebff);
+  static const cellSignalSlashFill = PhosphorIconDataFill(0xebff);
 
   /// ![cell-signal-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cell-signal-slash-light.svg)
-  static const cellSignalSlashLight = PhosphorIconData(0xec00);
+  static const cellSignalSlashLight = PhosphorIconDataLight(0xec00);
 
   /// ![cell-signal-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cell-signal-slash-thin.svg)
-  static const cellSignalSlashThin = PhosphorIconData(0xec01);
+  static const cellSignalSlashThin = PhosphorIconDataThin(0xec01);
 
   /// ![cell-signal-x](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cell-signal-x.svg)
-  static const cellSignalX = PhosphorIconData(0xec02);
+  static const cellSignalX = PhosphorIconDataRegular(0xec02);
 
   /// ![cell-signal-x-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cell-signal-x-bold.svg)
-  static const cellSignalXBold = PhosphorIconData(0xec03);
+  static const cellSignalXBold = PhosphorIconDataBold(0xec03);
 
   /// ![cell-signal-x-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cell-signal-x-fill.svg)
-  static const cellSignalXFill = PhosphorIconData(0xec04);
+  static const cellSignalXFill = PhosphorIconDataFill(0xec04);
 
   /// ![cell-signal-x-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cell-signal-x-light.svg)
-  static const cellSignalXLight = PhosphorIconData(0xec05);
+  static const cellSignalXLight = PhosphorIconDataLight(0xec05);
 
   /// ![cell-signal-x-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cell-signal-x-thin.svg)
-  static const cellSignalXThin = PhosphorIconData(0xec06);
+  static const cellSignalXThin = PhosphorIconDataThin(0xec06);
 
   /// ![chart-bar](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chart-bar.svg)
-  static const chartBar = PhosphorIconData(0xec07);
+  static const chartBar = PhosphorIconDataRegular(0xec07);
 
   /// ![chart-bar-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chart-bar-bold.svg)
-  static const chartBarBold = PhosphorIconData(0xec08);
+  static const chartBarBold = PhosphorIconDataBold(0xec08);
 
   /// ![chart-bar-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chart-bar-fill.svg)
-  static const chartBarFill = PhosphorIconData(0xec09);
+  static const chartBarFill = PhosphorIconDataFill(0xec09);
 
   /// ![chart-bar-horizontal](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chart-bar-horizontal.svg)
-  static const chartBarHorizontal = PhosphorIconData(0xec0a);
+  static const chartBarHorizontal = PhosphorIconDataRegular(0xec0a);
 
   /// ![chart-bar-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chart-bar-horizontal-bold.svg)
-  static const chartBarHorizontalBold = PhosphorIconData(0xec0b);
+  static const chartBarHorizontalBold = PhosphorIconDataBold(0xec0b);
 
   /// ![chart-bar-horizontal-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chart-bar-horizontal-fill.svg)
-  static const chartBarHorizontalFill = PhosphorIconData(0xec0c);
+  static const chartBarHorizontalFill = PhosphorIconDataFill(0xec0c);
 
   /// ![chart-bar-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chart-bar-horizontal-light.svg)
-  static const chartBarHorizontalLight = PhosphorIconData(0xec0d);
+  static const chartBarHorizontalLight = PhosphorIconDataLight(0xec0d);
 
   /// ![chart-bar-horizontal-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chart-bar-horizontal-thin.svg)
-  static const chartBarHorizontalThin = PhosphorIconData(0xec0e);
+  static const chartBarHorizontalThin = PhosphorIconDataThin(0xec0e);
 
   /// ![chart-bar-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chart-bar-light.svg)
-  static const chartBarLight = PhosphorIconData(0xec0f);
+  static const chartBarLight = PhosphorIconDataLight(0xec0f);
 
   /// ![chart-bar-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chart-bar-thin.svg)
-  static const chartBarThin = PhosphorIconData(0xec10);
+  static const chartBarThin = PhosphorIconDataThin(0xec10);
 
   /// ![chart-line](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chart-line.svg)
-  static const chartLine = PhosphorIconData(0xec11);
+  static const chartLine = PhosphorIconDataRegular(0xec11);
 
   /// ![chart-line-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chart-line-bold.svg)
-  static const chartLineBold = PhosphorIconData(0xec12);
+  static const chartLineBold = PhosphorIconDataBold(0xec12);
 
   /// ![chart-line-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chart-line-fill.svg)
-  static const chartLineFill = PhosphorIconData(0xec13);
+  static const chartLineFill = PhosphorIconDataFill(0xec13);
 
   /// ![chart-line-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chart-line-light.svg)
-  static const chartLineLight = PhosphorIconData(0xec14);
+  static const chartLineLight = PhosphorIconDataLight(0xec14);
 
   /// ![chart-line-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chart-line-thin.svg)
-  static const chartLineThin = PhosphorIconData(0xec15);
+  static const chartLineThin = PhosphorIconDataThin(0xec15);
 
   /// ![chart-line-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chart-line-up.svg)
-  static const chartLineUp = PhosphorIconData(0xec16);
+  static const chartLineUp = PhosphorIconDataRegular(0xec16);
 
   /// ![chart-line-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chart-line-up-bold.svg)
-  static const chartLineUpBold = PhosphorIconData(0xec17);
+  static const chartLineUpBold = PhosphorIconDataBold(0xec17);
 
   /// ![chart-line-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chart-line-up-fill.svg)
-  static const chartLineUpFill = PhosphorIconData(0xec18);
+  static const chartLineUpFill = PhosphorIconDataFill(0xec18);
 
   /// ![chart-line-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chart-line-up-light.svg)
-  static const chartLineUpLight = PhosphorIconData(0xec19);
+  static const chartLineUpLight = PhosphorIconDataLight(0xec19);
 
   /// ![chart-line-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chart-line-up-thin.svg)
-  static const chartLineUpThin = PhosphorIconData(0xec1a);
+  static const chartLineUpThin = PhosphorIconDataThin(0xec1a);
 
   /// ![chart-pie](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chart-pie.svg)
-  static const chartPie = PhosphorIconData(0xec1b);
+  static const chartPie = PhosphorIconDataRegular(0xec1b);
 
   /// ![chart-pie-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chart-pie-bold.svg)
-  static const chartPieBold = PhosphorIconData(0xec1c);
+  static const chartPieBold = PhosphorIconDataBold(0xec1c);
 
   /// ![chart-pie-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chart-pie-fill.svg)
-  static const chartPieFill = PhosphorIconData(0xec1d);
+  static const chartPieFill = PhosphorIconDataFill(0xec1d);
 
   /// ![chart-pie-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chart-pie-light.svg)
-  static const chartPieLight = PhosphorIconData(0xec1e);
+  static const chartPieLight = PhosphorIconDataLight(0xec1e);
 
   /// ![chart-pie-slice](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chart-pie-slice.svg)
-  static const chartPieSlice = PhosphorIconData(0xec1f);
+  static const chartPieSlice = PhosphorIconDataRegular(0xec1f);
 
   /// ![chart-pie-slice-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chart-pie-slice-bold.svg)
-  static const chartPieSliceBold = PhosphorIconData(0xec20);
+  static const chartPieSliceBold = PhosphorIconDataBold(0xec20);
 
   /// ![chart-pie-slice-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chart-pie-slice-fill.svg)
-  static const chartPieSliceFill = PhosphorIconData(0xec21);
+  static const chartPieSliceFill = PhosphorIconDataFill(0xec21);
 
   /// ![chart-pie-slice-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chart-pie-slice-light.svg)
-  static const chartPieSliceLight = PhosphorIconData(0xec22);
+  static const chartPieSliceLight = PhosphorIconDataLight(0xec22);
 
   /// ![chart-pie-slice-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chart-pie-slice-thin.svg)
-  static const chartPieSliceThin = PhosphorIconData(0xec23);
+  static const chartPieSliceThin = PhosphorIconDataThin(0xec23);
 
   /// ![chart-pie-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chart-pie-thin.svg)
-  static const chartPieThin = PhosphorIconData(0xec24);
+  static const chartPieThin = PhosphorIconDataThin(0xec24);
 
   /// ![chat](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chat.svg)
-  static const chat = PhosphorIconData(0xec25);
+  static const chat = PhosphorIconDataRegular(0xec25);
 
   /// ![chat-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chat-bold.svg)
-  static const chatBold = PhosphorIconData(0xec26);
+  static const chatBold = PhosphorIconDataBold(0xec26);
 
   /// ![chat-centered](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chat-centered.svg)
-  static const chatCentered = PhosphorIconData(0xec27);
+  static const chatCentered = PhosphorIconDataRegular(0xec27);
 
   /// ![chat-centered-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chat-centered-bold.svg)
-  static const chatCenteredBold = PhosphorIconData(0xec28);
+  static const chatCenteredBold = PhosphorIconDataBold(0xec28);
 
   /// ![chat-centered-dots](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chat-centered-dots.svg)
-  static const chatCenteredDots = PhosphorIconData(0xec29);
+  static const chatCenteredDots = PhosphorIconDataRegular(0xec29);
 
   /// ![chat-centered-dots-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chat-centered-dots-bold.svg)
-  static const chatCenteredDotsBold = PhosphorIconData(0xec2a);
+  static const chatCenteredDotsBold = PhosphorIconDataBold(0xec2a);
 
   /// ![chat-centered-dots-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chat-centered-dots-fill.svg)
-  static const chatCenteredDotsFill = PhosphorIconData(0xec2b);
+  static const chatCenteredDotsFill = PhosphorIconDataFill(0xec2b);
 
   /// ![chat-centered-dots-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chat-centered-dots-light.svg)
-  static const chatCenteredDotsLight = PhosphorIconData(0xec2c);
+  static const chatCenteredDotsLight = PhosphorIconDataLight(0xec2c);
 
   /// ![chat-centered-dots-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chat-centered-dots-thin.svg)
-  static const chatCenteredDotsThin = PhosphorIconData(0xec2d);
+  static const chatCenteredDotsThin = PhosphorIconDataThin(0xec2d);
 
   /// ![chat-centered-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chat-centered-fill.svg)
-  static const chatCenteredFill = PhosphorIconData(0xec2e);
+  static const chatCenteredFill = PhosphorIconDataFill(0xec2e);
 
   /// ![chat-centered-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chat-centered-light.svg)
-  static const chatCenteredLight = PhosphorIconData(0xec2f);
+  static const chatCenteredLight = PhosphorIconDataLight(0xec2f);
 
   /// ![chat-centered-text](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chat-centered-text.svg)
-  static const chatCenteredText = PhosphorIconData(0xec30);
+  static const chatCenteredText = PhosphorIconDataRegular(0xec30);
 
   /// ![chat-centered-text-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chat-centered-text-bold.svg)
-  static const chatCenteredTextBold = PhosphorIconData(0xec31);
+  static const chatCenteredTextBold = PhosphorIconDataBold(0xec31);
 
   /// ![chat-centered-text-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chat-centered-text-fill.svg)
-  static const chatCenteredTextFill = PhosphorIconData(0xec32);
+  static const chatCenteredTextFill = PhosphorIconDataFill(0xec32);
 
   /// ![chat-centered-text-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chat-centered-text-light.svg)
-  static const chatCenteredTextLight = PhosphorIconData(0xec33);
+  static const chatCenteredTextLight = PhosphorIconDataLight(0xec33);
 
   /// ![chat-centered-text-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chat-centered-text-thin.svg)
-  static const chatCenteredTextThin = PhosphorIconData(0xec34);
+  static const chatCenteredTextThin = PhosphorIconDataThin(0xec34);
 
   /// ![chat-centered-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chat-centered-thin.svg)
-  static const chatCenteredThin = PhosphorIconData(0xec35);
+  static const chatCenteredThin = PhosphorIconDataThin(0xec35);
 
   /// ![chat-circle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chat-circle.svg)
-  static const chatCircle = PhosphorIconData(0xec36);
+  static const chatCircle = PhosphorIconDataRegular(0xec36);
 
   /// ![chat-circle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chat-circle-bold.svg)
-  static const chatCircleBold = PhosphorIconData(0xec37);
+  static const chatCircleBold = PhosphorIconDataBold(0xec37);
 
   /// ![chat-circle-dots](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chat-circle-dots.svg)
-  static const chatCircleDots = PhosphorIconData(0xec38);
+  static const chatCircleDots = PhosphorIconDataRegular(0xec38);
 
   /// ![chat-circle-dots-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chat-circle-dots-bold.svg)
-  static const chatCircleDotsBold = PhosphorIconData(0xec39);
+  static const chatCircleDotsBold = PhosphorIconDataBold(0xec39);
 
   /// ![chat-circle-dots-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chat-circle-dots-fill.svg)
-  static const chatCircleDotsFill = PhosphorIconData(0xec3a);
+  static const chatCircleDotsFill = PhosphorIconDataFill(0xec3a);
 
   /// ![chat-circle-dots-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chat-circle-dots-light.svg)
-  static const chatCircleDotsLight = PhosphorIconData(0xec3b);
+  static const chatCircleDotsLight = PhosphorIconDataLight(0xec3b);
 
   /// ![chat-circle-dots-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chat-circle-dots-thin.svg)
-  static const chatCircleDotsThin = PhosphorIconData(0xec3c);
+  static const chatCircleDotsThin = PhosphorIconDataThin(0xec3c);
 
   /// ![chat-circle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chat-circle-fill.svg)
-  static const chatCircleFill = PhosphorIconData(0xec3d);
+  static const chatCircleFill = PhosphorIconDataFill(0xec3d);
 
   /// ![chat-circle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chat-circle-light.svg)
-  static const chatCircleLight = PhosphorIconData(0xec3e);
+  static const chatCircleLight = PhosphorIconDataLight(0xec3e);
 
   /// ![chat-circle-text](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chat-circle-text.svg)
-  static const chatCircleText = PhosphorIconData(0xec3f);
+  static const chatCircleText = PhosphorIconDataRegular(0xec3f);
 
   /// ![chat-circle-text-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chat-circle-text-bold.svg)
-  static const chatCircleTextBold = PhosphorIconData(0xec40);
+  static const chatCircleTextBold = PhosphorIconDataBold(0xec40);
 
   /// ![chat-circle-text-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chat-circle-text-fill.svg)
-  static const chatCircleTextFill = PhosphorIconData(0xec41);
+  static const chatCircleTextFill = PhosphorIconDataFill(0xec41);
 
   /// ![chat-circle-text-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chat-circle-text-light.svg)
-  static const chatCircleTextLight = PhosphorIconData(0xec42);
+  static const chatCircleTextLight = PhosphorIconDataLight(0xec42);
 
   /// ![chat-circle-text-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chat-circle-text-thin.svg)
-  static const chatCircleTextThin = PhosphorIconData(0xec43);
+  static const chatCircleTextThin = PhosphorIconDataThin(0xec43);
 
   /// ![chat-circle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chat-circle-thin.svg)
-  static const chatCircleThin = PhosphorIconData(0xec44);
+  static const chatCircleThin = PhosphorIconDataThin(0xec44);
 
   /// ![chat-dots](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chat-dots.svg)
-  static const chatDots = PhosphorIconData(0xec45);
+  static const chatDots = PhosphorIconDataRegular(0xec45);
 
   /// ![chat-dots-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chat-dots-bold.svg)
-  static const chatDotsBold = PhosphorIconData(0xec46);
+  static const chatDotsBold = PhosphorIconDataBold(0xec46);
 
   /// ![chat-dots-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chat-dots-fill.svg)
-  static const chatDotsFill = PhosphorIconData(0xec47);
+  static const chatDotsFill = PhosphorIconDataFill(0xec47);
 
   /// ![chat-dots-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chat-dots-light.svg)
-  static const chatDotsLight = PhosphorIconData(0xec48);
+  static const chatDotsLight = PhosphorIconDataLight(0xec48);
 
   /// ![chat-dots-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chat-dots-thin.svg)
-  static const chatDotsThin = PhosphorIconData(0xec49);
+  static const chatDotsThin = PhosphorIconDataThin(0xec49);
 
   /// ![chat-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chat-fill.svg)
-  static const chatFill = PhosphorIconData(0xec4a);
+  static const chatFill = PhosphorIconDataFill(0xec4a);
 
   /// ![chat-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chat-light.svg)
-  static const chatLight = PhosphorIconData(0xec4b);
+  static const chatLight = PhosphorIconDataLight(0xec4b);
 
   /// ![chat-teardrop](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chat-teardrop.svg)
-  static const chatTeardrop = PhosphorIconData(0xec4c);
+  static const chatTeardrop = PhosphorIconDataRegular(0xec4c);
 
   /// ![chat-teardrop-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chat-teardrop-bold.svg)
-  static const chatTeardropBold = PhosphorIconData(0xec4d);
+  static const chatTeardropBold = PhosphorIconDataBold(0xec4d);
 
   /// ![chat-teardrop-dots](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chat-teardrop-dots.svg)
-  static const chatTeardropDots = PhosphorIconData(0xec4e);
+  static const chatTeardropDots = PhosphorIconDataRegular(0xec4e);
 
   /// ![chat-teardrop-dots-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chat-teardrop-dots-bold.svg)
-  static const chatTeardropDotsBold = PhosphorIconData(0xec4f);
+  static const chatTeardropDotsBold = PhosphorIconDataBold(0xec4f);
 
   /// ![chat-teardrop-dots-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chat-teardrop-dots-fill.svg)
-  static const chatTeardropDotsFill = PhosphorIconData(0xec50);
+  static const chatTeardropDotsFill = PhosphorIconDataFill(0xec50);
 
   /// ![chat-teardrop-dots-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chat-teardrop-dots-light.svg)
-  static const chatTeardropDotsLight = PhosphorIconData(0xec51);
+  static const chatTeardropDotsLight = PhosphorIconDataLight(0xec51);
 
   /// ![chat-teardrop-dots-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chat-teardrop-dots-thin.svg)
-  static const chatTeardropDotsThin = PhosphorIconData(0xec52);
+  static const chatTeardropDotsThin = PhosphorIconDataThin(0xec52);
 
   /// ![chat-teardrop-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chat-teardrop-fill.svg)
-  static const chatTeardropFill = PhosphorIconData(0xec53);
+  static const chatTeardropFill = PhosphorIconDataFill(0xec53);
 
   /// ![chat-teardrop-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chat-teardrop-light.svg)
-  static const chatTeardropLight = PhosphorIconData(0xec54);
+  static const chatTeardropLight = PhosphorIconDataLight(0xec54);
 
   /// ![chat-teardrop-text](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chat-teardrop-text.svg)
-  static const chatTeardropText = PhosphorIconData(0xec55);
+  static const chatTeardropText = PhosphorIconDataRegular(0xec55);
 
   /// ![chat-teardrop-text-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chat-teardrop-text-bold.svg)
-  static const chatTeardropTextBold = PhosphorIconData(0xec56);
+  static const chatTeardropTextBold = PhosphorIconDataBold(0xec56);
 
   /// ![chat-teardrop-text-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chat-teardrop-text-fill.svg)
-  static const chatTeardropTextFill = PhosphorIconData(0xec57);
+  static const chatTeardropTextFill = PhosphorIconDataFill(0xec57);
 
   /// ![chat-teardrop-text-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chat-teardrop-text-light.svg)
-  static const chatTeardropTextLight = PhosphorIconData(0xec58);
+  static const chatTeardropTextLight = PhosphorIconDataLight(0xec58);
 
   /// ![chat-teardrop-text-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chat-teardrop-text-thin.svg)
-  static const chatTeardropTextThin = PhosphorIconData(0xec59);
+  static const chatTeardropTextThin = PhosphorIconDataThin(0xec59);
 
   /// ![chat-teardrop-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chat-teardrop-thin.svg)
-  static const chatTeardropThin = PhosphorIconData(0xec5a);
+  static const chatTeardropThin = PhosphorIconDataThin(0xec5a);
 
   /// ![chat-text](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chat-text.svg)
-  static const chatText = PhosphorIconData(0xec5b);
+  static const chatText = PhosphorIconDataRegular(0xec5b);
 
   /// ![chat-text-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chat-text-bold.svg)
-  static const chatTextBold = PhosphorIconData(0xec5c);
+  static const chatTextBold = PhosphorIconDataBold(0xec5c);
 
   /// ![chat-text-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chat-text-fill.svg)
-  static const chatTextFill = PhosphorIconData(0xec5d);
+  static const chatTextFill = PhosphorIconDataFill(0xec5d);
 
   /// ![chat-text-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chat-text-light.svg)
-  static const chatTextLight = PhosphorIconData(0xec5e);
+  static const chatTextLight = PhosphorIconDataLight(0xec5e);
 
   /// ![chat-text-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chat-text-thin.svg)
-  static const chatTextThin = PhosphorIconData(0xec5f);
+  static const chatTextThin = PhosphorIconDataThin(0xec5f);
 
   /// ![chat-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chat-thin.svg)
-  static const chatThin = PhosphorIconData(0xec60);
+  static const chatThin = PhosphorIconDataThin(0xec60);
 
   /// ![chats](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chats.svg)
-  static const chats = PhosphorIconData(0xec61);
+  static const chats = PhosphorIconDataRegular(0xec61);
 
   /// ![chats-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chats-bold.svg)
-  static const chatsBold = PhosphorIconData(0xec62);
+  static const chatsBold = PhosphorIconDataBold(0xec62);
 
   /// ![chats-circle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chats-circle.svg)
-  static const chatsCircle = PhosphorIconData(0xec63);
+  static const chatsCircle = PhosphorIconDataRegular(0xec63);
 
   /// ![chats-circle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chats-circle-bold.svg)
-  static const chatsCircleBold = PhosphorIconData(0xec64);
+  static const chatsCircleBold = PhosphorIconDataBold(0xec64);
 
   /// ![chats-circle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chats-circle-fill.svg)
-  static const chatsCircleFill = PhosphorIconData(0xec65);
+  static const chatsCircleFill = PhosphorIconDataFill(0xec65);
 
   /// ![chats-circle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chats-circle-light.svg)
-  static const chatsCircleLight = PhosphorIconData(0xec66);
+  static const chatsCircleLight = PhosphorIconDataLight(0xec66);
 
   /// ![chats-circle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chats-circle-thin.svg)
-  static const chatsCircleThin = PhosphorIconData(0xec67);
+  static const chatsCircleThin = PhosphorIconDataThin(0xec67);
 
   /// ![chats-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chats-fill.svg)
-  static const chatsFill = PhosphorIconData(0xec68);
+  static const chatsFill = PhosphorIconDataFill(0xec68);
 
   /// ![chats-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chats-light.svg)
-  static const chatsLight = PhosphorIconData(0xec69);
+  static const chatsLight = PhosphorIconDataLight(0xec69);
 
   /// ![chats-teardrop](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/chats-teardrop.svg)
-  static const chatsTeardrop = PhosphorIconData(0xec6a);
+  static const chatsTeardrop = PhosphorIconDataRegular(0xec6a);
 
   /// ![chats-teardrop-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/chats-teardrop-bold.svg)
-  static const chatsTeardropBold = PhosphorIconData(0xec6b);
+  static const chatsTeardropBold = PhosphorIconDataBold(0xec6b);
 
   /// ![chats-teardrop-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/chats-teardrop-fill.svg)
-  static const chatsTeardropFill = PhosphorIconData(0xec6c);
+  static const chatsTeardropFill = PhosphorIconDataFill(0xec6c);
 
   /// ![chats-teardrop-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/chats-teardrop-light.svg)
-  static const chatsTeardropLight = PhosphorIconData(0xec6d);
+  static const chatsTeardropLight = PhosphorIconDataLight(0xec6d);
 
   /// ![chats-teardrop-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chats-teardrop-thin.svg)
-  static const chatsTeardropThin = PhosphorIconData(0xec6e);
+  static const chatsTeardropThin = PhosphorIconDataThin(0xec6e);
 
   /// ![chats-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/chats-thin.svg)
-  static const chatsThin = PhosphorIconData(0xec6f);
+  static const chatsThin = PhosphorIconDataThin(0xec6f);
 
   /// ![check](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/check.svg)
-  static const check = PhosphorIconData(0xec70);
+  static const check = PhosphorIconDataRegular(0xec70);
 
   /// ![check-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/check-bold.svg)
-  static const checkBold = PhosphorIconData(0xec71);
+  static const checkBold = PhosphorIconDataBold(0xec71);
 
   /// ![check-circle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/check-circle.svg)
-  static const checkCircle = PhosphorIconData(0xec72);
+  static const checkCircle = PhosphorIconDataRegular(0xec72);
 
   /// ![check-circle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/check-circle-bold.svg)
-  static const checkCircleBold = PhosphorIconData(0xec73);
+  static const checkCircleBold = PhosphorIconDataBold(0xec73);
 
   /// ![check-circle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/check-circle-fill.svg)
-  static const checkCircleFill = PhosphorIconData(0xec74);
+  static const checkCircleFill = PhosphorIconDataFill(0xec74);
 
   /// ![check-circle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/check-circle-light.svg)
-  static const checkCircleLight = PhosphorIconData(0xec75);
+  static const checkCircleLight = PhosphorIconDataLight(0xec75);
 
   /// ![check-circle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/check-circle-thin.svg)
-  static const checkCircleThin = PhosphorIconData(0xec76);
+  static const checkCircleThin = PhosphorIconDataThin(0xec76);
 
   /// ![check-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/check-fill.svg)
-  static const checkFill = PhosphorIconData(0xec77);
+  static const checkFill = PhosphorIconDataFill(0xec77);
 
   /// ![check-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/check-light.svg)
-  static const checkLight = PhosphorIconData(0xec78);
+  static const checkLight = PhosphorIconDataLight(0xec78);
 
   /// ![check-square](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/check-square.svg)
-  static const checkSquare = PhosphorIconData(0xec79);
+  static const checkSquare = PhosphorIconDataRegular(0xec79);
 
   /// ![check-square-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/check-square-bold.svg)
-  static const checkSquareBold = PhosphorIconData(0xec7a);
+  static const checkSquareBold = PhosphorIconDataBold(0xec7a);
 
   /// ![check-square-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/check-square-fill.svg)
-  static const checkSquareFill = PhosphorIconData(0xec7b);
+  static const checkSquareFill = PhosphorIconDataFill(0xec7b);
 
   /// ![check-square-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/check-square-light.svg)
-  static const checkSquareLight = PhosphorIconData(0xec7c);
+  static const checkSquareLight = PhosphorIconDataLight(0xec7c);
 
   /// ![check-square-offset](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/check-square-offset.svg)
-  static const checkSquareOffset = PhosphorIconData(0xec7d);
+  static const checkSquareOffset = PhosphorIconDataRegular(0xec7d);
 
   /// ![check-square-offset-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/check-square-offset-bold.svg)
-  static const checkSquareOffsetBold = PhosphorIconData(0xec7e);
+  static const checkSquareOffsetBold = PhosphorIconDataBold(0xec7e);
 
   /// ![check-square-offset-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/check-square-offset-fill.svg)
-  static const checkSquareOffsetFill = PhosphorIconData(0xec7f);
+  static const checkSquareOffsetFill = PhosphorIconDataFill(0xec7f);
 
   /// ![check-square-offset-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/check-square-offset-light.svg)
-  static const checkSquareOffsetLight = PhosphorIconData(0xec80);
+  static const checkSquareOffsetLight = PhosphorIconDataLight(0xec80);
 
   /// ![check-square-offset-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/check-square-offset-thin.svg)
-  static const checkSquareOffsetThin = PhosphorIconData(0xec81);
+  static const checkSquareOffsetThin = PhosphorIconDataThin(0xec81);
 
   /// ![check-square-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/check-square-thin.svg)
-  static const checkSquareThin = PhosphorIconData(0xec82);
+  static const checkSquareThin = PhosphorIconDataThin(0xec82);
 
   /// ![check-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/check-thin.svg)
-  static const checkThin = PhosphorIconData(0xec83);
+  static const checkThin = PhosphorIconDataThin(0xec83);
 
   /// ![circle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/circle.svg)
-  static const circle = PhosphorIconData(0xec84);
+  static const circle = PhosphorIconDataRegular(0xec84);
 
   /// ![circle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/circle-bold.svg)
-  static const circleBold = PhosphorIconData(0xec85);
+  static const circleBold = PhosphorIconDataBold(0xec85);
 
   /// ![circle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/circle-fill.svg)
-  static const circleFill = PhosphorIconData(0xec86);
+  static const circleFill = PhosphorIconDataFill(0xec86);
 
   /// ![circle-half](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/circle-half.svg)
-  static const circleHalf = PhosphorIconData(0xec87);
+  static const circleHalf = PhosphorIconDataRegular(0xec87);
 
   /// ![circle-half-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/circle-half-bold.svg)
-  static const circleHalfBold = PhosphorIconData(0xec88);
+  static const circleHalfBold = PhosphorIconDataBold(0xec88);
 
   /// ![circle-half-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/circle-half-fill.svg)
-  static const circleHalfFill = PhosphorIconData(0xec89);
+  static const circleHalfFill = PhosphorIconDataFill(0xec89);
 
   /// ![circle-half-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/circle-half-light.svg)
-  static const circleHalfLight = PhosphorIconData(0xec8a);
+  static const circleHalfLight = PhosphorIconDataLight(0xec8a);
 
   /// ![circle-half-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/circle-half-thin.svg)
-  static const circleHalfThin = PhosphorIconData(0xec8b);
+  static const circleHalfThin = PhosphorIconDataThin(0xec8b);
 
   /// ![circle-half-tilt](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/circle-half-tilt.svg)
-  static const circleHalfTilt = PhosphorIconData(0xec8c);
+  static const circleHalfTilt = PhosphorIconDataRegular(0xec8c);
 
   /// ![circle-half-tilt-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/circle-half-tilt-bold.svg)
-  static const circleHalfTiltBold = PhosphorIconData(0xec8d);
+  static const circleHalfTiltBold = PhosphorIconDataBold(0xec8d);
 
   /// ![circle-half-tilt-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/circle-half-tilt-fill.svg)
-  static const circleHalfTiltFill = PhosphorIconData(0xec8e);
+  static const circleHalfTiltFill = PhosphorIconDataFill(0xec8e);
 
   /// ![circle-half-tilt-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/circle-half-tilt-light.svg)
-  static const circleHalfTiltLight = PhosphorIconData(0xec8f);
+  static const circleHalfTiltLight = PhosphorIconDataLight(0xec8f);
 
   /// ![circle-half-tilt-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/circle-half-tilt-thin.svg)
-  static const circleHalfTiltThin = PhosphorIconData(0xec90);
+  static const circleHalfTiltThin = PhosphorIconDataThin(0xec90);
 
   /// ![circle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/circle-light.svg)
-  static const circleLight = PhosphorIconData(0xec91);
+  static const circleLight = PhosphorIconDataLight(0xec91);
 
   /// ![circle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/circle-thin.svg)
-  static const circleThin = PhosphorIconData(0xec92);
+  static const circleThin = PhosphorIconDataThin(0xec92);
 
   /// ![circles-four](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/circles-four.svg)
-  static const circlesFour = PhosphorIconData(0xec93);
+  static const circlesFour = PhosphorIconDataRegular(0xec93);
 
   /// ![circles-four-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/circles-four-bold.svg)
-  static const circlesFourBold = PhosphorIconData(0xec94);
+  static const circlesFourBold = PhosphorIconDataBold(0xec94);
 
   /// ![circles-four-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/circles-four-fill.svg)
-  static const circlesFourFill = PhosphorIconData(0xec95);
+  static const circlesFourFill = PhosphorIconDataFill(0xec95);
 
   /// ![circles-four-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/circles-four-light.svg)
-  static const circlesFourLight = PhosphorIconData(0xec96);
+  static const circlesFourLight = PhosphorIconDataLight(0xec96);
 
   /// ![circles-four-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/circles-four-thin.svg)
-  static const circlesFourThin = PhosphorIconData(0xec97);
+  static const circlesFourThin = PhosphorIconDataThin(0xec97);
 
   /// ![circles-three](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/circles-three.svg)
-  static const circlesThree = PhosphorIconData(0xec98);
+  static const circlesThree = PhosphorIconDataRegular(0xec98);
 
   /// ![circles-three-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/circles-three-bold.svg)
-  static const circlesThreeBold = PhosphorIconData(0xec99);
+  static const circlesThreeBold = PhosphorIconDataBold(0xec99);
 
   /// ![circles-three-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/circles-three-fill.svg)
-  static const circlesThreeFill = PhosphorIconData(0xec9a);
+  static const circlesThreeFill = PhosphorIconDataFill(0xec9a);
 
   /// ![circles-three-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/circles-three-light.svg)
-  static const circlesThreeLight = PhosphorIconData(0xec9b);
+  static const circlesThreeLight = PhosphorIconDataLight(0xec9b);
 
   /// ![circles-three-plus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/circles-three-plus.svg)
-  static const circlesThreePlus = PhosphorIconData(0xec9c);
+  static const circlesThreePlus = PhosphorIconDataRegular(0xec9c);
 
   /// ![circles-three-plus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/circles-three-plus-bold.svg)
-  static const circlesThreePlusBold = PhosphorIconData(0xec9d);
+  static const circlesThreePlusBold = PhosphorIconDataBold(0xec9d);
 
   /// ![circles-three-plus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/circles-three-plus-fill.svg)
-  static const circlesThreePlusFill = PhosphorIconData(0xec9e);
+  static const circlesThreePlusFill = PhosphorIconDataFill(0xec9e);
 
   /// ![circles-three-plus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/circles-three-plus-light.svg)
-  static const circlesThreePlusLight = PhosphorIconData(0xec9f);
+  static const circlesThreePlusLight = PhosphorIconDataLight(0xec9f);
 
   /// ![circles-three-plus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/circles-three-plus-thin.svg)
-  static const circlesThreePlusThin = PhosphorIconData(0xeca0);
+  static const circlesThreePlusThin = PhosphorIconDataThin(0xeca0);
 
   /// ![circles-three-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/circles-three-thin.svg)
-  static const circlesThreeThin = PhosphorIconData(0xeca1);
+  static const circlesThreeThin = PhosphorIconDataThin(0xeca1);
 
   /// ![clipboard](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/clipboard.svg)
-  static const clipboard = PhosphorIconData(0xeca2);
+  static const clipboard = PhosphorIconDataRegular(0xeca2);
 
   /// ![clipboard-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/clipboard-bold.svg)
-  static const clipboardBold = PhosphorIconData(0xeca3);
+  static const clipboardBold = PhosphorIconDataBold(0xeca3);
 
   /// ![clipboard-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/clipboard-fill.svg)
-  static const clipboardFill = PhosphorIconData(0xeca4);
+  static const clipboardFill = PhosphorIconDataFill(0xeca4);
 
   /// ![clipboard-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/clipboard-light.svg)
-  static const clipboardLight = PhosphorIconData(0xeca5);
+  static const clipboardLight = PhosphorIconDataLight(0xeca5);
 
   /// ![clipboard-text](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/clipboard-text.svg)
-  static const clipboardText = PhosphorIconData(0xeca6);
+  static const clipboardText = PhosphorIconDataRegular(0xeca6);
 
   /// ![clipboard-text-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/clipboard-text-bold.svg)
-  static const clipboardTextBold = PhosphorIconData(0xeca7);
+  static const clipboardTextBold = PhosphorIconDataBold(0xeca7);
 
   /// ![clipboard-text-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/clipboard-text-fill.svg)
-  static const clipboardTextFill = PhosphorIconData(0xeca8);
+  static const clipboardTextFill = PhosphorIconDataFill(0xeca8);
 
   /// ![clipboard-text-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/clipboard-text-light.svg)
-  static const clipboardTextLight = PhosphorIconData(0xeca9);
+  static const clipboardTextLight = PhosphorIconDataLight(0xeca9);
 
   /// ![clipboard-text-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/clipboard-text-thin.svg)
-  static const clipboardTextThin = PhosphorIconData(0xecaa);
+  static const clipboardTextThin = PhosphorIconDataThin(0xecaa);
 
   /// ![clipboard-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/clipboard-thin.svg)
-  static const clipboardThin = PhosphorIconData(0xecab);
+  static const clipboardThin = PhosphorIconDataThin(0xecab);
 
   /// ![clock](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/clock.svg)
-  static const clock = PhosphorIconData(0xecac);
+  static const clock = PhosphorIconDataRegular(0xecac);
 
   /// ![clock-afternoon](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/clock-afternoon.svg)
-  static const clockAfternoon = PhosphorIconData(0xecad);
+  static const clockAfternoon = PhosphorIconDataRegular(0xecad);
 
   /// ![clock-afternoon-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/clock-afternoon-bold.svg)
-  static const clockAfternoonBold = PhosphorIconData(0xecae);
+  static const clockAfternoonBold = PhosphorIconDataBold(0xecae);
 
   /// ![clock-afternoon-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/clock-afternoon-fill.svg)
-  static const clockAfternoonFill = PhosphorIconData(0xecaf);
+  static const clockAfternoonFill = PhosphorIconDataFill(0xecaf);
 
   /// ![clock-afternoon-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/clock-afternoon-light.svg)
-  static const clockAfternoonLight = PhosphorIconData(0xecb0);
+  static const clockAfternoonLight = PhosphorIconDataLight(0xecb0);
 
   /// ![clock-afternoon-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/clock-afternoon-thin.svg)
-  static const clockAfternoonThin = PhosphorIconData(0xecb1);
+  static const clockAfternoonThin = PhosphorIconDataThin(0xecb1);
 
   /// ![clock-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/clock-bold.svg)
-  static const clockBold = PhosphorIconData(0xecb2);
+  static const clockBold = PhosphorIconDataBold(0xecb2);
 
   /// ![clock-clockwise](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/clock-clockwise.svg)
-  static const clockClockwise = PhosphorIconData(0xecb3);
+  static const clockClockwise = PhosphorIconDataRegular(0xecb3);
 
   /// ![clock-clockwise-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/clock-clockwise-bold.svg)
-  static const clockClockwiseBold = PhosphorIconData(0xecb4);
+  static const clockClockwiseBold = PhosphorIconDataBold(0xecb4);
 
   /// ![clock-clockwise-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/clock-clockwise-fill.svg)
-  static const clockClockwiseFill = PhosphorIconData(0xecb5);
+  static const clockClockwiseFill = PhosphorIconDataFill(0xecb5);
 
   /// ![clock-clockwise-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/clock-clockwise-light.svg)
-  static const clockClockwiseLight = PhosphorIconData(0xecb6);
+  static const clockClockwiseLight = PhosphorIconDataLight(0xecb6);
 
   /// ![clock-clockwise-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/clock-clockwise-thin.svg)
-  static const clockClockwiseThin = PhosphorIconData(0xecb7);
+  static const clockClockwiseThin = PhosphorIconDataThin(0xecb7);
 
   /// ![clock-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/clock-counter-clockwise.svg)
-  static const clockCounterClockwise = PhosphorIconData(0xecb8);
+  static const clockCounterClockwise = PhosphorIconDataRegular(0xecb8);
 
   /// ![clock-counter-clockwise-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/clock-counter-clockwise-bold.svg)
-  static const clockCounterClockwiseBold = PhosphorIconData(0xecb9);
+  static const clockCounterClockwiseBold = PhosphorIconDataBold(0xecb9);
 
   /// ![clock-counter-clockwise-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/clock-counter-clockwise-fill.svg)
-  static const clockCounterClockwiseFill = PhosphorIconData(0xecba);
+  static const clockCounterClockwiseFill = PhosphorIconDataFill(0xecba);
 
   /// ![clock-counter-clockwise-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/clock-counter-clockwise-light.svg)
-  static const clockCounterClockwiseLight = PhosphorIconData(0xecbb);
+  static const clockCounterClockwiseLight = PhosphorIconDataLight(0xecbb);
 
   /// ![clock-counter-clockwise-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/clock-counter-clockwise-thin.svg)
-  static const clockCounterClockwiseThin = PhosphorIconData(0xecbc);
+  static const clockCounterClockwiseThin = PhosphorIconDataThin(0xecbc);
 
   /// ![clock-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/clock-fill.svg)
-  static const clockFill = PhosphorIconData(0xecbd);
+  static const clockFill = PhosphorIconDataFill(0xecbd);
 
   /// ![clock-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/clock-light.svg)
-  static const clockLight = PhosphorIconData(0xecbe);
+  static const clockLight = PhosphorIconDataLight(0xecbe);
 
   /// ![clock-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/clock-thin.svg)
-  static const clockThin = PhosphorIconData(0xecbf);
+  static const clockThin = PhosphorIconDataThin(0xecbf);
 
   /// ![closed-captioning](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/closed-captioning.svg)
-  static const closedCaptioning = PhosphorIconData(0xecc0);
+  static const closedCaptioning = PhosphorIconDataRegular(0xecc0);
 
   /// ![closed-captioning-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/closed-captioning-bold.svg)
-  static const closedCaptioningBold = PhosphorIconData(0xecc1);
+  static const closedCaptioningBold = PhosphorIconDataBold(0xecc1);
 
   /// ![closed-captioning-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/closed-captioning-fill.svg)
-  static const closedCaptioningFill = PhosphorIconData(0xecc2);
+  static const closedCaptioningFill = PhosphorIconDataFill(0xecc2);
 
   /// ![closed-captioning-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/closed-captioning-light.svg)
-  static const closedCaptioningLight = PhosphorIconData(0xecc3);
+  static const closedCaptioningLight = PhosphorIconDataLight(0xecc3);
 
   /// ![closed-captioning-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/closed-captioning-thin.svg)
-  static const closedCaptioningThin = PhosphorIconData(0xecc4);
+  static const closedCaptioningThin = PhosphorIconDataThin(0xecc4);
 
   /// ![cloud](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cloud.svg)
-  static const cloud = PhosphorIconData(0xecc5);
+  static const cloud = PhosphorIconDataRegular(0xecc5);
 
   /// ![cloud-arrow-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cloud-arrow-down.svg)
-  static const cloudArrowDown = PhosphorIconData(0xecc6);
+  static const cloudArrowDown = PhosphorIconDataRegular(0xecc6);
 
   /// ![cloud-arrow-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cloud-arrow-down-bold.svg)
-  static const cloudArrowDownBold = PhosphorIconData(0xecc7);
+  static const cloudArrowDownBold = PhosphorIconDataBold(0xecc7);
 
   /// ![cloud-arrow-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cloud-arrow-down-fill.svg)
-  static const cloudArrowDownFill = PhosphorIconData(0xecc8);
+  static const cloudArrowDownFill = PhosphorIconDataFill(0xecc8);
 
   /// ![cloud-arrow-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cloud-arrow-down-light.svg)
-  static const cloudArrowDownLight = PhosphorIconData(0xecc9);
+  static const cloudArrowDownLight = PhosphorIconDataLight(0xecc9);
 
   /// ![cloud-arrow-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cloud-arrow-down-thin.svg)
-  static const cloudArrowDownThin = PhosphorIconData(0xecca);
+  static const cloudArrowDownThin = PhosphorIconDataThin(0xecca);
 
   /// ![cloud-arrow-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cloud-arrow-up.svg)
-  static const cloudArrowUp = PhosphorIconData(0xeccb);
+  static const cloudArrowUp = PhosphorIconDataRegular(0xeccb);
 
   /// ![cloud-arrow-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cloud-arrow-up-bold.svg)
-  static const cloudArrowUpBold = PhosphorIconData(0xeccc);
+  static const cloudArrowUpBold = PhosphorIconDataBold(0xeccc);
 
   /// ![cloud-arrow-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cloud-arrow-up-fill.svg)
-  static const cloudArrowUpFill = PhosphorIconData(0xeccd);
+  static const cloudArrowUpFill = PhosphorIconDataFill(0xeccd);
 
   /// ![cloud-arrow-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cloud-arrow-up-light.svg)
-  static const cloudArrowUpLight = PhosphorIconData(0xecce);
+  static const cloudArrowUpLight = PhosphorIconDataLight(0xecce);
 
   /// ![cloud-arrow-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cloud-arrow-up-thin.svg)
-  static const cloudArrowUpThin = PhosphorIconData(0xeccf);
+  static const cloudArrowUpThin = PhosphorIconDataThin(0xeccf);
 
   /// ![cloud-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cloud-bold.svg)
-  static const cloudBold = PhosphorIconData(0xecd0);
+  static const cloudBold = PhosphorIconDataBold(0xecd0);
 
   /// ![cloud-check](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cloud-check.svg)
-  static const cloudCheck = PhosphorIconData(0xecd1);
+  static const cloudCheck = PhosphorIconDataRegular(0xecd1);
 
   /// ![cloud-check-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cloud-check-bold.svg)
-  static const cloudCheckBold = PhosphorIconData(0xecd2);
+  static const cloudCheckBold = PhosphorIconDataBold(0xecd2);
 
   /// ![cloud-check-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cloud-check-fill.svg)
-  static const cloudCheckFill = PhosphorIconData(0xecd3);
+  static const cloudCheckFill = PhosphorIconDataFill(0xecd3);
 
   /// ![cloud-check-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cloud-check-light.svg)
-  static const cloudCheckLight = PhosphorIconData(0xecd4);
+  static const cloudCheckLight = PhosphorIconDataLight(0xecd4);
 
   /// ![cloud-check-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cloud-check-thin.svg)
-  static const cloudCheckThin = PhosphorIconData(0xecd5);
+  static const cloudCheckThin = PhosphorIconDataThin(0xecd5);
 
   /// ![cloud-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cloud-fill.svg)
-  static const cloudFill = PhosphorIconData(0xecd6);
+  static const cloudFill = PhosphorIconDataFill(0xecd6);
 
   /// ![cloud-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cloud-light.svg)
-  static const cloudLight = PhosphorIconData(0xecd7);
+  static const cloudLight = PhosphorIconDataLight(0xecd7);
 
   /// ![cloud-lightning](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/lightning/cloud-lightning.svg)
-  static const cloudLightning = PhosphorIconData(0xecd8);
+  static const cloudLightning = PhosphorIconDataRegular(0xecd8);
 
   /// ![cloud-lightning-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cloud-lightning-bold.svg)
-  static const cloudLightningBold = PhosphorIconData(0xecd9);
+  static const cloudLightningBold = PhosphorIconDataBold(0xecd9);
 
   /// ![cloud-lightning-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cloud-lightning-fill.svg)
-  static const cloudLightningFill = PhosphorIconData(0xecda);
+  static const cloudLightningFill = PhosphorIconDataFill(0xecda);
 
   /// ![cloud-lightning-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cloud-lightning-light.svg)
-  static const cloudLightningLight = PhosphorIconData(0xecdb);
+  static const cloudLightningLight = PhosphorIconDataLight(0xecdb);
 
   /// ![cloud-lightning-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cloud-lightning-thin.svg)
-  static const cloudLightningThin = PhosphorIconData(0xecdc);
+  static const cloudLightningThin = PhosphorIconDataThin(0xecdc);
 
   /// ![cloud-rain](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cloud-rain.svg)
-  static const cloudRain = PhosphorIconData(0xecdd);
+  static const cloudRain = PhosphorIconDataRegular(0xecdd);
 
   /// ![cloud-rain-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cloud-rain-bold.svg)
-  static const cloudRainBold = PhosphorIconData(0xecde);
+  static const cloudRainBold = PhosphorIconDataBold(0xecde);
 
   /// ![cloud-rain-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cloud-rain-fill.svg)
-  static const cloudRainFill = PhosphorIconData(0xecdf);
+  static const cloudRainFill = PhosphorIconDataFill(0xecdf);
 
   /// ![cloud-rain-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cloud-rain-light.svg)
-  static const cloudRainLight = PhosphorIconData(0xece0);
+  static const cloudRainLight = PhosphorIconDataLight(0xece0);
 
   /// ![cloud-rain-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cloud-rain-thin.svg)
-  static const cloudRainThin = PhosphorIconData(0xece1);
+  static const cloudRainThin = PhosphorIconDataThin(0xece1);
 
   /// ![cloud-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cloud-slash.svg)
-  static const cloudSlash = PhosphorIconData(0xece2);
+  static const cloudSlash = PhosphorIconDataRegular(0xece2);
 
   /// ![cloud-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cloud-slash-bold.svg)
-  static const cloudSlashBold = PhosphorIconData(0xece3);
+  static const cloudSlashBold = PhosphorIconDataBold(0xece3);
 
   /// ![cloud-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cloud-slash-fill.svg)
-  static const cloudSlashFill = PhosphorIconData(0xece4);
+  static const cloudSlashFill = PhosphorIconDataFill(0xece4);
 
   /// ![cloud-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cloud-slash-light.svg)
-  static const cloudSlashLight = PhosphorIconData(0xece5);
+  static const cloudSlashLight = PhosphorIconDataLight(0xece5);
 
   /// ![cloud-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cloud-slash-thin.svg)
-  static const cloudSlashThin = PhosphorIconData(0xece6);
+  static const cloudSlashThin = PhosphorIconDataThin(0xece6);
 
   /// ![cloud-snow](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cloud-snow.svg)
-  static const cloudSnow = PhosphorIconData(0xece7);
+  static const cloudSnow = PhosphorIconDataRegular(0xece7);
 
   /// ![cloud-snow-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cloud-snow-bold.svg)
-  static const cloudSnowBold = PhosphorIconData(0xece8);
+  static const cloudSnowBold = PhosphorIconDataBold(0xece8);
 
   /// ![cloud-snow-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cloud-snow-fill.svg)
-  static const cloudSnowFill = PhosphorIconData(0xece9);
+  static const cloudSnowFill = PhosphorIconDataFill(0xece9);
 
   /// ![cloud-snow-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cloud-snow-light.svg)
-  static const cloudSnowLight = PhosphorIconData(0xecea);
+  static const cloudSnowLight = PhosphorIconDataLight(0xecea);
 
   /// ![cloud-snow-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cloud-snow-thin.svg)
-  static const cloudSnowThin = PhosphorIconData(0xeceb);
+  static const cloudSnowThin = PhosphorIconDataThin(0xeceb);
 
   /// ![cloud-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cloud-thin.svg)
-  static const cloudThin = PhosphorIconData(0xecec);
+  static const cloudThin = PhosphorIconDataThin(0xecec);
 
   /// ![club](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/club.svg)
-  static const club = PhosphorIconData(0xeced);
+  static const club = PhosphorIconDataRegular(0xeced);
 
   /// ![club-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/club-bold.svg)
-  static const clubBold = PhosphorIconData(0xecee);
+  static const clubBold = PhosphorIconDataBold(0xecee);
 
   /// ![club-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/club-fill.svg)
-  static const clubFill = PhosphorIconData(0xecef);
+  static const clubFill = PhosphorIconDataFill(0xecef);
 
   /// ![club-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/club-light.svg)
-  static const clubLight = PhosphorIconData(0xecf0);
+  static const clubLight = PhosphorIconDataLight(0xecf0);
 
   /// ![club-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/club-thin.svg)
-  static const clubThin = PhosphorIconData(0xecf1);
+  static const clubThin = PhosphorIconDataThin(0xecf1);
 
   /// ![code](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/code.svg)
-  static const code = PhosphorIconData(0xecf2);
+  static const code = PhosphorIconDataRegular(0xecf2);
 
   /// ![code-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/code-bold.svg)
-  static const codeBold = PhosphorIconData(0xecf3);
+  static const codeBold = PhosphorIconDataBold(0xecf3);
 
   /// ![code-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/code-fill.svg)
-  static const codeFill = PhosphorIconData(0xecf4);
+  static const codeFill = PhosphorIconDataFill(0xecf4);
 
   /// ![code-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/code-light.svg)
-  static const codeLight = PhosphorIconData(0xecf5);
+  static const codeLight = PhosphorIconDataLight(0xecf5);
 
   /// ![code-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/code-simple.svg)
-  static const codeSimple = PhosphorIconData(0xecf6);
+  static const codeSimple = PhosphorIconDataRegular(0xecf6);
 
   /// ![code-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/code-simple-bold.svg)
-  static const codeSimpleBold = PhosphorIconData(0xecf7);
+  static const codeSimpleBold = PhosphorIconDataBold(0xecf7);
 
   /// ![code-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/code-simple-fill.svg)
-  static const codeSimpleFill = PhosphorIconData(0xecf8);
+  static const codeSimpleFill = PhosphorIconDataFill(0xecf8);
 
   /// ![code-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/code-simple-light.svg)
-  static const codeSimpleLight = PhosphorIconData(0xecf9);
+  static const codeSimpleLight = PhosphorIconDataLight(0xecf9);
 
   /// ![code-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/code-simple-thin.svg)
-  static const codeSimpleThin = PhosphorIconData(0xecfa);
+  static const codeSimpleThin = PhosphorIconDataThin(0xecfa);
 
   /// ![code-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/code-thin.svg)
-  static const codeThin = PhosphorIconData(0xecfb);
+  static const codeThin = PhosphorIconDataThin(0xecfb);
 
   /// ![coffee](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/coffee.svg)
-  static const coffee = PhosphorIconData(0xecfc);
+  static const coffee = PhosphorIconDataRegular(0xecfc);
 
   /// ![coffee-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/coffee-bold.svg)
-  static const coffeeBold = PhosphorIconData(0xecfd);
+  static const coffeeBold = PhosphorIconDataBold(0xecfd);
 
   /// ![coffee-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/coffee-fill.svg)
-  static const coffeeFill = PhosphorIconData(0xecfe);
+  static const coffeeFill = PhosphorIconDataFill(0xecfe);
 
   /// ![coffee-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/coffee-light.svg)
-  static const coffeeLight = PhosphorIconData(0xecff);
+  static const coffeeLight = PhosphorIconDataLight(0xecff);
 
   /// ![coffee-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/coffee-thin.svg)
-  static const coffeeThin = PhosphorIconData(0xed00);
+  static const coffeeThin = PhosphorIconDataThin(0xed00);
 
   /// ![command](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/command.svg)
-  static const command = PhosphorIconData(0xed01);
+  static const command = PhosphorIconDataRegular(0xed01);
 
   /// ![command-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/command-bold.svg)
-  static const commandBold = PhosphorIconData(0xed02);
+  static const commandBold = PhosphorIconDataBold(0xed02);
 
   /// ![command-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/command-fill.svg)
-  static const commandFill = PhosphorIconData(0xed03);
+  static const commandFill = PhosphorIconDataFill(0xed03);
 
   /// ![command-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/command-light.svg)
-  static const commandLight = PhosphorIconData(0xed04);
+  static const commandLight = PhosphorIconDataLight(0xed04);
 
   /// ![command-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/command-thin.svg)
-  static const commandThin = PhosphorIconData(0xed05);
+  static const commandThin = PhosphorIconDataThin(0xed05);
 
   /// ![compass](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/compass.svg)
-  static const compass = PhosphorIconData(0xed06);
+  static const compass = PhosphorIconDataRegular(0xed06);
 
   /// ![compass-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/compass-bold.svg)
-  static const compassBold = PhosphorIconData(0xed07);
+  static const compassBold = PhosphorIconDataBold(0xed07);
 
   /// ![compass-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/compass-fill.svg)
-  static const compassFill = PhosphorIconData(0xed08);
+  static const compassFill = PhosphorIconDataFill(0xed08);
 
   /// ![compass-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/compass-light.svg)
-  static const compassLight = PhosphorIconData(0xed09);
+  static const compassLight = PhosphorIconDataLight(0xed09);
 
   /// ![compass-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/compass-thin.svg)
-  static const compassThin = PhosphorIconData(0xed0a);
+  static const compassThin = PhosphorIconDataThin(0xed0a);
 
   /// ![copy](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/copy.svg)
-  static const copy = PhosphorIconData(0xed0b);
+  static const copy = PhosphorIconDataRegular(0xed0b);
 
   /// ![copy-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/copy-bold.svg)
-  static const copyBold = PhosphorIconData(0xed0c);
+  static const copyBold = PhosphorIconDataBold(0xed0c);
 
   /// ![copy-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/copy-fill.svg)
-  static const copyFill = PhosphorIconData(0xed0d);
+  static const copyFill = PhosphorIconDataFill(0xed0d);
 
   /// ![copy-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/copy-light.svg)
-  static const copyLight = PhosphorIconData(0xed0e);
+  static const copyLight = PhosphorIconDataLight(0xed0e);
 
   /// ![copy-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/copy-simple.svg)
-  static const copySimple = PhosphorIconData(0xed0f);
+  static const copySimple = PhosphorIconDataRegular(0xed0f);
 
   /// ![copy-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/copy-simple-bold.svg)
-  static const copySimpleBold = PhosphorIconData(0xed10);
+  static const copySimpleBold = PhosphorIconDataBold(0xed10);
 
   /// ![copy-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/copy-simple-fill.svg)
-  static const copySimpleFill = PhosphorIconData(0xed11);
+  static const copySimpleFill = PhosphorIconDataFill(0xed11);
 
   /// ![copy-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/copy-simple-light.svg)
-  static const copySimpleLight = PhosphorIconData(0xed12);
+  static const copySimpleLight = PhosphorIconDataLight(0xed12);
 
   /// ![copy-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/copy-simple-thin.svg)
-  static const copySimpleThin = PhosphorIconData(0xed13);
+  static const copySimpleThin = PhosphorIconDataThin(0xed13);
 
   /// ![copy-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/copy-thin.svg)
-  static const copyThin = PhosphorIconData(0xed14);
+  static const copyThin = PhosphorIconDataThin(0xed14);
 
   /// ![corners-in](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/corners-in.svg)
-  static const cornersIn = PhosphorIconData(0xed15);
+  static const cornersIn = PhosphorIconDataRegular(0xed15);
 
   /// ![corners-in-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/corners-in-bold.svg)
-  static const cornersInBold = PhosphorIconData(0xed16);
+  static const cornersInBold = PhosphorIconDataBold(0xed16);
 
   /// ![corners-in-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/corners-in-fill.svg)
-  static const cornersInFill = PhosphorIconData(0xed17);
+  static const cornersInFill = PhosphorIconDataFill(0xed17);
 
   /// ![corners-in-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/corners-in-light.svg)
-  static const cornersInLight = PhosphorIconData(0xed18);
+  static const cornersInLight = PhosphorIconDataLight(0xed18);
 
   /// ![corners-in-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/corners-in-thin.svg)
-  static const cornersInThin = PhosphorIconData(0xed19);
+  static const cornersInThin = PhosphorIconDataThin(0xed19);
 
   /// ![corners-out](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/corners-out.svg)
-  static const cornersOut = PhosphorIconData(0xed1a);
+  static const cornersOut = PhosphorIconDataRegular(0xed1a);
 
   /// ![corners-out-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/corners-out-bold.svg)
-  static const cornersOutBold = PhosphorIconData(0xed1b);
+  static const cornersOutBold = PhosphorIconDataBold(0xed1b);
 
   /// ![corners-out-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/corners-out-fill.svg)
-  static const cornersOutFill = PhosphorIconData(0xed1c);
+  static const cornersOutFill = PhosphorIconDataFill(0xed1c);
 
   /// ![corners-out-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/corners-out-light.svg)
-  static const cornersOutLight = PhosphorIconData(0xed1d);
+  static const cornersOutLight = PhosphorIconDataLight(0xed1d);
 
   /// ![corners-out-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/corners-out-thin.svg)
-  static const cornersOutThin = PhosphorIconData(0xed1e);
+  static const cornersOutThin = PhosphorIconDataThin(0xed1e);
 
   /// ![credit-card](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/credit-card.svg)
-  static const creditCard = PhosphorIconData(0xed1f);
+  static const creditCard = PhosphorIconDataRegular(0xed1f);
 
   /// ![credit-card-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/credit-card-bold.svg)
-  static const creditCardBold = PhosphorIconData(0xed20);
+  static const creditCardBold = PhosphorIconDataBold(0xed20);
 
   /// ![credit-card-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/credit-card-fill.svg)
-  static const creditCardFill = PhosphorIconData(0xed21);
+  static const creditCardFill = PhosphorIconDataFill(0xed21);
 
   /// ![credit-card-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/credit-card-light.svg)
-  static const creditCardLight = PhosphorIconData(0xed22);
+  static const creditCardLight = PhosphorIconDataLight(0xed22);
 
   /// ![credit-card-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/credit-card-thin.svg)
-  static const creditCardThin = PhosphorIconData(0xed23);
+  static const creditCardThin = PhosphorIconDataThin(0xed23);
 
   /// ![crop](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/crop.svg)
-  static const crop = PhosphorIconData(0xed24);
+  static const crop = PhosphorIconDataRegular(0xed24);
 
   /// ![crop-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/crop-bold.svg)
-  static const cropBold = PhosphorIconData(0xed25);
+  static const cropBold = PhosphorIconDataBold(0xed25);
 
   /// ![crop-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/crop-fill.svg)
-  static const cropFill = PhosphorIconData(0xed26);
+  static const cropFill = PhosphorIconDataFill(0xed26);
 
   /// ![crop-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/crop-light.svg)
-  static const cropLight = PhosphorIconData(0xed27);
+  static const cropLight = PhosphorIconDataLight(0xed27);
 
   /// ![crop-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/crop-thin.svg)
-  static const cropThin = PhosphorIconData(0xed28);
+  static const cropThin = PhosphorIconDataThin(0xed28);
 
   /// ![crosshair](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/crosshair.svg)
-  static const crosshair = PhosphorIconData(0xed29);
+  static const crosshair = PhosphorIconDataRegular(0xed29);
 
   /// ![crosshair-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/crosshair-bold.svg)
-  static const crosshairBold = PhosphorIconData(0xed2a);
+  static const crosshairBold = PhosphorIconDataBold(0xed2a);
 
   /// ![crosshair-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/crosshair-fill.svg)
-  static const crosshairFill = PhosphorIconData(0xed2b);
+  static const crosshairFill = PhosphorIconDataFill(0xed2b);
 
   /// ![crosshair-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/crosshair-light.svg)
-  static const crosshairLight = PhosphorIconData(0xed2c);
+  static const crosshairLight = PhosphorIconDataLight(0xed2c);
 
   /// ![crosshair-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/crosshair-simple.svg)
-  static const crosshairSimple = PhosphorIconData(0xed2d);
+  static const crosshairSimple = PhosphorIconDataRegular(0xed2d);
 
   /// ![crosshair-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/crosshair-simple-bold.svg)
-  static const crosshairSimpleBold = PhosphorIconData(0xed2e);
+  static const crosshairSimpleBold = PhosphorIconDataBold(0xed2e);
 
   /// ![crosshair-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/crosshair-simple-fill.svg)
-  static const crosshairSimpleFill = PhosphorIconData(0xed2f);
+  static const crosshairSimpleFill = PhosphorIconDataFill(0xed2f);
 
   /// ![crosshair-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/crosshair-simple-light.svg)
-  static const crosshairSimpleLight = PhosphorIconData(0xed30);
+  static const crosshairSimpleLight = PhosphorIconDataLight(0xed30);
 
   /// ![crosshair-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/crosshair-simple-thin.svg)
-  static const crosshairSimpleThin = PhosphorIconData(0xed31);
+  static const crosshairSimpleThin = PhosphorIconDataThin(0xed31);
 
   /// ![crosshair-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/crosshair-thin.svg)
-  static const crosshairThin = PhosphorIconData(0xed32);
+  static const crosshairThin = PhosphorIconDataThin(0xed32);
 
   /// ![cube](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cube.svg)
-  static const cube = PhosphorIconData(0xed33);
+  static const cube = PhosphorIconDataRegular(0xed33);
 
   /// ![cube-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cube-bold.svg)
-  static const cubeBold = PhosphorIconData(0xed34);
+  static const cubeBold = PhosphorIconDataBold(0xed34);
 
   /// ![cube-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cube-fill.svg)
-  static const cubeFill = PhosphorIconData(0xed35);
+  static const cubeFill = PhosphorIconDataFill(0xed35);
 
   /// ![cube-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cube-light.svg)
-  static const cubeLight = PhosphorIconData(0xed36);
+  static const cubeLight = PhosphorIconDataLight(0xed36);
 
   /// ![cube-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cube-thin.svg)
-  static const cubeThin = PhosphorIconData(0xed37);
+  static const cubeThin = PhosphorIconDataThin(0xed37);
 
   /// ![cursor](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cursor.svg)
-  static const cursor = PhosphorIconData(0xed38);
+  static const cursor = PhosphorIconDataRegular(0xed38);
 
   /// ![cursor-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/cursor-bold.svg)
-  static const cursorBold = PhosphorIconData(0xed39);
+  static const cursorBold = PhosphorIconDataBold(0xed39);
 
   /// ![cursor-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/cursor-fill.svg)
-  static const cursorFill = PhosphorIconData(0xed3a);
+  static const cursorFill = PhosphorIconDataFill(0xed3a);
 
   /// ![cursor-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/cursor-light.svg)
-  static const cursorLight = PhosphorIconData(0xed3b);
+  static const cursorLight = PhosphorIconDataLight(0xed3b);
 
   /// ![cursor-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/cursor-thin.svg)
-  static const cursorThin = PhosphorIconData(0xed3c);
+  static const cursorThin = PhosphorIconDataThin(0xed3c);
 
   /// ![database](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/database.svg)
-  static const database = PhosphorIconData(0xed3d);
+  static const database = PhosphorIconDataRegular(0xed3d);
 
   /// ![database-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/database-bold.svg)
-  static const databaseBold = PhosphorIconData(0xed3e);
+  static const databaseBold = PhosphorIconDataBold(0xed3e);
 
   /// ![database-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/database-fill.svg)
-  static const databaseFill = PhosphorIconData(0xed3f);
+  static const databaseFill = PhosphorIconDataFill(0xed3f);
 
   /// ![database-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/database-light.svg)
-  static const databaseLight = PhosphorIconData(0xed40);
+  static const databaseLight = PhosphorIconDataLight(0xed40);
 
   /// ![database-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/database-thin.svg)
-  static const databaseThin = PhosphorIconData(0xed41);
+  static const databaseThin = PhosphorIconDataThin(0xed41);
 
   /// ![device-mobile](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/device-mobile.svg)
-  static const deviceMobile = PhosphorIconData(0xed42);
+  static const deviceMobile = PhosphorIconDataRegular(0xed42);
 
   /// ![device-mobile-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/device-mobile-bold.svg)
-  static const deviceMobileBold = PhosphorIconData(0xed43);
+  static const deviceMobileBold = PhosphorIconDataBold(0xed43);
 
   /// ![device-mobile-camera](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/device-mobile-camera.svg)
-  static const deviceMobileCamera = PhosphorIconData(0xed44);
+  static const deviceMobileCamera = PhosphorIconDataRegular(0xed44);
 
   /// ![device-mobile-camera-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/device-mobile-camera-bold.svg)
-  static const deviceMobileCameraBold = PhosphorIconData(0xed45);
+  static const deviceMobileCameraBold = PhosphorIconDataBold(0xed45);
 
   /// ![device-mobile-camera-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/device-mobile-camera-fill.svg)
-  static const deviceMobileCameraFill = PhosphorIconData(0xed46);
+  static const deviceMobileCameraFill = PhosphorIconDataFill(0xed46);
 
   /// ![device-mobile-camera-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/device-mobile-camera-light.svg)
-  static const deviceMobileCameraLight = PhosphorIconData(0xed47);
+  static const deviceMobileCameraLight = PhosphorIconDataLight(0xed47);
 
   /// ![device-mobile-camera-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/device-mobile-camera-thin.svg)
-  static const deviceMobileCameraThin = PhosphorIconData(0xed48);
+  static const deviceMobileCameraThin = PhosphorIconDataThin(0xed48);
 
   /// ![device-mobile-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/device-mobile-fill.svg)
-  static const deviceMobileFill = PhosphorIconData(0xed49);
+  static const deviceMobileFill = PhosphorIconDataFill(0xed49);
 
   /// ![device-mobile-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/device-mobile-light.svg)
-  static const deviceMobileLight = PhosphorIconData(0xed4a);
+  static const deviceMobileLight = PhosphorIconDataLight(0xed4a);
 
   /// ![device-mobile-speaker](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/device-mobile-speaker.svg)
-  static const deviceMobileSpeaker = PhosphorIconData(0xed4b);
+  static const deviceMobileSpeaker = PhosphorIconDataRegular(0xed4b);
 
   /// ![device-mobile-speaker-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/device-mobile-speaker-bold.svg)
-  static const deviceMobileSpeakerBold = PhosphorIconData(0xed4c);
+  static const deviceMobileSpeakerBold = PhosphorIconDataBold(0xed4c);
 
   /// ![device-mobile-speaker-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/device-mobile-speaker-fill.svg)
-  static const deviceMobileSpeakerFill = PhosphorIconData(0xed4d);
+  static const deviceMobileSpeakerFill = PhosphorIconDataFill(0xed4d);
 
   /// ![device-mobile-speaker-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/device-mobile-speaker-light.svg)
-  static const deviceMobileSpeakerLight = PhosphorIconData(0xed4e);
+  static const deviceMobileSpeakerLight = PhosphorIconDataLight(0xed4e);
 
   /// ![device-mobile-speaker-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/device-mobile-speaker-thin.svg)
-  static const deviceMobileSpeakerThin = PhosphorIconData(0xed4f);
+  static const deviceMobileSpeakerThin = PhosphorIconDataThin(0xed4f);
 
   /// ![device-mobile-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/device-mobile-thin.svg)
-  static const deviceMobileThin = PhosphorIconData(0xed50);
+  static const deviceMobileThin = PhosphorIconDataThin(0xed50);
 
   /// ![device-tablet](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/device-tablet.svg)
-  static const deviceTablet = PhosphorIconData(0xed51);
+  static const deviceTablet = PhosphorIconDataRegular(0xed51);
 
   /// ![device-tablet-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/device-tablet-bold.svg)
-  static const deviceTabletBold = PhosphorIconData(0xed52);
+  static const deviceTabletBold = PhosphorIconDataBold(0xed52);
 
   /// ![device-tablet-camera](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/device-tablet-camera.svg)
-  static const deviceTabletCamera = PhosphorIconData(0xed53);
+  static const deviceTabletCamera = PhosphorIconDataRegular(0xed53);
 
   /// ![device-tablet-camera-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/device-tablet-camera-bold.svg)
-  static const deviceTabletCameraBold = PhosphorIconData(0xed54);
+  static const deviceTabletCameraBold = PhosphorIconDataBold(0xed54);
 
   /// ![device-tablet-camera-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/device-tablet-camera-fill.svg)
-  static const deviceTabletCameraFill = PhosphorIconData(0xed55);
+  static const deviceTabletCameraFill = PhosphorIconDataFill(0xed55);
 
   /// ![device-tablet-camera-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/device-tablet-camera-light.svg)
-  static const deviceTabletCameraLight = PhosphorIconData(0xed56);
+  static const deviceTabletCameraLight = PhosphorIconDataLight(0xed56);
 
   /// ![device-tablet-camera-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/device-tablet-camera-thin.svg)
-  static const deviceTabletCameraThin = PhosphorIconData(0xed57);
+  static const deviceTabletCameraThin = PhosphorIconDataThin(0xed57);
 
   /// ![device-tablet-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/device-tablet-fill.svg)
-  static const deviceTabletFill = PhosphorIconData(0xed58);
+  static const deviceTabletFill = PhosphorIconDataFill(0xed58);
 
   /// ![device-tablet-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/device-tablet-light.svg)
-  static const deviceTabletLight = PhosphorIconData(0xed59);
+  static const deviceTabletLight = PhosphorIconDataLight(0xed59);
 
   /// ![device-tablet-speaker](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/device-tablet-speaker.svg)
-  static const deviceTabletSpeaker = PhosphorIconData(0xed5a);
+  static const deviceTabletSpeaker = PhosphorIconDataRegular(0xed5a);
 
   /// ![device-tablet-speaker-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/device-tablet-speaker-bold.svg)
-  static const deviceTabletSpeakerBold = PhosphorIconData(0xed5b);
+  static const deviceTabletSpeakerBold = PhosphorIconDataBold(0xed5b);
 
   /// ![device-tablet-speaker-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/device-tablet-speaker-fill.svg)
-  static const deviceTabletSpeakerFill = PhosphorIconData(0xed5c);
+  static const deviceTabletSpeakerFill = PhosphorIconDataFill(0xed5c);
 
   /// ![device-tablet-speaker-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/device-tablet-speaker-light.svg)
-  static const deviceTabletSpeakerLight = PhosphorIconData(0xed5d);
+  static const deviceTabletSpeakerLight = PhosphorIconDataLight(0xed5d);
 
   /// ![device-tablet-speaker-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/device-tablet-speaker-thin.svg)
-  static const deviceTabletSpeakerThin = PhosphorIconData(0xed5e);
+  static const deviceTabletSpeakerThin = PhosphorIconDataThin(0xed5e);
 
   /// ![device-tablet-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/device-tablet-thin.svg)
-  static const deviceTabletThin = PhosphorIconData(0xed5f);
+  static const deviceTabletThin = PhosphorIconDataThin(0xed5f);
 
   /// ![diamond](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/diamond.svg)
-  static const diamond = PhosphorIconData(0xed60);
+  static const diamond = PhosphorIconDataRegular(0xed60);
 
   /// ![diamond-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/diamond-bold.svg)
-  static const diamondBold = PhosphorIconData(0xed61);
+  static const diamondBold = PhosphorIconDataBold(0xed61);
 
   /// ![diamond-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/diamond-fill.svg)
-  static const diamondFill = PhosphorIconData(0xed62);
+  static const diamondFill = PhosphorIconDataFill(0xed62);
 
   /// ![diamond-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/diamond-light.svg)
-  static const diamondLight = PhosphorIconData(0xed63);
+  static const diamondLight = PhosphorIconDataLight(0xed63);
 
   /// ![diamond-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/diamond-thin.svg)
-  static const diamondThin = PhosphorIconData(0xed64);
+  static const diamondThin = PhosphorIconDataThin(0xed64);
 
   /// ![dice-five](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/dice-five.svg)
-  static const diceFive = PhosphorIconData(0xed65);
+  static const diceFive = PhosphorIconDataRegular(0xed65);
 
   /// ![dice-five-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/dice-five-bold.svg)
-  static const diceFiveBold = PhosphorIconData(0xed66);
+  static const diceFiveBold = PhosphorIconDataBold(0xed66);
 
   /// ![dice-five-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/dice-five-fill.svg)
-  static const diceFiveFill = PhosphorIconData(0xed67);
+  static const diceFiveFill = PhosphorIconDataFill(0xed67);
 
   /// ![dice-five-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/dice-five-light.svg)
-  static const diceFiveLight = PhosphorIconData(0xed68);
+  static const diceFiveLight = PhosphorIconDataLight(0xed68);
 
   /// ![dice-five-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/dice-five-thin.svg)
-  static const diceFiveThin = PhosphorIconData(0xed69);
+  static const diceFiveThin = PhosphorIconDataThin(0xed69);
 
   /// ![dice-four](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/dice-four.svg)
-  static const diceFour = PhosphorIconData(0xed6a);
+  static const diceFour = PhosphorIconDataRegular(0xed6a);
 
   /// ![dice-four-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/dice-four-bold.svg)
-  static const diceFourBold = PhosphorIconData(0xed6b);
+  static const diceFourBold = PhosphorIconDataBold(0xed6b);
 
   /// ![dice-four-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/dice-four-fill.svg)
-  static const diceFourFill = PhosphorIconData(0xed6c);
+  static const diceFourFill = PhosphorIconDataFill(0xed6c);
 
   /// ![dice-four-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/dice-four-light.svg)
-  static const diceFourLight = PhosphorIconData(0xed6d);
+  static const diceFourLight = PhosphorIconDataLight(0xed6d);
 
   /// ![dice-four-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/dice-four-thin.svg)
-  static const diceFourThin = PhosphorIconData(0xed6e);
+  static const diceFourThin = PhosphorIconDataThin(0xed6e);
 
   /// ![dice-one](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/dice-one.svg)
-  static const diceOne = PhosphorIconData(0xed6f);
+  static const diceOne = PhosphorIconDataRegular(0xed6f);
 
   /// ![dice-one-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/dice-one-bold.svg)
-  static const diceOneBold = PhosphorIconData(0xed70);
+  static const diceOneBold = PhosphorIconDataBold(0xed70);
 
   /// ![dice-one-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/dice-one-fill.svg)
-  static const diceOneFill = PhosphorIconData(0xed71);
+  static const diceOneFill = PhosphorIconDataFill(0xed71);
 
   /// ![dice-one-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/dice-one-light.svg)
-  static const diceOneLight = PhosphorIconData(0xed72);
+  static const diceOneLight = PhosphorIconDataLight(0xed72);
 
   /// ![dice-one-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/dice-one-thin.svg)
-  static const diceOneThin = PhosphorIconData(0xed73);
+  static const diceOneThin = PhosphorIconDataThin(0xed73);
 
   /// ![dice-six](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/dice-six.svg)
-  static const diceSix = PhosphorIconData(0xed74);
+  static const diceSix = PhosphorIconDataRegular(0xed74);
 
   /// ![dice-six-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/dice-six-bold.svg)
-  static const diceSixBold = PhosphorIconData(0xed75);
+  static const diceSixBold = PhosphorIconDataBold(0xed75);
 
   /// ![dice-six-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/dice-six-fill.svg)
-  static const diceSixFill = PhosphorIconData(0xed76);
+  static const diceSixFill = PhosphorIconDataFill(0xed76);
 
   /// ![dice-six-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/dice-six-light.svg)
-  static const diceSixLight = PhosphorIconData(0xed77);
+  static const diceSixLight = PhosphorIconDataLight(0xed77);
 
   /// ![dice-six-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/dice-six-thin.svg)
-  static const diceSixThin = PhosphorIconData(0xed78);
+  static const diceSixThin = PhosphorIconDataThin(0xed78);
 
   /// ![dice-three](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/dice-three.svg)
-  static const diceThree = PhosphorIconData(0xed79);
+  static const diceThree = PhosphorIconDataRegular(0xed79);
 
   /// ![dice-three-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/dice-three-bold.svg)
-  static const diceThreeBold = PhosphorIconData(0xed7a);
+  static const diceThreeBold = PhosphorIconDataBold(0xed7a);
 
   /// ![dice-three-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/dice-three-fill.svg)
-  static const diceThreeFill = PhosphorIconData(0xed7b);
+  static const diceThreeFill = PhosphorIconDataFill(0xed7b);
 
   /// ![dice-three-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/dice-three-light.svg)
-  static const diceThreeLight = PhosphorIconData(0xed7c);
+  static const diceThreeLight = PhosphorIconDataLight(0xed7c);
 
   /// ![dice-three-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/dice-three-thin.svg)
-  static const diceThreeThin = PhosphorIconData(0xed7d);
+  static const diceThreeThin = PhosphorIconDataThin(0xed7d);
 
   /// ![dice-two](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/dice-two.svg)
-  static const diceTwo = PhosphorIconData(0xed7e);
+  static const diceTwo = PhosphorIconDataRegular(0xed7e);
 
   /// ![dice-two-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/dice-two-bold.svg)
-  static const diceTwoBold = PhosphorIconData(0xed7f);
+  static const diceTwoBold = PhosphorIconDataBold(0xed7f);
 
   /// ![dice-two-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/dice-two-fill.svg)
-  static const diceTwoFill = PhosphorIconData(0xed80);
+  static const diceTwoFill = PhosphorIconDataFill(0xed80);
 
   /// ![dice-two-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/dice-two-light.svg)
-  static const diceTwoLight = PhosphorIconData(0xed81);
+  static const diceTwoLight = PhosphorIconDataLight(0xed81);
 
   /// ![dice-two-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/dice-two-thin.svg)
-  static const diceTwoThin = PhosphorIconData(0xed82);
+  static const diceTwoThin = PhosphorIconDataThin(0xed82);
 
   /// ![divide](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/divide.svg)
-  static const divide = PhosphorIconData(0xed83);
+  static const divide = PhosphorIconDataRegular(0xed83);
 
   /// ![divide-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/divide-bold.svg)
-  static const divideBold = PhosphorIconData(0xed84);
+  static const divideBold = PhosphorIconDataBold(0xed84);
 
   /// ![divide-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/divide-fill.svg)
-  static const divideFill = PhosphorIconData(0xed85);
+  static const divideFill = PhosphorIconDataFill(0xed85);
 
   /// ![divide-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/divide-light.svg)
-  static const divideLight = PhosphorIconData(0xed86);
+  static const divideLight = PhosphorIconDataLight(0xed86);
 
   /// ![divide-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/divide-thin.svg)
-  static const divideThin = PhosphorIconData(0xed87);
+  static const divideThin = PhosphorIconDataThin(0xed87);
 
   /// ![dots-nine](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/dots-nine.svg)
-  static const dotsNine = PhosphorIconData(0xed88);
+  static const dotsNine = PhosphorIconDataRegular(0xed88);
 
   /// ![dots-nine-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/dots-nine-bold.svg)
-  static const dotsNineBold = PhosphorIconData(0xed89);
+  static const dotsNineBold = PhosphorIconDataBold(0xed89);
 
   /// ![dots-nine-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/dots-nine-fill.svg)
-  static const dotsNineFill = PhosphorIconData(0xed8a);
+  static const dotsNineFill = PhosphorIconDataFill(0xed8a);
 
   /// ![dots-nine-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/dots-nine-light.svg)
-  static const dotsNineLight = PhosphorIconData(0xed8b);
+  static const dotsNineLight = PhosphorIconDataLight(0xed8b);
 
   /// ![dots-nine-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/dots-nine-thin.svg)
-  static const dotsNineThin = PhosphorIconData(0xed8c);
+  static const dotsNineThin = PhosphorIconDataThin(0xed8c);
 
   /// ![dots-three](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/dots-three.svg)
-  static const dotsThree = PhosphorIconData(0xed8d);
+  static const dotsThree = PhosphorIconDataRegular(0xed8d);
 
   /// ![dots-three-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/dots-three-bold.svg)
-  static const dotsThreeBold = PhosphorIconData(0xed8e);
+  static const dotsThreeBold = PhosphorIconDataBold(0xed8e);
 
   /// ![dots-three-circle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/dots-three-circle.svg)
-  static const dotsThreeCircle = PhosphorIconData(0xed8f);
+  static const dotsThreeCircle = PhosphorIconDataRegular(0xed8f);
 
   /// ![dots-three-circle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/dots-three-circle-bold.svg)
-  static const dotsThreeCircleBold = PhosphorIconData(0xed90);
+  static const dotsThreeCircleBold = PhosphorIconDataBold(0xed90);
 
   /// ![dots-three-circle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/dots-three-circle-fill.svg)
-  static const dotsThreeCircleFill = PhosphorIconData(0xed91);
+  static const dotsThreeCircleFill = PhosphorIconDataFill(0xed91);
 
   /// ![dots-three-circle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/dots-three-circle-light.svg)
-  static const dotsThreeCircleLight = PhosphorIconData(0xed92);
+  static const dotsThreeCircleLight = PhosphorIconDataLight(0xed92);
 
   /// ![dots-three-circle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/dots-three-circle-thin.svg)
-  static const dotsThreeCircleThin = PhosphorIconData(0xed93);
+  static const dotsThreeCircleThin = PhosphorIconDataThin(0xed93);
 
   /// ![dots-three-circle-vertical](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/dots-three-circle-vertical.svg)
-  static const dotsThreeCircleVertical = PhosphorIconData(0xed94);
+  static const dotsThreeCircleVertical = PhosphorIconDataRegular(0xed94);
 
   /// ![dots-three-circle-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/dots-three-circle-vertical-bold.svg)
-  static const dotsThreeCircleVerticalBold = PhosphorIconData(0xed95);
+  static const dotsThreeCircleVerticalBold = PhosphorIconDataBold(0xed95);
 
   /// ![dots-three-circle-vertical-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/dots-three-circle-vertical-fill.svg)
-  static const dotsThreeCircleVerticalFill = PhosphorIconData(0xed96);
+  static const dotsThreeCircleVerticalFill = PhosphorIconDataFill(0xed96);
 
   /// ![dots-three-circle-vertical-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/dots-three-circle-vertical-light.svg)
-  static const dotsThreeCircleVerticalLight = PhosphorIconData(0xed97);
+  static const dotsThreeCircleVerticalLight = PhosphorIconDataLight(0xed97);
 
   /// ![dots-three-circle-vertical-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/dots-three-circle-vertical-thin.svg)
-  static const dotsThreeCircleVerticalThin = PhosphorIconData(0xed98);
+  static const dotsThreeCircleVerticalThin = PhosphorIconDataThin(0xed98);
 
   /// ![dots-three-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/dots-three-fill.svg)
-  static const dotsThreeFill = PhosphorIconData(0xed99);
+  static const dotsThreeFill = PhosphorIconDataFill(0xed99);
 
   /// ![dots-three-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/dots-three-light.svg)
-  static const dotsThreeLight = PhosphorIconData(0xed9a);
+  static const dotsThreeLight = PhosphorIconDataLight(0xed9a);
 
   /// ![dots-three-outline](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/dots-three-outline.svg)
-  static const dotsThreeOutline = PhosphorIconData(0xed9b);
+  static const dotsThreeOutline = PhosphorIconDataRegular(0xed9b);
 
   /// ![dots-three-outline-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/dots-three-outline-bold.svg)
-  static const dotsThreeOutlineBold = PhosphorIconData(0xed9c);
+  static const dotsThreeOutlineBold = PhosphorIconDataBold(0xed9c);
 
   /// ![dots-three-outline-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/dots-three-outline-fill.svg)
-  static const dotsThreeOutlineFill = PhosphorIconData(0xed9d);
+  static const dotsThreeOutlineFill = PhosphorIconDataFill(0xed9d);
 
   /// ![dots-three-outline-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/dots-three-outline-light.svg)
-  static const dotsThreeOutlineLight = PhosphorIconData(0xed9e);
+  static const dotsThreeOutlineLight = PhosphorIconDataLight(0xed9e);
 
   /// ![dots-three-outline-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/dots-three-outline-thin.svg)
-  static const dotsThreeOutlineThin = PhosphorIconData(0xed9f);
+  static const dotsThreeOutlineThin = PhosphorIconDataThin(0xed9f);
 
   /// ![dots-three-outline-vertical](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/dots-three-outline-vertical.svg)
-  static const dotsThreeOutlineVertical = PhosphorIconData(0xeda0);
+  static const dotsThreeOutlineVertical = PhosphorIconDataRegular(0xeda0);
 
   /// ![dots-three-outline-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/dots-three-outline-vertical-bold.svg)
-  static const dotsThreeOutlineVerticalBold = PhosphorIconData(0xeda1);
+  static const dotsThreeOutlineVerticalBold = PhosphorIconDataBold(0xeda1);
 
   /// ![dots-three-outline-vertical-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/dots-three-outline-vertical-fill.svg)
-  static const dotsThreeOutlineVerticalFill = PhosphorIconData(0xeda2);
+  static const dotsThreeOutlineVerticalFill = PhosphorIconDataFill(0xeda2);
 
   /// ![dots-three-outline-vertical-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/dots-three-outline-vertical-light.svg)
-  static const dotsThreeOutlineVerticalLight = PhosphorIconData(0xeda3);
+  static const dotsThreeOutlineVerticalLight = PhosphorIconDataLight(0xeda3);
 
   /// ![dots-three-outline-vertical-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/dots-three-outline-vertical-thin.svg)
-  static const dotsThreeOutlineVerticalThin = PhosphorIconData(0xeda4);
+  static const dotsThreeOutlineVerticalThin = PhosphorIconDataThin(0xeda4);
 
   /// ![dots-three-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/dots-three-thin.svg)
-  static const dotsThreeThin = PhosphorIconData(0xeda5);
+  static const dotsThreeThin = PhosphorIconDataThin(0xeda5);
 
   /// ![dots-three-vertical](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/dots-three-vertical.svg)
-  static const dotsThreeVertical = PhosphorIconData(0xeda6);
+  static const dotsThreeVertical = PhosphorIconDataRegular(0xeda6);
 
   /// ![dots-three-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/dots-three-vertical-bold.svg)
-  static const dotsThreeVerticalBold = PhosphorIconData(0xeda7);
+  static const dotsThreeVerticalBold = PhosphorIconDataBold(0xeda7);
 
   /// ![dots-three-vertical-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/dots-three-vertical-fill.svg)
-  static const dotsThreeVerticalFill = PhosphorIconData(0xeda8);
+  static const dotsThreeVerticalFill = PhosphorIconDataFill(0xeda8);
 
   /// ![dots-three-vertical-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/dots-three-vertical-light.svg)
-  static const dotsThreeVerticalLight = PhosphorIconData(0xeda9);
+  static const dotsThreeVerticalLight = PhosphorIconDataLight(0xeda9);
 
   /// ![dots-three-vertical-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/dots-three-vertical-thin.svg)
-  static const dotsThreeVerticalThin = PhosphorIconData(0xedaa);
+  static const dotsThreeVerticalThin = PhosphorIconDataThin(0xedaa);
 
   /// ![download](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/download.svg)
-  static const download = PhosphorIconData(0xedab);
+  static const download = PhosphorIconDataRegular(0xedab);
 
   /// ![download-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/download-bold.svg)
-  static const downloadBold = PhosphorIconData(0xedac);
+  static const downloadBold = PhosphorIconDataBold(0xedac);
 
   /// ![download-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/download-fill.svg)
-  static const downloadFill = PhosphorIconData(0xedad);
+  static const downloadFill = PhosphorIconDataFill(0xedad);
 
   /// ![download-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/download-light.svg)
-  static const downloadLight = PhosphorIconData(0xedae);
+  static const downloadLight = PhosphorIconDataLight(0xedae);
 
   /// ![download-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/download-simple.svg)
-  static const downloadSimple = PhosphorIconData(0xedaf);
+  static const downloadSimple = PhosphorIconDataRegular(0xedaf);
 
   /// ![download-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/download-simple-bold.svg)
-  static const downloadSimpleBold = PhosphorIconData(0xedb0);
+  static const downloadSimpleBold = PhosphorIconDataBold(0xedb0);
 
   /// ![download-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/download-simple-fill.svg)
-  static const downloadSimpleFill = PhosphorIconData(0xedb1);
+  static const downloadSimpleFill = PhosphorIconDataFill(0xedb1);
 
   /// ![download-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/download-simple-light.svg)
-  static const downloadSimpleLight = PhosphorIconData(0xedb2);
+  static const downloadSimpleLight = PhosphorIconDataLight(0xedb2);
 
   /// ![download-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/download-simple-thin.svg)
-  static const downloadSimpleThin = PhosphorIconData(0xedb3);
+  static const downloadSimpleThin = PhosphorIconDataThin(0xedb3);
 
   /// ![download-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/download-thin.svg)
-  static const downloadThin = PhosphorIconData(0xedb4);
+  static const downloadThin = PhosphorIconDataThin(0xedb4);
 
   /// ![dribbble-logo](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/dribbble-logo.svg)
-  static const dribbbleLogo = PhosphorIconData(0xedb5);
+  static const dribbbleLogo = PhosphorIconDataRegular(0xedb5);
 
   /// ![dribbble-logo-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/dribbble-logo-bold.svg)
-  static const dribbbleLogoBold = PhosphorIconData(0xedb6);
+  static const dribbbleLogoBold = PhosphorIconDataBold(0xedb6);
 
   /// ![dribbble-logo-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/dribbble-logo-fill.svg)
-  static const dribbbleLogoFill = PhosphorIconData(0xedb7);
+  static const dribbbleLogoFill = PhosphorIconDataFill(0xedb7);
 
   /// ![dribbble-logo-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/dribbble-logo-light.svg)
-  static const dribbbleLogoLight = PhosphorIconData(0xedb8);
+  static const dribbbleLogoLight = PhosphorIconDataLight(0xedb8);
 
   /// ![dribbble-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/dribbble-logo-thin.svg)
-  static const dribbbleLogoThin = PhosphorIconData(0xedb9);
+  static const dribbbleLogoThin = PhosphorIconDataThin(0xedb9);
 
   /// ![drop](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/drop.svg)
-  static const drop = PhosphorIconData(0xedba);
+  static const drop = PhosphorIconDataRegular(0xedba);
 
   /// ![drop-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/drop-bold.svg)
-  static const dropBold = PhosphorIconData(0xedbb);
+  static const dropBold = PhosphorIconDataBold(0xedbb);
 
   /// ![drop-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/drop-fill.svg)
-  static const dropFill = PhosphorIconData(0xedbc);
+  static const dropFill = PhosphorIconDataFill(0xedbc);
 
   /// ![drop-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/drop-light.svg)
-  static const dropLight = PhosphorIconData(0xedbd);
+  static const dropLight = PhosphorIconDataLight(0xedbd);
 
   /// ![drop-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/drop-thin.svg)
-  static const dropThin = PhosphorIconData(0xedbe);
+  static const dropThin = PhosphorIconDataThin(0xedbe);
 
   /// ![eject](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/eject.svg)
-  static const eject = PhosphorIconData(0xedbf);
+  static const eject = PhosphorIconDataRegular(0xedbf);
 
   /// ![eject-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/eject-bold.svg)
-  static const ejectBold = PhosphorIconData(0xedc0);
+  static const ejectBold = PhosphorIconDataBold(0xedc0);
 
   /// ![eject-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/eject-fill.svg)
-  static const ejectFill = PhosphorIconData(0xedc1);
+  static const ejectFill = PhosphorIconDataFill(0xedc1);
 
   /// ![eject-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/eject-light.svg)
-  static const ejectLight = PhosphorIconData(0xedc2);
+  static const ejectLight = PhosphorIconDataLight(0xedc2);
 
   /// ![eject-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/eject-thin.svg)
-  static const ejectThin = PhosphorIconData(0xedc3);
+  static const ejectThin = PhosphorIconDataThin(0xedc3);
 
   /// ![envelope](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/envelope.svg)
-  static const envelope = PhosphorIconData(0xedc4);
+  static const envelope = PhosphorIconDataRegular(0xedc4);
 
   /// ![envelope-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/envelope-bold.svg)
-  static const envelopeBold = PhosphorIconData(0xedc5);
+  static const envelopeBold = PhosphorIconDataBold(0xedc5);
 
   /// ![envelope-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/envelope-fill.svg)
-  static const envelopeFill = PhosphorIconData(0xedc6);
+  static const envelopeFill = PhosphorIconDataFill(0xedc6);
 
   /// ![envelope-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/envelope-light.svg)
-  static const envelopeLight = PhosphorIconData(0xedc7);
+  static const envelopeLight = PhosphorIconDataLight(0xedc7);
 
   /// ![envelope-open](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/envelope-open.svg)
-  static const envelopeOpen = PhosphorIconData(0xedc8);
+  static const envelopeOpen = PhosphorIconDataRegular(0xedc8);
 
   /// ![envelope-open-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/envelope-open-bold.svg)
-  static const envelopeOpenBold = PhosphorIconData(0xedc9);
+  static const envelopeOpenBold = PhosphorIconDataBold(0xedc9);
 
   /// ![envelope-open-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/envelope-open-fill.svg)
-  static const envelopeOpenFill = PhosphorIconData(0xedca);
+  static const envelopeOpenFill = PhosphorIconDataFill(0xedca);
 
   /// ![envelope-open-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/envelope-open-light.svg)
-  static const envelopeOpenLight = PhosphorIconData(0xedcb);
+  static const envelopeOpenLight = PhosphorIconDataLight(0xedcb);
 
   /// ![envelope-open-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/envelope-open-thin.svg)
-  static const envelopeOpenThin = PhosphorIconData(0xedcc);
+  static const envelopeOpenThin = PhosphorIconDataThin(0xedcc);
 
   /// ![envelope-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/envelope-simple.svg)
-  static const envelopeSimple = PhosphorIconData(0xedcd);
+  static const envelopeSimple = PhosphorIconDataRegular(0xedcd);
 
   /// ![envelope-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/envelope-simple-bold.svg)
-  static const envelopeSimpleBold = PhosphorIconData(0xedce);
+  static const envelopeSimpleBold = PhosphorIconDataBold(0xedce);
 
   /// ![envelope-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/envelope-simple-fill.svg)
-  static const envelopeSimpleFill = PhosphorIconData(0xedcf);
+  static const envelopeSimpleFill = PhosphorIconDataFill(0xedcf);
 
   /// ![envelope-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/envelope-simple-light.svg)
-  static const envelopeSimpleLight = PhosphorIconData(0xedd0);
+  static const envelopeSimpleLight = PhosphorIconDataLight(0xedd0);
 
   /// ![envelope-simple-open](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/envelope-simple-open.svg)
-  static const envelopeSimpleOpen = PhosphorIconData(0xedd1);
+  static const envelopeSimpleOpen = PhosphorIconDataRegular(0xedd1);
 
   /// ![envelope-simple-open-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/envelope-simple-open-bold.svg)
-  static const envelopeSimpleOpenBold = PhosphorIconData(0xedd2);
+  static const envelopeSimpleOpenBold = PhosphorIconDataBold(0xedd2);
 
   /// ![envelope-simple-open-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/envelope-simple-open-fill.svg)
-  static const envelopeSimpleOpenFill = PhosphorIconData(0xedd3);
+  static const envelopeSimpleOpenFill = PhosphorIconDataFill(0xedd3);
 
   /// ![envelope-simple-open-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/envelope-simple-open-light.svg)
-  static const envelopeSimpleOpenLight = PhosphorIconData(0xedd4);
+  static const envelopeSimpleOpenLight = PhosphorIconDataLight(0xedd4);
 
   /// ![envelope-simple-open-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/envelope-simple-open-thin.svg)
-  static const envelopeSimpleOpenThin = PhosphorIconData(0xedd5);
+  static const envelopeSimpleOpenThin = PhosphorIconDataThin(0xedd5);
 
   /// ![envelope-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/envelope-simple-thin.svg)
-  static const envelopeSimpleThin = PhosphorIconData(0xedd6);
+  static const envelopeSimpleThin = PhosphorIconDataThin(0xedd6);
 
   /// ![envelope-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/envelope-thin.svg)
-  static const envelopeThin = PhosphorIconData(0xedd7);
+  static const envelopeThin = PhosphorIconDataThin(0xedd7);
 
   /// ![equals](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/equals.svg)
-  static const equals = PhosphorIconData(0xedd8);
+  static const equals = PhosphorIconDataRegular(0xedd8);
 
   /// ![equals-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/equals-bold.svg)
-  static const equalsBold = PhosphorIconData(0xedd9);
+  static const equalsBold = PhosphorIconDataBold(0xedd9);
 
   /// ![equals-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/equals-fill.svg)
-  static const equalsFill = PhosphorIconData(0xedda);
+  static const equalsFill = PhosphorIconDataFill(0xedda);
 
   /// ![equals-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/equals-light.svg)
-  static const equalsLight = PhosphorIconData(0xeddb);
+  static const equalsLight = PhosphorIconDataLight(0xeddb);
 
   /// ![equals-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/equals-thin.svg)
-  static const equalsThin = PhosphorIconData(0xeddc);
+  static const equalsThin = PhosphorIconDataThin(0xeddc);
 
   /// ![eraser](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/eraser.svg)
-  static const eraser = PhosphorIconData(0xeddd);
+  static const eraser = PhosphorIconDataRegular(0xeddd);
 
   /// ![eraser-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/eraser-bold.svg)
-  static const eraserBold = PhosphorIconData(0xedde);
+  static const eraserBold = PhosphorIconDataBold(0xedde);
 
   /// ![eraser-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/eraser-fill.svg)
-  static const eraserFill = PhosphorIconData(0xeddf);
+  static const eraserFill = PhosphorIconDataFill(0xeddf);
 
   /// ![eraser-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/eraser-light.svg)
-  static const eraserLight = PhosphorIconData(0xede0);
+  static const eraserLight = PhosphorIconDataLight(0xede0);
 
   /// ![eraser-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/eraser-thin.svg)
-  static const eraserThin = PhosphorIconData(0xede1);
+  static const eraserThin = PhosphorIconDataThin(0xede1);
 
   /// ![eye](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/eye.svg)
-  static const eye = PhosphorIconData(0xede2);
+  static const eye = PhosphorIconDataRegular(0xede2);
 
   /// ![eye-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/eye-bold.svg)
-  static const eyeBold = PhosphorIconData(0xede3);
+  static const eyeBold = PhosphorIconDataBold(0xede3);
 
   /// ![eye-closed](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/eye-closed.svg)
-  static const eyeClosed = PhosphorIconData(0xede4);
+  static const eyeClosed = PhosphorIconDataRegular(0xede4);
 
   /// ![eye-closed-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/eye-closed-bold.svg)
-  static const eyeClosedBold = PhosphorIconData(0xede5);
+  static const eyeClosedBold = PhosphorIconDataBold(0xede5);
 
   /// ![eye-closed-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/eye-closed-fill.svg)
-  static const eyeClosedFill = PhosphorIconData(0xede6);
+  static const eyeClosedFill = PhosphorIconDataFill(0xede6);
 
   /// ![eye-closed-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/eye-closed-light.svg)
-  static const eyeClosedLight = PhosphorIconData(0xede7);
+  static const eyeClosedLight = PhosphorIconDataLight(0xede7);
 
   /// ![eye-closed-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/eye-closed-thin.svg)
-  static const eyeClosedThin = PhosphorIconData(0xede8);
+  static const eyeClosedThin = PhosphorIconDataThin(0xede8);
 
   /// ![eye-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/eye-fill.svg)
-  static const eyeFill = PhosphorIconData(0xede9);
+  static const eyeFill = PhosphorIconDataFill(0xede9);
 
   /// ![eye-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/eye-light.svg)
-  static const eyeLight = PhosphorIconData(0xedea);
+  static const eyeLight = PhosphorIconDataLight(0xedea);
 
   /// ![eye-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/eye-slash.svg)
-  static const eyeSlash = PhosphorIconData(0xedeb);
+  static const eyeSlash = PhosphorIconDataRegular(0xedeb);
 
   /// ![eye-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/eye-slash-bold.svg)
-  static const eyeSlashBold = PhosphorIconData(0xedec);
+  static const eyeSlashBold = PhosphorIconDataBold(0xedec);
 
   /// ![eye-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/eye-slash-fill.svg)
-  static const eyeSlashFill = PhosphorIconData(0xeded);
+  static const eyeSlashFill = PhosphorIconDataFill(0xeded);
 
   /// ![eye-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/eye-slash-light.svg)
-  static const eyeSlashLight = PhosphorIconData(0xedee);
+  static const eyeSlashLight = PhosphorIconDataLight(0xedee);
 
   /// ![eye-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/eye-slash-thin.svg)
-  static const eyeSlashThin = PhosphorIconData(0xedef);
+  static const eyeSlashThin = PhosphorIconDataThin(0xedef);
 
   /// ![eye-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/eye-thin.svg)
-  static const eyeThin = PhosphorIconData(0xedf0);
+  static const eyeThin = PhosphorIconDataThin(0xedf0);
 
   /// ![facebook-logo](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/facebook-logo.svg)
-  static const facebookLogo = PhosphorIconData(0xedf1);
+  static const facebookLogo = PhosphorIconDataRegular(0xedf1);
 
   /// ![facebook-logo-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/facebook-logo-bold.svg)
-  static const facebookLogoBold = PhosphorIconData(0xedf2);
+  static const facebookLogoBold = PhosphorIconDataBold(0xedf2);
 
   /// ![facebook-logo-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/facebook-logo-fill.svg)
-  static const facebookLogoFill = PhosphorIconData(0xedf3);
+  static const facebookLogoFill = PhosphorIconDataFill(0xedf3);
 
   /// ![facebook-logo-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/facebook-logo-light.svg)
-  static const facebookLogoLight = PhosphorIconData(0xedf4);
+  static const facebookLogoLight = PhosphorIconDataLight(0xedf4);
 
   /// ![facebook-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/facebook-logo-thin.svg)
-  static const facebookLogoThin = PhosphorIconData(0xedf5);
+  static const facebookLogoThin = PhosphorIconDataThin(0xedf5);
 
   /// ![faders](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/faders.svg)
-  static const faders = PhosphorIconData(0xedf6);
+  static const faders = PhosphorIconDataRegular(0xedf6);
 
   /// ![faders-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/faders-bold.svg)
-  static const fadersBold = PhosphorIconData(0xedf7);
+  static const fadersBold = PhosphorIconDataBold(0xedf7);
 
   /// ![faders-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/faders-fill.svg)
-  static const fadersFill = PhosphorIconData(0xedf8);
+  static const fadersFill = PhosphorIconDataFill(0xedf8);
 
   /// ![faders-horizontal](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/faders-horizontal.svg)
-  static const fadersHorizontal = PhosphorIconData(0xedf9);
+  static const fadersHorizontal = PhosphorIconDataRegular(0xedf9);
 
   /// ![faders-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/faders-horizontal-bold.svg)
-  static const fadersHorizontalBold = PhosphorIconData(0xedfa);
+  static const fadersHorizontalBold = PhosphorIconDataBold(0xedfa);
 
   /// ![faders-horizontal-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/faders-horizontal-fill.svg)
-  static const fadersHorizontalFill = PhosphorIconData(0xedfb);
+  static const fadersHorizontalFill = PhosphorIconDataFill(0xedfb);
 
   /// ![faders-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/faders-horizontal-light.svg)
-  static const fadersHorizontalLight = PhosphorIconData(0xedfc);
+  static const fadersHorizontalLight = PhosphorIconDataLight(0xedfc);
 
   /// ![faders-horizontal-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/faders-horizontal-thin.svg)
-  static const fadersHorizontalThin = PhosphorIconData(0xedfd);
+  static const fadersHorizontalThin = PhosphorIconDataThin(0xedfd);
 
   /// ![faders-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/faders-light.svg)
-  static const fadersLight = PhosphorIconData(0xedfe);
+  static const fadersLight = PhosphorIconDataLight(0xedfe);
 
   /// ![faders-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/faders-thin.svg)
-  static const fadersThin = PhosphorIconData(0xedff);
+  static const fadersThin = PhosphorIconDataThin(0xedff);
 
   /// ![fast-forward](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/fast-forward.svg)
-  static const fastForward = PhosphorIconData(0xee00);
+  static const fastForward = PhosphorIconDataRegular(0xee00);
 
   /// ![fast-forward-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/fast-forward-bold.svg)
-  static const fastForwardBold = PhosphorIconData(0xee01);
+  static const fastForwardBold = PhosphorIconDataBold(0xee01);
 
   /// ![fast-forward-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/fast-forward-fill.svg)
-  static const fastForwardFill = PhosphorIconData(0xee02);
+  static const fastForwardFill = PhosphorIconDataFill(0xee02);
 
   /// ![fast-forward-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/fast-forward-light.svg)
-  static const fastForwardLight = PhosphorIconData(0xee03);
+  static const fastForwardLight = PhosphorIconDataLight(0xee03);
 
   /// ![fast-forward-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/fast-forward-thin.svg)
-  static const fastForwardThin = PhosphorIconData(0xee04);
+  static const fastForwardThin = PhosphorIconDataThin(0xee04);
 
   /// ![figma-logo](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/figma-logo.svg)
-  static const figmaLogo = PhosphorIconData(0xee05);
+  static const figmaLogo = PhosphorIconDataRegular(0xee05);
 
   /// ![figma-logo-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/figma-logo-bold.svg)
-  static const figmaLogoBold = PhosphorIconData(0xee06);
+  static const figmaLogoBold = PhosphorIconDataBold(0xee06);
 
   /// ![figma-logo-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/figma-logo-fill.svg)
-  static const figmaLogoFill = PhosphorIconData(0xee07);
+  static const figmaLogoFill = PhosphorIconDataFill(0xee07);
 
   /// ![figma-logo-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/figma-logo-light.svg)
-  static const figmaLogoLight = PhosphorIconData(0xee08);
+  static const figmaLogoLight = PhosphorIconDataLight(0xee08);
 
   /// ![figma-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/figma-logo-thin.svg)
-  static const figmaLogoThin = PhosphorIconData(0xee09);
+  static const figmaLogoThin = PhosphorIconDataThin(0xee09);
 
   /// ![file](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/file.svg)
-  static const file = PhosphorIconData(0xee0a);
+  static const file = PhosphorIconDataRegular(0xee0a);
 
   /// ![file-arrow-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/file-arrow-down.svg)
-  static const fileArrowDown = PhosphorIconData(0xee0b);
+  static const fileArrowDown = PhosphorIconDataRegular(0xee0b);
 
   /// ![file-arrow-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/file-arrow-down-bold.svg)
-  static const fileArrowDownBold = PhosphorIconData(0xee0c);
+  static const fileArrowDownBold = PhosphorIconDataBold(0xee0c);
 
   /// ![file-arrow-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/file-arrow-down-fill.svg)
-  static const fileArrowDownFill = PhosphorIconData(0xee0d);
+  static const fileArrowDownFill = PhosphorIconDataFill(0xee0d);
 
   /// ![file-arrow-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/file-arrow-down-light.svg)
-  static const fileArrowDownLight = PhosphorIconData(0xee0e);
+  static const fileArrowDownLight = PhosphorIconDataLight(0xee0e);
 
   /// ![file-arrow-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/file-arrow-down-thin.svg)
-  static const fileArrowDownThin = PhosphorIconData(0xee0f);
+  static const fileArrowDownThin = PhosphorIconDataThin(0xee0f);
 
   /// ![file-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/file-bold.svg)
-  static const fileBold = PhosphorIconData(0xee10);
+  static const fileBold = PhosphorIconDataBold(0xee10);
 
   /// ![file-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/file-fill.svg)
-  static const fileFill = PhosphorIconData(0xee11);
+  static const fileFill = PhosphorIconDataFill(0xee11);
 
   /// ![file-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/file-light.svg)
-  static const fileLight = PhosphorIconData(0xee12);
+  static const fileLight = PhosphorIconDataLight(0xee12);
 
   /// ![file-minus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/file-minus.svg)
-  static const fileMinus = PhosphorIconData(0xee13);
+  static const fileMinus = PhosphorIconDataRegular(0xee13);
 
   /// ![file-minus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/file-minus-bold.svg)
-  static const fileMinusBold = PhosphorIconData(0xee14);
+  static const fileMinusBold = PhosphorIconDataBold(0xee14);
 
   /// ![file-minus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/file-minus-fill.svg)
-  static const fileMinusFill = PhosphorIconData(0xee15);
+  static const fileMinusFill = PhosphorIconDataFill(0xee15);
 
   /// ![file-minus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/file-minus-light.svg)
-  static const fileMinusLight = PhosphorIconData(0xee16);
+  static const fileMinusLight = PhosphorIconDataLight(0xee16);
 
   /// ![file-minus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/file-minus-thin.svg)
-  static const fileMinusThin = PhosphorIconData(0xee17);
+  static const fileMinusThin = PhosphorIconDataThin(0xee17);
 
   /// ![file-plus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/file-plus.svg)
-  static const filePlus = PhosphorIconData(0xee18);
+  static const filePlus = PhosphorIconDataRegular(0xee18);
 
   /// ![file-plus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/file-plus-bold.svg)
-  static const filePlusBold = PhosphorIconData(0xee19);
+  static const filePlusBold = PhosphorIconDataBold(0xee19);
 
   /// ![file-plus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/file-plus-fill.svg)
-  static const filePlusFill = PhosphorIconData(0xee1a);
+  static const filePlusFill = PhosphorIconDataFill(0xee1a);
 
   /// ![file-plus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/file-plus-light.svg)
-  static const filePlusLight = PhosphorIconData(0xee1b);
+  static const filePlusLight = PhosphorIconDataLight(0xee1b);
 
   /// ![file-plus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/file-plus-thin.svg)
-  static const filePlusThin = PhosphorIconData(0xee1c);
+  static const filePlusThin = PhosphorIconDataThin(0xee1c);
 
   /// ![file-search](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/file-search.svg)
-  static const fileSearch = PhosphorIconData(0xee1d);
+  static const fileSearch = PhosphorIconDataRegular(0xee1d);
 
   /// ![file-search-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/file-search-bold.svg)
-  static const fileSearchBold = PhosphorIconData(0xee1e);
+  static const fileSearchBold = PhosphorIconDataBold(0xee1e);
 
   /// ![file-search-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/file-search-fill.svg)
-  static const fileSearchFill = PhosphorIconData(0xee1f);
+  static const fileSearchFill = PhosphorIconDataFill(0xee1f);
 
   /// ![file-search-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/file-search-light.svg)
-  static const fileSearchLight = PhosphorIconData(0xee20);
+  static const fileSearchLight = PhosphorIconDataLight(0xee20);
 
   /// ![file-search-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/file-search-thin.svg)
-  static const fileSearchThin = PhosphorIconData(0xee21);
+  static const fileSearchThin = PhosphorIconDataThin(0xee21);
 
   /// ![file-text](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/file-text.svg)
-  static const fileText = PhosphorIconData(0xee22);
+  static const fileText = PhosphorIconDataRegular(0xee22);
 
   /// ![file-text-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/file-text-bold.svg)
-  static const fileTextBold = PhosphorIconData(0xee23);
+  static const fileTextBold = PhosphorIconDataBold(0xee23);
 
   /// ![file-text-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/file-text-fill.svg)
-  static const fileTextFill = PhosphorIconData(0xee24);
+  static const fileTextFill = PhosphorIconDataFill(0xee24);
 
   /// ![file-text-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/file-text-light.svg)
-  static const fileTextLight = PhosphorIconData(0xee25);
+  static const fileTextLight = PhosphorIconDataLight(0xee25);
 
   /// ![file-text-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/file-text-thin.svg)
-  static const fileTextThin = PhosphorIconData(0xee26);
+  static const fileTextThin = PhosphorIconDataThin(0xee26);
 
   /// ![file-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/file-thin.svg)
-  static const fileThin = PhosphorIconData(0xee27);
+  static const fileThin = PhosphorIconDataThin(0xee27);
 
   /// ![file-x](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/file-x.svg)
-  static const fileX = PhosphorIconData(0xee28);
+  static const fileX = PhosphorIconDataRegular(0xee28);
 
   /// ![file-x-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/file-x-bold.svg)
-  static const fileXBold = PhosphorIconData(0xee29);
+  static const fileXBold = PhosphorIconDataBold(0xee29);
 
   /// ![file-x-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/file-x-fill.svg)
-  static const fileXFill = PhosphorIconData(0xee2a);
+  static const fileXFill = PhosphorIconDataFill(0xee2a);
 
   /// ![file-x-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/file-x-light.svg)
-  static const fileXLight = PhosphorIconData(0xee2b);
+  static const fileXLight = PhosphorIconDataLight(0xee2b);
 
   /// ![file-x-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/file-x-thin.svg)
-  static const fileXThin = PhosphorIconData(0xee2c);
+  static const fileXThin = PhosphorIconDataThin(0xee2c);
 
   /// ![fingerprint](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/fingerprint.svg)
-  static const fingerprint = PhosphorIconData(0xee2d);
+  static const fingerprint = PhosphorIconDataRegular(0xee2d);
 
   /// ![fingerprint-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/fingerprint-bold.svg)
-  static const fingerprintBold = PhosphorIconData(0xee2e);
+  static const fingerprintBold = PhosphorIconDataBold(0xee2e);
 
   /// ![fingerprint-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/fingerprint-fill.svg)
-  static const fingerprintFill = PhosphorIconData(0xee2f);
+  static const fingerprintFill = PhosphorIconDataFill(0xee2f);
 
   /// ![fingerprint-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/fingerprint-light.svg)
-  static const fingerprintLight = PhosphorIconData(0xee30);
+  static const fingerprintLight = PhosphorIconDataLight(0xee30);
 
   /// ![fingerprint-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/fingerprint-simple.svg)
-  static const fingerprintSimple = PhosphorIconData(0xee31);
+  static const fingerprintSimple = PhosphorIconDataRegular(0xee31);
 
   /// ![fingerprint-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/fingerprint-simple-bold.svg)
-  static const fingerprintSimpleBold = PhosphorIconData(0xee32);
+  static const fingerprintSimpleBold = PhosphorIconDataBold(0xee32);
 
   /// ![fingerprint-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/fingerprint-simple-fill.svg)
-  static const fingerprintSimpleFill = PhosphorIconData(0xee33);
+  static const fingerprintSimpleFill = PhosphorIconDataFill(0xee33);
 
   /// ![fingerprint-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/fingerprint-simple-light.svg)
-  static const fingerprintSimpleLight = PhosphorIconData(0xee34);
+  static const fingerprintSimpleLight = PhosphorIconDataLight(0xee34);
 
   /// ![fingerprint-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/fingerprint-simple-thin.svg)
-  static const fingerprintSimpleThin = PhosphorIconData(0xee35);
+  static const fingerprintSimpleThin = PhosphorIconDataThin(0xee35);
 
   /// ![fingerprint-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/fingerprint-thin.svg)
-  static const fingerprintThin = PhosphorIconData(0xee36);
+  static const fingerprintThin = PhosphorIconDataThin(0xee36);
 
   /// ![fire](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/fire.svg)
-  static const fire = PhosphorIconData(0xee37);
+  static const fire = PhosphorIconDataRegular(0xee37);
 
   /// ![fire-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/fire-bold.svg)
-  static const fireBold = PhosphorIconData(0xee38);
+  static const fireBold = PhosphorIconDataBold(0xee38);
 
   /// ![fire-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/fire-fill.svg)
-  static const fireFill = PhosphorIconData(0xee39);
+  static const fireFill = PhosphorIconDataFill(0xee39);
 
   /// ![fire-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/fire-light.svg)
-  static const fireLight = PhosphorIconData(0xee3a);
+  static const fireLight = PhosphorIconDataLight(0xee3a);
 
   /// ![fire-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/fire-thin.svg)
-  static const fireThin = PhosphorIconData(0xee3b);
+  static const fireThin = PhosphorIconDataThin(0xee3b);
 
   /// ![flag](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/flag.svg)
-  static const flag = PhosphorIconData(0xee3c);
+  static const flag = PhosphorIconDataRegular(0xee3c);
 
   /// ![flag-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/flag-bold.svg)
-  static const flagBold = PhosphorIconData(0xee3d);
+  static const flagBold = PhosphorIconDataBold(0xee3d);
 
   /// ![flag-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/flag-fill.svg)
-  static const flagFill = PhosphorIconData(0xee3e);
+  static const flagFill = PhosphorIconDataFill(0xee3e);
 
   /// ![flag-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/flag-light.svg)
-  static const flagLight = PhosphorIconData(0xee3f);
+  static const flagLight = PhosphorIconDataLight(0xee3f);
 
   /// ![flag-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/flag-thin.svg)
-  static const flagThin = PhosphorIconData(0xee40);
+  static const flagThin = PhosphorIconDataThin(0xee40);
 
   /// ![flashlight](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/flashlight/flashlight.svg)
-  static const flashlight = PhosphorIconData(0xee41);
+  static const flashlight = PhosphorIconDataRegular(0xee41);
 
   /// ![flashlight-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/flashlight-bold.svg)
-  static const flashlightBold = PhosphorIconData(0xee42);
+  static const flashlightBold = PhosphorIconDataBold(0xee42);
 
   /// ![flashlight-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/flashlight-fill.svg)
-  static const flashlightFill = PhosphorIconData(0xee43);
+  static const flashlightFill = PhosphorIconDataFill(0xee43);
 
   /// ![flashlight-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/flashlight-light.svg)
-  static const flashlightLight = PhosphorIconData(0xee44);
+  static const flashlightLight = PhosphorIconDataLight(0xee44);
 
   /// ![flashlight-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/flashlight-thin.svg)
-  static const flashlightThin = PhosphorIconData(0xee45);
+  static const flashlightThin = PhosphorIconDataThin(0xee45);
 
   /// ![floppy-disk](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/floppy-disk.svg)
-  static const floppyDisk = PhosphorIconData(0xee46);
+  static const floppyDisk = PhosphorIconDataRegular(0xee46);
 
   /// ![floppy-disk-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/floppy-disk-bold.svg)
-  static const floppyDiskBold = PhosphorIconData(0xee47);
+  static const floppyDiskBold = PhosphorIconDataBold(0xee47);
 
   /// ![floppy-disk-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/floppy-disk-fill.svg)
-  static const floppyDiskFill = PhosphorIconData(0xee48);
+  static const floppyDiskFill = PhosphorIconDataFill(0xee48);
 
   /// ![floppy-disk-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/floppy-disk-light.svg)
-  static const floppyDiskLight = PhosphorIconData(0xee49);
+  static const floppyDiskLight = PhosphorIconDataLight(0xee49);
 
   /// ![floppy-disk-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/floppy-disk-thin.svg)
-  static const floppyDiskThin = PhosphorIconData(0xee4a);
+  static const floppyDiskThin = PhosphorIconDataThin(0xee4a);
 
   /// ![folder](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/folder.svg)
-  static const folder = PhosphorIconData(0xee4b);
+  static const folder = PhosphorIconDataRegular(0xee4b);
 
   /// ![folder-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/folder-bold.svg)
-  static const folderBold = PhosphorIconData(0xee4c);
+  static const folderBold = PhosphorIconDataBold(0xee4c);
 
   /// ![folder-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/folder-fill.svg)
-  static const folderFill = PhosphorIconData(0xee4d);
+  static const folderFill = PhosphorIconDataFill(0xee4d);
 
   /// ![folder-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/folder-light.svg)
-  static const folderLight = PhosphorIconData(0xee4e);
+  static const folderLight = PhosphorIconDataLight(0xee4e);
 
   /// ![folder-minus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/folder-minus.svg)
-  static const folderMinus = PhosphorIconData(0xee4f);
+  static const folderMinus = PhosphorIconDataRegular(0xee4f);
 
   /// ![folder-minus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/folder-minus-bold.svg)
-  static const folderMinusBold = PhosphorIconData(0xee50);
+  static const folderMinusBold = PhosphorIconDataBold(0xee50);
 
   /// ![folder-minus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/folder-minus-fill.svg)
-  static const folderMinusFill = PhosphorIconData(0xee51);
+  static const folderMinusFill = PhosphorIconDataFill(0xee51);
 
   /// ![folder-minus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/folder-minus-light.svg)
-  static const folderMinusLight = PhosphorIconData(0xee52);
+  static const folderMinusLight = PhosphorIconDataLight(0xee52);
 
   /// ![folder-minus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/folder-minus-thin.svg)
-  static const folderMinusThin = PhosphorIconData(0xee53);
+  static const folderMinusThin = PhosphorIconDataThin(0xee53);
 
   /// ![folder-notch](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/folder-notch.svg)
-  static const folderNotch = PhosphorIconData(0xee54);
+  static const folderNotch = PhosphorIconDataRegular(0xee54);
 
   /// ![folder-notch-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/folder-notch-bold.svg)
-  static const folderNotchBold = PhosphorIconData(0xee55);
+  static const folderNotchBold = PhosphorIconDataBold(0xee55);
 
   /// ![folder-notch-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/folder-notch-fill.svg)
-  static const folderNotchFill = PhosphorIconData(0xee56);
+  static const folderNotchFill = PhosphorIconDataFill(0xee56);
 
   /// ![folder-notch-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/folder-notch-light.svg)
-  static const folderNotchLight = PhosphorIconData(0xee57);
+  static const folderNotchLight = PhosphorIconDataLight(0xee57);
 
   /// ![folder-notch-minus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/folder-notch-minus.svg)
-  static const folderNotchMinus = PhosphorIconData(0xee58);
+  static const folderNotchMinus = PhosphorIconDataRegular(0xee58);
 
   /// ![folder-notch-minus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/folder-notch-minus-bold.svg)
-  static const folderNotchMinusBold = PhosphorIconData(0xee59);
+  static const folderNotchMinusBold = PhosphorIconDataBold(0xee59);
 
   /// ![folder-notch-minus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/folder-notch-minus-fill.svg)
-  static const folderNotchMinusFill = PhosphorIconData(0xee5a);
+  static const folderNotchMinusFill = PhosphorIconDataFill(0xee5a);
 
   /// ![folder-notch-minus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/folder-notch-minus-light.svg)
-  static const folderNotchMinusLight = PhosphorIconData(0xee5b);
+  static const folderNotchMinusLight = PhosphorIconDataLight(0xee5b);
 
   /// ![folder-notch-minus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/folder-notch-minus-thin.svg)
-  static const folderNotchMinusThin = PhosphorIconData(0xee5c);
+  static const folderNotchMinusThin = PhosphorIconDataThin(0xee5c);
 
   /// ![folder-notch-open](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/folder-notch-open.svg)
-  static const folderNotchOpen = PhosphorIconData(0xee5d);
+  static const folderNotchOpen = PhosphorIconDataRegular(0xee5d);
 
   /// ![folder-notch-open-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/folder-notch-open-bold.svg)
-  static const folderNotchOpenBold = PhosphorIconData(0xee5e);
+  static const folderNotchOpenBold = PhosphorIconDataBold(0xee5e);
 
   /// ![folder-notch-open-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/folder-notch-open-fill.svg)
-  static const folderNotchOpenFill = PhosphorIconData(0xee5f);
+  static const folderNotchOpenFill = PhosphorIconDataFill(0xee5f);
 
   /// ![folder-notch-open-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/folder-notch-open-light.svg)
-  static const folderNotchOpenLight = PhosphorIconData(0xee60);
+  static const folderNotchOpenLight = PhosphorIconDataLight(0xee60);
 
   /// ![folder-notch-open-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/folder-notch-open-thin.svg)
-  static const folderNotchOpenThin = PhosphorIconData(0xee61);
+  static const folderNotchOpenThin = PhosphorIconDataThin(0xee61);
 
   /// ![folder-notch-plus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/folder-notch-plus.svg)
-  static const folderNotchPlus = PhosphorIconData(0xee62);
+  static const folderNotchPlus = PhosphorIconDataRegular(0xee62);
 
   /// ![folder-notch-plus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/folder-notch-plus-bold.svg)
-  static const folderNotchPlusBold = PhosphorIconData(0xee63);
+  static const folderNotchPlusBold = PhosphorIconDataBold(0xee63);
 
   /// ![folder-notch-plus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/folder-notch-plus-fill.svg)
-  static const folderNotchPlusFill = PhosphorIconData(0xee64);
+  static const folderNotchPlusFill = PhosphorIconDataFill(0xee64);
 
   /// ![folder-notch-plus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/folder-notch-plus-light.svg)
-  static const folderNotchPlusLight = PhosphorIconData(0xee65);
+  static const folderNotchPlusLight = PhosphorIconDataLight(0xee65);
 
   /// ![folder-notch-plus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/folder-notch-plus-thin.svg)
-  static const folderNotchPlusThin = PhosphorIconData(0xee66);
+  static const folderNotchPlusThin = PhosphorIconDataThin(0xee66);
 
   /// ![folder-notch-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/folder-notch-thin.svg)
-  static const folderNotchThin = PhosphorIconData(0xee67);
+  static const folderNotchThin = PhosphorIconDataThin(0xee67);
 
   /// ![folder-open](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/folder-open.svg)
-  static const folderOpen = PhosphorIconData(0xee68);
+  static const folderOpen = PhosphorIconDataRegular(0xee68);
 
   /// ![folder-open-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/folder-open-bold.svg)
-  static const folderOpenBold = PhosphorIconData(0xee69);
+  static const folderOpenBold = PhosphorIconDataBold(0xee69);
 
   /// ![folder-open-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/folder-open-fill.svg)
-  static const folderOpenFill = PhosphorIconData(0xee6a);
+  static const folderOpenFill = PhosphorIconDataFill(0xee6a);
 
   /// ![folder-open-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/folder-open-light.svg)
-  static const folderOpenLight = PhosphorIconData(0xee6b);
+  static const folderOpenLight = PhosphorIconDataLight(0xee6b);
 
   /// ![folder-open-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/folder-open-thin.svg)
-  static const folderOpenThin = PhosphorIconData(0xee6c);
+  static const folderOpenThin = PhosphorIconDataThin(0xee6c);
 
   /// ![folder-plus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/folder-plus.svg)
-  static const folderPlus = PhosphorIconData(0xee6d);
+  static const folderPlus = PhosphorIconDataRegular(0xee6d);
 
   /// ![folder-plus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/folder-plus-bold.svg)
-  static const folderPlusBold = PhosphorIconData(0xee6e);
+  static const folderPlusBold = PhosphorIconDataBold(0xee6e);
 
   /// ![folder-plus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/folder-plus-fill.svg)
-  static const folderPlusFill = PhosphorIconData(0xee6f);
+  static const folderPlusFill = PhosphorIconDataFill(0xee6f);
 
   /// ![folder-plus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/folder-plus-light.svg)
-  static const folderPlusLight = PhosphorIconData(0xee70);
+  static const folderPlusLight = PhosphorIconDataLight(0xee70);
 
   /// ![folder-plus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/folder-plus-thin.svg)
-  static const folderPlusThin = PhosphorIconData(0xee71);
+  static const folderPlusThin = PhosphorIconDataThin(0xee71);
 
   /// ![folder-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/folder-simple.svg)
-  static const folderSimple = PhosphorIconData(0xee72);
+  static const folderSimple = PhosphorIconDataRegular(0xee72);
 
   /// ![folder-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/folder-simple-bold.svg)
-  static const folderSimpleBold = PhosphorIconData(0xee73);
+  static const folderSimpleBold = PhosphorIconDataBold(0xee73);
 
   /// ![folder-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/folder-simple-fill.svg)
-  static const folderSimpleFill = PhosphorIconData(0xee74);
+  static const folderSimpleFill = PhosphorIconDataFill(0xee74);
 
   /// ![folder-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/folder-simple-light.svg)
-  static const folderSimpleLight = PhosphorIconData(0xee75);
+  static const folderSimpleLight = PhosphorIconDataLight(0xee75);
 
   /// ![folder-simple-minus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/folder-simple-minus.svg)
-  static const folderSimpleMinus = PhosphorIconData(0xee76);
+  static const folderSimpleMinus = PhosphorIconDataRegular(0xee76);
 
   /// ![folder-simple-minus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/folder-simple-minus-bold.svg)
-  static const folderSimpleMinusBold = PhosphorIconData(0xee77);
+  static const folderSimpleMinusBold = PhosphorIconDataBold(0xee77);
 
   /// ![folder-simple-minus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/folder-simple-minus-fill.svg)
-  static const folderSimpleMinusFill = PhosphorIconData(0xee78);
+  static const folderSimpleMinusFill = PhosphorIconDataFill(0xee78);
 
   /// ![folder-simple-minus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/folder-simple-minus-light.svg)
-  static const folderSimpleMinusLight = PhosphorIconData(0xee79);
+  static const folderSimpleMinusLight = PhosphorIconDataLight(0xee79);
 
   /// ![folder-simple-minus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/folder-simple-minus-thin.svg)
-  static const folderSimpleMinusThin = PhosphorIconData(0xee7a);
+  static const folderSimpleMinusThin = PhosphorIconDataThin(0xee7a);
 
   /// ![folder-simple-plus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/folder-simple-plus.svg)
-  static const folderSimplePlus = PhosphorIconData(0xee7b);
+  static const folderSimplePlus = PhosphorIconDataRegular(0xee7b);
 
   /// ![folder-simple-plus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/folder-simple-plus-bold.svg)
-  static const folderSimplePlusBold = PhosphorIconData(0xee7c);
+  static const folderSimplePlusBold = PhosphorIconDataBold(0xee7c);
 
   /// ![folder-simple-plus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/folder-simple-plus-fill.svg)
-  static const folderSimplePlusFill = PhosphorIconData(0xee7d);
+  static const folderSimplePlusFill = PhosphorIconDataFill(0xee7d);
 
   /// ![folder-simple-plus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/folder-simple-plus-light.svg)
-  static const folderSimplePlusLight = PhosphorIconData(0xee7e);
+  static const folderSimplePlusLight = PhosphorIconDataLight(0xee7e);
 
   /// ![folder-simple-plus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/folder-simple-plus-thin.svg)
-  static const folderSimplePlusThin = PhosphorIconData(0xee7f);
+  static const folderSimplePlusThin = PhosphorIconDataThin(0xee7f);
 
   /// ![folder-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/folder-simple-thin.svg)
-  static const folderSimpleThin = PhosphorIconData(0xee80);
+  static const folderSimpleThin = PhosphorIconDataThin(0xee80);
 
   /// ![folder-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/folder-thin.svg)
-  static const folderThin = PhosphorIconData(0xee81);
+  static const folderThin = PhosphorIconDataThin(0xee81);
 
   /// ![folders](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/folders.svg)
-  static const folders = PhosphorIconData(0xee82);
+  static const folders = PhosphorIconDataRegular(0xee82);
 
   /// ![folders-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/folders-bold.svg)
-  static const foldersBold = PhosphorIconData(0xee83);
+  static const foldersBold = PhosphorIconDataBold(0xee83);
 
   /// ![folders-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/folders-fill.svg)
-  static const foldersFill = PhosphorIconData(0xee84);
+  static const foldersFill = PhosphorIconDataFill(0xee84);
 
   /// ![folders-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/folders-light.svg)
-  static const foldersLight = PhosphorIconData(0xee85);
+  static const foldersLight = PhosphorIconDataLight(0xee85);
 
   /// ![folders-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/folders-thin.svg)
-  static const foldersThin = PhosphorIconData(0xee86);
+  static const foldersThin = PhosphorIconDataThin(0xee86);
 
   /// ![fork-knife](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/fork-knife.svg)
-  static const forkKnife = PhosphorIconData(0xee87);
+  static const forkKnife = PhosphorIconDataRegular(0xee87);
 
   /// ![fork-knife-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/fork-knife-bold.svg)
-  static const forkKnifeBold = PhosphorIconData(0xee88);
+  static const forkKnifeBold = PhosphorIconDataBold(0xee88);
 
   /// ![fork-knife-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/fork-knife-fill.svg)
-  static const forkKnifeFill = PhosphorIconData(0xee89);
+  static const forkKnifeFill = PhosphorIconDataFill(0xee89);
 
   /// ![fork-knife-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/fork-knife-light.svg)
-  static const forkKnifeLight = PhosphorIconData(0xee8a);
+  static const forkKnifeLight = PhosphorIconDataLight(0xee8a);
 
   /// ![fork-knife-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/fork-knife-thin.svg)
-  static const forkKnifeThin = PhosphorIconData(0xee8b);
+  static const forkKnifeThin = PhosphorIconDataThin(0xee8b);
 
   /// ![framer-logo](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/framer-logo.svg)
-  static const framerLogo = PhosphorIconData(0xee8c);
+  static const framerLogo = PhosphorIconDataRegular(0xee8c);
 
   /// ![framer-logo-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/framer-logo-bold.svg)
-  static const framerLogoBold = PhosphorIconData(0xee8d);
+  static const framerLogoBold = PhosphorIconDataBold(0xee8d);
 
   /// ![framer-logo-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/framer-logo-fill.svg)
-  static const framerLogoFill = PhosphorIconData(0xee8e);
+  static const framerLogoFill = PhosphorIconDataFill(0xee8e);
 
   /// ![framer-logo-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/framer-logo-light.svg)
-  static const framerLogoLight = PhosphorIconData(0xee8f);
+  static const framerLogoLight = PhosphorIconDataLight(0xee8f);
 
   /// ![framer-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/framer-logo-thin.svg)
-  static const framerLogoThin = PhosphorIconData(0xee90);
+  static const framerLogoThin = PhosphorIconDataThin(0xee90);
 
   /// ![funnel](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/funnel.svg)
-  static const funnel = PhosphorIconData(0xee91);
+  static const funnel = PhosphorIconDataRegular(0xee91);
 
   /// ![funnel-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/funnel-bold.svg)
-  static const funnelBold = PhosphorIconData(0xee92);
+  static const funnelBold = PhosphorIconDataBold(0xee92);
 
   /// ![funnel-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/funnel-fill.svg)
-  static const funnelFill = PhosphorIconData(0xee93);
+  static const funnelFill = PhosphorIconDataFill(0xee93);
 
   /// ![funnel-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/funnel-light.svg)
-  static const funnelLight = PhosphorIconData(0xee94);
+  static const funnelLight = PhosphorIconDataLight(0xee94);
 
   /// ![funnel-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/funnel-simple.svg)
-  static const funnelSimple = PhosphorIconData(0xee95);
+  static const funnelSimple = PhosphorIconDataRegular(0xee95);
 
   /// ![funnel-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/funnel-simple-bold.svg)
-  static const funnelSimpleBold = PhosphorIconData(0xee96);
+  static const funnelSimpleBold = PhosphorIconDataBold(0xee96);
 
   /// ![funnel-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/funnel-simple-fill.svg)
-  static const funnelSimpleFill = PhosphorIconData(0xee97);
+  static const funnelSimpleFill = PhosphorIconDataFill(0xee97);
 
   /// ![funnel-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/funnel-simple-light.svg)
-  static const funnelSimpleLight = PhosphorIconData(0xee98);
+  static const funnelSimpleLight = PhosphorIconDataLight(0xee98);
 
   /// ![funnel-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/funnel-simple-thin.svg)
-  static const funnelSimpleThin = PhosphorIconData(0xee99);
+  static const funnelSimpleThin = PhosphorIconDataThin(0xee99);
 
   /// ![funnel-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/funnel-thin.svg)
-  static const funnelThin = PhosphorIconData(0xee9a);
+  static const funnelThin = PhosphorIconDataThin(0xee9a);
 
   /// ![game-controller](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/game-controller.svg)
-  static const gameController = PhosphorIconData(0xee9b);
+  static const gameController = PhosphorIconDataRegular(0xee9b);
 
   /// ![game-controller-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/game-controller-bold.svg)
-  static const gameControllerBold = PhosphorIconData(0xee9c);
+  static const gameControllerBold = PhosphorIconDataBold(0xee9c);
 
   /// ![game-controller-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/game-controller-fill.svg)
-  static const gameControllerFill = PhosphorIconData(0xee9d);
+  static const gameControllerFill = PhosphorIconDataFill(0xee9d);
 
   /// ![game-controller-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/game-controller-light.svg)
-  static const gameControllerLight = PhosphorIconData(0xee9e);
+  static const gameControllerLight = PhosphorIconDataLight(0xee9e);
 
   /// ![game-controller-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/game-controller-thin.svg)
-  static const gameControllerThin = PhosphorIconData(0xee9f);
+  static const gameControllerThin = PhosphorIconDataThin(0xee9f);
 
   /// ![gear](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/gear.svg)
-  static const gear = PhosphorIconData(0xeea0);
+  static const gear = PhosphorIconDataRegular(0xeea0);
 
   /// ![gear-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/gear-bold.svg)
-  static const gearBold = PhosphorIconData(0xeea1);
+  static const gearBold = PhosphorIconDataBold(0xeea1);
 
   /// ![gear-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/gear-fill.svg)
-  static const gearFill = PhosphorIconData(0xeea2);
+  static const gearFill = PhosphorIconDataFill(0xeea2);
 
   /// ![gear-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/gear-light.svg)
-  static const gearLight = PhosphorIconData(0xeea3);
+  static const gearLight = PhosphorIconDataLight(0xeea3);
 
   /// ![gear-six](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/gear-six.svg)
-  static const gearSix = PhosphorIconData(0xeea4);
+  static const gearSix = PhosphorIconDataRegular(0xeea4);
 
   /// ![gear-six-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/gear-six-bold.svg)
-  static const gearSixBold = PhosphorIconData(0xeea5);
+  static const gearSixBold = PhosphorIconDataBold(0xeea5);
 
   /// ![gear-six-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/gear-six-fill.svg)
-  static const gearSixFill = PhosphorIconData(0xeea6);
+  static const gearSixFill = PhosphorIconDataFill(0xeea6);
 
   /// ![gear-six-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/gear-six-light.svg)
-  static const gearSixLight = PhosphorIconData(0xeea7);
+  static const gearSixLight = PhosphorIconDataLight(0xeea7);
 
   /// ![gear-six-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/gear-six-thin.svg)
-  static const gearSixThin = PhosphorIconData(0xeea8);
+  static const gearSixThin = PhosphorIconDataThin(0xeea8);
 
   /// ![gear-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/gear-thin.svg)
-  static const gearThin = PhosphorIconData(0xeea9);
+  static const gearThin = PhosphorIconDataThin(0xeea9);
 
   /// ![gif](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/gif.svg)
-  static const gif = PhosphorIconData(0xeeaa);
+  static const gif = PhosphorIconDataRegular(0xeeaa);
 
   /// ![gif-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/gif-bold.svg)
-  static const gifBold = PhosphorIconData(0xeeab);
+  static const gifBold = PhosphorIconDataBold(0xeeab);
 
   /// ![gif-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/gif-fill.svg)
-  static const gifFill = PhosphorIconData(0xeeac);
+  static const gifFill = PhosphorIconDataFill(0xeeac);
 
   /// ![gif-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/gif-light.svg)
-  static const gifLight = PhosphorIconData(0xeead);
+  static const gifLight = PhosphorIconDataLight(0xeead);
 
   /// ![gif-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/gif-thin.svg)
-  static const gifThin = PhosphorIconData(0xeeae);
+  static const gifThin = PhosphorIconDataThin(0xeeae);
 
   /// ![gift](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/gift.svg)
-  static const gift = PhosphorIconData(0xeeaf);
+  static const gift = PhosphorIconDataRegular(0xeeaf);
 
   /// ![gift-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/gift-bold.svg)
-  static const giftBold = PhosphorIconData(0xeeb0);
+  static const giftBold = PhosphorIconDataBold(0xeeb0);
 
   /// ![gift-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/gift-fill.svg)
-  static const giftFill = PhosphorIconData(0xeeb1);
+  static const giftFill = PhosphorIconDataFill(0xeeb1);
 
   /// ![gift-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/gift-light.svg)
-  static const giftLight = PhosphorIconData(0xeeb2);
+  static const giftLight = PhosphorIconDataLight(0xeeb2);
 
   /// ![gift-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/gift-thin.svg)
-  static const giftThin = PhosphorIconData(0xeeb3);
+  static const giftThin = PhosphorIconDataThin(0xeeb3);
 
   /// ![git-branch](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/git-branch.svg)
-  static const gitBranch = PhosphorIconData(0xeeb4);
+  static const gitBranch = PhosphorIconDataRegular(0xeeb4);
 
   /// ![git-branch-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/git-branch-bold.svg)
-  static const gitBranchBold = PhosphorIconData(0xeeb5);
+  static const gitBranchBold = PhosphorIconDataBold(0xeeb5);
 
   /// ![git-branch-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/git-branch-fill.svg)
-  static const gitBranchFill = PhosphorIconData(0xeeb6);
+  static const gitBranchFill = PhosphorIconDataFill(0xeeb6);
 
   /// ![git-branch-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/git-branch-light.svg)
-  static const gitBranchLight = PhosphorIconData(0xeeb7);
+  static const gitBranchLight = PhosphorIconDataLight(0xeeb7);
 
   /// ![git-branch-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/git-branch-thin.svg)
-  static const gitBranchThin = PhosphorIconData(0xeeb8);
+  static const gitBranchThin = PhosphorIconDataThin(0xeeb8);
 
   /// ![git-commit](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/git-commit.svg)
-  static const gitCommit = PhosphorIconData(0xeeb9);
+  static const gitCommit = PhosphorIconDataRegular(0xeeb9);
 
   /// ![git-commit-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/git-commit-bold.svg)
-  static const gitCommitBold = PhosphorIconData(0xeeba);
+  static const gitCommitBold = PhosphorIconDataBold(0xeeba);
 
   /// ![git-commit-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/git-commit-fill.svg)
-  static const gitCommitFill = PhosphorIconData(0xeebb);
+  static const gitCommitFill = PhosphorIconDataFill(0xeebb);
 
   /// ![git-commit-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/git-commit-light.svg)
-  static const gitCommitLight = PhosphorIconData(0xeebc);
+  static const gitCommitLight = PhosphorIconDataLight(0xeebc);
 
   /// ![git-commit-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/git-commit-thin.svg)
-  static const gitCommitThin = PhosphorIconData(0xeebd);
+  static const gitCommitThin = PhosphorIconDataThin(0xeebd);
 
   /// ![git-diff](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/git-diff.svg)
-  static const gitDiff = PhosphorIconData(0xeebe);
+  static const gitDiff = PhosphorIconDataRegular(0xeebe);
 
   /// ![git-diff-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/git-diff-bold.svg)
-  static const gitDiffBold = PhosphorIconData(0xeebf);
+  static const gitDiffBold = PhosphorIconDataBold(0xeebf);
 
   /// ![git-diff-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/git-diff-fill.svg)
-  static const gitDiffFill = PhosphorIconData(0xeec0);
+  static const gitDiffFill = PhosphorIconDataFill(0xeec0);
 
   /// ![git-diff-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/git-diff-light.svg)
-  static const gitDiffLight = PhosphorIconData(0xeec1);
+  static const gitDiffLight = PhosphorIconDataLight(0xeec1);
 
   /// ![git-diff-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/git-diff-thin.svg)
-  static const gitDiffThin = PhosphorIconData(0xeec2);
+  static const gitDiffThin = PhosphorIconDataThin(0xeec2);
 
   /// ![git-fork](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/git-fork.svg)
-  static const gitFork = PhosphorIconData(0xeec3);
+  static const gitFork = PhosphorIconDataRegular(0xeec3);
 
   /// ![git-fork-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/git-fork-bold.svg)
-  static const gitForkBold = PhosphorIconData(0xeec4);
+  static const gitForkBold = PhosphorIconDataBold(0xeec4);
 
   /// ![git-fork-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/git-fork-fill.svg)
-  static const gitForkFill = PhosphorIconData(0xeec5);
+  static const gitForkFill = PhosphorIconDataFill(0xeec5);
 
   /// ![git-fork-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/git-fork-light.svg)
-  static const gitForkLight = PhosphorIconData(0xeec6);
+  static const gitForkLight = PhosphorIconDataLight(0xeec6);
 
   /// ![git-fork-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/git-fork-thin.svg)
-  static const gitForkThin = PhosphorIconData(0xeec7);
+  static const gitForkThin = PhosphorIconDataThin(0xeec7);
 
   /// ![git-merge](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/git-merge.svg)
-  static const gitMerge = PhosphorIconData(0xeec8);
+  static const gitMerge = PhosphorIconDataRegular(0xeec8);
 
   /// ![git-merge-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/git-merge-bold.svg)
-  static const gitMergeBold = PhosphorIconData(0xeec9);
+  static const gitMergeBold = PhosphorIconDataBold(0xeec9);
 
   /// ![git-merge-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/git-merge-fill.svg)
-  static const gitMergeFill = PhosphorIconData(0xeeca);
+  static const gitMergeFill = PhosphorIconDataFill(0xeeca);
 
   /// ![git-merge-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/git-merge-light.svg)
-  static const gitMergeLight = PhosphorIconData(0xeecb);
+  static const gitMergeLight = PhosphorIconDataLight(0xeecb);
 
   /// ![git-merge-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/git-merge-thin.svg)
-  static const gitMergeThin = PhosphorIconData(0xeecc);
+  static const gitMergeThin = PhosphorIconDataThin(0xeecc);
 
   /// ![git-pull-request](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/git-pull-request.svg)
-  static const gitPullRequest = PhosphorIconData(0xeecd);
+  static const gitPullRequest = PhosphorIconDataRegular(0xeecd);
 
   /// ![git-pull-request-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/git-pull-request-bold.svg)
-  static const gitPullRequestBold = PhosphorIconData(0xeece);
+  static const gitPullRequestBold = PhosphorIconDataBold(0xeece);
 
   /// ![git-pull-request-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/git-pull-request-fill.svg)
-  static const gitPullRequestFill = PhosphorIconData(0xeecf);
+  static const gitPullRequestFill = PhosphorIconDataFill(0xeecf);
 
   /// ![git-pull-request-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/git-pull-request-light.svg)
-  static const gitPullRequestLight = PhosphorIconData(0xeed0);
+  static const gitPullRequestLight = PhosphorIconDataLight(0xeed0);
 
   /// ![git-pull-request-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/git-pull-request-thin.svg)
-  static const gitPullRequestThin = PhosphorIconData(0xeed1);
+  static const gitPullRequestThin = PhosphorIconDataThin(0xeed1);
 
   /// ![globe](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/globe.svg)
-  static const globe = PhosphorIconData(0xeed2);
+  static const globe = PhosphorIconDataRegular(0xeed2);
 
   /// ![globe-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/globe-bold.svg)
-  static const globeBold = PhosphorIconData(0xeed3);
+  static const globeBold = PhosphorIconDataBold(0xeed3);
 
   /// ![globe-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/globe-fill.svg)
-  static const globeFill = PhosphorIconData(0xeed4);
+  static const globeFill = PhosphorIconDataFill(0xeed4);
 
   /// ![globe-hemisphere-east](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/globe-hemisphere-east.svg)
-  static const globeHemisphereEast = PhosphorIconData(0xeed5);
+  static const globeHemisphereEast = PhosphorIconDataRegular(0xeed5);
 
   /// ![globe-hemisphere-east-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/globe-hemisphere-east-bold.svg)
-  static const globeHemisphereEastBold = PhosphorIconData(0xeed6);
+  static const globeHemisphereEastBold = PhosphorIconDataBold(0xeed6);
 
   /// ![globe-hemisphere-east-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/globe-hemisphere-east-fill.svg)
-  static const globeHemisphereEastFill = PhosphorIconData(0xeed7);
+  static const globeHemisphereEastFill = PhosphorIconDataFill(0xeed7);
 
   /// ![globe-hemisphere-east-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/globe-hemisphere-east-light.svg)
-  static const globeHemisphereEastLight = PhosphorIconData(0xeed8);
+  static const globeHemisphereEastLight = PhosphorIconDataLight(0xeed8);
 
   /// ![globe-hemisphere-east-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/globe-hemisphere-east-thin.svg)
-  static const globeHemisphereEastThin = PhosphorIconData(0xeed9);
+  static const globeHemisphereEastThin = PhosphorIconDataThin(0xeed9);
 
   /// ![globe-hemisphere-west](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/globe-hemisphere-west.svg)
-  static const globeHemisphereWest = PhosphorIconData(0xeeda);
+  static const globeHemisphereWest = PhosphorIconDataRegular(0xeeda);
 
   /// ![globe-hemisphere-west-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/globe-hemisphere-west-bold.svg)
-  static const globeHemisphereWestBold = PhosphorIconData(0xeedb);
+  static const globeHemisphereWestBold = PhosphorIconDataBold(0xeedb);
 
   /// ![globe-hemisphere-west-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/globe-hemisphere-west-fill.svg)
-  static const globeHemisphereWestFill = PhosphorIconData(0xeedc);
+  static const globeHemisphereWestFill = PhosphorIconDataFill(0xeedc);
 
   /// ![globe-hemisphere-west-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/globe-hemisphere-west-light.svg)
-  static const globeHemisphereWestLight = PhosphorIconData(0xeedd);
+  static const globeHemisphereWestLight = PhosphorIconDataLight(0xeedd);
 
   /// ![globe-hemisphere-west-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/globe-hemisphere-west-thin.svg)
-  static const globeHemisphereWestThin = PhosphorIconData(0xeede);
+  static const globeHemisphereWestThin = PhosphorIconDataThin(0xeede);
 
   /// ![globe-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/globe-light.svg)
-  static const globeLight = PhosphorIconData(0xeedf);
+  static const globeLight = PhosphorIconDataLight(0xeedf);
 
   /// ![globe-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/globe-simple.svg)
-  static const globeSimple = PhosphorIconData(0xeee0);
+  static const globeSimple = PhosphorIconDataRegular(0xeee0);
 
   /// ![globe-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/globe-simple-bold.svg)
-  static const globeSimpleBold = PhosphorIconData(0xeee1);
+  static const globeSimpleBold = PhosphorIconDataBold(0xeee1);
 
   /// ![globe-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/globe-simple-fill.svg)
-  static const globeSimpleFill = PhosphorIconData(0xeee2);
+  static const globeSimpleFill = PhosphorIconDataFill(0xeee2);
 
   /// ![globe-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/globe-simple-light.svg)
-  static const globeSimpleLight = PhosphorIconData(0xeee3);
+  static const globeSimpleLight = PhosphorIconDataLight(0xeee3);
 
   /// ![globe-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/globe-simple-thin.svg)
-  static const globeSimpleThin = PhosphorIconData(0xeee4);
+  static const globeSimpleThin = PhosphorIconDataThin(0xeee4);
 
   /// ![globe-stand](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/globe-stand.svg)
-  static const globeStand = PhosphorIconData(0xeee5);
+  static const globeStand = PhosphorIconDataRegular(0xeee5);
 
   /// ![globe-stand-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/globe-stand-bold.svg)
-  static const globeStandBold = PhosphorIconData(0xeee6);
+  static const globeStandBold = PhosphorIconDataBold(0xeee6);
 
   /// ![globe-stand-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/globe-stand-fill.svg)
-  static const globeStandFill = PhosphorIconData(0xeee7);
+  static const globeStandFill = PhosphorIconDataFill(0xeee7);
 
   /// ![globe-stand-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/globe-stand-light.svg)
-  static const globeStandLight = PhosphorIconData(0xeee8);
+  static const globeStandLight = PhosphorIconDataLight(0xeee8);
 
   /// ![globe-stand-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/globe-stand-thin.svg)
-  static const globeStandThin = PhosphorIconData(0xeee9);
+  static const globeStandThin = PhosphorIconDataThin(0xeee9);
 
   /// ![globe-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/globe-thin.svg)
-  static const globeThin = PhosphorIconData(0xeeea);
+  static const globeThin = PhosphorIconDataThin(0xeeea);
 
   /// ![google-logo](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/google-logo.svg)
-  static const googleLogo = PhosphorIconData(0xeeeb);
+  static const googleLogo = PhosphorIconDataRegular(0xeeeb);
 
   /// ![google-logo-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/google-logo-bold.svg)
-  static const googleLogoBold = PhosphorIconData(0xeeec);
+  static const googleLogoBold = PhosphorIconDataBold(0xeeec);
 
   /// ![google-logo-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/google-logo-fill.svg)
-  static const googleLogoFill = PhosphorIconData(0xeeed);
+  static const googleLogoFill = PhosphorIconDataFill(0xeeed);
 
   /// ![google-logo-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/google-logo-light.svg)
-  static const googleLogoLight = PhosphorIconData(0xeeee);
+  static const googleLogoLight = PhosphorIconDataLight(0xeeee);
 
   /// ![google-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/google-logo-thin.svg)
-  static const googleLogoThin = PhosphorIconData(0xeeef);
+  static const googleLogoThin = PhosphorIconDataThin(0xeeef);
 
   /// ![google-play-logo](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/google-play-logo.svg)
-  static const googlePlayLogo = PhosphorIconData(0xeef0);
+  static const googlePlayLogo = PhosphorIconDataRegular(0xeef0);
 
   /// ![google-play-logo-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/google-play-logo-bold.svg)
-  static const googlePlayLogoBold = PhosphorIconData(0xeef1);
+  static const googlePlayLogoBold = PhosphorIconDataBold(0xeef1);
 
   /// ![google-play-logo-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/google-play-logo-fill.svg)
-  static const googlePlayLogoFill = PhosphorIconData(0xeef2);
+  static const googlePlayLogoFill = PhosphorIconDataFill(0xeef2);
 
   /// ![google-play-logo-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/google-play-logo-light.svg)
-  static const googlePlayLogoLight = PhosphorIconData(0xeef3);
+  static const googlePlayLogoLight = PhosphorIconDataLight(0xeef3);
 
   /// ![google-play-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/google-play-logo-thin.svg)
-  static const googlePlayLogoThin = PhosphorIconData(0xeef4);
+  static const googlePlayLogoThin = PhosphorIconDataThin(0xeef4);
 
   /// ![grid-four](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/grid-four.svg)
-  static const gridFour = PhosphorIconData(0xeef5);
+  static const gridFour = PhosphorIconDataRegular(0xeef5);
 
   /// ![grid-four-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/grid-four-bold.svg)
-  static const gridFourBold = PhosphorIconData(0xeef6);
+  static const gridFourBold = PhosphorIconDataBold(0xeef6);
 
   /// ![grid-four-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/grid-four-fill.svg)
-  static const gridFourFill = PhosphorIconData(0xeef7);
+  static const gridFourFill = PhosphorIconDataFill(0xeef7);
 
   /// ![grid-four-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/grid-four-light.svg)
-  static const gridFourLight = PhosphorIconData(0xeef8);
+  static const gridFourLight = PhosphorIconDataLight(0xeef8);
 
   /// ![grid-four-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/grid-four-thin.svg)
-  static const gridFourThin = PhosphorIconData(0xeef9);
+  static const gridFourThin = PhosphorIconDataThin(0xeef9);
 
   /// ![hand](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/hand.svg)
-  static const hand = PhosphorIconData(0xeefa);
+  static const hand = PhosphorIconDataRegular(0xeefa);
 
   /// ![hand-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/hand-bold.svg)
-  static const handBold = PhosphorIconData(0xeefb);
+  static const handBold = PhosphorIconDataBold(0xeefb);
 
   /// ![hand-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/hand-fill.svg)
-  static const handFill = PhosphorIconData(0xeefc);
+  static const handFill = PhosphorIconDataFill(0xeefc);
 
   /// ![hand-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/hand-light.svg)
-  static const handLight = PhosphorIconData(0xeefd);
+  static const handLight = PhosphorIconDataLight(0xeefd);
 
   /// ![hand-pointing](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/hand-pointing.svg)
-  static const handPointing = PhosphorIconData(0xeefe);
+  static const handPointing = PhosphorIconDataRegular(0xeefe);
 
   /// ![hand-pointing-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/hand-pointing-bold.svg)
-  static const handPointingBold = PhosphorIconData(0xeeff);
+  static const handPointingBold = PhosphorIconDataBold(0xeeff);
 
   /// ![hand-pointing-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/hand-pointing-fill.svg)
-  static const handPointingFill = PhosphorIconData(0xef00);
+  static const handPointingFill = PhosphorIconDataFill(0xef00);
 
   /// ![hand-pointing-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/hand-pointing-light.svg)
-  static const handPointingLight = PhosphorIconData(0xef01);
+  static const handPointingLight = PhosphorIconDataLight(0xef01);
 
   /// ![hand-pointing-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/hand-pointing-thin.svg)
-  static const handPointingThin = PhosphorIconData(0xef02);
+  static const handPointingThin = PhosphorIconDataThin(0xef02);
 
   /// ![hand-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/hand-thin.svg)
-  static const handThin = PhosphorIconData(0xef03);
+  static const handThin = PhosphorIconDataThin(0xef03);
 
   /// ![handbag](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/handbag.svg)
-  static const handbag = PhosphorIconData(0xef04);
+  static const handbag = PhosphorIconDataRegular(0xef04);
 
   /// ![handbag-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/handbag-bold.svg)
-  static const handbagBold = PhosphorIconData(0xef05);
+  static const handbagBold = PhosphorIconDataBold(0xef05);
 
   /// ![handbag-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/handbag-fill.svg)
-  static const handbagFill = PhosphorIconData(0xef06);
+  static const handbagFill = PhosphorIconDataFill(0xef06);
 
   /// ![handbag-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/handbag-light.svg)
-  static const handbagLight = PhosphorIconData(0xef07);
+  static const handbagLight = PhosphorIconDataLight(0xef07);
 
   /// ![handbag-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/handbag-thin.svg)
-  static const handbagThin = PhosphorIconData(0xef08);
+  static const handbagThin = PhosphorIconDataThin(0xef08);
 
   /// ![hard-drive](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/hard-drive.svg)
-  static const hardDrive = PhosphorIconData(0xef09);
+  static const hardDrive = PhosphorIconDataRegular(0xef09);
 
   /// ![hard-drive-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/hard-drive-bold.svg)
-  static const hardDriveBold = PhosphorIconData(0xef0a);
+  static const hardDriveBold = PhosphorIconDataBold(0xef0a);
 
   /// ![hard-drive-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/hard-drive-fill.svg)
-  static const hardDriveFill = PhosphorIconData(0xef0b);
+  static const hardDriveFill = PhosphorIconDataFill(0xef0b);
 
   /// ![hard-drive-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/hard-drive-light.svg)
-  static const hardDriveLight = PhosphorIconData(0xef0c);
+  static const hardDriveLight = PhosphorIconDataLight(0xef0c);
 
   /// ![hard-drive-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/hard-drive-thin.svg)
-  static const hardDriveThin = PhosphorIconData(0xef0d);
+  static const hardDriveThin = PhosphorIconDataThin(0xef0d);
 
   /// ![hard-drives](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/hard-drives.svg)
-  static const hardDrives = PhosphorIconData(0xef0e);
+  static const hardDrives = PhosphorIconDataRegular(0xef0e);
 
   /// ![hard-drives-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/hard-drives-bold.svg)
-  static const hardDrivesBold = PhosphorIconData(0xef0f);
+  static const hardDrivesBold = PhosphorIconDataBold(0xef0f);
 
   /// ![hard-drives-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/hard-drives-fill.svg)
-  static const hardDrivesFill = PhosphorIconData(0xef10);
+  static const hardDrivesFill = PhosphorIconDataFill(0xef10);
 
   /// ![hard-drives-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/hard-drives-light.svg)
-  static const hardDrivesLight = PhosphorIconData(0xef11);
+  static const hardDrivesLight = PhosphorIconDataLight(0xef11);
 
   /// ![hard-drives-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/hard-drives-thin.svg)
-  static const hardDrivesThin = PhosphorIconData(0xef12);
+  static const hardDrivesThin = PhosphorIconDataThin(0xef12);
 
   /// ![hash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/hash.svg)
-  static const hash = PhosphorIconData(0xef13);
+  static const hash = PhosphorIconDataRegular(0xef13);
 
   /// ![hash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/hash-bold.svg)
-  static const hashBold = PhosphorIconData(0xef14);
+  static const hashBold = PhosphorIconDataBold(0xef14);
 
   /// ![hash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/hash-fill.svg)
-  static const hashFill = PhosphorIconData(0xef15);
+  static const hashFill = PhosphorIconDataFill(0xef15);
 
   /// ![hash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/hash-light.svg)
-  static const hashLight = PhosphorIconData(0xef16);
+  static const hashLight = PhosphorIconDataLight(0xef16);
 
   /// ![hash-straight](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/hash-straight.svg)
-  static const hashStraight = PhosphorIconData(0xef17);
+  static const hashStraight = PhosphorIconDataRegular(0xef17);
 
   /// ![hash-straight-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/hash-straight-bold.svg)
-  static const hashStraightBold = PhosphorIconData(0xef18);
+  static const hashStraightBold = PhosphorIconDataBold(0xef18);
 
   /// ![hash-straight-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/hash-straight-fill.svg)
-  static const hashStraightFill = PhosphorIconData(0xef19);
+  static const hashStraightFill = PhosphorIconDataFill(0xef19);
 
   /// ![hash-straight-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/hash-straight-light.svg)
-  static const hashStraightLight = PhosphorIconData(0xef1a);
+  static const hashStraightLight = PhosphorIconDataLight(0xef1a);
 
   /// ![hash-straight-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/hash-straight-thin.svg)
-  static const hashStraightThin = PhosphorIconData(0xef1b);
+  static const hashStraightThin = PhosphorIconDataThin(0xef1b);
 
   /// ![hash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/hash-thin.svg)
-  static const hashThin = PhosphorIconData(0xef1c);
+  static const hashThin = PhosphorIconDataThin(0xef1c);
 
   /// ![headphones](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/headphones.svg)
-  static const headphones = PhosphorIconData(0xef1d);
+  static const headphones = PhosphorIconDataRegular(0xef1d);
 
   /// ![headphones-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/headphones-bold.svg)
-  static const headphonesBold = PhosphorIconData(0xef1e);
+  static const headphonesBold = PhosphorIconDataBold(0xef1e);
 
   /// ![headphones-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/headphones-fill.svg)
-  static const headphonesFill = PhosphorIconData(0xef1f);
+  static const headphonesFill = PhosphorIconDataFill(0xef1f);
 
   /// ![headphones-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/headphones-light.svg)
-  static const headphonesLight = PhosphorIconData(0xef20);
+  static const headphonesLight = PhosphorIconDataLight(0xef20);
 
   /// ![headphones-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/headphones-thin.svg)
-  static const headphonesThin = PhosphorIconData(0xef21);
+  static const headphonesThin = PhosphorIconDataThin(0xef21);
 
   /// ![heart](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/heart.svg)
-  static const heart = PhosphorIconData(0xef22);
+  static const heart = PhosphorIconDataRegular(0xef22);
 
   /// ![heart-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/heart-bold.svg)
-  static const heartBold = PhosphorIconData(0xef23);
+  static const heartBold = PhosphorIconDataBold(0xef23);
 
   /// ![heart-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/heart-fill.svg)
-  static const heartFill = PhosphorIconData(0xef24);
+  static const heartFill = PhosphorIconDataFill(0xef24);
 
   /// ![heart-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/heart-light.svg)
-  static const heartLight = PhosphorIconData(0xef25);
+  static const heartLight = PhosphorIconDataLight(0xef25);
 
   /// ![heart-straight](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/heart-straight.svg)
-  static const heartStraight = PhosphorIconData(0xef26);
+  static const heartStraight = PhosphorIconDataRegular(0xef26);
 
   /// ![heart-straight-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/heart-straight-bold.svg)
-  static const heartStraightBold = PhosphorIconData(0xef27);
+  static const heartStraightBold = PhosphorIconDataBold(0xef27);
 
   /// ![heart-straight-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/heart-straight-fill.svg)
-  static const heartStraightFill = PhosphorIconData(0xef28);
+  static const heartStraightFill = PhosphorIconDataFill(0xef28);
 
   /// ![heart-straight-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/heart-straight-light.svg)
-  static const heartStraightLight = PhosphorIconData(0xef29);
+  static const heartStraightLight = PhosphorIconDataLight(0xef29);
 
   /// ![heart-straight-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/heart-straight-thin.svg)
-  static const heartStraightThin = PhosphorIconData(0xef2a);
+  static const heartStraightThin = PhosphorIconDataThin(0xef2a);
 
   /// ![heart-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/heart-thin.svg)
-  static const heartThin = PhosphorIconData(0xef2b);
+  static const heartThin = PhosphorIconDataThin(0xef2b);
 
   /// ![heartbeat](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/heartbeat.svg)
-  static const heartbeat = PhosphorIconData(0xef2c);
+  static const heartbeat = PhosphorIconDataRegular(0xef2c);
 
   /// ![heartbeat-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/heartbeat-bold.svg)
-  static const heartbeatBold = PhosphorIconData(0xef2d);
+  static const heartbeatBold = PhosphorIconDataBold(0xef2d);
 
   /// ![heartbeat-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/heartbeat-fill.svg)
-  static const heartbeatFill = PhosphorIconData(0xef2e);
+  static const heartbeatFill = PhosphorIconDataFill(0xef2e);
 
   /// ![heartbeat-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/heartbeat-light.svg)
-  static const heartbeatLight = PhosphorIconData(0xef2f);
+  static const heartbeatLight = PhosphorIconDataLight(0xef2f);
 
   /// ![heartbeat-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/heartbeat-thin.svg)
-  static const heartbeatThin = PhosphorIconData(0xef30);
+  static const heartbeatThin = PhosphorIconDataThin(0xef30);
 
   /// ![hexagon](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/hexagon.svg)
-  static const hexagon = PhosphorIconData(0xef31);
+  static const hexagon = PhosphorIconDataRegular(0xef31);
 
   /// ![hexagon-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/hexagon-bold.svg)
-  static const hexagonBold = PhosphorIconData(0xef32);
+  static const hexagonBold = PhosphorIconDataBold(0xef32);
 
   /// ![hexagon-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/hexagon-fill.svg)
-  static const hexagonFill = PhosphorIconData(0xef33);
+  static const hexagonFill = PhosphorIconDataFill(0xef33);
 
   /// ![hexagon-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/hexagon-light.svg)
-  static const hexagonLight = PhosphorIconData(0xef34);
+  static const hexagonLight = PhosphorIconDataLight(0xef34);
 
   /// ![hexagon-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/hexagon-thin.svg)
-  static const hexagonThin = PhosphorIconData(0xef35);
+  static const hexagonThin = PhosphorIconDataThin(0xef35);
 
   /// ![horse](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/horse.svg)
-  static const horse = PhosphorIconData(0xef36);
+  static const horse = PhosphorIconDataRegular(0xef36);
 
   /// ![horse-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/horse-bold.svg)
-  static const horseBold = PhosphorIconData(0xef37);
+  static const horseBold = PhosphorIconDataBold(0xef37);
 
   /// ![horse-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/horse-fill.svg)
-  static const horseFill = PhosphorIconData(0xef38);
+  static const horseFill = PhosphorIconDataFill(0xef38);
 
   /// ![horse-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/horse-light.svg)
-  static const horseLight = PhosphorIconData(0xef39);
+  static const horseLight = PhosphorIconDataLight(0xef39);
 
   /// ![horse-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/horse-thin.svg)
-  static const horseThin = PhosphorIconData(0xef3a);
+  static const horseThin = PhosphorIconDataThin(0xef3a);
 
   /// ![hourglass](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/hourglass.svg)
-  static const hourglass = PhosphorIconData(0xef3b);
+  static const hourglass = PhosphorIconDataRegular(0xef3b);
 
   /// ![hourglass-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/hourglass-bold.svg)
-  static const hourglassBold = PhosphorIconData(0xef3c);
+  static const hourglassBold = PhosphorIconDataBold(0xef3c);
 
   /// ![hourglass-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/hourglass-fill.svg)
-  static const hourglassFill = PhosphorIconData(0xef3d);
+  static const hourglassFill = PhosphorIconDataFill(0xef3d);
 
   /// ![hourglass-high](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/hourglass-high.svg)
-  static const hourglassHigh = PhosphorIconData(0xef3e);
+  static const hourglassHigh = PhosphorIconDataRegular(0xef3e);
 
   /// ![hourglass-high-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/hourglass-high-bold.svg)
-  static const hourglassHighBold = PhosphorIconData(0xef3f);
+  static const hourglassHighBold = PhosphorIconDataBold(0xef3f);
 
   /// ![hourglass-high-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/hourglass-high-fill.svg)
-  static const hourglassHighFill = PhosphorIconData(0xef40);
+  static const hourglassHighFill = PhosphorIconDataFill(0xef40);
 
   /// ![hourglass-high-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/hourglass-high-light.svg)
-  static const hourglassHighLight = PhosphorIconData(0xef41);
+  static const hourglassHighLight = PhosphorIconDataLight(0xef41);
 
   /// ![hourglass-high-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/hourglass-high-thin.svg)
-  static const hourglassHighThin = PhosphorIconData(0xef42);
+  static const hourglassHighThin = PhosphorIconDataThin(0xef42);
 
   /// ![hourglass-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/hourglass-light.svg)
-  static const hourglassLight = PhosphorIconData(0xef43);
+  static const hourglassLight = PhosphorIconDataLight(0xef43);
 
   /// ![hourglass-low](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/hourglass-low.svg)
-  static const hourglassLow = PhosphorIconData(0xef44);
+  static const hourglassLow = PhosphorIconDataRegular(0xef44);
 
   /// ![hourglass-low-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/hourglass-low-bold.svg)
-  static const hourglassLowBold = PhosphorIconData(0xef45);
+  static const hourglassLowBold = PhosphorIconDataBold(0xef45);
 
   /// ![hourglass-low-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/hourglass-low-fill.svg)
-  static const hourglassLowFill = PhosphorIconData(0xef46);
+  static const hourglassLowFill = PhosphorIconDataFill(0xef46);
 
   /// ![hourglass-low-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/hourglass-low-light.svg)
-  static const hourglassLowLight = PhosphorIconData(0xef47);
+  static const hourglassLowLight = PhosphorIconDataLight(0xef47);
 
   /// ![hourglass-low-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/hourglass-low-thin.svg)
-  static const hourglassLowThin = PhosphorIconData(0xef48);
+  static const hourglassLowThin = PhosphorIconDataThin(0xef48);
 
   /// ![hourglass-medium](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/hourglass-medium.svg)
-  static const hourglassMedium = PhosphorIconData(0xef49);
+  static const hourglassMedium = PhosphorIconDataRegular(0xef49);
 
   /// ![hourglass-medium-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/hourglass-medium-bold.svg)
-  static const hourglassMediumBold = PhosphorIconData(0xef4a);
+  static const hourglassMediumBold = PhosphorIconDataBold(0xef4a);
 
   /// ![hourglass-medium-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/hourglass-medium-fill.svg)
-  static const hourglassMediumFill = PhosphorIconData(0xef4b);
+  static const hourglassMediumFill = PhosphorIconDataFill(0xef4b);
 
   /// ![hourglass-medium-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/hourglass-medium-light.svg)
-  static const hourglassMediumLight = PhosphorIconData(0xef4c);
+  static const hourglassMediumLight = PhosphorIconDataLight(0xef4c);
 
   /// ![hourglass-medium-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/hourglass-medium-thin.svg)
-  static const hourglassMediumThin = PhosphorIconData(0xef4d);
+  static const hourglassMediumThin = PhosphorIconDataThin(0xef4d);
 
   /// ![hourglass-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/hourglass-simple.svg)
-  static const hourglassSimple = PhosphorIconData(0xef4e);
+  static const hourglassSimple = PhosphorIconDataRegular(0xef4e);
 
   /// ![hourglass-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/hourglass-simple-bold.svg)
-  static const hourglassSimpleBold = PhosphorIconData(0xef4f);
+  static const hourglassSimpleBold = PhosphorIconDataBold(0xef4f);
 
   /// ![hourglass-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/hourglass-simple-fill.svg)
-  static const hourglassSimpleFill = PhosphorIconData(0xef50);
+  static const hourglassSimpleFill = PhosphorIconDataFill(0xef50);
 
   /// ![hourglass-simple-high](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/hourglass-simple-high.svg)
-  static const hourglassSimpleHigh = PhosphorIconData(0xef51);
+  static const hourglassSimpleHigh = PhosphorIconDataRegular(0xef51);
 
   /// ![hourglass-simple-high-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/hourglass-simple-high-bold.svg)
-  static const hourglassSimpleHighBold = PhosphorIconData(0xef52);
+  static const hourglassSimpleHighBold = PhosphorIconDataBold(0xef52);
 
   /// ![hourglass-simple-high-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/hourglass-simple-high-fill.svg)
-  static const hourglassSimpleHighFill = PhosphorIconData(0xef53);
+  static const hourglassSimpleHighFill = PhosphorIconDataFill(0xef53);
 
   /// ![hourglass-simple-high-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/hourglass-simple-high-light.svg)
-  static const hourglassSimpleHighLight = PhosphorIconData(0xef54);
+  static const hourglassSimpleHighLight = PhosphorIconDataLight(0xef54);
 
   /// ![hourglass-simple-high-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/hourglass-simple-high-thin.svg)
-  static const hourglassSimpleHighThin = PhosphorIconData(0xef55);
+  static const hourglassSimpleHighThin = PhosphorIconDataThin(0xef55);
 
   /// ![hourglass-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/hourglass-simple-light.svg)
-  static const hourglassSimpleLight = PhosphorIconData(0xef56);
+  static const hourglassSimpleLight = PhosphorIconDataLight(0xef56);
 
   /// ![hourglass-simple-low](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/hourglass-simple-low.svg)
-  static const hourglassSimpleLow = PhosphorIconData(0xef57);
+  static const hourglassSimpleLow = PhosphorIconDataRegular(0xef57);
 
   /// ![hourglass-simple-low-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/hourglass-simple-low-bold.svg)
-  static const hourglassSimpleLowBold = PhosphorIconData(0xef58);
+  static const hourglassSimpleLowBold = PhosphorIconDataBold(0xef58);
 
   /// ![hourglass-simple-low-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/hourglass-simple-low-fill.svg)
-  static const hourglassSimpleLowFill = PhosphorIconData(0xef59);
+  static const hourglassSimpleLowFill = PhosphorIconDataFill(0xef59);
 
   /// ![hourglass-simple-low-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/hourglass-simple-low-light.svg)
-  static const hourglassSimpleLowLight = PhosphorIconData(0xef5a);
+  static const hourglassSimpleLowLight = PhosphorIconDataLight(0xef5a);
 
   /// ![hourglass-simple-low-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/hourglass-simple-low-thin.svg)
-  static const hourglassSimpleLowThin = PhosphorIconData(0xef5b);
+  static const hourglassSimpleLowThin = PhosphorIconDataThin(0xef5b);
 
   /// ![hourglass-simple-medium](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/hourglass-simple-medium.svg)
-  static const hourglassSimpleMedium = PhosphorIconData(0xef5c);
+  static const hourglassSimpleMedium = PhosphorIconDataRegular(0xef5c);
 
   /// ![hourglass-simple-medium-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/hourglass-simple-medium-bold.svg)
-  static const hourglassSimpleMediumBold = PhosphorIconData(0xef5d);
+  static const hourglassSimpleMediumBold = PhosphorIconDataBold(0xef5d);
 
   /// ![hourglass-simple-medium-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/hourglass-simple-medium-fill.svg)
-  static const hourglassSimpleMediumFill = PhosphorIconData(0xef5e);
+  static const hourglassSimpleMediumFill = PhosphorIconDataFill(0xef5e);
 
   /// ![hourglass-simple-medium-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/hourglass-simple-medium-light.svg)
-  static const hourglassSimpleMediumLight = PhosphorIconData(0xef5f);
+  static const hourglassSimpleMediumLight = PhosphorIconDataLight(0xef5f);
 
   /// ![hourglass-simple-medium-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/hourglass-simple-medium-thin.svg)
-  static const hourglassSimpleMediumThin = PhosphorIconData(0xef60);
+  static const hourglassSimpleMediumThin = PhosphorIconDataThin(0xef60);
 
   /// ![hourglass-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/hourglass-simple-thin.svg)
-  static const hourglassSimpleThin = PhosphorIconData(0xef61);
+  static const hourglassSimpleThin = PhosphorIconDataThin(0xef61);
 
   /// ![hourglass-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/hourglass-thin.svg)
-  static const hourglassThin = PhosphorIconData(0xef62);
+  static const hourglassThin = PhosphorIconDataThin(0xef62);
 
   /// ![house](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/house.svg)
-  static const house = PhosphorIconData(0xef63);
+  static const house = PhosphorIconDataRegular(0xef63);
 
   /// ![house-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/house-bold.svg)
-  static const houseBold = PhosphorIconData(0xef64);
+  static const houseBold = PhosphorIconDataBold(0xef64);
 
   /// ![house-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/house-fill.svg)
-  static const houseFill = PhosphorIconData(0xef65);
+  static const houseFill = PhosphorIconDataFill(0xef65);
 
   /// ![house-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/house-light.svg)
-  static const houseLight = PhosphorIconData(0xef66);
+  static const houseLight = PhosphorIconDataLight(0xef66);
 
   /// ![house-line](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/house-line.svg)
-  static const houseLine = PhosphorIconData(0xef67);
+  static const houseLine = PhosphorIconDataRegular(0xef67);
 
   /// ![house-line-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/house-line-bold.svg)
-  static const houseLineBold = PhosphorIconData(0xef68);
+  static const houseLineBold = PhosphorIconDataBold(0xef68);
 
   /// ![house-line-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/house-line-fill.svg)
-  static const houseLineFill = PhosphorIconData(0xef69);
+  static const houseLineFill = PhosphorIconDataFill(0xef69);
 
   /// ![house-line-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/house-line-light.svg)
-  static const houseLineLight = PhosphorIconData(0xef6a);
+  static const houseLineLight = PhosphorIconDataLight(0xef6a);
 
   /// ![house-line-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/house-line-thin.svg)
-  static const houseLineThin = PhosphorIconData(0xef6b);
+  static const houseLineThin = PhosphorIconDataThin(0xef6b);
 
   /// ![house-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/house-simple.svg)
-  static const houseSimple = PhosphorIconData(0xef6c);
+  static const houseSimple = PhosphorIconDataRegular(0xef6c);
 
   /// ![house-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/house-simple-bold.svg)
-  static const houseSimpleBold = PhosphorIconData(0xef6d);
+  static const houseSimpleBold = PhosphorIconDataBold(0xef6d);
 
   /// ![house-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/house-simple-fill.svg)
-  static const houseSimpleFill = PhosphorIconData(0xef6e);
+  static const houseSimpleFill = PhosphorIconDataFill(0xef6e);
 
   /// ![house-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/house-simple-light.svg)
-  static const houseSimpleLight = PhosphorIconData(0xef6f);
+  static const houseSimpleLight = PhosphorIconDataLight(0xef6f);
 
   /// ![house-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/house-simple-thin.svg)
-  static const houseSimpleThin = PhosphorIconData(0xef70);
+  static const houseSimpleThin = PhosphorIconDataThin(0xef70);
 
   /// ![house-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/house-thin.svg)
-  static const houseThin = PhosphorIconData(0xef71);
+  static const houseThin = PhosphorIconDataThin(0xef71);
 
   /// ![identification-card](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/identification-card.svg)
-  static const identificationCard = PhosphorIconData(0xef72);
+  static const identificationCard = PhosphorIconDataRegular(0xef72);
 
   /// ![identification-card-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/identification-card-bold.svg)
-  static const identificationCardBold = PhosphorIconData(0xef73);
+  static const identificationCardBold = PhosphorIconDataBold(0xef73);
 
   /// ![identification-card-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/identification-card-fill.svg)
-  static const identificationCardFill = PhosphorIconData(0xef74);
+  static const identificationCardFill = PhosphorIconDataFill(0xef74);
 
   /// ![identification-card-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/identification-card-light.svg)
-  static const identificationCardLight = PhosphorIconData(0xef75);
+  static const identificationCardLight = PhosphorIconDataLight(0xef75);
 
   /// ![identification-card-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/identification-card-thin.svg)
-  static const identificationCardThin = PhosphorIconData(0xef76);
+  static const identificationCardThin = PhosphorIconDataThin(0xef76);
 
   /// ![image](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/image.svg)
-  static const image = PhosphorIconData(0xef77);
+  static const image = PhosphorIconDataRegular(0xef77);
 
   /// ![image-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/image-bold.svg)
-  static const imageBold = PhosphorIconData(0xef78);
+  static const imageBold = PhosphorIconDataBold(0xef78);
 
   /// ![image-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/image-fill.svg)
-  static const imageFill = PhosphorIconData(0xef79);
+  static const imageFill = PhosphorIconDataFill(0xef79);
 
   /// ![image-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/image-light.svg)
-  static const imageLight = PhosphorIconData(0xef7a);
+  static const imageLight = PhosphorIconDataLight(0xef7a);
 
   /// ![image-square](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/image-square.svg)
-  static const imageSquare = PhosphorIconData(0xef7b);
+  static const imageSquare = PhosphorIconDataRegular(0xef7b);
 
   /// ![image-square-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/image-square-bold.svg)
-  static const imageSquareBold = PhosphorIconData(0xef7c);
+  static const imageSquareBold = PhosphorIconDataBold(0xef7c);
 
   /// ![image-square-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/image-square-fill.svg)
-  static const imageSquareFill = PhosphorIconData(0xef7d);
+  static const imageSquareFill = PhosphorIconDataFill(0xef7d);
 
   /// ![image-square-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/image-square-light.svg)
-  static const imageSquareLight = PhosphorIconData(0xef7e);
+  static const imageSquareLight = PhosphorIconDataLight(0xef7e);
 
   /// ![image-square-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/image-square-thin.svg)
-  static const imageSquareThin = PhosphorIconData(0xef7f);
+  static const imageSquareThin = PhosphorIconDataThin(0xef7f);
 
   /// ![image-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/image-thin.svg)
-  static const imageThin = PhosphorIconData(0xef80);
+  static const imageThin = PhosphorIconDataThin(0xef80);
 
   /// ![info](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/info.svg)
-  static const info = PhosphorIconData(0xef81);
+  static const info = PhosphorIconDataRegular(0xef81);
 
   /// ![info-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/info-bold.svg)
-  static const infoBold = PhosphorIconData(0xef82);
+  static const infoBold = PhosphorIconDataBold(0xef82);
 
   /// ![info-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/info-fill.svg)
-  static const infoFill = PhosphorIconData(0xef83);
+  static const infoFill = PhosphorIconDataFill(0xef83);
 
   /// ![info-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/info-light.svg)
-  static const infoLight = PhosphorIconData(0xef84);
+  static const infoLight = PhosphorIconDataLight(0xef84);
 
   /// ![info-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/info-thin.svg)
-  static const infoThin = PhosphorIconData(0xef85);
+  static const infoThin = PhosphorIconDataThin(0xef85);
 
   /// ![instagram-logo](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/instagram-logo.svg)
-  static const instagramLogo = PhosphorIconData(0xef86);
+  static const instagramLogo = PhosphorIconDataRegular(0xef86);
 
   /// ![instagram-logo-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/instagram-logo-bold.svg)
-  static const instagramLogoBold = PhosphorIconData(0xef87);
+  static const instagramLogoBold = PhosphorIconDataBold(0xef87);
 
   /// ![instagram-logo-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/instagram-logo-fill.svg)
-  static const instagramLogoFill = PhosphorIconData(0xef88);
+  static const instagramLogoFill = PhosphorIconDataFill(0xef88);
 
   /// ![instagram-logo-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/instagram-logo-light.svg)
-  static const instagramLogoLight = PhosphorIconData(0xef89);
+  static const instagramLogoLight = PhosphorIconDataLight(0xef89);
 
   /// ![instagram-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/instagram-logo-thin.svg)
-  static const instagramLogoThin = PhosphorIconData(0xef8a);
+  static const instagramLogoThin = PhosphorIconDataThin(0xef8a);
 
   /// ![intersect](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/intersect.svg)
-  static const intersect = PhosphorIconData(0xef8b);
+  static const intersect = PhosphorIconDataRegular(0xef8b);
 
   /// ![intersect-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/intersect-bold.svg)
-  static const intersectBold = PhosphorIconData(0xef8c);
+  static const intersectBold = PhosphorIconDataBold(0xef8c);
 
   /// ![intersect-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/intersect-fill.svg)
-  static const intersectFill = PhosphorIconData(0xef8d);
+  static const intersectFill = PhosphorIconDataFill(0xef8d);
 
   /// ![intersect-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/intersect-light.svg)
-  static const intersectLight = PhosphorIconData(0xef8e);
+  static const intersectLight = PhosphorIconDataLight(0xef8e);
 
   /// ![intersect-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/intersect-thin.svg)
-  static const intersectThin = PhosphorIconData(0xef8f);
+  static const intersectThin = PhosphorIconDataThin(0xef8f);
 
   /// ![jeep](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/jeep.svg)
-  static const jeep = PhosphorIconData(0xef90);
+  static const jeep = PhosphorIconDataRegular(0xef90);
 
   /// ![jeep-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/jeep-bold.svg)
-  static const jeepBold = PhosphorIconData(0xef91);
+  static const jeepBold = PhosphorIconDataBold(0xef91);
 
   /// ![jeep-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/jeep-fill.svg)
-  static const jeepFill = PhosphorIconData(0xef92);
+  static const jeepFill = PhosphorIconDataFill(0xef92);
 
   /// ![jeep-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/jeep-light.svg)
-  static const jeepLight = PhosphorIconData(0xef93);
+  static const jeepLight = PhosphorIconDataLight(0xef93);
 
   /// ![jeep-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/jeep-thin.svg)
-  static const jeepThin = PhosphorIconData(0xef94);
+  static const jeepThin = PhosphorIconDataThin(0xef94);
 
   /// ![key](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/key.svg)
-  static const key = PhosphorIconData(0xef95);
+  static const key = PhosphorIconDataRegular(0xef95);
 
   /// ![key-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/key-bold.svg)
-  static const keyBold = PhosphorIconData(0xef96);
+  static const keyBold = PhosphorIconDataBold(0xef96);
 
   /// ![key-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/key-fill.svg)
-  static const keyFill = PhosphorIconData(0xef97);
+  static const keyFill = PhosphorIconDataFill(0xef97);
 
   /// ![key-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/key-light.svg)
-  static const keyLight = PhosphorIconData(0xef98);
+  static const keyLight = PhosphorIconDataLight(0xef98);
 
   /// ![key-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/key-thin.svg)
-  static const keyThin = PhosphorIconData(0xef99);
+  static const keyThin = PhosphorIconDataThin(0xef99);
 
   /// ![keyboard](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/keyboard.svg)
-  static const keyboard = PhosphorIconData(0xef9a);
+  static const keyboard = PhosphorIconDataRegular(0xef9a);
 
   /// ![keyboard-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/keyboard-bold.svg)
-  static const keyboardBold = PhosphorIconData(0xef9b);
+  static const keyboardBold = PhosphorIconDataBold(0xef9b);
 
   /// ![keyboard-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/keyboard-fill.svg)
-  static const keyboardFill = PhosphorIconData(0xef9c);
+  static const keyboardFill = PhosphorIconDataFill(0xef9c);
 
   /// ![keyboard-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/keyboard-light.svg)
-  static const keyboardLight = PhosphorIconData(0xef9d);
+  static const keyboardLight = PhosphorIconDataLight(0xef9d);
 
   /// ![keyboard-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/keyboard-thin.svg)
-  static const keyboardThin = PhosphorIconData(0xef9e);
+  static const keyboardThin = PhosphorIconDataThin(0xef9e);
 
   /// ![leaf](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/leaf.svg)
-  static const leaf = PhosphorIconData(0xef9f);
+  static const leaf = PhosphorIconDataRegular(0xef9f);
 
   /// ![leaf-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/leaf-bold.svg)
-  static const leafBold = PhosphorIconData(0xefa0);
+  static const leafBold = PhosphorIconDataBold(0xefa0);
 
   /// ![leaf-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/leaf-fill.svg)
-  static const leafFill = PhosphorIconData(0xefa1);
+  static const leafFill = PhosphorIconDataFill(0xefa1);
 
   /// ![leaf-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/leaf-light.svg)
-  static const leafLight = PhosphorIconData(0xefa2);
+  static const leafLight = PhosphorIconDataLight(0xefa2);
 
   /// ![leaf-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/leaf-thin.svg)
-  static const leafThin = PhosphorIconData(0xefa3);
+  static const leafThin = PhosphorIconDataThin(0xefa3);
 
   /// ![lightbulb](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/lightbulb/lightbulb.svg)
-  static const lightbulb = PhosphorIconData(0xefa4);
+  static const lightbulb = PhosphorIconDataRegular(0xefa4);
 
   /// ![lightbulb-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/lightbulb-bold.svg)
-  static const lightbulbBold = PhosphorIconData(0xefa5);
+  static const lightbulbBold = PhosphorIconDataBold(0xefa5);
 
   /// ![lightbulb-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/lightbulb-fill.svg)
-  static const lightbulbFill = PhosphorIconData(0xefa6);
+  static const lightbulbFill = PhosphorIconDataFill(0xefa6);
 
   /// ![lightbulb-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/lightbulb-light.svg)
-  static const lightbulbLight = PhosphorIconData(0xefa7);
+  static const lightbulbLight = PhosphorIconDataLight(0xefa7);
 
   /// ![lightbulb-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/lightbulb-thin.svg)
-  static const lightbulbThin = PhosphorIconData(0xefa8);
+  static const lightbulbThin = PhosphorIconDataThin(0xefa8);
 
   /// ![lightning](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/lightning/lightning.svg)
-  static const lightning = PhosphorIconData(0xefa9);
+  static const lightning = PhosphorIconDataRegular(0xefa9);
 
   /// ![lightning-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/lightning-bold.svg)
-  static const lightningBold = PhosphorIconData(0xefaa);
+  static const lightningBold = PhosphorIconDataBold(0xefaa);
 
   /// ![lightning-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/lightning-fill.svg)
-  static const lightningFill = PhosphorIconData(0xefab);
+  static const lightningFill = PhosphorIconDataFill(0xefab);
 
   /// ![lightning-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/lightning-light.svg)
-  static const lightningLight = PhosphorIconData(0xefac);
+  static const lightningLight = PhosphorIconDataLight(0xefac);
 
   /// ![lightning-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/slash/lightning-slash.svg)
-  static const lightningSlash = PhosphorIconData(0xefad);
+  static const lightningSlash = PhosphorIconDataRegular(0xefad);
 
   /// ![lightning-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/lightning-slash-bold.svg)
-  static const lightningSlashBold = PhosphorIconData(0xefae);
+  static const lightningSlashBold = PhosphorIconDataBold(0xefae);
 
   /// ![lightning-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/lightning-slash-fill.svg)
-  static const lightningSlashFill = PhosphorIconData(0xefaf);
+  static const lightningSlashFill = PhosphorIconDataFill(0xefaf);
 
   /// ![lightning-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/lightning-slash-light.svg)
-  static const lightningSlashLight = PhosphorIconData(0xefb0);
+  static const lightningSlashLight = PhosphorIconDataLight(0xefb0);
 
   /// ![lightning-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/lightning-slash-thin.svg)
-  static const lightningSlashThin = PhosphorIconData(0xefb1);
+  static const lightningSlashThin = PhosphorIconDataThin(0xefb1);
 
   /// ![lightning-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/lightning-thin.svg)
-  static const lightningThin = PhosphorIconData(0xefb2);
+  static const lightningThin = PhosphorIconDataThin(0xefb2);
 
   /// ![link](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/link.svg)
-  static const link = PhosphorIconData(0xefb3);
+  static const link = PhosphorIconDataRegular(0xefb3);
 
   /// ![link-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/link-bold.svg)
-  static const linkBold = PhosphorIconData(0xefb4);
+  static const linkBold = PhosphorIconDataBold(0xefb4);
 
   /// ![link-break](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/link-break.svg)
-  static const linkBreak = PhosphorIconData(0xefb5);
+  static const linkBreak = PhosphorIconDataRegular(0xefb5);
 
   /// ![link-break-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/link-break-bold.svg)
-  static const linkBreakBold = PhosphorIconData(0xefb6);
+  static const linkBreakBold = PhosphorIconDataBold(0xefb6);
 
   /// ![link-break-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/link-break-fill.svg)
-  static const linkBreakFill = PhosphorIconData(0xefb7);
+  static const linkBreakFill = PhosphorIconDataFill(0xefb7);
 
   /// ![link-break-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/link-break-light.svg)
-  static const linkBreakLight = PhosphorIconData(0xefb8);
+  static const linkBreakLight = PhosphorIconDataLight(0xefb8);
 
   /// ![link-break-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/link-break-thin.svg)
-  static const linkBreakThin = PhosphorIconData(0xefb9);
+  static const linkBreakThin = PhosphorIconDataThin(0xefb9);
 
   /// ![link-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/link-fill.svg)
-  static const linkFill = PhosphorIconData(0xefba);
+  static const linkFill = PhosphorIconDataFill(0xefba);
 
   /// ![link-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/link-light.svg)
-  static const linkLight = PhosphorIconData(0xefbb);
+  static const linkLight = PhosphorIconDataLight(0xefbb);
 
   /// ![link-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/link-simple.svg)
-  static const linkSimple = PhosphorIconData(0xefbc);
+  static const linkSimple = PhosphorIconDataRegular(0xefbc);
 
   /// ![link-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/link-simple-bold.svg)
-  static const linkSimpleBold = PhosphorIconData(0xefbd);
+  static const linkSimpleBold = PhosphorIconDataBold(0xefbd);
 
   /// ![link-simple-break](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/link-simple-break.svg)
-  static const linkSimpleBreak = PhosphorIconData(0xefbe);
+  static const linkSimpleBreak = PhosphorIconDataRegular(0xefbe);
 
   /// ![link-simple-break-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/link-simple-break-bold.svg)
-  static const linkSimpleBreakBold = PhosphorIconData(0xefbf);
+  static const linkSimpleBreakBold = PhosphorIconDataBold(0xefbf);
 
   /// ![link-simple-break-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/link-simple-break-fill.svg)
-  static const linkSimpleBreakFill = PhosphorIconData(0xefc0);
+  static const linkSimpleBreakFill = PhosphorIconDataFill(0xefc0);
 
   /// ![link-simple-break-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/link-simple-break-light.svg)
-  static const linkSimpleBreakLight = PhosphorIconData(0xefc1);
+  static const linkSimpleBreakLight = PhosphorIconDataLight(0xefc1);
 
   /// ![link-simple-break-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/link-simple-break-thin.svg)
-  static const linkSimpleBreakThin = PhosphorIconData(0xefc2);
+  static const linkSimpleBreakThin = PhosphorIconDataThin(0xefc2);
 
   /// ![link-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/link-simple-fill.svg)
-  static const linkSimpleFill = PhosphorIconData(0xefc3);
+  static const linkSimpleFill = PhosphorIconDataFill(0xefc3);
 
   /// ![link-simple-horizontal](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/link-simple-horizontal.svg)
-  static const linkSimpleHorizontal = PhosphorIconData(0xefc4);
+  static const linkSimpleHorizontal = PhosphorIconDataRegular(0xefc4);
 
   /// ![link-simple-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/link-simple-horizontal-bold.svg)
-  static const linkSimpleHorizontalBold = PhosphorIconData(0xefc5);
+  static const linkSimpleHorizontalBold = PhosphorIconDataBold(0xefc5);
 
   /// ![link-simple-horizontal-break](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/link-simple-horizontal-break.svg)
-  static const linkSimpleHorizontalBreak = PhosphorIconData(0xefc6);
+  static const linkSimpleHorizontalBreak = PhosphorIconDataRegular(0xefc6);
 
   /// ![link-simple-horizontal-break-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/link-simple-horizontal-break-bold.svg)
-  static const linkSimpleHorizontalBreakBold = PhosphorIconData(0xefc7);
+  static const linkSimpleHorizontalBreakBold = PhosphorIconDataBold(0xefc7);
 
   /// ![link-simple-horizontal-break-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/link-simple-horizontal-break-fill.svg)
-  static const linkSimpleHorizontalBreakFill = PhosphorIconData(0xefc8);
+  static const linkSimpleHorizontalBreakFill = PhosphorIconDataFill(0xefc8);
 
   /// ![link-simple-horizontal-break-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/link-simple-horizontal-break-light.svg)
-  static const linkSimpleHorizontalBreakLight = PhosphorIconData(0xefc9);
+  static const linkSimpleHorizontalBreakLight = PhosphorIconDataLight(0xefc9);
 
   /// ![link-simple-horizontal-break-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/link-simple-horizontal-break-thin.svg)
-  static const linkSimpleHorizontalBreakThin = PhosphorIconData(0xefca);
+  static const linkSimpleHorizontalBreakThin = PhosphorIconDataThin(0xefca);
 
   /// ![link-simple-horizontal-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/link-simple-horizontal-fill.svg)
-  static const linkSimpleHorizontalFill = PhosphorIconData(0xefcb);
+  static const linkSimpleHorizontalFill = PhosphorIconDataFill(0xefcb);
 
   /// ![link-simple-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/link-simple-horizontal-light.svg)
-  static const linkSimpleHorizontalLight = PhosphorIconData(0xefcc);
+  static const linkSimpleHorizontalLight = PhosphorIconDataLight(0xefcc);
 
   /// ![link-simple-horizontal-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/link-simple-horizontal-thin.svg)
-  static const linkSimpleHorizontalThin = PhosphorIconData(0xefcd);
+  static const linkSimpleHorizontalThin = PhosphorIconDataThin(0xefcd);
 
   /// ![link-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/link-simple-light.svg)
-  static const linkSimpleLight = PhosphorIconData(0xefce);
+  static const linkSimpleLight = PhosphorIconDataLight(0xefce);
 
   /// ![link-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/link-simple-thin.svg)
-  static const linkSimpleThin = PhosphorIconData(0xefcf);
+  static const linkSimpleThin = PhosphorIconDataThin(0xefcf);
 
   /// ![link-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/link-thin.svg)
-  static const linkThin = PhosphorIconData(0xefd0);
+  static const linkThin = PhosphorIconDataThin(0xefd0);
 
   /// ![linkedin-logo](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/linkedin-logo.svg)
-  static const linkedinLogo = PhosphorIconData(0xefd1);
+  static const linkedinLogo = PhosphorIconDataRegular(0xefd1);
 
   /// ![linkedin-logo-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/linkedin-logo-bold.svg)
-  static const linkedinLogoBold = PhosphorIconData(0xefd2);
+  static const linkedinLogoBold = PhosphorIconDataBold(0xefd2);
 
   /// ![linkedin-logo-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/linkedin-logo-fill.svg)
-  static const linkedinLogoFill = PhosphorIconData(0xefd3);
+  static const linkedinLogoFill = PhosphorIconDataFill(0xefd3);
 
   /// ![linkedin-logo-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/linkedin-logo-light.svg)
-  static const linkedinLogoLight = PhosphorIconData(0xefd4);
+  static const linkedinLogoLight = PhosphorIconDataLight(0xefd4);
 
   /// ![linkedin-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/linkedin-logo-thin.svg)
-  static const linkedinLogoThin = PhosphorIconData(0xefd5);
+  static const linkedinLogoThin = PhosphorIconDataThin(0xefd5);
 
   /// ![list](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/list.svg)
-  static const list = PhosphorIconData(0xefd6);
+  static const list = PhosphorIconDataRegular(0xefd6);
 
   /// ![list-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/list-bold.svg)
-  static const listBold = PhosphorIconData(0xefd7);
+  static const listBold = PhosphorIconDataBold(0xefd7);
 
   /// ![list-bullets](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/list-bullets.svg)
-  static const listBullets = PhosphorIconData(0xefd8);
+  static const listBullets = PhosphorIconDataRegular(0xefd8);
 
   /// ![list-bullets-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/list-bullets-bold.svg)
-  static const listBulletsBold = PhosphorIconData(0xefd9);
+  static const listBulletsBold = PhosphorIconDataBold(0xefd9);
 
   /// ![list-bullets-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/list-bullets-fill.svg)
-  static const listBulletsFill = PhosphorIconData(0xefda);
+  static const listBulletsFill = PhosphorIconDataFill(0xefda);
 
   /// ![list-bullets-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/list-bullets-light.svg)
-  static const listBulletsLight = PhosphorIconData(0xefdb);
+  static const listBulletsLight = PhosphorIconDataLight(0xefdb);
 
   /// ![list-bullets-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/list-bullets-thin.svg)
-  static const listBulletsThin = PhosphorIconData(0xefdc);
+  static const listBulletsThin = PhosphorIconDataThin(0xefdc);
 
   /// ![list-dashes](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/list-dashes.svg)
-  static const listDashes = PhosphorIconData(0xefdd);
+  static const listDashes = PhosphorIconDataRegular(0xefdd);
 
   /// ![list-dashes-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/list-dashes-bold.svg)
-  static const listDashesBold = PhosphorIconData(0xefde);
+  static const listDashesBold = PhosphorIconDataBold(0xefde);
 
   /// ![list-dashes-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/list-dashes-fill.svg)
-  static const listDashesFill = PhosphorIconData(0xefdf);
+  static const listDashesFill = PhosphorIconDataFill(0xefdf);
 
   /// ![list-dashes-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/list-dashes-light.svg)
-  static const listDashesLight = PhosphorIconData(0xefe0);
+  static const listDashesLight = PhosphorIconDataLight(0xefe0);
 
   /// ![list-dashes-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/list-dashes-thin.svg)
-  static const listDashesThin = PhosphorIconData(0xefe1);
+  static const listDashesThin = PhosphorIconDataThin(0xefe1);
 
   /// ![list-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/list-fill.svg)
-  static const listFill = PhosphorIconData(0xefe2);
+  static const listFill = PhosphorIconDataFill(0xefe2);
 
   /// ![list-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/list-light.svg)
-  static const listLight = PhosphorIconData(0xefe3);
+  static const listLight = PhosphorIconDataLight(0xefe3);
 
   /// ![list-numbers](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/list-numbers.svg)
-  static const listNumbers = PhosphorIconData(0xefe4);
+  static const listNumbers = PhosphorIconDataRegular(0xefe4);
 
   /// ![list-numbers-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/list-numbers-bold.svg)
-  static const listNumbersBold = PhosphorIconData(0xefe5);
+  static const listNumbersBold = PhosphorIconDataBold(0xefe5);
 
   /// ![list-numbers-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/list-numbers-fill.svg)
-  static const listNumbersFill = PhosphorIconData(0xefe6);
+  static const listNumbersFill = PhosphorIconDataFill(0xefe6);
 
   /// ![list-numbers-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/list-numbers-light.svg)
-  static const listNumbersLight = PhosphorIconData(0xefe7);
+  static const listNumbersLight = PhosphorIconDataLight(0xefe7);
 
   /// ![list-numbers-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/list-numbers-thin.svg)
-  static const listNumbersThin = PhosphorIconData(0xefe8);
+  static const listNumbersThin = PhosphorIconDataThin(0xefe8);
 
   /// ![list-plus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/list-plus.svg)
-  static const listPlus = PhosphorIconData(0xefe9);
+  static const listPlus = PhosphorIconDataRegular(0xefe9);
 
   /// ![list-plus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/list-plus-bold.svg)
-  static const listPlusBold = PhosphorIconData(0xefea);
+  static const listPlusBold = PhosphorIconDataBold(0xefea);
 
   /// ![list-plus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/list-plus-fill.svg)
-  static const listPlusFill = PhosphorIconData(0xefeb);
+  static const listPlusFill = PhosphorIconDataFill(0xefeb);
 
   /// ![list-plus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/list-plus-light.svg)
-  static const listPlusLight = PhosphorIconData(0xefec);
+  static const listPlusLight = PhosphorIconDataLight(0xefec);
 
   /// ![list-plus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/list-plus-thin.svg)
-  static const listPlusThin = PhosphorIconData(0xefed);
+  static const listPlusThin = PhosphorIconDataThin(0xefed);
 
   /// ![list-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/list-thin.svg)
-  static const listThin = PhosphorIconData(0xefee);
+  static const listThin = PhosphorIconDataThin(0xefee);
 
   /// ![lock](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/lock.svg)
-  static const lock = PhosphorIconData(0xefef);
+  static const lock = PhosphorIconDataRegular(0xefef);
 
   /// ![lock-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/lock-bold.svg)
-  static const lockBold = PhosphorIconData(0xeff0);
+  static const lockBold = PhosphorIconDataBold(0xeff0);
 
   /// ![lock-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/lock-fill.svg)
-  static const lockFill = PhosphorIconData(0xeff1);
+  static const lockFill = PhosphorIconDataFill(0xeff1);
 
   /// ![lock-key](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/lock-key.svg)
-  static const lockKey = PhosphorIconData(0xeff2);
+  static const lockKey = PhosphorIconDataRegular(0xeff2);
 
   /// ![lock-key-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/lock-key-bold.svg)
-  static const lockKeyBold = PhosphorIconData(0xeff3);
+  static const lockKeyBold = PhosphorIconDataBold(0xeff3);
 
   /// ![lock-key-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/lock-key-fill.svg)
-  static const lockKeyFill = PhosphorIconData(0xeff4);
+  static const lockKeyFill = PhosphorIconDataFill(0xeff4);
 
   /// ![lock-key-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/lock-key-light.svg)
-  static const lockKeyLight = PhosphorIconData(0xeff5);
+  static const lockKeyLight = PhosphorIconDataLight(0xeff5);
 
   /// ![lock-key-open](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/lock-key-open.svg)
-  static const lockKeyOpen = PhosphorIconData(0xeff6);
+  static const lockKeyOpen = PhosphorIconDataRegular(0xeff6);
 
   /// ![lock-key-open-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/lock-key-open-bold.svg)
-  static const lockKeyOpenBold = PhosphorIconData(0xeff7);
+  static const lockKeyOpenBold = PhosphorIconDataBold(0xeff7);
 
   /// ![lock-key-open-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/lock-key-open-fill.svg)
-  static const lockKeyOpenFill = PhosphorIconData(0xeff8);
+  static const lockKeyOpenFill = PhosphorIconDataFill(0xeff8);
 
   /// ![lock-key-open-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/lock-key-open-light.svg)
-  static const lockKeyOpenLight = PhosphorIconData(0xeff9);
+  static const lockKeyOpenLight = PhosphorIconDataLight(0xeff9);
 
   /// ![lock-key-open-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/lock-key-open-thin.svg)
-  static const lockKeyOpenThin = PhosphorIconData(0xeffa);
+  static const lockKeyOpenThin = PhosphorIconDataThin(0xeffa);
 
   /// ![lock-key-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/lock-key-thin.svg)
-  static const lockKeyThin = PhosphorIconData(0xeffb);
+  static const lockKeyThin = PhosphorIconDataThin(0xeffb);
 
   /// ![lock-laminated](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/lock-laminated.svg)
-  static const lockLaminated = PhosphorIconData(0xeffc);
+  static const lockLaminated = PhosphorIconDataRegular(0xeffc);
 
   /// ![lock-laminated-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/lock-laminated-bold.svg)
-  static const lockLaminatedBold = PhosphorIconData(0xeffd);
+  static const lockLaminatedBold = PhosphorIconDataBold(0xeffd);
 
   /// ![lock-laminated-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/lock-laminated-fill.svg)
-  static const lockLaminatedFill = PhosphorIconData(0xeffe);
+  static const lockLaminatedFill = PhosphorIconDataFill(0xeffe);
 
   /// ![lock-laminated-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/lock-laminated-light.svg)
-  static const lockLaminatedLight = PhosphorIconData(0xefff);
+  static const lockLaminatedLight = PhosphorIconDataLight(0xefff);
 
   /// ![lock-laminated-open](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/lock-laminated-open.svg)
-  static const lockLaminatedOpen = PhosphorIconData(0xf000);
+  static const lockLaminatedOpen = PhosphorIconDataRegular(0xf000);
 
   /// ![lock-laminated-open-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/lock-laminated-open-bold.svg)
-  static const lockLaminatedOpenBold = PhosphorIconData(0xf001);
+  static const lockLaminatedOpenBold = PhosphorIconDataBold(0xf001);
 
   /// ![lock-laminated-open-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/lock-laminated-open-fill.svg)
-  static const lockLaminatedOpenFill = PhosphorIconData(0xf002);
+  static const lockLaminatedOpenFill = PhosphorIconDataFill(0xf002);
 
   /// ![lock-laminated-open-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/lock-laminated-open-light.svg)
-  static const lockLaminatedOpenLight = PhosphorIconData(0xf003);
+  static const lockLaminatedOpenLight = PhosphorIconDataLight(0xf003);
 
   /// ![lock-laminated-open-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/lock-laminated-open-thin.svg)
-  static const lockLaminatedOpenThin = PhosphorIconData(0xf004);
+  static const lockLaminatedOpenThin = PhosphorIconDataThin(0xf004);
 
   /// ![lock-laminated-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/lock-laminated-thin.svg)
-  static const lockLaminatedThin = PhosphorIconData(0xf005);
+  static const lockLaminatedThin = PhosphorIconDataThin(0xf005);
 
   /// ![lock-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/lock-light.svg)
-  static const lockLight = PhosphorIconData(0xf006);
+  static const lockLight = PhosphorIconDataLight(0xf006);
 
   /// ![lock-open](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/lock-open.svg)
-  static const lockOpen = PhosphorIconData(0xf007);
+  static const lockOpen = PhosphorIconDataRegular(0xf007);
 
   /// ![lock-open-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/lock-open-bold.svg)
-  static const lockOpenBold = PhosphorIconData(0xf008);
+  static const lockOpenBold = PhosphorIconDataBold(0xf008);
 
   /// ![lock-open-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/lock-open-fill.svg)
-  static const lockOpenFill = PhosphorIconData(0xf009);
+  static const lockOpenFill = PhosphorIconDataFill(0xf009);
 
   /// ![lock-open-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/lock-open-light.svg)
-  static const lockOpenLight = PhosphorIconData(0xf00a);
+  static const lockOpenLight = PhosphorIconDataLight(0xf00a);
 
   /// ![lock-open-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/lock-open-thin.svg)
-  static const lockOpenThin = PhosphorIconData(0xf00b);
+  static const lockOpenThin = PhosphorIconDataThin(0xf00b);
 
   /// ![lock-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/lock-simple.svg)
-  static const lockSimple = PhosphorIconData(0xf00c);
+  static const lockSimple = PhosphorIconDataRegular(0xf00c);
 
   /// ![lock-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/lock-simple-bold.svg)
-  static const lockSimpleBold = PhosphorIconData(0xf00d);
+  static const lockSimpleBold = PhosphorIconDataBold(0xf00d);
 
   /// ![lock-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/lock-simple-fill.svg)
-  static const lockSimpleFill = PhosphorIconData(0xf00e);
+  static const lockSimpleFill = PhosphorIconDataFill(0xf00e);
 
   /// ![lock-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/lock-simple-light.svg)
-  static const lockSimpleLight = PhosphorIconData(0xf00f);
+  static const lockSimpleLight = PhosphorIconDataLight(0xf00f);
 
   /// ![lock-simple-open](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/lock-simple-open.svg)
-  static const lockSimpleOpen = PhosphorIconData(0xf010);
+  static const lockSimpleOpen = PhosphorIconDataRegular(0xf010);
 
   /// ![lock-simple-open-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/lock-simple-open-bold.svg)
-  static const lockSimpleOpenBold = PhosphorIconData(0xf011);
+  static const lockSimpleOpenBold = PhosphorIconDataBold(0xf011);
 
   /// ![lock-simple-open-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/lock-simple-open-fill.svg)
-  static const lockSimpleOpenFill = PhosphorIconData(0xf012);
+  static const lockSimpleOpenFill = PhosphorIconDataFill(0xf012);
 
   /// ![lock-simple-open-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/lock-simple-open-light.svg)
-  static const lockSimpleOpenLight = PhosphorIconData(0xf013);
+  static const lockSimpleOpenLight = PhosphorIconDataLight(0xf013);
 
   /// ![lock-simple-open-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/lock-simple-open-thin.svg)
-  static const lockSimpleOpenThin = PhosphorIconData(0xf014);
+  static const lockSimpleOpenThin = PhosphorIconDataThin(0xf014);
 
   /// ![lock-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/lock-simple-thin.svg)
-  static const lockSimpleThin = PhosphorIconData(0xf015);
+  static const lockSimpleThin = PhosphorIconDataThin(0xf015);
 
   /// ![lock-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/lock-thin.svg)
-  static const lockThin = PhosphorIconData(0xf016);
+  static const lockThin = PhosphorIconDataThin(0xf016);
 
   /// ![magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/magnifying-glass.svg)
-  static const magnifyingGlass = PhosphorIconData(0xf017);
+  static const magnifyingGlass = PhosphorIconDataRegular(0xf017);
 
   /// ![magnifying-glass-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/magnifying-glass-bold.svg)
-  static const magnifyingGlassBold = PhosphorIconData(0xf018);
+  static const magnifyingGlassBold = PhosphorIconDataBold(0xf018);
 
   /// ![magnifying-glass-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/magnifying-glass-fill.svg)
-  static const magnifyingGlassFill = PhosphorIconData(0xf019);
+  static const magnifyingGlassFill = PhosphorIconDataFill(0xf019);
 
   /// ![magnifying-glass-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/magnifying-glass-light.svg)
-  static const magnifyingGlassLight = PhosphorIconData(0xf01a);
+  static const magnifyingGlassLight = PhosphorIconDataLight(0xf01a);
 
   /// ![magnifying-glass-minus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/magnifying-glass-minus.svg)
-  static const magnifyingGlassMinus = PhosphorIconData(0xf01b);
+  static const magnifyingGlassMinus = PhosphorIconDataRegular(0xf01b);
 
   /// ![magnifying-glass-minus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/magnifying-glass-minus-bold.svg)
-  static const magnifyingGlassMinusBold = PhosphorIconData(0xf01c);
+  static const magnifyingGlassMinusBold = PhosphorIconDataBold(0xf01c);
 
   /// ![magnifying-glass-minus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/magnifying-glass-minus-fill.svg)
-  static const magnifyingGlassMinusFill = PhosphorIconData(0xf01d);
+  static const magnifyingGlassMinusFill = PhosphorIconDataFill(0xf01d);
 
   /// ![magnifying-glass-minus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/magnifying-glass-minus-light.svg)
-  static const magnifyingGlassMinusLight = PhosphorIconData(0xf01e);
+  static const magnifyingGlassMinusLight = PhosphorIconDataLight(0xf01e);
 
   /// ![magnifying-glass-minus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/magnifying-glass-minus-thin.svg)
-  static const magnifyingGlassMinusThin = PhosphorIconData(0xf01f);
+  static const magnifyingGlassMinusThin = PhosphorIconDataThin(0xf01f);
 
   /// ![magnifying-glass-plus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/magnifying-glass-plus.svg)
-  static const magnifyingGlassPlus = PhosphorIconData(0xf020);
+  static const magnifyingGlassPlus = PhosphorIconDataRegular(0xf020);
 
   /// ![magnifying-glass-plus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/magnifying-glass-plus-bold.svg)
-  static const magnifyingGlassPlusBold = PhosphorIconData(0xf021);
+  static const magnifyingGlassPlusBold = PhosphorIconDataBold(0xf021);
 
   /// ![magnifying-glass-plus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/magnifying-glass-plus-fill.svg)
-  static const magnifyingGlassPlusFill = PhosphorIconData(0xf022);
+  static const magnifyingGlassPlusFill = PhosphorIconDataFill(0xf022);
 
   /// ![magnifying-glass-plus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/magnifying-glass-plus-light.svg)
-  static const magnifyingGlassPlusLight = PhosphorIconData(0xf023);
+  static const magnifyingGlassPlusLight = PhosphorIconDataLight(0xf023);
 
   /// ![magnifying-glass-plus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/magnifying-glass-plus-thin.svg)
-  static const magnifyingGlassPlusThin = PhosphorIconData(0xf024);
+  static const magnifyingGlassPlusThin = PhosphorIconDataThin(0xf024);
 
   /// ![magnifying-glass-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/magnifying-glass-thin.svg)
-  static const magnifyingGlassThin = PhosphorIconData(0xf025);
+  static const magnifyingGlassThin = PhosphorIconDataThin(0xf025);
 
   /// ![map-pin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/map-pin.svg)
-  static const mapPin = PhosphorIconData(0xf026);
+  static const mapPin = PhosphorIconDataRegular(0xf026);
 
   /// ![map-pin-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/map-pin-bold.svg)
-  static const mapPinBold = PhosphorIconData(0xf027);
+  static const mapPinBold = PhosphorIconDataBold(0xf027);
 
   /// ![map-pin-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/map-pin-fill.svg)
-  static const mapPinFill = PhosphorIconData(0xf028);
+  static const mapPinFill = PhosphorIconDataFill(0xf028);
 
   /// ![map-pin-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/map-pin-light.svg)
-  static const mapPinLight = PhosphorIconData(0xf029);
+  static const mapPinLight = PhosphorIconDataLight(0xf029);
 
   /// ![map-pin-line](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/map-pin-line.svg)
-  static const mapPinLine = PhosphorIconData(0xf02a);
+  static const mapPinLine = PhosphorIconDataRegular(0xf02a);
 
   /// ![map-pin-line-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/map-pin-line-bold.svg)
-  static const mapPinLineBold = PhosphorIconData(0xf02b);
+  static const mapPinLineBold = PhosphorIconDataBold(0xf02b);
 
   /// ![map-pin-line-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/map-pin-line-fill.svg)
-  static const mapPinLineFill = PhosphorIconData(0xf02c);
+  static const mapPinLineFill = PhosphorIconDataFill(0xf02c);
 
   /// ![map-pin-line-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/map-pin-line-light.svg)
-  static const mapPinLineLight = PhosphorIconData(0xf02d);
+  static const mapPinLineLight = PhosphorIconDataLight(0xf02d);
 
   /// ![map-pin-line-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/map-pin-line-thin.svg)
-  static const mapPinLineThin = PhosphorIconData(0xf02e);
+  static const mapPinLineThin = PhosphorIconDataThin(0xf02e);
 
   /// ![map-pin-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/map-pin-thin.svg)
-  static const mapPinThin = PhosphorIconData(0xf02f);
+  static const mapPinThin = PhosphorIconDataThin(0xf02f);
 
   /// ![map-trifold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/map-trifold.svg)
-  static const mapTrifold = PhosphorIconData(0xf030);
+  static const mapTrifold = PhosphorIconDataRegular(0xf030);
 
   /// ![map-trifold-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/map-trifold-bold.svg)
-  static const mapTrifoldBold = PhosphorIconData(0xf031);
+  static const mapTrifoldBold = PhosphorIconDataBold(0xf031);
 
   /// ![map-trifold-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/map-trifold-fill.svg)
-  static const mapTrifoldFill = PhosphorIconData(0xf032);
+  static const mapTrifoldFill = PhosphorIconDataFill(0xf032);
 
   /// ![map-trifold-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/map-trifold-light.svg)
-  static const mapTrifoldLight = PhosphorIconData(0xf033);
+  static const mapTrifoldLight = PhosphorIconDataLight(0xf033);
 
   /// ![map-trifold-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/map-trifold-thin.svg)
-  static const mapTrifoldThin = PhosphorIconData(0xf034);
+  static const mapTrifoldThin = PhosphorIconDataThin(0xf034);
 
   /// ![martini](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/martini.svg)
-  static const martini = PhosphorIconData(0xf035);
+  static const martini = PhosphorIconDataRegular(0xf035);
 
   /// ![martini-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/martini-bold.svg)
-  static const martiniBold = PhosphorIconData(0xf036);
+  static const martiniBold = PhosphorIconDataBold(0xf036);
 
   /// ![martini-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/martini-fill.svg)
-  static const martiniFill = PhosphorIconData(0xf037);
+  static const martiniFill = PhosphorIconDataFill(0xf037);
 
   /// ![martini-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/martini-light.svg)
-  static const martiniLight = PhosphorIconData(0xf038);
+  static const martiniLight = PhosphorIconDataLight(0xf038);
 
   /// ![martini-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/martini-thin.svg)
-  static const martiniThin = PhosphorIconData(0xf039);
+  static const martiniThin = PhosphorIconDataThin(0xf039);
 
   /// ![math-operations](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/math-operations.svg)
-  static const mathOperations = PhosphorIconData(0xf03a);
+  static const mathOperations = PhosphorIconDataRegular(0xf03a);
 
   /// ![math-operations-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/math-operations-bold.svg)
-  static const mathOperationsBold = PhosphorIconData(0xf03b);
+  static const mathOperationsBold = PhosphorIconDataBold(0xf03b);
 
   /// ![math-operations-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/math-operations-fill.svg)
-  static const mathOperationsFill = PhosphorIconData(0xf03c);
+  static const mathOperationsFill = PhosphorIconDataFill(0xf03c);
 
   /// ![math-operations-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/math-operations-light.svg)
-  static const mathOperationsLight = PhosphorIconData(0xf03d);
+  static const mathOperationsLight = PhosphorIconDataLight(0xf03d);
 
   /// ![math-operations-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/math-operations-thin.svg)
-  static const mathOperationsThin = PhosphorIconData(0xf03e);
+  static const mathOperationsThin = PhosphorIconDataThin(0xf03e);
 
   /// ![medal](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/medal.svg)
-  static const medal = PhosphorIconData(0xf03f);
+  static const medal = PhosphorIconDataRegular(0xf03f);
 
   /// ![medal-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/medal-bold.svg)
-  static const medalBold = PhosphorIconData(0xf040);
+  static const medalBold = PhosphorIconDataBold(0xf040);
 
   /// ![medal-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/medal-fill.svg)
-  static const medalFill = PhosphorIconData(0xf041);
+  static const medalFill = PhosphorIconDataFill(0xf041);
 
   /// ![medal-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/medal-light.svg)
-  static const medalLight = PhosphorIconData(0xf042);
+  static const medalLight = PhosphorIconDataLight(0xf042);
 
   /// ![medal-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/medal-thin.svg)
-  static const medalThin = PhosphorIconData(0xf043);
+  static const medalThin = PhosphorIconDataThin(0xf043);
 
   /// ![medium-logo](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/medium-logo.svg)
-  static const mediumLogo = PhosphorIconData(0xf044);
+  static const mediumLogo = PhosphorIconDataRegular(0xf044);
 
   /// ![medium-logo-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/medium-logo-bold.svg)
-  static const mediumLogoBold = PhosphorIconData(0xf045);
+  static const mediumLogoBold = PhosphorIconDataBold(0xf045);
 
   /// ![medium-logo-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/medium-logo-fill.svg)
-  static const mediumLogoFill = PhosphorIconData(0xf046);
+  static const mediumLogoFill = PhosphorIconDataFill(0xf046);
 
   /// ![medium-logo-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/medium-logo-light.svg)
-  static const mediumLogoLight = PhosphorIconData(0xf047);
+  static const mediumLogoLight = PhosphorIconDataLight(0xf047);
 
   /// ![medium-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/medium-logo-thin.svg)
-  static const mediumLogoThin = PhosphorIconData(0xf048);
+  static const mediumLogoThin = PhosphorIconDataThin(0xf048);
 
   /// ![megaphone](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/megaphone.svg)
-  static const megaphone = PhosphorIconData(0xf049);
+  static const megaphone = PhosphorIconDataRegular(0xf049);
 
   /// ![megaphone-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/megaphone-bold.svg)
-  static const megaphoneBold = PhosphorIconData(0xf04a);
+  static const megaphoneBold = PhosphorIconDataBold(0xf04a);
 
   /// ![megaphone-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/megaphone-fill.svg)
-  static const megaphoneFill = PhosphorIconData(0xf04b);
+  static const megaphoneFill = PhosphorIconDataFill(0xf04b);
 
   /// ![megaphone-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/megaphone-light.svg)
-  static const megaphoneLight = PhosphorIconData(0xf04c);
+  static const megaphoneLight = PhosphorIconDataLight(0xf04c);
 
   /// ![megaphone-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/megaphone-thin.svg)
-  static const megaphoneThin = PhosphorIconData(0xf04d);
+  static const megaphoneThin = PhosphorIconDataThin(0xf04d);
 
   /// ![microphone](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/microphone.svg)
-  static const microphone = PhosphorIconData(0xf04e);
+  static const microphone = PhosphorIconDataRegular(0xf04e);
 
   /// ![microphone-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/microphone-bold.svg)
-  static const microphoneBold = PhosphorIconData(0xf04f);
+  static const microphoneBold = PhosphorIconDataBold(0xf04f);
 
   /// ![microphone-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/microphone-fill.svg)
-  static const microphoneFill = PhosphorIconData(0xf050);
+  static const microphoneFill = PhosphorIconDataFill(0xf050);
 
   /// ![microphone-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/microphone-light.svg)
-  static const microphoneLight = PhosphorIconData(0xf051);
+  static const microphoneLight = PhosphorIconDataLight(0xf051);
 
   /// ![microphone-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/microphone-slash.svg)
-  static const microphoneSlash = PhosphorIconData(0xf052);
+  static const microphoneSlash = PhosphorIconDataRegular(0xf052);
 
   /// ![microphone-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/microphone-slash-bold.svg)
-  static const microphoneSlashBold = PhosphorIconData(0xf053);
+  static const microphoneSlashBold = PhosphorIconDataBold(0xf053);
 
   /// ![microphone-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/microphone-slash-fill.svg)
-  static const microphoneSlashFill = PhosphorIconData(0xf054);
+  static const microphoneSlashFill = PhosphorIconDataFill(0xf054);
 
   /// ![microphone-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/microphone-slash-light.svg)
-  static const microphoneSlashLight = PhosphorIconData(0xf055);
+  static const microphoneSlashLight = PhosphorIconDataLight(0xf055);
 
   /// ![microphone-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/microphone-slash-thin.svg)
-  static const microphoneSlashThin = PhosphorIconData(0xf056);
+  static const microphoneSlashThin = PhosphorIconDataThin(0xf056);
 
   /// ![microphone-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/microphone-thin.svg)
-  static const microphoneThin = PhosphorIconData(0xf057);
+  static const microphoneThin = PhosphorIconDataThin(0xf057);
 
   /// ![minus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/minus.svg)
-  static const minus = PhosphorIconData(0xf058);
+  static const minus = PhosphorIconDataRegular(0xf058);
 
   /// ![minus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/minus-bold.svg)
-  static const minusBold = PhosphorIconData(0xf059);
+  static const minusBold = PhosphorIconDataBold(0xf059);
 
   /// ![minus-circle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/minus-circle.svg)
-  static const minusCircle = PhosphorIconData(0xf05a);
+  static const minusCircle = PhosphorIconDataRegular(0xf05a);
 
   /// ![minus-circle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/minus-circle-bold.svg)
-  static const minusCircleBold = PhosphorIconData(0xf05b);
+  static const minusCircleBold = PhosphorIconDataBold(0xf05b);
 
   /// ![minus-circle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/minus-circle-fill.svg)
-  static const minusCircleFill = PhosphorIconData(0xf05c);
+  static const minusCircleFill = PhosphorIconDataFill(0xf05c);
 
   /// ![minus-circle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/minus-circle-light.svg)
-  static const minusCircleLight = PhosphorIconData(0xf05d);
+  static const minusCircleLight = PhosphorIconDataLight(0xf05d);
 
   /// ![minus-circle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/minus-circle-thin.svg)
-  static const minusCircleThin = PhosphorIconData(0xf05e);
+  static const minusCircleThin = PhosphorIconDataThin(0xf05e);
 
   /// ![minus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/minus-fill.svg)
-  static const minusFill = PhosphorIconData(0xf05f);
+  static const minusFill = PhosphorIconDataFill(0xf05f);
 
   /// ![minus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/minus-light.svg)
-  static const minusLight = PhosphorIconData(0xf060);
+  static const minusLight = PhosphorIconDataLight(0xf060);
 
   /// ![minus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/minus-thin.svg)
-  static const minusThin = PhosphorIconData(0xf061);
+  static const minusThin = PhosphorIconDataThin(0xf061);
 
   /// ![monitor](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/monitor.svg)
-  static const monitor = PhosphorIconData(0xf062);
+  static const monitor = PhosphorIconDataRegular(0xf062);
 
   /// ![monitor-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/monitor-bold.svg)
-  static const monitorBold = PhosphorIconData(0xf063);
+  static const monitorBold = PhosphorIconDataBold(0xf063);
 
   /// ![monitor-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/monitor-fill.svg)
-  static const monitorFill = PhosphorIconData(0xf064);
+  static const monitorFill = PhosphorIconDataFill(0xf064);
 
   /// ![monitor-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/monitor-light.svg)
-  static const monitorLight = PhosphorIconData(0xf065);
+  static const monitorLight = PhosphorIconDataLight(0xf065);
 
   /// ![monitor-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/monitor-thin.svg)
-  static const monitorThin = PhosphorIconData(0xf066);
+  static const monitorThin = PhosphorIconDataThin(0xf066);
 
   /// ![moon](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/moon.svg)
-  static const moon = PhosphorIconData(0xf067);
+  static const moon = PhosphorIconDataRegular(0xf067);
 
   /// ![moon-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/moon-bold.svg)
-  static const moonBold = PhosphorIconData(0xf068);
+  static const moonBold = PhosphorIconDataBold(0xf068);
 
   /// ![moon-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/moon-fill.svg)
-  static const moonFill = PhosphorIconData(0xf069);
+  static const moonFill = PhosphorIconDataFill(0xf069);
 
   /// ![moon-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/moon-light.svg)
-  static const moonLight = PhosphorIconData(0xf06a);
+  static const moonLight = PhosphorIconDataLight(0xf06a);
 
   /// ![moon-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/moon-thin.svg)
-  static const moonThin = PhosphorIconData(0xf06b);
+  static const moonThin = PhosphorIconDataThin(0xf06b);
 
   /// ![mouse](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/mouse.svg)
-  static const mouse = PhosphorIconData(0xf06c);
+  static const mouse = PhosphorIconDataRegular(0xf06c);
 
   /// ![mouse-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/mouse-bold.svg)
-  static const mouseBold = PhosphorIconData(0xf06d);
+  static const mouseBold = PhosphorIconDataBold(0xf06d);
 
   /// ![mouse-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/mouse-fill.svg)
-  static const mouseFill = PhosphorIconData(0xf06e);
+  static const mouseFill = PhosphorIconDataFill(0xf06e);
 
   /// ![mouse-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/mouse-light.svg)
-  static const mouseLight = PhosphorIconData(0xf06f);
+  static const mouseLight = PhosphorIconDataLight(0xf06f);
 
   /// ![mouse-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/mouse-thin.svg)
-  static const mouseThin = PhosphorIconData(0xf070);
+  static const mouseThin = PhosphorIconDataThin(0xf070);
 
   /// ![music-note](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/music-note.svg)
-  static const musicNote = PhosphorIconData(0xf071);
+  static const musicNote = PhosphorIconDataRegular(0xf071);
 
   /// ![music-note-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/music-note-bold.svg)
-  static const musicNoteBold = PhosphorIconData(0xf072);
+  static const musicNoteBold = PhosphorIconDataBold(0xf072);
 
   /// ![music-note-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/music-note-fill.svg)
-  static const musicNoteFill = PhosphorIconData(0xf073);
+  static const musicNoteFill = PhosphorIconDataFill(0xf073);
 
   /// ![music-note-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/music-note-light.svg)
-  static const musicNoteLight = PhosphorIconData(0xf074);
+  static const musicNoteLight = PhosphorIconDataLight(0xf074);
 
   /// ![music-note-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/music-note-simple.svg)
-  static const musicNoteSimple = PhosphorIconData(0xf075);
+  static const musicNoteSimple = PhosphorIconDataRegular(0xf075);
 
   /// ![music-note-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/music-note-simple-bold.svg)
-  static const musicNoteSimpleBold = PhosphorIconData(0xf076);
+  static const musicNoteSimpleBold = PhosphorIconDataBold(0xf076);
 
   /// ![music-note-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/music-note-simple-fill.svg)
-  static const musicNoteSimpleFill = PhosphorIconData(0xf077);
+  static const musicNoteSimpleFill = PhosphorIconDataFill(0xf077);
 
   /// ![music-note-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/music-note-simple-light.svg)
-  static const musicNoteSimpleLight = PhosphorIconData(0xf078);
+  static const musicNoteSimpleLight = PhosphorIconDataLight(0xf078);
 
   /// ![music-note-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/music-note-simple-thin.svg)
-  static const musicNoteSimpleThin = PhosphorIconData(0xf079);
+  static const musicNoteSimpleThin = PhosphorIconDataThin(0xf079);
 
   /// ![music-note-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/music-note-thin.svg)
-  static const musicNoteThin = PhosphorIconData(0xf07a);
+  static const musicNoteThin = PhosphorIconDataThin(0xf07a);
 
   /// ![music-notes](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/music-notes.svg)
-  static const musicNotes = PhosphorIconData(0xf07b);
+  static const musicNotes = PhosphorIconDataRegular(0xf07b);
 
   /// ![music-notes-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/music-notes-bold.svg)
-  static const musicNotesBold = PhosphorIconData(0xf07c);
+  static const musicNotesBold = PhosphorIconDataBold(0xf07c);
 
   /// ![music-notes-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/music-notes-fill.svg)
-  static const musicNotesFill = PhosphorIconData(0xf07d);
+  static const musicNotesFill = PhosphorIconDataFill(0xf07d);
 
   /// ![music-notes-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/music-notes-light.svg)
-  static const musicNotesLight = PhosphorIconData(0xf07e);
+  static const musicNotesLight = PhosphorIconDataLight(0xf07e);
 
   /// ![music-notes-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/music-notes-simple.svg)
-  static const musicNotesSimple = PhosphorIconData(0xf07f);
+  static const musicNotesSimple = PhosphorIconDataRegular(0xf07f);
 
   /// ![music-notes-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/music-notes-simple-bold.svg)
-  static const musicNotesSimpleBold = PhosphorIconData(0xf080);
+  static const musicNotesSimpleBold = PhosphorIconDataBold(0xf080);
 
   /// ![music-notes-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/music-notes-simple-fill.svg)
-  static const musicNotesSimpleFill = PhosphorIconData(0xf081);
+  static const musicNotesSimpleFill = PhosphorIconDataFill(0xf081);
 
   /// ![music-notes-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/music-notes-simple-light.svg)
-  static const musicNotesSimpleLight = PhosphorIconData(0xf082);
+  static const musicNotesSimpleLight = PhosphorIconDataLight(0xf082);
 
   /// ![music-notes-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/music-notes-simple-thin.svg)
-  static const musicNotesSimpleThin = PhosphorIconData(0xf083);
+  static const musicNotesSimpleThin = PhosphorIconDataThin(0xf083);
 
   /// ![music-notes-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/music-notes-thin.svg)
-  static const musicNotesThin = PhosphorIconData(0xf084);
+  static const musicNotesThin = PhosphorIconDataThin(0xf084);
 
   /// ![navigation-arrow](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/navigation-arrow.svg)
-  static const navigationArrow = PhosphorIconData(0xf085);
+  static const navigationArrow = PhosphorIconDataRegular(0xf085);
 
   /// ![navigation-arrow-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/navigation-arrow-bold.svg)
-  static const navigationArrowBold = PhosphorIconData(0xf086);
+  static const navigationArrowBold = PhosphorIconDataBold(0xf086);
 
   /// ![navigation-arrow-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/navigation-arrow-fill.svg)
-  static const navigationArrowFill = PhosphorIconData(0xf087);
+  static const navigationArrowFill = PhosphorIconDataFill(0xf087);
 
   /// ![navigation-arrow-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/navigation-arrow-light.svg)
-  static const navigationArrowLight = PhosphorIconData(0xf088);
+  static const navigationArrowLight = PhosphorIconDataLight(0xf088);
 
   /// ![navigation-arrow-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/navigation-arrow-thin.svg)
-  static const navigationArrowThin = PhosphorIconData(0xf089);
+  static const navigationArrowThin = PhosphorIconDataThin(0xf089);
 
   /// ![newspaper](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/newspaper.svg)
-  static const newspaper = PhosphorIconData(0xf08a);
+  static const newspaper = PhosphorIconDataRegular(0xf08a);
 
   /// ![newspaper-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/newspaper-bold.svg)
-  static const newspaperBold = PhosphorIconData(0xf08b);
+  static const newspaperBold = PhosphorIconDataBold(0xf08b);
 
   /// ![newspaper-clipping](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/newspaper-clipping.svg)
-  static const newspaperClipping = PhosphorIconData(0xf08c);
+  static const newspaperClipping = PhosphorIconDataRegular(0xf08c);
 
   /// ![newspaper-clipping-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/newspaper-clipping-bold.svg)
-  static const newspaperClippingBold = PhosphorIconData(0xf08d);
+  static const newspaperClippingBold = PhosphorIconDataBold(0xf08d);
 
   /// ![newspaper-clipping-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/newspaper-clipping-fill.svg)
-  static const newspaperClippingFill = PhosphorIconData(0xf08e);
+  static const newspaperClippingFill = PhosphorIconDataFill(0xf08e);
 
   /// ![newspaper-clipping-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/newspaper-clipping-light.svg)
-  static const newspaperClippingLight = PhosphorIconData(0xf08f);
+  static const newspaperClippingLight = PhosphorIconDataLight(0xf08f);
 
   /// ![newspaper-clipping-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/newspaper-clipping-thin.svg)
-  static const newspaperClippingThin = PhosphorIconData(0xf090);
+  static const newspaperClippingThin = PhosphorIconDataThin(0xf090);
 
   /// ![newspaper-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/newspaper-fill.svg)
-  static const newspaperFill = PhosphorIconData(0xf091);
+  static const newspaperFill = PhosphorIconDataFill(0xf091);
 
   /// ![newspaper-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/newspaper-light.svg)
-  static const newspaperLight = PhosphorIconData(0xf092);
+  static const newspaperLight = PhosphorIconDataLight(0xf092);
 
   /// ![newspaper-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/newspaper-thin.svg)
-  static const newspaperThin = PhosphorIconData(0xf093);
+  static const newspaperThin = PhosphorIconDataThin(0xf093);
 
   /// ![note](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/note.svg)
-  static const note = PhosphorIconData(0xf094);
+  static const note = PhosphorIconDataRegular(0xf094);
 
   /// ![note-blank](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/note-blank.svg)
-  static const noteBlank = PhosphorIconData(0xf095);
+  static const noteBlank = PhosphorIconDataRegular(0xf095);
 
   /// ![note-blank-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/note-blank-bold.svg)
-  static const noteBlankBold = PhosphorIconData(0xf096);
+  static const noteBlankBold = PhosphorIconDataBold(0xf096);
 
   /// ![note-blank-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/note-blank-fill.svg)
-  static const noteBlankFill = PhosphorIconData(0xf097);
+  static const noteBlankFill = PhosphorIconDataFill(0xf097);
 
   /// ![note-blank-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/note-blank-light.svg)
-  static const noteBlankLight = PhosphorIconData(0xf098);
+  static const noteBlankLight = PhosphorIconDataLight(0xf098);
 
   /// ![note-blank-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/note-blank-thin.svg)
-  static const noteBlankThin = PhosphorIconData(0xf099);
+  static const noteBlankThin = PhosphorIconDataThin(0xf099);
 
   /// ![note-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/note-bold.svg)
-  static const noteBold = PhosphorIconData(0xf09a);
+  static const noteBold = PhosphorIconDataBold(0xf09a);
 
   /// ![note-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/note-fill.svg)
-  static const noteFill = PhosphorIconData(0xf09b);
+  static const noteFill = PhosphorIconDataFill(0xf09b);
 
   /// ![note-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/note-light.svg)
-  static const noteLight = PhosphorIconData(0xf09c);
+  static const noteLight = PhosphorIconDataLight(0xf09c);
 
   /// ![note-pencil](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/note-pencil.svg)
-  static const notePencil = PhosphorIconData(0xf09d);
+  static const notePencil = PhosphorIconDataRegular(0xf09d);
 
   /// ![note-pencil-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/note-pencil-bold.svg)
-  static const notePencilBold = PhosphorIconData(0xf09e);
+  static const notePencilBold = PhosphorIconDataBold(0xf09e);
 
   /// ![note-pencil-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/note-pencil-fill.svg)
-  static const notePencilFill = PhosphorIconData(0xf09f);
+  static const notePencilFill = PhosphorIconDataFill(0xf09f);
 
   /// ![note-pencil-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/note-pencil-light.svg)
-  static const notePencilLight = PhosphorIconData(0xf0a0);
+  static const notePencilLight = PhosphorIconDataLight(0xf0a0);
 
   /// ![note-pencil-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/note-pencil-thin.svg)
-  static const notePencilThin = PhosphorIconData(0xf0a1);
+  static const notePencilThin = PhosphorIconDataThin(0xf0a1);
 
   /// ![note-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/note-thin.svg)
-  static const noteThin = PhosphorIconData(0xf0a2);
+  static const noteThin = PhosphorIconDataThin(0xf0a2);
 
   /// ![notebook](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/notebook.svg)
-  static const notebook = PhosphorIconData(0xf0a3);
+  static const notebook = PhosphorIconDataRegular(0xf0a3);
 
   /// ![notebook-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/notebook-bold.svg)
-  static const notebookBold = PhosphorIconData(0xf0a4);
+  static const notebookBold = PhosphorIconDataBold(0xf0a4);
 
   /// ![notebook-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/notebook-fill.svg)
-  static const notebookFill = PhosphorIconData(0xf0a5);
+  static const notebookFill = PhosphorIconDataFill(0xf0a5);
 
   /// ![notebook-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/notebook-light.svg)
-  static const notebookLight = PhosphorIconData(0xf0a6);
+  static const notebookLight = PhosphorIconDataLight(0xf0a6);
 
   /// ![notebook-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/notebook-thin.svg)
-  static const notebookThin = PhosphorIconData(0xf0a7);
+  static const notebookThin = PhosphorIconDataThin(0xf0a7);
 
   /// ![number-circle-eight](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-circle-eight.svg)
-  static const numberCircleEight = PhosphorIconData(0xf0a8);
+  static const numberCircleEight = PhosphorIconDataRegular(0xf0a8);
 
   /// ![number-circle-eight-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-circle-eight-bold.svg)
-  static const numberCircleEightBold = PhosphorIconData(0xf0a9);
+  static const numberCircleEightBold = PhosphorIconDataBold(0xf0a9);
 
   /// ![number-circle-eight-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-circle-eight-fill.svg)
-  static const numberCircleEightFill = PhosphorIconData(0xf0aa);
+  static const numberCircleEightFill = PhosphorIconDataFill(0xf0aa);
 
   /// ![number-circle-eight-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-circle-eight-light.svg)
-  static const numberCircleEightLight = PhosphorIconData(0xf0ab);
+  static const numberCircleEightLight = PhosphorIconDataLight(0xf0ab);
 
   /// ![number-circle-eight-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-circle-eight-thin.svg)
-  static const numberCircleEightThin = PhosphorIconData(0xf0ac);
+  static const numberCircleEightThin = PhosphorIconDataThin(0xf0ac);
 
   /// ![number-circle-five](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-circle-five.svg)
-  static const numberCircleFive = PhosphorIconData(0xf0ad);
+  static const numberCircleFive = PhosphorIconDataRegular(0xf0ad);
 
   /// ![number-circle-five-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-circle-five-bold.svg)
-  static const numberCircleFiveBold = PhosphorIconData(0xf0ae);
+  static const numberCircleFiveBold = PhosphorIconDataBold(0xf0ae);
 
   /// ![number-circle-five-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-circle-five-fill.svg)
-  static const numberCircleFiveFill = PhosphorIconData(0xf0af);
+  static const numberCircleFiveFill = PhosphorIconDataFill(0xf0af);
 
   /// ![number-circle-five-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-circle-five-light.svg)
-  static const numberCircleFiveLight = PhosphorIconData(0xf0b0);
+  static const numberCircleFiveLight = PhosphorIconDataLight(0xf0b0);
 
   /// ![number-circle-five-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-circle-five-thin.svg)
-  static const numberCircleFiveThin = PhosphorIconData(0xf0b1);
+  static const numberCircleFiveThin = PhosphorIconDataThin(0xf0b1);
 
   /// ![number-circle-four](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-circle-four.svg)
-  static const numberCircleFour = PhosphorIconData(0xf0b2);
+  static const numberCircleFour = PhosphorIconDataRegular(0xf0b2);
 
   /// ![number-circle-four-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-circle-four-bold.svg)
-  static const numberCircleFourBold = PhosphorIconData(0xf0b3);
+  static const numberCircleFourBold = PhosphorIconDataBold(0xf0b3);
 
   /// ![number-circle-four-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-circle-four-fill.svg)
-  static const numberCircleFourFill = PhosphorIconData(0xf0b4);
+  static const numberCircleFourFill = PhosphorIconDataFill(0xf0b4);
 
   /// ![number-circle-four-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-circle-four-light.svg)
-  static const numberCircleFourLight = PhosphorIconData(0xf0b5);
+  static const numberCircleFourLight = PhosphorIconDataLight(0xf0b5);
 
   /// ![number-circle-four-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-circle-four-thin.svg)
-  static const numberCircleFourThin = PhosphorIconData(0xf0b6);
+  static const numberCircleFourThin = PhosphorIconDataThin(0xf0b6);
 
   /// ![number-circle-nine](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-circle-nine.svg)
-  static const numberCircleNine = PhosphorIconData(0xf0b7);
+  static const numberCircleNine = PhosphorIconDataRegular(0xf0b7);
 
   /// ![number-circle-nine-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-circle-nine-bold.svg)
-  static const numberCircleNineBold = PhosphorIconData(0xf0b8);
+  static const numberCircleNineBold = PhosphorIconDataBold(0xf0b8);
 
   /// ![number-circle-nine-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-circle-nine-fill.svg)
-  static const numberCircleNineFill = PhosphorIconData(0xf0b9);
+  static const numberCircleNineFill = PhosphorIconDataFill(0xf0b9);
 
   /// ![number-circle-nine-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-circle-nine-light.svg)
-  static const numberCircleNineLight = PhosphorIconData(0xf0ba);
+  static const numberCircleNineLight = PhosphorIconDataLight(0xf0ba);
 
   /// ![number-circle-nine-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-circle-nine-thin.svg)
-  static const numberCircleNineThin = PhosphorIconData(0xf0bb);
+  static const numberCircleNineThin = PhosphorIconDataThin(0xf0bb);
 
   /// ![number-circle-one](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-circle-one.svg)
-  static const numberCircleOne = PhosphorIconData(0xf0bc);
+  static const numberCircleOne = PhosphorIconDataRegular(0xf0bc);
 
   /// ![number-circle-one-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-circle-one-bold.svg)
-  static const numberCircleOneBold = PhosphorIconData(0xf0bd);
+  static const numberCircleOneBold = PhosphorIconDataBold(0xf0bd);
 
   /// ![number-circle-one-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-circle-one-fill.svg)
-  static const numberCircleOneFill = PhosphorIconData(0xf0be);
+  static const numberCircleOneFill = PhosphorIconDataFill(0xf0be);
 
   /// ![number-circle-one-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-circle-one-light.svg)
-  static const numberCircleOneLight = PhosphorIconData(0xf0bf);
+  static const numberCircleOneLight = PhosphorIconDataLight(0xf0bf);
 
   /// ![number-circle-one-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-circle-one-thin.svg)
-  static const numberCircleOneThin = PhosphorIconData(0xf0c0);
+  static const numberCircleOneThin = PhosphorIconDataThin(0xf0c0);
 
   /// ![number-circle-seven](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-circle-seven.svg)
-  static const numberCircleSeven = PhosphorIconData(0xf0c1);
+  static const numberCircleSeven = PhosphorIconDataRegular(0xf0c1);
 
   /// ![number-circle-seven-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-circle-seven-bold.svg)
-  static const numberCircleSevenBold = PhosphorIconData(0xf0c2);
+  static const numberCircleSevenBold = PhosphorIconDataBold(0xf0c2);
 
   /// ![number-circle-seven-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-circle-seven-fill.svg)
-  static const numberCircleSevenFill = PhosphorIconData(0xf0c3);
+  static const numberCircleSevenFill = PhosphorIconDataFill(0xf0c3);
 
   /// ![number-circle-seven-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-circle-seven-light.svg)
-  static const numberCircleSevenLight = PhosphorIconData(0xf0c4);
+  static const numberCircleSevenLight = PhosphorIconDataLight(0xf0c4);
 
   /// ![number-circle-seven-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-circle-seven-thin.svg)
-  static const numberCircleSevenThin = PhosphorIconData(0xf0c5);
+  static const numberCircleSevenThin = PhosphorIconDataThin(0xf0c5);
 
   /// ![number-circle-six](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-circle-six.svg)
-  static const numberCircleSix = PhosphorIconData(0xf0c6);
+  static const numberCircleSix = PhosphorIconDataRegular(0xf0c6);
 
   /// ![number-circle-six-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-circle-six-bold.svg)
-  static const numberCircleSixBold = PhosphorIconData(0xf0c7);
+  static const numberCircleSixBold = PhosphorIconDataBold(0xf0c7);
 
   /// ![number-circle-six-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-circle-six-fill.svg)
-  static const numberCircleSixFill = PhosphorIconData(0xf0c8);
+  static const numberCircleSixFill = PhosphorIconDataFill(0xf0c8);
 
   /// ![number-circle-six-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-circle-six-light.svg)
-  static const numberCircleSixLight = PhosphorIconData(0xf0c9);
+  static const numberCircleSixLight = PhosphorIconDataLight(0xf0c9);
 
   /// ![number-circle-six-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-circle-six-thin.svg)
-  static const numberCircleSixThin = PhosphorIconData(0xf0ca);
+  static const numberCircleSixThin = PhosphorIconDataThin(0xf0ca);
 
   /// ![number-circle-three](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-circle-three.svg)
-  static const numberCircleThree = PhosphorIconData(0xf0cb);
+  static const numberCircleThree = PhosphorIconDataRegular(0xf0cb);
 
   /// ![number-circle-three-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-circle-three-bold.svg)
-  static const numberCircleThreeBold = PhosphorIconData(0xf0cc);
+  static const numberCircleThreeBold = PhosphorIconDataBold(0xf0cc);
 
   /// ![number-circle-three-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-circle-three-fill.svg)
-  static const numberCircleThreeFill = PhosphorIconData(0xf0cd);
+  static const numberCircleThreeFill = PhosphorIconDataFill(0xf0cd);
 
   /// ![number-circle-three-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-circle-three-light.svg)
-  static const numberCircleThreeLight = PhosphorIconData(0xf0ce);
+  static const numberCircleThreeLight = PhosphorIconDataLight(0xf0ce);
 
   /// ![number-circle-three-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-circle-three-thin.svg)
-  static const numberCircleThreeThin = PhosphorIconData(0xf0cf);
+  static const numberCircleThreeThin = PhosphorIconDataThin(0xf0cf);
 
   /// ![number-circle-two](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-circle-two.svg)
-  static const numberCircleTwo = PhosphorIconData(0xf0d0);
+  static const numberCircleTwo = PhosphorIconDataRegular(0xf0d0);
 
   /// ![number-circle-two-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-circle-two-bold.svg)
-  static const numberCircleTwoBold = PhosphorIconData(0xf0d1);
+  static const numberCircleTwoBold = PhosphorIconDataBold(0xf0d1);
 
   /// ![number-circle-two-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-circle-two-fill.svg)
-  static const numberCircleTwoFill = PhosphorIconData(0xf0d2);
+  static const numberCircleTwoFill = PhosphorIconDataFill(0xf0d2);
 
   /// ![number-circle-two-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-circle-two-light.svg)
-  static const numberCircleTwoLight = PhosphorIconData(0xf0d3);
+  static const numberCircleTwoLight = PhosphorIconDataLight(0xf0d3);
 
   /// ![number-circle-two-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-circle-two-thin.svg)
-  static const numberCircleTwoThin = PhosphorIconData(0xf0d4);
+  static const numberCircleTwoThin = PhosphorIconDataThin(0xf0d4);
 
   /// ![number-circle-zero](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-circle-zero.svg)
-  static const numberCircleZero = PhosphorIconData(0xf0d5);
+  static const numberCircleZero = PhosphorIconDataRegular(0xf0d5);
 
   /// ![number-circle-zero-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-circle-zero-bold.svg)
-  static const numberCircleZeroBold = PhosphorIconData(0xf0d6);
+  static const numberCircleZeroBold = PhosphorIconDataBold(0xf0d6);
 
   /// ![number-circle-zero-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-circle-zero-fill.svg)
-  static const numberCircleZeroFill = PhosphorIconData(0xf0d7);
+  static const numberCircleZeroFill = PhosphorIconDataFill(0xf0d7);
 
   /// ![number-circle-zero-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-circle-zero-light.svg)
-  static const numberCircleZeroLight = PhosphorIconData(0xf0d8);
+  static const numberCircleZeroLight = PhosphorIconDataLight(0xf0d8);
 
   /// ![number-circle-zero-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-circle-zero-thin.svg)
-  static const numberCircleZeroThin = PhosphorIconData(0xf0d9);
+  static const numberCircleZeroThin = PhosphorIconDataThin(0xf0d9);
 
   /// ![number-eight](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-eight.svg)
-  static const numberEight = PhosphorIconData(0xf0da);
+  static const numberEight = PhosphorIconDataRegular(0xf0da);
 
   /// ![number-eight-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-eight-bold.svg)
-  static const numberEightBold = PhosphorIconData(0xf0db);
+  static const numberEightBold = PhosphorIconDataBold(0xf0db);
 
   /// ![number-eight-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-eight-fill.svg)
-  static const numberEightFill = PhosphorIconData(0xf0dc);
+  static const numberEightFill = PhosphorIconDataFill(0xf0dc);
 
   /// ![number-eight-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-eight-light.svg)
-  static const numberEightLight = PhosphorIconData(0xf0dd);
+  static const numberEightLight = PhosphorIconDataLight(0xf0dd);
 
   /// ![number-eight-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-eight-thin.svg)
-  static const numberEightThin = PhosphorIconData(0xf0de);
+  static const numberEightThin = PhosphorIconDataThin(0xf0de);
 
   /// ![number-five](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-five.svg)
-  static const numberFive = PhosphorIconData(0xf0df);
+  static const numberFive = PhosphorIconDataRegular(0xf0df);
 
   /// ![number-five-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-five-bold.svg)
-  static const numberFiveBold = PhosphorIconData(0xf0e0);
+  static const numberFiveBold = PhosphorIconDataBold(0xf0e0);
 
   /// ![number-five-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-five-fill.svg)
-  static const numberFiveFill = PhosphorIconData(0xf0e1);
+  static const numberFiveFill = PhosphorIconDataFill(0xf0e1);
 
   /// ![number-five-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-five-light.svg)
-  static const numberFiveLight = PhosphorIconData(0xf0e2);
+  static const numberFiveLight = PhosphorIconDataLight(0xf0e2);
 
   /// ![number-five-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-five-thin.svg)
-  static const numberFiveThin = PhosphorIconData(0xf0e3);
+  static const numberFiveThin = PhosphorIconDataThin(0xf0e3);
 
   /// ![number-four](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-four.svg)
-  static const numberFour = PhosphorIconData(0xf0e4);
+  static const numberFour = PhosphorIconDataRegular(0xf0e4);
 
   /// ![number-four-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-four-bold.svg)
-  static const numberFourBold = PhosphorIconData(0xf0e5);
+  static const numberFourBold = PhosphorIconDataBold(0xf0e5);
 
   /// ![number-four-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-four-fill.svg)
-  static const numberFourFill = PhosphorIconData(0xf0e6);
+  static const numberFourFill = PhosphorIconDataFill(0xf0e6);
 
   /// ![number-four-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-four-light.svg)
-  static const numberFourLight = PhosphorIconData(0xf0e7);
+  static const numberFourLight = PhosphorIconDataLight(0xf0e7);
 
   /// ![number-four-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-four-thin.svg)
-  static const numberFourThin = PhosphorIconData(0xf0e8);
+  static const numberFourThin = PhosphorIconDataThin(0xf0e8);
 
   /// ![number-nine](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-nine.svg)
-  static const numberNine = PhosphorIconData(0xf0e9);
+  static const numberNine = PhosphorIconDataRegular(0xf0e9);
 
   /// ![number-nine-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-nine-bold.svg)
-  static const numberNineBold = PhosphorIconData(0xf0ea);
+  static const numberNineBold = PhosphorIconDataBold(0xf0ea);
 
   /// ![number-nine-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-nine-fill.svg)
-  static const numberNineFill = PhosphorIconData(0xf0eb);
+  static const numberNineFill = PhosphorIconDataFill(0xf0eb);
 
   /// ![number-nine-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-nine-light.svg)
-  static const numberNineLight = PhosphorIconData(0xf0ec);
+  static const numberNineLight = PhosphorIconDataLight(0xf0ec);
 
   /// ![number-nine-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-nine-thin.svg)
-  static const numberNineThin = PhosphorIconData(0xf0ed);
+  static const numberNineThin = PhosphorIconDataThin(0xf0ed);
 
   /// ![number-one](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-one.svg)
-  static const numberOne = PhosphorIconData(0xf0ee);
+  static const numberOne = PhosphorIconDataRegular(0xf0ee);
 
   /// ![number-one-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-one-bold.svg)
-  static const numberOneBold = PhosphorIconData(0xf0ef);
+  static const numberOneBold = PhosphorIconDataBold(0xf0ef);
 
   /// ![number-one-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-one-fill.svg)
-  static const numberOneFill = PhosphorIconData(0xf0f0);
+  static const numberOneFill = PhosphorIconDataFill(0xf0f0);
 
   /// ![number-one-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-one-light.svg)
-  static const numberOneLight = PhosphorIconData(0xf0f1);
+  static const numberOneLight = PhosphorIconDataLight(0xf0f1);
 
   /// ![number-one-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-one-thin.svg)
-  static const numberOneThin = PhosphorIconData(0xf0f2);
+  static const numberOneThin = PhosphorIconDataThin(0xf0f2);
 
   /// ![number-seven](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-seven.svg)
-  static const numberSeven = PhosphorIconData(0xf0f3);
+  static const numberSeven = PhosphorIconDataRegular(0xf0f3);
 
   /// ![number-seven-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-seven-bold.svg)
-  static const numberSevenBold = PhosphorIconData(0xf0f4);
+  static const numberSevenBold = PhosphorIconDataBold(0xf0f4);
 
   /// ![number-seven-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-seven-fill.svg)
-  static const numberSevenFill = PhosphorIconData(0xf0f5);
+  static const numberSevenFill = PhosphorIconDataFill(0xf0f5);
 
   /// ![number-seven-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-seven-light.svg)
-  static const numberSevenLight = PhosphorIconData(0xf0f6);
+  static const numberSevenLight = PhosphorIconDataLight(0xf0f6);
 
   /// ![number-seven-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-seven-thin.svg)
-  static const numberSevenThin = PhosphorIconData(0xf0f7);
+  static const numberSevenThin = PhosphorIconDataThin(0xf0f7);
 
   /// ![number-six](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-six.svg)
-  static const numberSix = PhosphorIconData(0xf0f8);
+  static const numberSix = PhosphorIconDataRegular(0xf0f8);
 
   /// ![number-six-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-six-bold.svg)
-  static const numberSixBold = PhosphorIconData(0xf0f9);
+  static const numberSixBold = PhosphorIconDataBold(0xf0f9);
 
   /// ![number-six-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-six-fill.svg)
-  static const numberSixFill = PhosphorIconData(0xf0fa);
+  static const numberSixFill = PhosphorIconDataFill(0xf0fa);
 
   /// ![number-six-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-six-light.svg)
-  static const numberSixLight = PhosphorIconData(0xf0fb);
+  static const numberSixLight = PhosphorIconDataLight(0xf0fb);
 
   /// ![number-six-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-six-thin.svg)
-  static const numberSixThin = PhosphorIconData(0xf0fc);
+  static const numberSixThin = PhosphorIconDataThin(0xf0fc);
 
   /// ![number-square-eight](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-square-eight.svg)
-  static const numberSquareEight = PhosphorIconData(0xf0fd);
+  static const numberSquareEight = PhosphorIconDataRegular(0xf0fd);
 
   /// ![number-square-eight-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-square-eight-bold.svg)
-  static const numberSquareEightBold = PhosphorIconData(0xf0fe);
+  static const numberSquareEightBold = PhosphorIconDataBold(0xf0fe);
 
   /// ![number-square-eight-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-square-eight-fill.svg)
-  static const numberSquareEightFill = PhosphorIconData(0xf0ff);
+  static const numberSquareEightFill = PhosphorIconDataFill(0xf0ff);
 
   /// ![number-square-eight-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-square-eight-light.svg)
-  static const numberSquareEightLight = PhosphorIconData(0xf100);
+  static const numberSquareEightLight = PhosphorIconDataLight(0xf100);
 
   /// ![number-square-eight-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-square-eight-thin.svg)
-  static const numberSquareEightThin = PhosphorIconData(0xf101);
+  static const numberSquareEightThin = PhosphorIconDataThin(0xf101);
 
   /// ![number-square-five](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-square-five.svg)
-  static const numberSquareFive = PhosphorIconData(0xf102);
+  static const numberSquareFive = PhosphorIconDataRegular(0xf102);
 
   /// ![number-square-five-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-square-five-bold.svg)
-  static const numberSquareFiveBold = PhosphorIconData(0xf103);
+  static const numberSquareFiveBold = PhosphorIconDataBold(0xf103);
 
   /// ![number-square-five-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-square-five-fill.svg)
-  static const numberSquareFiveFill = PhosphorIconData(0xf104);
+  static const numberSquareFiveFill = PhosphorIconDataFill(0xf104);
 
   /// ![number-square-five-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-square-five-light.svg)
-  static const numberSquareFiveLight = PhosphorIconData(0xf105);
+  static const numberSquareFiveLight = PhosphorIconDataLight(0xf105);
 
   /// ![number-square-five-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-square-five-thin.svg)
-  static const numberSquareFiveThin = PhosphorIconData(0xf106);
+  static const numberSquareFiveThin = PhosphorIconDataThin(0xf106);
 
   /// ![number-square-four](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-square-four.svg)
-  static const numberSquareFour = PhosphorIconData(0xf107);
+  static const numberSquareFour = PhosphorIconDataRegular(0xf107);
 
   /// ![number-square-four-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-square-four-bold.svg)
-  static const numberSquareFourBold = PhosphorIconData(0xf108);
+  static const numberSquareFourBold = PhosphorIconDataBold(0xf108);
 
   /// ![number-square-four-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-square-four-fill.svg)
-  static const numberSquareFourFill = PhosphorIconData(0xf109);
+  static const numberSquareFourFill = PhosphorIconDataFill(0xf109);
 
   /// ![number-square-four-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-square-four-light.svg)
-  static const numberSquareFourLight = PhosphorIconData(0xf10a);
+  static const numberSquareFourLight = PhosphorIconDataLight(0xf10a);
 
   /// ![number-square-four-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-square-four-thin.svg)
-  static const numberSquareFourThin = PhosphorIconData(0xf10b);
+  static const numberSquareFourThin = PhosphorIconDataThin(0xf10b);
 
   /// ![number-square-nine](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-square-nine.svg)
-  static const numberSquareNine = PhosphorIconData(0xf10c);
+  static const numberSquareNine = PhosphorIconDataRegular(0xf10c);
 
   /// ![number-square-nine-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-square-nine-bold.svg)
-  static const numberSquareNineBold = PhosphorIconData(0xf10d);
+  static const numberSquareNineBold = PhosphorIconDataBold(0xf10d);
 
   /// ![number-square-nine-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-square-nine-fill.svg)
-  static const numberSquareNineFill = PhosphorIconData(0xf10e);
+  static const numberSquareNineFill = PhosphorIconDataFill(0xf10e);
 
   /// ![number-square-nine-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-square-nine-light.svg)
-  static const numberSquareNineLight = PhosphorIconData(0xf10f);
+  static const numberSquareNineLight = PhosphorIconDataLight(0xf10f);
 
   /// ![number-square-nine-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-square-nine-thin.svg)
-  static const numberSquareNineThin = PhosphorIconData(0xf110);
+  static const numberSquareNineThin = PhosphorIconDataThin(0xf110);
 
   /// ![number-square-one](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-square-one.svg)
-  static const numberSquareOne = PhosphorIconData(0xf111);
+  static const numberSquareOne = PhosphorIconDataRegular(0xf111);
 
   /// ![number-square-one-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-square-one-bold.svg)
-  static const numberSquareOneBold = PhosphorIconData(0xf112);
+  static const numberSquareOneBold = PhosphorIconDataBold(0xf112);
 
   /// ![number-square-one-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-square-one-fill.svg)
-  static const numberSquareOneFill = PhosphorIconData(0xf113);
+  static const numberSquareOneFill = PhosphorIconDataFill(0xf113);
 
   /// ![number-square-one-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-square-one-light.svg)
-  static const numberSquareOneLight = PhosphorIconData(0xf114);
+  static const numberSquareOneLight = PhosphorIconDataLight(0xf114);
 
   /// ![number-square-one-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-square-one-thin.svg)
-  static const numberSquareOneThin = PhosphorIconData(0xf115);
+  static const numberSquareOneThin = PhosphorIconDataThin(0xf115);
 
   /// ![number-square-seven](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-square-seven.svg)
-  static const numberSquareSeven = PhosphorIconData(0xf116);
+  static const numberSquareSeven = PhosphorIconDataRegular(0xf116);
 
   /// ![number-square-seven-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-square-seven-bold.svg)
-  static const numberSquareSevenBold = PhosphorIconData(0xf117);
+  static const numberSquareSevenBold = PhosphorIconDataBold(0xf117);
 
   /// ![number-square-seven-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-square-seven-fill.svg)
-  static const numberSquareSevenFill = PhosphorIconData(0xf118);
+  static const numberSquareSevenFill = PhosphorIconDataFill(0xf118);
 
   /// ![number-square-seven-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-square-seven-light.svg)
-  static const numberSquareSevenLight = PhosphorIconData(0xf119);
+  static const numberSquareSevenLight = PhosphorIconDataLight(0xf119);
 
   /// ![number-square-seven-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-square-seven-thin.svg)
-  static const numberSquareSevenThin = PhosphorIconData(0xf11a);
+  static const numberSquareSevenThin = PhosphorIconDataThin(0xf11a);
 
   /// ![number-square-six](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-square-six.svg)
-  static const numberSquareSix = PhosphorIconData(0xf11b);
+  static const numberSquareSix = PhosphorIconDataRegular(0xf11b);
 
   /// ![number-square-six-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-square-six-bold.svg)
-  static const numberSquareSixBold = PhosphorIconData(0xf11c);
+  static const numberSquareSixBold = PhosphorIconDataBold(0xf11c);
 
   /// ![number-square-six-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-square-six-fill.svg)
-  static const numberSquareSixFill = PhosphorIconData(0xf11d);
+  static const numberSquareSixFill = PhosphorIconDataFill(0xf11d);
 
   /// ![number-square-six-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-square-six-light.svg)
-  static const numberSquareSixLight = PhosphorIconData(0xf11e);
+  static const numberSquareSixLight = PhosphorIconDataLight(0xf11e);
 
   /// ![number-square-six-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-square-six-thin.svg)
-  static const numberSquareSixThin = PhosphorIconData(0xf11f);
+  static const numberSquareSixThin = PhosphorIconDataThin(0xf11f);
 
   /// ![number-square-three](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-square-three.svg)
-  static const numberSquareThree = PhosphorIconData(0xf120);
+  static const numberSquareThree = PhosphorIconDataRegular(0xf120);
 
   /// ![number-square-three-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-square-three-bold.svg)
-  static const numberSquareThreeBold = PhosphorIconData(0xf121);
+  static const numberSquareThreeBold = PhosphorIconDataBold(0xf121);
 
   /// ![number-square-three-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-square-three-fill.svg)
-  static const numberSquareThreeFill = PhosphorIconData(0xf122);
+  static const numberSquareThreeFill = PhosphorIconDataFill(0xf122);
 
   /// ![number-square-three-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-square-three-light.svg)
-  static const numberSquareThreeLight = PhosphorIconData(0xf123);
+  static const numberSquareThreeLight = PhosphorIconDataLight(0xf123);
 
   /// ![number-square-three-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-square-three-thin.svg)
-  static const numberSquareThreeThin = PhosphorIconData(0xf124);
+  static const numberSquareThreeThin = PhosphorIconDataThin(0xf124);
 
   /// ![number-square-two](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-square-two.svg)
-  static const numberSquareTwo = PhosphorIconData(0xf125);
+  static const numberSquareTwo = PhosphorIconDataRegular(0xf125);
 
   /// ![number-square-two-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-square-two-bold.svg)
-  static const numberSquareTwoBold = PhosphorIconData(0xf126);
+  static const numberSquareTwoBold = PhosphorIconDataBold(0xf126);
 
   /// ![number-square-two-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-square-two-fill.svg)
-  static const numberSquareTwoFill = PhosphorIconData(0xf127);
+  static const numberSquareTwoFill = PhosphorIconDataFill(0xf127);
 
   /// ![number-square-two-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-square-two-light.svg)
-  static const numberSquareTwoLight = PhosphorIconData(0xf128);
+  static const numberSquareTwoLight = PhosphorIconDataLight(0xf128);
 
   /// ![number-square-two-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-square-two-thin.svg)
-  static const numberSquareTwoThin = PhosphorIconData(0xf129);
+  static const numberSquareTwoThin = PhosphorIconDataThin(0xf129);
 
   /// ![number-square-zero](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-square-zero.svg)
-  static const numberSquareZero = PhosphorIconData(0xf12a);
+  static const numberSquareZero = PhosphorIconDataRegular(0xf12a);
 
   /// ![number-square-zero-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-square-zero-bold.svg)
-  static const numberSquareZeroBold = PhosphorIconData(0xf12b);
+  static const numberSquareZeroBold = PhosphorIconDataBold(0xf12b);
 
   /// ![number-square-zero-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-square-zero-fill.svg)
-  static const numberSquareZeroFill = PhosphorIconData(0xf12c);
+  static const numberSquareZeroFill = PhosphorIconDataFill(0xf12c);
 
   /// ![number-square-zero-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-square-zero-light.svg)
-  static const numberSquareZeroLight = PhosphorIconData(0xf12d);
+  static const numberSquareZeroLight = PhosphorIconDataLight(0xf12d);
 
   /// ![number-square-zero-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-square-zero-thin.svg)
-  static const numberSquareZeroThin = PhosphorIconData(0xf12e);
+  static const numberSquareZeroThin = PhosphorIconDataThin(0xf12e);
 
   /// ![number-three](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-three.svg)
-  static const numberThree = PhosphorIconData(0xf12f);
+  static const numberThree = PhosphorIconDataRegular(0xf12f);
 
   /// ![number-three-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-three-bold.svg)
-  static const numberThreeBold = PhosphorIconData(0xf130);
+  static const numberThreeBold = PhosphorIconDataBold(0xf130);
 
   /// ![number-three-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-three-fill.svg)
-  static const numberThreeFill = PhosphorIconData(0xf131);
+  static const numberThreeFill = PhosphorIconDataFill(0xf131);
 
   /// ![number-three-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-three-light.svg)
-  static const numberThreeLight = PhosphorIconData(0xf132);
+  static const numberThreeLight = PhosphorIconDataLight(0xf132);
 
   /// ![number-three-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-three-thin.svg)
-  static const numberThreeThin = PhosphorIconData(0xf133);
+  static const numberThreeThin = PhosphorIconDataThin(0xf133);
 
   /// ![number-two](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-two.svg)
-  static const numberTwo = PhosphorIconData(0xf134);
+  static const numberTwo = PhosphorIconDataRegular(0xf134);
 
   /// ![number-two-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-two-bold.svg)
-  static const numberTwoBold = PhosphorIconData(0xf135);
+  static const numberTwoBold = PhosphorIconDataBold(0xf135);
 
   /// ![number-two-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-two-fill.svg)
-  static const numberTwoFill = PhosphorIconData(0xf136);
+  static const numberTwoFill = PhosphorIconDataFill(0xf136);
 
   /// ![number-two-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-two-light.svg)
-  static const numberTwoLight = PhosphorIconData(0xf137);
+  static const numberTwoLight = PhosphorIconDataLight(0xf137);
 
   /// ![number-two-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-two-thin.svg)
-  static const numberTwoThin = PhosphorIconData(0xf138);
+  static const numberTwoThin = PhosphorIconDataThin(0xf138);
 
   /// ![number-zero](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/number-zero.svg)
-  static const numberZero = PhosphorIconData(0xf139);
+  static const numberZero = PhosphorIconDataRegular(0xf139);
 
   /// ![number-zero-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/number-zero-bold.svg)
-  static const numberZeroBold = PhosphorIconData(0xf13a);
+  static const numberZeroBold = PhosphorIconDataBold(0xf13a);
 
   /// ![number-zero-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/number-zero-fill.svg)
-  static const numberZeroFill = PhosphorIconData(0xf13b);
+  static const numberZeroFill = PhosphorIconDataFill(0xf13b);
 
   /// ![number-zero-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/number-zero-light.svg)
-  static const numberZeroLight = PhosphorIconData(0xf13c);
+  static const numberZeroLight = PhosphorIconDataLight(0xf13c);
 
   /// ![number-zero-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/number-zero-thin.svg)
-  static const numberZeroThin = PhosphorIconData(0xf13d);
+  static const numberZeroThin = PhosphorIconDataThin(0xf13d);
 
   /// ![nut](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/nut.svg)
-  static const nut = PhosphorIconData(0xf13e);
+  static const nut = PhosphorIconDataRegular(0xf13e);
 
   /// ![nut-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/nut-bold.svg)
-  static const nutBold = PhosphorIconData(0xf13f);
+  static const nutBold = PhosphorIconDataBold(0xf13f);
 
   /// ![nut-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/nut-fill.svg)
-  static const nutFill = PhosphorIconData(0xf140);
+  static const nutFill = PhosphorIconDataFill(0xf140);
 
   /// ![nut-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/nut-light.svg)
-  static const nutLight = PhosphorIconData(0xf141);
+  static const nutLight = PhosphorIconDataLight(0xf141);
 
   /// ![nut-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/nut-thin.svg)
-  static const nutThin = PhosphorIconData(0xf142);
+  static const nutThin = PhosphorIconDataThin(0xf142);
 
   /// ![octagon](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/octagon.svg)
-  static const octagon = PhosphorIconData(0xf143);
+  static const octagon = PhosphorIconDataRegular(0xf143);
 
   /// ![octagon-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/octagon-bold.svg)
-  static const octagonBold = PhosphorIconData(0xf144);
+  static const octagonBold = PhosphorIconDataBold(0xf144);
 
   /// ![octagon-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/octagon-fill.svg)
-  static const octagonFill = PhosphorIconData(0xf145);
+  static const octagonFill = PhosphorIconDataFill(0xf145);
 
   /// ![octagon-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/octagon-light.svg)
-  static const octagonLight = PhosphorIconData(0xf146);
+  static const octagonLight = PhosphorIconDataLight(0xf146);
 
   /// ![octagon-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/octagon-thin.svg)
-  static const octagonThin = PhosphorIconData(0xf147);
+  static const octagonThin = PhosphorIconDataThin(0xf147);
 
   /// ![package](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/package.svg)
-  static const package = PhosphorIconData(0xf148);
+  static const package = PhosphorIconDataRegular(0xf148);
 
   /// ![package-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/package-bold.svg)
-  static const packageBold = PhosphorIconData(0xf149);
+  static const packageBold = PhosphorIconDataBold(0xf149);
 
   /// ![package-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/package-fill.svg)
-  static const packageFill = PhosphorIconData(0xf14a);
+  static const packageFill = PhosphorIconDataFill(0xf14a);
 
   /// ![package-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/package-light.svg)
-  static const packageLight = PhosphorIconData(0xf14b);
+  static const packageLight = PhosphorIconDataLight(0xf14b);
 
   /// ![package-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/package-thin.svg)
-  static const packageThin = PhosphorIconData(0xf14c);
+  static const packageThin = PhosphorIconDataThin(0xf14c);
 
   /// ![paint-bucket](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/paint-bucket.svg)
-  static const paintBucket = PhosphorIconData(0xf14d);
+  static const paintBucket = PhosphorIconDataRegular(0xf14d);
 
   /// ![paint-bucket-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/paint-bucket-bold.svg)
-  static const paintBucketBold = PhosphorIconData(0xf14e);
+  static const paintBucketBold = PhosphorIconDataBold(0xf14e);
 
   /// ![paint-bucket-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/paint-bucket-fill.svg)
-  static const paintBucketFill = PhosphorIconData(0xf14f);
+  static const paintBucketFill = PhosphorIconDataFill(0xf14f);
 
   /// ![paint-bucket-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/paint-bucket-light.svg)
-  static const paintBucketLight = PhosphorIconData(0xf150);
+  static const paintBucketLight = PhosphorIconDataLight(0xf150);
 
   /// ![paint-bucket-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/paint-bucket-thin.svg)
-  static const paintBucketThin = PhosphorIconData(0xf151);
+  static const paintBucketThin = PhosphorIconDataThin(0xf151);
 
   /// ![paper-plane](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/paper-plane.svg)
-  static const paperPlane = PhosphorIconData(0xf152);
+  static const paperPlane = PhosphorIconDataRegular(0xf152);
 
   /// ![paper-plane-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/paper-plane-bold.svg)
-  static const paperPlaneBold = PhosphorIconData(0xf153);
+  static const paperPlaneBold = PhosphorIconDataBold(0xf153);
 
   /// ![paper-plane-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/paper-plane-fill.svg)
-  static const paperPlaneFill = PhosphorIconData(0xf154);
+  static const paperPlaneFill = PhosphorIconDataFill(0xf154);
 
   /// ![paper-plane-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/paper-plane-light.svg)
-  static const paperPlaneLight = PhosphorIconData(0xf155);
+  static const paperPlaneLight = PhosphorIconDataLight(0xf155);
 
   /// ![paper-plane-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/paper-plane-right.svg)
-  static const paperPlaneRight = PhosphorIconData(0xf156);
+  static const paperPlaneRight = PhosphorIconDataRegular(0xf156);
 
   /// ![paper-plane-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/paper-plane-right-bold.svg)
-  static const paperPlaneRightBold = PhosphorIconData(0xf157);
+  static const paperPlaneRightBold = PhosphorIconDataBold(0xf157);
 
   /// ![paper-plane-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/paper-plane-right-fill.svg)
-  static const paperPlaneRightFill = PhosphorIconData(0xf158);
+  static const paperPlaneRightFill = PhosphorIconDataFill(0xf158);
 
   /// ![paper-plane-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/paper-plane-right-light.svg)
-  static const paperPlaneRightLight = PhosphorIconData(0xf159);
+  static const paperPlaneRightLight = PhosphorIconDataLight(0xf159);
 
   /// ![paper-plane-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/paper-plane-right-thin.svg)
-  static const paperPlaneRightThin = PhosphorIconData(0xf15a);
+  static const paperPlaneRightThin = PhosphorIconDataThin(0xf15a);
 
   /// ![paper-plane-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/paper-plane-thin.svg)
-  static const paperPlaneThin = PhosphorIconData(0xf15b);
+  static const paperPlaneThin = PhosphorIconDataThin(0xf15b);
 
   /// ![paper-plane-tilt](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/paper-plane-tilt.svg)
-  static const paperPlaneTilt = PhosphorIconData(0xf15c);
+  static const paperPlaneTilt = PhosphorIconDataRegular(0xf15c);
 
   /// ![paper-plane-tilt-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/paper-plane-tilt-bold.svg)
-  static const paperPlaneTiltBold = PhosphorIconData(0xf15d);
+  static const paperPlaneTiltBold = PhosphorIconDataBold(0xf15d);
 
   /// ![paper-plane-tilt-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/paper-plane-tilt-fill.svg)
-  static const paperPlaneTiltFill = PhosphorIconData(0xf15e);
+  static const paperPlaneTiltFill = PhosphorIconDataFill(0xf15e);
 
   /// ![paper-plane-tilt-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/paper-plane-tilt-light.svg)
-  static const paperPlaneTiltLight = PhosphorIconData(0xf15f);
+  static const paperPlaneTiltLight = PhosphorIconDataLight(0xf15f);
 
   /// ![paper-plane-tilt-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/paper-plane-tilt-thin.svg)
-  static const paperPlaneTiltThin = PhosphorIconData(0xf160);
+  static const paperPlaneTiltThin = PhosphorIconDataThin(0xf160);
 
   /// ![paperclip](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/paperclip.svg)
-  static const paperclip = PhosphorIconData(0xf161);
+  static const paperclip = PhosphorIconDataRegular(0xf161);
 
   /// ![paperclip-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/paperclip-bold.svg)
-  static const paperclipBold = PhosphorIconData(0xf162);
+  static const paperclipBold = PhosphorIconDataBold(0xf162);
 
   /// ![paperclip-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/paperclip-fill.svg)
-  static const paperclipFill = PhosphorIconData(0xf163);
+  static const paperclipFill = PhosphorIconDataFill(0xf163);
 
   /// ![paperclip-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/paperclip-light.svg)
-  static const paperclipLight = PhosphorIconData(0xf164);
+  static const paperclipLight = PhosphorIconDataLight(0xf164);
 
   /// ![paperclip-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/paperclip-thin.svg)
-  static const paperclipThin = PhosphorIconData(0xf165);
+  static const paperclipThin = PhosphorIconDataThin(0xf165);
 
   /// ![path](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/path.svg)
-  static const path = PhosphorIconData(0xf166);
+  static const path = PhosphorIconDataRegular(0xf166);
 
   /// ![path-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/path-bold.svg)
-  static const pathBold = PhosphorIconData(0xf167);
+  static const pathBold = PhosphorIconDataBold(0xf167);
 
   /// ![path-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/path-fill.svg)
-  static const pathFill = PhosphorIconData(0xf168);
+  static const pathFill = PhosphorIconDataFill(0xf168);
 
   /// ![path-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/path-light.svg)
-  static const pathLight = PhosphorIconData(0xf169);
+  static const pathLight = PhosphorIconDataLight(0xf169);
 
   /// ![path-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/path-thin.svg)
-  static const pathThin = PhosphorIconData(0xf16a);
+  static const pathThin = PhosphorIconDataThin(0xf16a);
 
   /// ![pause](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/pause.svg)
-  static const pause = PhosphorIconData(0xf16b);
+  static const pause = PhosphorIconDataRegular(0xf16b);
 
   /// ![pause-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/pause-bold.svg)
-  static const pauseBold = PhosphorIconData(0xf16c);
+  static const pauseBold = PhosphorIconDataBold(0xf16c);
 
   /// ![pause-circle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/pause-circle.svg)
-  static const pauseCircle = PhosphorIconData(0xf16d);
+  static const pauseCircle = PhosphorIconDataRegular(0xf16d);
 
   /// ![pause-circle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/pause-circle-bold.svg)
-  static const pauseCircleBold = PhosphorIconData(0xf16e);
+  static const pauseCircleBold = PhosphorIconDataBold(0xf16e);
 
   /// ![pause-circle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/pause-circle-fill.svg)
-  static const pauseCircleFill = PhosphorIconData(0xf16f);
+  static const pauseCircleFill = PhosphorIconDataFill(0xf16f);
 
   /// ![pause-circle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/pause-circle-light.svg)
-  static const pauseCircleLight = PhosphorIconData(0xf170);
+  static const pauseCircleLight = PhosphorIconDataLight(0xf170);
 
   /// ![pause-circle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/pause-circle-thin.svg)
-  static const pauseCircleThin = PhosphorIconData(0xf171);
+  static const pauseCircleThin = PhosphorIconDataThin(0xf171);
 
   /// ![pause-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/pause-fill.svg)
-  static const pauseFill = PhosphorIconData(0xf172);
+  static const pauseFill = PhosphorIconDataFill(0xf172);
 
   /// ![pause-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/pause-light.svg)
-  static const pauseLight = PhosphorIconData(0xf173);
+  static const pauseLight = PhosphorIconDataLight(0xf173);
 
   /// ![pause-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/pause-thin.svg)
-  static const pauseThin = PhosphorIconData(0xf174);
+  static const pauseThin = PhosphorIconDataThin(0xf174);
 
   /// ![peace](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/peace.svg)
-  static const peace = PhosphorIconData(0xf175);
+  static const peace = PhosphorIconDataRegular(0xf175);
 
   /// ![peace-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/peace-bold.svg)
-  static const peaceBold = PhosphorIconData(0xf176);
+  static const peaceBold = PhosphorIconDataBold(0xf176);
 
   /// ![peace-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/peace-fill.svg)
-  static const peaceFill = PhosphorIconData(0xf177);
+  static const peaceFill = PhosphorIconDataFill(0xf177);
 
   /// ![peace-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/peace-light.svg)
-  static const peaceLight = PhosphorIconData(0xf178);
+  static const peaceLight = PhosphorIconDataLight(0xf178);
 
   /// ![peace-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/peace-thin.svg)
-  static const peaceThin = PhosphorIconData(0xf179);
+  static const peaceThin = PhosphorIconDataThin(0xf179);
 
   /// ![pedestrian](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/pedestrian.svg)
-  static const pedestrian = PhosphorIconData(0xf17a);
+  static const pedestrian = PhosphorIconDataRegular(0xf17a);
 
   /// ![pedestrian-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/pedestrian-bold.svg)
-  static const pedestrianBold = PhosphorIconData(0xf17b);
+  static const pedestrianBold = PhosphorIconDataBold(0xf17b);
 
   /// ![pedestrian-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/pedestrian-fill.svg)
-  static const pedestrianFill = PhosphorIconData(0xf17c);
+  static const pedestrianFill = PhosphorIconDataFill(0xf17c);
 
   /// ![pedestrian-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/pedestrian-light.svg)
-  static const pedestrianLight = PhosphorIconData(0xf17d);
+  static const pedestrianLight = PhosphorIconDataLight(0xf17d);
 
   /// ![pedestrian-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/pedestrian-thin.svg)
-  static const pedestrianThin = PhosphorIconData(0xf17e);
+  static const pedestrianThin = PhosphorIconDataThin(0xf17e);
 
   /// ![pen](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/pen.svg)
-  static const pen = PhosphorIconData(0xf17f);
+  static const pen = PhosphorIconDataRegular(0xf17f);
 
   /// ![pen-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/pen-bold.svg)
-  static const penBold = PhosphorIconData(0xf180);
+  static const penBold = PhosphorIconDataBold(0xf180);
 
   /// ![pen-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/pen-fill.svg)
-  static const penFill = PhosphorIconData(0xf181);
+  static const penFill = PhosphorIconDataFill(0xf181);
 
   /// ![pen-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/pen-light.svg)
-  static const penLight = PhosphorIconData(0xf182);
+  static const penLight = PhosphorIconDataLight(0xf182);
 
   /// ![pen-nib](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/pen-nib.svg)
-  static const penNib = PhosphorIconData(0xf183);
+  static const penNib = PhosphorIconDataRegular(0xf183);
 
   /// ![pen-nib-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/pen-nib-bold.svg)
-  static const penNibBold = PhosphorIconData(0xf184);
+  static const penNibBold = PhosphorIconDataBold(0xf184);
 
   /// ![pen-nib-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/pen-nib-fill.svg)
-  static const penNibFill = PhosphorIconData(0xf185);
+  static const penNibFill = PhosphorIconDataFill(0xf185);
 
   /// ![pen-nib-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/pen-nib-light.svg)
-  static const penNibLight = PhosphorIconData(0xf186);
+  static const penNibLight = PhosphorIconDataLight(0xf186);
 
   /// ![pen-nib-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/pen-nib-thin.svg)
-  static const penNibThin = PhosphorIconData(0xf187);
+  static const penNibThin = PhosphorIconDataThin(0xf187);
 
   /// ![pen-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/pen-thin.svg)
-  static const penThin = PhosphorIconData(0xf188);
+  static const penThin = PhosphorIconDataThin(0xf188);
 
   /// ![pencil](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/pencil.svg)
-  static const pencil = PhosphorIconData(0xf189);
+  static const pencil = PhosphorIconDataRegular(0xf189);
 
   /// ![pencil-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/pencil-bold.svg)
-  static const pencilBold = PhosphorIconData(0xf18a);
+  static const pencilBold = PhosphorIconDataBold(0xf18a);
 
   /// ![pencil-circle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/pencil-circle.svg)
-  static const pencilCircle = PhosphorIconData(0xf18b);
+  static const pencilCircle = PhosphorIconDataRegular(0xf18b);
 
   /// ![pencil-circle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/pencil-circle-bold.svg)
-  static const pencilCircleBold = PhosphorIconData(0xf18c);
+  static const pencilCircleBold = PhosphorIconDataBold(0xf18c);
 
   /// ![pencil-circle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/pencil-circle-fill.svg)
-  static const pencilCircleFill = PhosphorIconData(0xf18d);
+  static const pencilCircleFill = PhosphorIconDataFill(0xf18d);
 
   /// ![pencil-circle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/pencil-circle-light.svg)
-  static const pencilCircleLight = PhosphorIconData(0xf18e);
+  static const pencilCircleLight = PhosphorIconDataLight(0xf18e);
 
   /// ![pencil-circle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/pencil-circle-thin.svg)
-  static const pencilCircleThin = PhosphorIconData(0xf18f);
+  static const pencilCircleThin = PhosphorIconDataThin(0xf18f);
 
   /// ![pencil-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/pencil-fill.svg)
-  static const pencilFill = PhosphorIconData(0xf190);
+  static const pencilFill = PhosphorIconDataFill(0xf190);
 
   /// ![pencil-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/pencil-light.svg)
-  static const pencilLight = PhosphorIconData(0xf191);
+  static const pencilLight = PhosphorIconDataLight(0xf191);
 
   /// ![pencil-line](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/pencil-line.svg)
-  static const pencilLine = PhosphorIconData(0xf192);
+  static const pencilLine = PhosphorIconDataRegular(0xf192);
 
   /// ![pencil-line-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/pencil-line-bold.svg)
-  static const pencilLineBold = PhosphorIconData(0xf193);
+  static const pencilLineBold = PhosphorIconDataBold(0xf193);
 
   /// ![pencil-line-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/pencil-line-fill.svg)
-  static const pencilLineFill = PhosphorIconData(0xf194);
+  static const pencilLineFill = PhosphorIconDataFill(0xf194);
 
   /// ![pencil-line-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/pencil-line-light.svg)
-  static const pencilLineLight = PhosphorIconData(0xf195);
+  static const pencilLineLight = PhosphorIconDataLight(0xf195);
 
   /// ![pencil-line-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/pencil-line-thin.svg)
-  static const pencilLineThin = PhosphorIconData(0xf196);
+  static const pencilLineThin = PhosphorIconDataThin(0xf196);
 
   /// ![pencil-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/pencil-simple.svg)
-  static const pencilSimple = PhosphorIconData(0xf197);
+  static const pencilSimple = PhosphorIconDataRegular(0xf197);
 
   /// ![pencil-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/pencil-simple-bold.svg)
-  static const pencilSimpleBold = PhosphorIconData(0xf198);
+  static const pencilSimpleBold = PhosphorIconDataBold(0xf198);
 
   /// ![pencil-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/pencil-simple-fill.svg)
-  static const pencilSimpleFill = PhosphorIconData(0xf199);
+  static const pencilSimpleFill = PhosphorIconDataFill(0xf199);
 
   /// ![pencil-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/pencil-simple-light.svg)
-  static const pencilSimpleLight = PhosphorIconData(0xf19a);
+  static const pencilSimpleLight = PhosphorIconDataLight(0xf19a);
 
   /// ![pencil-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/pencil-simple-thin.svg)
-  static const pencilSimpleThin = PhosphorIconData(0xf19b);
+  static const pencilSimpleThin = PhosphorIconDataThin(0xf19b);
 
   /// ![pencil-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/pencil-thin.svg)
-  static const pencilThin = PhosphorIconData(0xf19c);
+  static const pencilThin = PhosphorIconDataThin(0xf19c);
 
   /// ![percent](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/percent.svg)
-  static const percent = PhosphorIconData(0xf19d);
+  static const percent = PhosphorIconDataRegular(0xf19d);
 
   /// ![percent-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/percent-bold.svg)
-  static const percentBold = PhosphorIconData(0xf19e);
+  static const percentBold = PhosphorIconDataBold(0xf19e);
 
   /// ![percent-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/percent-fill.svg)
-  static const percentFill = PhosphorIconData(0xf19f);
+  static const percentFill = PhosphorIconDataFill(0xf19f);
 
   /// ![percent-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/percent-light.svg)
-  static const percentLight = PhosphorIconData(0xf1a0);
+  static const percentLight = PhosphorIconDataLight(0xf1a0);
 
   /// ![percent-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/percent-thin.svg)
-  static const percentThin = PhosphorIconData(0xf1a1);
+  static const percentThin = PhosphorIconDataThin(0xf1a1);
 
   /// ![phone](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/phone.svg)
-  static const phone = PhosphorIconData(0xf1a2);
+  static const phone = PhosphorIconDataRegular(0xf1a2);
 
   /// ![phone-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/phone-bold.svg)
-  static const phoneBold = PhosphorIconData(0xf1a3);
+  static const phoneBold = PhosphorIconDataBold(0xf1a3);
 
   /// ![phone-call](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/phone-call.svg)
-  static const phoneCall = PhosphorIconData(0xf1a4);
+  static const phoneCall = PhosphorIconDataRegular(0xf1a4);
 
   /// ![phone-call-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/phone-call-bold.svg)
-  static const phoneCallBold = PhosphorIconData(0xf1a5);
+  static const phoneCallBold = PhosphorIconDataBold(0xf1a5);
 
   /// ![phone-call-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/phone-call-fill.svg)
-  static const phoneCallFill = PhosphorIconData(0xf1a6);
+  static const phoneCallFill = PhosphorIconDataFill(0xf1a6);
 
   /// ![phone-call-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/phone-call-light.svg)
-  static const phoneCallLight = PhosphorIconData(0xf1a7);
+  static const phoneCallLight = PhosphorIconDataLight(0xf1a7);
 
   /// ![phone-call-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/phone-call-thin.svg)
-  static const phoneCallThin = PhosphorIconData(0xf1a8);
+  static const phoneCallThin = PhosphorIconDataThin(0xf1a8);
 
   /// ![phone-disconnect](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/phone-disconnect.svg)
-  static const phoneDisconnect = PhosphorIconData(0xf1a9);
+  static const phoneDisconnect = PhosphorIconDataRegular(0xf1a9);
 
   /// ![phone-disconnect-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/phone-disconnect-bold.svg)
-  static const phoneDisconnectBold = PhosphorIconData(0xf1aa);
+  static const phoneDisconnectBold = PhosphorIconDataBold(0xf1aa);
 
   /// ![phone-disconnect-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/phone-disconnect-fill.svg)
-  static const phoneDisconnectFill = PhosphorIconData(0xf1ab);
+  static const phoneDisconnectFill = PhosphorIconDataFill(0xf1ab);
 
   /// ![phone-disconnect-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/phone-disconnect-light.svg)
-  static const phoneDisconnectLight = PhosphorIconData(0xf1ac);
+  static const phoneDisconnectLight = PhosphorIconDataLight(0xf1ac);
 
   /// ![phone-disconnect-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/phone-disconnect-thin.svg)
-  static const phoneDisconnectThin = PhosphorIconData(0xf1ad);
+  static const phoneDisconnectThin = PhosphorIconDataThin(0xf1ad);
 
   /// ![phone-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/phone-fill.svg)
-  static const phoneFill = PhosphorIconData(0xf1ae);
+  static const phoneFill = PhosphorIconDataFill(0xf1ae);
 
   /// ![phone-incoming](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/phone-incoming.svg)
-  static const phoneIncoming = PhosphorIconData(0xf1af);
+  static const phoneIncoming = PhosphorIconDataRegular(0xf1af);
 
   /// ![phone-incoming-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/phone-incoming-bold.svg)
-  static const phoneIncomingBold = PhosphorIconData(0xf1b0);
+  static const phoneIncomingBold = PhosphorIconDataBold(0xf1b0);
 
   /// ![phone-incoming-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/phone-incoming-fill.svg)
-  static const phoneIncomingFill = PhosphorIconData(0xf1b1);
+  static const phoneIncomingFill = PhosphorIconDataFill(0xf1b1);
 
   /// ![phone-incoming-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/phone-incoming-light.svg)
-  static const phoneIncomingLight = PhosphorIconData(0xf1b2);
+  static const phoneIncomingLight = PhosphorIconDataLight(0xf1b2);
 
   /// ![phone-incoming-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/phone-incoming-thin.svg)
-  static const phoneIncomingThin = PhosphorIconData(0xf1b3);
+  static const phoneIncomingThin = PhosphorIconDataThin(0xf1b3);
 
   /// ![phone-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/phone-light.svg)
-  static const phoneLight = PhosphorIconData(0xf1b4);
+  static const phoneLight = PhosphorIconDataLight(0xf1b4);
 
   /// ![phone-outgoing](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/phone-outgoing.svg)
-  static const phoneOutgoing = PhosphorIconData(0xf1b5);
+  static const phoneOutgoing = PhosphorIconDataRegular(0xf1b5);
 
   /// ![phone-outgoing-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/phone-outgoing-bold.svg)
-  static const phoneOutgoingBold = PhosphorIconData(0xf1b6);
+  static const phoneOutgoingBold = PhosphorIconDataBold(0xf1b6);
 
   /// ![phone-outgoing-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/phone-outgoing-fill.svg)
-  static const phoneOutgoingFill = PhosphorIconData(0xf1b7);
+  static const phoneOutgoingFill = PhosphorIconDataFill(0xf1b7);
 
   /// ![phone-outgoing-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/phone-outgoing-light.svg)
-  static const phoneOutgoingLight = PhosphorIconData(0xf1b8);
+  static const phoneOutgoingLight = PhosphorIconDataLight(0xf1b8);
 
   /// ![phone-outgoing-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/phone-outgoing-thin.svg)
-  static const phoneOutgoingThin = PhosphorIconData(0xf1b9);
+  static const phoneOutgoingThin = PhosphorIconDataThin(0xf1b9);
 
   /// ![phone-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/phone-slash.svg)
-  static const phoneSlash = PhosphorIconData(0xf1ba);
+  static const phoneSlash = PhosphorIconDataRegular(0xf1ba);
 
   /// ![phone-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/phone-slash-bold.svg)
-  static const phoneSlashBold = PhosphorIconData(0xf1bb);
+  static const phoneSlashBold = PhosphorIconDataBold(0xf1bb);
 
   /// ![phone-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/phone-slash-fill.svg)
-  static const phoneSlashFill = PhosphorIconData(0xf1bc);
+  static const phoneSlashFill = PhosphorIconDataFill(0xf1bc);
 
   /// ![phone-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/phone-slash-light.svg)
-  static const phoneSlashLight = PhosphorIconData(0xf1bd);
+  static const phoneSlashLight = PhosphorIconDataLight(0xf1bd);
 
   /// ![phone-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/phone-slash-thin.svg)
-  static const phoneSlashThin = PhosphorIconData(0xf1be);
+  static const phoneSlashThin = PhosphorIconDataThin(0xf1be);
 
   /// ![phone-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/phone-thin.svg)
-  static const phoneThin = PhosphorIconData(0xf1bf);
+  static const phoneThin = PhosphorIconDataThin(0xf1bf);
 
   /// ![phone-x](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/phone-x.svg)
-  static const phoneX = PhosphorIconData(0xf1c0);
+  static const phoneX = PhosphorIconDataRegular(0xf1c0);
 
   /// ![phone-x-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/phone-x-bold.svg)
-  static const phoneXBold = PhosphorIconData(0xf1c1);
+  static const phoneXBold = PhosphorIconDataBold(0xf1c1);
 
   /// ![phone-x-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/phone-x-fill.svg)
-  static const phoneXFill = PhosphorIconData(0xf1c2);
+  static const phoneXFill = PhosphorIconDataFill(0xf1c2);
 
   /// ![phone-x-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/phone-x-light.svg)
-  static const phoneXLight = PhosphorIconData(0xf1c3);
+  static const phoneXLight = PhosphorIconDataLight(0xf1c3);
 
   /// ![phone-x-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/phone-x-thin.svg)
-  static const phoneXThin = PhosphorIconData(0xf1c4);
+  static const phoneXThin = PhosphorIconDataThin(0xf1c4);
 
   /// ![phosphor-logo](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/phosphor-logo.svg)
-  static const phosphorLogo = PhosphorIconData(0xf1c5);
+  static const phosphorLogo = PhosphorIconDataRegular(0xf1c5);
 
   /// ![phosphor-logo-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/phosphor-logo-bold.svg)
-  static const phosphorLogoBold = PhosphorIconData(0xf1c6);
+  static const phosphorLogoBold = PhosphorIconDataBold(0xf1c6);
 
   /// ![phosphor-logo-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/phosphor-logo-fill.svg)
-  static const phosphorLogoFill = PhosphorIconData(0xf1c7);
+  static const phosphorLogoFill = PhosphorIconDataFill(0xf1c7);
 
   /// ![phosphor-logo-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/phosphor-logo-light.svg)
-  static const phosphorLogoLight = PhosphorIconData(0xf1c8);
+  static const phosphorLogoLight = PhosphorIconDataLight(0xf1c8);
 
   /// ![phosphor-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/phosphor-logo-thin.svg)
-  static const phosphorLogoThin = PhosphorIconData(0xf1c9);
+  static const phosphorLogoThin = PhosphorIconDataThin(0xf1c9);
 
   /// ![play](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/play.svg)
-  static const play = PhosphorIconData(0xf1ca);
+  static const play = PhosphorIconDataRegular(0xf1ca);
 
   /// ![play-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/play-bold.svg)
-  static const playBold = PhosphorIconData(0xf1cb);
+  static const playBold = PhosphorIconDataBold(0xf1cb);
 
   /// ![play-circle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/play-circle.svg)
-  static const playCircle = PhosphorIconData(0xf1cc);
+  static const playCircle = PhosphorIconDataRegular(0xf1cc);
 
   /// ![play-circle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/play-circle-bold.svg)
-  static const playCircleBold = PhosphorIconData(0xf1cd);
+  static const playCircleBold = PhosphorIconDataBold(0xf1cd);
 
   /// ![play-circle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/play-circle-fill.svg)
-  static const playCircleFill = PhosphorIconData(0xf1ce);
+  static const playCircleFill = PhosphorIconDataFill(0xf1ce);
 
   /// ![play-circle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/play-circle-light.svg)
-  static const playCircleLight = PhosphorIconData(0xf1cf);
+  static const playCircleLight = PhosphorIconDataLight(0xf1cf);
 
   /// ![play-circle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/play-circle-thin.svg)
-  static const playCircleThin = PhosphorIconData(0xf1d0);
+  static const playCircleThin = PhosphorIconDataThin(0xf1d0);
 
   /// ![play-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/play-fill.svg)
-  static const playFill = PhosphorIconData(0xf1d1);
+  static const playFill = PhosphorIconDataFill(0xf1d1);
 
   /// ![play-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/play-light.svg)
-  static const playLight = PhosphorIconData(0xf1d2);
+  static const playLight = PhosphorIconDataLight(0xf1d2);
 
   /// ![play-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/play-thin.svg)
-  static const playThin = PhosphorIconData(0xf1d3);
+  static const playThin = PhosphorIconDataThin(0xf1d3);
 
   /// ![plus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/plus.svg)
-  static const plus = PhosphorIconData(0xf1d4);
+  static const plus = PhosphorIconDataRegular(0xf1d4);
 
   /// ![plus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/plus-bold.svg)
-  static const plusBold = PhosphorIconData(0xf1d5);
+  static const plusBold = PhosphorIconDataBold(0xf1d5);
 
   /// ![plus-circle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/plus-circle.svg)
-  static const plusCircle = PhosphorIconData(0xf1d6);
+  static const plusCircle = PhosphorIconDataRegular(0xf1d6);
 
   /// ![plus-circle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/plus-circle-bold.svg)
-  static const plusCircleBold = PhosphorIconData(0xf1d7);
+  static const plusCircleBold = PhosphorIconDataBold(0xf1d7);
 
   /// ![plus-circle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/plus-circle-fill.svg)
-  static const plusCircleFill = PhosphorIconData(0xf1d8);
+  static const plusCircleFill = PhosphorIconDataFill(0xf1d8);
 
   /// ![plus-circle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/plus-circle-light.svg)
-  static const plusCircleLight = PhosphorIconData(0xf1d9);
+  static const plusCircleLight = PhosphorIconDataLight(0xf1d9);
 
   /// ![plus-circle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/plus-circle-thin.svg)
-  static const plusCircleThin = PhosphorIconData(0xf1da);
+  static const plusCircleThin = PhosphorIconDataThin(0xf1da);
 
   /// ![plus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/plus-fill.svg)
-  static const plusFill = PhosphorIconData(0xf1db);
+  static const plusFill = PhosphorIconDataFill(0xf1db);
 
   /// ![plus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/plus-light.svg)
-  static const plusLight = PhosphorIconData(0xf1dc);
+  static const plusLight = PhosphorIconDataLight(0xf1dc);
 
   /// ![plus-minus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/plus-minus.svg)
-  static const plusMinus = PhosphorIconData(0xf1dd);
+  static const plusMinus = PhosphorIconDataRegular(0xf1dd);
 
   /// ![plus-minus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/plus-minus-bold.svg)
-  static const plusMinusBold = PhosphorIconData(0xf1de);
+  static const plusMinusBold = PhosphorIconDataBold(0xf1de);
 
   /// ![plus-minus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/plus-minus-fill.svg)
-  static const plusMinusFill = PhosphorIconData(0xf1df);
+  static const plusMinusFill = PhosphorIconDataFill(0xf1df);
 
   /// ![plus-minus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/plus-minus-light.svg)
-  static const plusMinusLight = PhosphorIconData(0xf1e0);
+  static const plusMinusLight = PhosphorIconDataLight(0xf1e0);
 
   /// ![plus-minus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/plus-minus-thin.svg)
-  static const plusMinusThin = PhosphorIconData(0xf1e1);
+  static const plusMinusThin = PhosphorIconDataThin(0xf1e1);
 
   /// ![plus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/plus-thin.svg)
-  static const plusThin = PhosphorIconData(0xf1e2);
+  static const plusThin = PhosphorIconDataThin(0xf1e2);
 
   /// ![power](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/power.svg)
-  static const power = PhosphorIconData(0xf1e3);
+  static const power = PhosphorIconDataRegular(0xf1e3);
 
   /// ![power-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/power-bold.svg)
-  static const powerBold = PhosphorIconData(0xf1e4);
+  static const powerBold = PhosphorIconDataBold(0xf1e4);
 
   /// ![power-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/power-fill.svg)
-  static const powerFill = PhosphorIconData(0xf1e5);
+  static const powerFill = PhosphorIconDataFill(0xf1e5);
 
   /// ![power-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/power-light.svg)
-  static const powerLight = PhosphorIconData(0xf1e6);
+  static const powerLight = PhosphorIconDataLight(0xf1e6);
 
   /// ![power-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/power-thin.svg)
-  static const powerThin = PhosphorIconData(0xf1e7);
+  static const powerThin = PhosphorIconDataThin(0xf1e7);
 
   /// ![printer](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/printer.svg)
-  static const printer = PhosphorIconData(0xf1e8);
+  static const printer = PhosphorIconDataRegular(0xf1e8);
 
   /// ![printer-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/printer-bold.svg)
-  static const printerBold = PhosphorIconData(0xf1e9);
+  static const printerBold = PhosphorIconDataBold(0xf1e9);
 
   /// ![printer-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/printer-fill.svg)
-  static const printerFill = PhosphorIconData(0xf1ea);
+  static const printerFill = PhosphorIconDataFill(0xf1ea);
 
   /// ![printer-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/printer-light.svg)
-  static const printerLight = PhosphorIconData(0xf1eb);
+  static const printerLight = PhosphorIconDataLight(0xf1eb);
 
   /// ![printer-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/printer-thin.svg)
-  static const printerThin = PhosphorIconData(0xf1ec);
+  static const printerThin = PhosphorIconDataThin(0xf1ec);
 
   /// ![prohibit](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/prohibit.svg)
-  static const prohibit = PhosphorIconData(0xf1ed);
+  static const prohibit = PhosphorIconDataRegular(0xf1ed);
 
   /// ![prohibit-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/prohibit-bold.svg)
-  static const prohibitBold = PhosphorIconData(0xf1ee);
+  static const prohibitBold = PhosphorIconDataBold(0xf1ee);
 
   /// ![prohibit-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/prohibit-fill.svg)
-  static const prohibitFill = PhosphorIconData(0xf1ef);
+  static const prohibitFill = PhosphorIconDataFill(0xf1ef);
 
   /// ![prohibit-inset](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/prohibit-inset.svg)
-  static const prohibitInset = PhosphorIconData(0xf1f0);
+  static const prohibitInset = PhosphorIconDataRegular(0xf1f0);
 
   /// ![prohibit-inset-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/prohibit-inset-bold.svg)
-  static const prohibitInsetBold = PhosphorIconData(0xf1f1);
+  static const prohibitInsetBold = PhosphorIconDataBold(0xf1f1);
 
   /// ![prohibit-inset-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/prohibit-inset-fill.svg)
-  static const prohibitInsetFill = PhosphorIconData(0xf1f2);
+  static const prohibitInsetFill = PhosphorIconDataFill(0xf1f2);
 
   /// ![prohibit-inset-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/prohibit-inset-light.svg)
-  static const prohibitInsetLight = PhosphorIconData(0xf1f3);
+  static const prohibitInsetLight = PhosphorIconDataLight(0xf1f3);
 
   /// ![prohibit-inset-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/prohibit-inset-thin.svg)
-  static const prohibitInsetThin = PhosphorIconData(0xf1f4);
+  static const prohibitInsetThin = PhosphorIconDataThin(0xf1f4);
 
   /// ![prohibit-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/prohibit-light.svg)
-  static const prohibitLight = PhosphorIconData(0xf1f5);
+  static const prohibitLight = PhosphorIconDataLight(0xf1f5);
 
   /// ![prohibit-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/prohibit-thin.svg)
-  static const prohibitThin = PhosphorIconData(0xf1f6);
+  static const prohibitThin = PhosphorIconDataThin(0xf1f6);
 
   /// ![push-pin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/push-pin.svg)
-  static const pushPin = PhosphorIconData(0xf1f7);
+  static const pushPin = PhosphorIconDataRegular(0xf1f7);
 
   /// ![push-pin-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/push-pin-bold.svg)
-  static const pushPinBold = PhosphorIconData(0xf1f8);
+  static const pushPinBold = PhosphorIconDataBold(0xf1f8);
 
   /// ![push-pin-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/push-pin-fill.svg)
-  static const pushPinFill = PhosphorIconData(0xf1f9);
+  static const pushPinFill = PhosphorIconDataFill(0xf1f9);
 
   /// ![push-pin-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/push-pin-light.svg)
-  static const pushPinLight = PhosphorIconData(0xf1fa);
+  static const pushPinLight = PhosphorIconDataLight(0xf1fa);
 
   /// ![push-pin-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/push-pin-slash.svg)
-  static const pushPinSlash = PhosphorIconData(0xf1fb);
+  static const pushPinSlash = PhosphorIconDataRegular(0xf1fb);
 
   /// ![push-pin-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/push-pin-slash-bold.svg)
-  static const pushPinSlashBold = PhosphorIconData(0xf1fc);
+  static const pushPinSlashBold = PhosphorIconDataBold(0xf1fc);
 
   /// ![push-pin-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/push-pin-slash-fill.svg)
-  static const pushPinSlashFill = PhosphorIconData(0xf1fd);
+  static const pushPinSlashFill = PhosphorIconDataFill(0xf1fd);
 
   /// ![push-pin-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/push-pin-slash-light.svg)
-  static const pushPinSlashLight = PhosphorIconData(0xf1fe);
+  static const pushPinSlashLight = PhosphorIconDataLight(0xf1fe);
 
   /// ![push-pin-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/push-pin-slash-thin.svg)
-  static const pushPinSlashThin = PhosphorIconData(0xf1ff);
+  static const pushPinSlashThin = PhosphorIconDataThin(0xf1ff);
 
   /// ![push-pin-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/push-pin-thin.svg)
-  static const pushPinThin = PhosphorIconData(0xf200);
+  static const pushPinThin = PhosphorIconDataThin(0xf200);
 
   /// ![qr-code](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/qr-code.svg)
-  static const qrCode = PhosphorIconData(0xf201);
+  static const qrCode = PhosphorIconDataRegular(0xf201);
 
   /// ![qr-code-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/qr-code-bold.svg)
-  static const qrCodeBold = PhosphorIconData(0xf202);
+  static const qrCodeBold = PhosphorIconDataBold(0xf202);
 
   /// ![qr-code-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/qr-code-fill.svg)
-  static const qrCodeFill = PhosphorIconData(0xf203);
+  static const qrCodeFill = PhosphorIconDataFill(0xf203);
 
   /// ![qr-code-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/qr-code-light.svg)
-  static const qrCodeLight = PhosphorIconData(0xf204);
+  static const qrCodeLight = PhosphorIconDataLight(0xf204);
 
   /// ![qr-code-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/qr-code-thin.svg)
-  static const qrCodeThin = PhosphorIconData(0xf205);
+  static const qrCodeThin = PhosphorIconDataThin(0xf205);
 
   /// ![question](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/question.svg)
-  static const question = PhosphorIconData(0xf206);
+  static const question = PhosphorIconDataRegular(0xf206);
 
   /// ![question-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/question-bold.svg)
-  static const questionBold = PhosphorIconData(0xf207);
+  static const questionBold = PhosphorIconDataBold(0xf207);
 
   /// ![question-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/question-fill.svg)
-  static const questionFill = PhosphorIconData(0xf208);
+  static const questionFill = PhosphorIconDataFill(0xf208);
 
   /// ![question-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/question-light.svg)
-  static const questionLight = PhosphorIconData(0xf209);
+  static const questionLight = PhosphorIconDataLight(0xf209);
 
   /// ![question-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/question-thin.svg)
-  static const questionThin = PhosphorIconData(0xf20a);
+  static const questionThin = PhosphorIconDataThin(0xf20a);
 
   /// ![radical](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/radical.svg)
-  static const radical = PhosphorIconData(0xf20b);
+  static const radical = PhosphorIconDataRegular(0xf20b);
 
   /// ![radical-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/radical-bold.svg)
-  static const radicalBold = PhosphorIconData(0xf20c);
+  static const radicalBold = PhosphorIconDataBold(0xf20c);
 
   /// ![radical-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/radical-fill.svg)
-  static const radicalFill = PhosphorIconData(0xf20d);
+  static const radicalFill = PhosphorIconDataFill(0xf20d);
 
   /// ![radical-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/radical-light.svg)
-  static const radicalLight = PhosphorIconData(0xf20e);
+  static const radicalLight = PhosphorIconDataLight(0xf20e);
 
   /// ![radical-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/radical-thin.svg)
-  static const radicalThin = PhosphorIconData(0xf20f);
+  static const radicalThin = PhosphorIconDataThin(0xf20f);
 
   /// ![receipt](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/receipt.svg)
-  static const receipt = PhosphorIconData(0xf210);
+  static const receipt = PhosphorIconDataRegular(0xf210);
 
   /// ![receipt-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/receipt-bold.svg)
-  static const receiptBold = PhosphorIconData(0xf211);
+  static const receiptBold = PhosphorIconDataBold(0xf211);
 
   /// ![receipt-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/receipt-fill.svg)
-  static const receiptFill = PhosphorIconData(0xf212);
+  static const receiptFill = PhosphorIconDataFill(0xf212);
 
   /// ![receipt-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/receipt-light.svg)
-  static const receiptLight = PhosphorIconData(0xf213);
+  static const receiptLight = PhosphorIconDataLight(0xf213);
 
   /// ![receipt-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/receipt-thin.svg)
-  static const receiptThin = PhosphorIconData(0xf214);
+  static const receiptThin = PhosphorIconDataThin(0xf214);
 
   /// ![record](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/record.svg)
-  static const record = PhosphorIconData(0xf215);
+  static const record = PhosphorIconDataRegular(0xf215);
 
   /// ![record-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/record-bold.svg)
-  static const recordBold = PhosphorIconData(0xf216);
+  static const recordBold = PhosphorIconDataBold(0xf216);
 
   /// ![record-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/record-fill.svg)
-  static const recordFill = PhosphorIconData(0xf217);
+  static const recordFill = PhosphorIconDataFill(0xf217);
 
   /// ![record-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/record-light.svg)
-  static const recordLight = PhosphorIconData(0xf218);
+  static const recordLight = PhosphorIconDataLight(0xf218);
 
   /// ![record-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/record-thin.svg)
-  static const recordThin = PhosphorIconData(0xf219);
+  static const recordThin = PhosphorIconDataThin(0xf219);
 
   /// ![rectangle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/rectangle.svg)
-  static const rectangle = PhosphorIconData(0xf21a);
+  static const rectangle = PhosphorIconDataRegular(0xf21a);
 
   /// ![rectangle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/rectangle-bold.svg)
-  static const rectangleBold = PhosphorIconData(0xf21b);
+  static const rectangleBold = PhosphorIconDataBold(0xf21b);
 
   /// ![rectangle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/rectangle-fill.svg)
-  static const rectangleFill = PhosphorIconData(0xf21c);
+  static const rectangleFill = PhosphorIconDataFill(0xf21c);
 
   /// ![rectangle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/rectangle-light.svg)
-  static const rectangleLight = PhosphorIconData(0xf21d);
+  static const rectangleLight = PhosphorIconDataLight(0xf21d);
 
   /// ![rectangle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/rectangle-thin.svg)
-  static const rectangleThin = PhosphorIconData(0xf21e);
+  static const rectangleThin = PhosphorIconDataThin(0xf21e);
 
   /// ![rectangles-two](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/rectangles-two.svg)
-  static const rectanglesTwo = PhosphorIconData(0xf21f);
+  static const rectanglesTwo = PhosphorIconDataRegular(0xf21f);
 
   /// ![rectangles-two-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/rectangles-two-bold.svg)
-  static const rectanglesTwoBold = PhosphorIconData(0xf220);
+  static const rectanglesTwoBold = PhosphorIconDataBold(0xf220);
 
   /// ![rectangles-two-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/rectangles-two-fill.svg)
-  static const rectanglesTwoFill = PhosphorIconData(0xf221);
+  static const rectanglesTwoFill = PhosphorIconDataFill(0xf221);
 
   /// ![rectangles-two-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/rectangles-two-light.svg)
-  static const rectanglesTwoLight = PhosphorIconData(0xf222);
+  static const rectanglesTwoLight = PhosphorIconDataLight(0xf222);
 
   /// ![rectangles-two-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/rectangles-two-thin.svg)
-  static const rectanglesTwoThin = PhosphorIconData(0xf223);
+  static const rectanglesTwoThin = PhosphorIconDataThin(0xf223);
 
   /// ![repeat](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/repeat.svg)
-  static const repeat = PhosphorIconData(0xf224);
+  static const repeat = PhosphorIconDataRegular(0xf224);
 
   /// ![repeat-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/repeat-bold.svg)
-  static const repeatBold = PhosphorIconData(0xf225);
+  static const repeatBold = PhosphorIconDataBold(0xf225);
 
   /// ![repeat-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/repeat-fill.svg)
-  static const repeatFill = PhosphorIconData(0xf226);
+  static const repeatFill = PhosphorIconDataFill(0xf226);
 
   /// ![repeat-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/repeat-light.svg)
-  static const repeatLight = PhosphorIconData(0xf227);
+  static const repeatLight = PhosphorIconDataLight(0xf227);
 
   /// ![repeat-once](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/repeat-once.svg)
-  static const repeatOnce = PhosphorIconData(0xf228);
+  static const repeatOnce = PhosphorIconDataRegular(0xf228);
 
   /// ![repeat-once-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/repeat-once-bold.svg)
-  static const repeatOnceBold = PhosphorIconData(0xf229);
+  static const repeatOnceBold = PhosphorIconDataBold(0xf229);
 
   /// ![repeat-once-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/repeat-once-fill.svg)
-  static const repeatOnceFill = PhosphorIconData(0xf22a);
+  static const repeatOnceFill = PhosphorIconDataFill(0xf22a);
 
   /// ![repeat-once-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/repeat-once-light.svg)
-  static const repeatOnceLight = PhosphorIconData(0xf22b);
+  static const repeatOnceLight = PhosphorIconDataLight(0xf22b);
 
   /// ![repeat-once-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/repeat-once-thin.svg)
-  static const repeatOnceThin = PhosphorIconData(0xf22c);
+  static const repeatOnceThin = PhosphorIconDataThin(0xf22c);
 
   /// ![repeat-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/repeat-thin.svg)
-  static const repeatThin = PhosphorIconData(0xf22d);
+  static const repeatThin = PhosphorIconDataThin(0xf22d);
 
   /// ![rewind](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/rewind.svg)
-  static const rewind = PhosphorIconData(0xf22e);
+  static const rewind = PhosphorIconDataRegular(0xf22e);
 
   /// ![rewind-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/rewind-bold.svg)
-  static const rewindBold = PhosphorIconData(0xf22f);
+  static const rewindBold = PhosphorIconDataBold(0xf22f);
 
   /// ![rewind-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/rewind-fill.svg)
-  static const rewindFill = PhosphorIconData(0xf230);
+  static const rewindFill = PhosphorIconDataFill(0xf230);
 
   /// ![rewind-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/rewind-light.svg)
-  static const rewindLight = PhosphorIconData(0xf231);
+  static const rewindLight = PhosphorIconDataLight(0xf231);
 
   /// ![rewind-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/rewind-thin.svg)
-  static const rewindThin = PhosphorIconData(0xf232);
+  static const rewindThin = PhosphorIconDataThin(0xf232);
 
   /// ![rocket](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/rocket.svg)
-  static const rocket = PhosphorIconData(0xf233);
+  static const rocket = PhosphorIconDataRegular(0xf233);
 
   /// ![rocket-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/rocket-bold.svg)
-  static const rocketBold = PhosphorIconData(0xf234);
+  static const rocketBold = PhosphorIconDataBold(0xf234);
 
   /// ![rocket-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/rocket-fill.svg)
-  static const rocketFill = PhosphorIconData(0xf235);
+  static const rocketFill = PhosphorIconDataFill(0xf235);
 
   /// ![rocket-launch](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/rocket-launch.svg)
-  static const rocketLaunch = PhosphorIconData(0xf236);
+  static const rocketLaunch = PhosphorIconDataRegular(0xf236);
 
   /// ![rocket-launch-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/rocket-launch-bold.svg)
-  static const rocketLaunchBold = PhosphorIconData(0xf237);
+  static const rocketLaunchBold = PhosphorIconDataBold(0xf237);
 
   /// ![rocket-launch-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/rocket-launch-fill.svg)
-  static const rocketLaunchFill = PhosphorIconData(0xf238);
+  static const rocketLaunchFill = PhosphorIconDataFill(0xf238);
 
   /// ![rocket-launch-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/rocket-launch-light.svg)
-  static const rocketLaunchLight = PhosphorIconData(0xf239);
+  static const rocketLaunchLight = PhosphorIconDataLight(0xf239);
 
   /// ![rocket-launch-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/rocket-launch-thin.svg)
-  static const rocketLaunchThin = PhosphorIconData(0xf23a);
+  static const rocketLaunchThin = PhosphorIconDataThin(0xf23a);
 
   /// ![rocket-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/rocket-light.svg)
-  static const rocketLight = PhosphorIconData(0xf23b);
+  static const rocketLight = PhosphorIconDataLight(0xf23b);
 
   /// ![rocket-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/rocket-thin.svg)
-  static const rocketThin = PhosphorIconData(0xf23c);
+  static const rocketThin = PhosphorIconDataThin(0xf23c);
 
   /// ![rss](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/rss.svg)
-  static const rss = PhosphorIconData(0xf23d);
+  static const rss = PhosphorIconDataRegular(0xf23d);
 
   /// ![rss-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/rss-bold.svg)
-  static const rssBold = PhosphorIconData(0xf23e);
+  static const rssBold = PhosphorIconDataBold(0xf23e);
 
   /// ![rss-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/rss-fill.svg)
-  static const rssFill = PhosphorIconData(0xf23f);
+  static const rssFill = PhosphorIconDataFill(0xf23f);
 
   /// ![rss-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/rss-light.svg)
-  static const rssLight = PhosphorIconData(0xf240);
+  static const rssLight = PhosphorIconDataLight(0xf240);
 
   /// ![rss-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/rss-simple.svg)
-  static const rssSimple = PhosphorIconData(0xf241);
+  static const rssSimple = PhosphorIconDataRegular(0xf241);
 
   /// ![rss-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/rss-simple-bold.svg)
-  static const rssSimpleBold = PhosphorIconData(0xf242);
+  static const rssSimpleBold = PhosphorIconDataBold(0xf242);
 
   /// ![rss-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/rss-simple-fill.svg)
-  static const rssSimpleFill = PhosphorIconData(0xf243);
+  static const rssSimpleFill = PhosphorIconDataFill(0xf243);
 
   /// ![rss-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/rss-simple-light.svg)
-  static const rssSimpleLight = PhosphorIconData(0xf244);
+  static const rssSimpleLight = PhosphorIconDataLight(0xf244);
 
   /// ![rss-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/rss-simple-thin.svg)
-  static const rssSimpleThin = PhosphorIconData(0xf245);
+  static const rssSimpleThin = PhosphorIconDataThin(0xf245);
 
   /// ![rss-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/rss-thin.svg)
-  static const rssThin = PhosphorIconData(0xf246);
+  static const rssThin = PhosphorIconDataThin(0xf246);
 
   /// ![scissors](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/scissors.svg)
-  static const scissors = PhosphorIconData(0xf247);
+  static const scissors = PhosphorIconDataRegular(0xf247);
 
   /// ![scissors-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/scissors-bold.svg)
-  static const scissorsBold = PhosphorIconData(0xf248);
+  static const scissorsBold = PhosphorIconDataBold(0xf248);
 
   /// ![scissors-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/scissors-fill.svg)
-  static const scissorsFill = PhosphorIconData(0xf249);
+  static const scissorsFill = PhosphorIconDataFill(0xf249);
 
   /// ![scissors-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/scissors-light.svg)
-  static const scissorsLight = PhosphorIconData(0xf24a);
+  static const scissorsLight = PhosphorIconDataLight(0xf24a);
 
   /// ![scissors-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/scissors-thin.svg)
-  static const scissorsThin = PhosphorIconData(0xf24b);
+  static const scissorsThin = PhosphorIconDataThin(0xf24b);
 
   /// ![screencast](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/screencast.svg)
-  static const screencast = PhosphorIconData(0xf24c);
+  static const screencast = PhosphorIconDataRegular(0xf24c);
 
   /// ![screencast-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/screencast-bold.svg)
-  static const screencastBold = PhosphorIconData(0xf24d);
+  static const screencastBold = PhosphorIconDataBold(0xf24d);
 
   /// ![screencast-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/screencast-fill.svg)
-  static const screencastFill = PhosphorIconData(0xf24e);
+  static const screencastFill = PhosphorIconDataFill(0xf24e);
 
   /// ![screencast-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/screencast-light.svg)
-  static const screencastLight = PhosphorIconData(0xf24f);
+  static const screencastLight = PhosphorIconDataLight(0xf24f);
 
   /// ![screencast-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/screencast-thin.svg)
-  static const screencastThin = PhosphorIconData(0xf250);
+  static const screencastThin = PhosphorIconDataThin(0xf250);
 
   /// ![share](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/share.svg)
-  static const share = PhosphorIconData(0xf251);
+  static const share = PhosphorIconDataRegular(0xf251);
 
   /// ![share-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/share-bold.svg)
-  static const shareBold = PhosphorIconData(0xf252);
+  static const shareBold = PhosphorIconDataBold(0xf252);
 
   /// ![share-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/share-fill.svg)
-  static const shareFill = PhosphorIconData(0xf253);
+  static const shareFill = PhosphorIconDataFill(0xf253);
 
   /// ![share-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/share-light.svg)
-  static const shareLight = PhosphorIconData(0xf254);
+  static const shareLight = PhosphorIconDataLight(0xf254);
 
   /// ![share-network](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/share-network.svg)
-  static const shareNetwork = PhosphorIconData(0xf255);
+  static const shareNetwork = PhosphorIconDataRegular(0xf255);
 
   /// ![share-network-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/share-network-bold.svg)
-  static const shareNetworkBold = PhosphorIconData(0xf256);
+  static const shareNetworkBold = PhosphorIconDataBold(0xf256);
 
   /// ![share-network-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/share-network-fill.svg)
-  static const shareNetworkFill = PhosphorIconData(0xf257);
+  static const shareNetworkFill = PhosphorIconDataFill(0xf257);
 
   /// ![share-network-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/share-network-light.svg)
-  static const shareNetworkLight = PhosphorIconData(0xf258);
+  static const shareNetworkLight = PhosphorIconDataLight(0xf258);
 
   /// ![share-network-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/share-network-thin.svg)
-  static const shareNetworkThin = PhosphorIconData(0xf259);
+  static const shareNetworkThin = PhosphorIconDataThin(0xf259);
 
   /// ![share-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/share-thin.svg)
-  static const shareThin = PhosphorIconData(0xf25a);
+  static const shareThin = PhosphorIconDataThin(0xf25a);
 
   /// ![shield](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/shield.svg)
-  static const shield = PhosphorIconData(0xf25b);
+  static const shield = PhosphorIconDataRegular(0xf25b);
 
   /// ![shield-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/shield-bold.svg)
-  static const shieldBold = PhosphorIconData(0xf25c);
+  static const shieldBold = PhosphorIconDataBold(0xf25c);
 
   /// ![shield-check](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/shield-check.svg)
-  static const shieldCheck = PhosphorIconData(0xf25d);
+  static const shieldCheck = PhosphorIconDataRegular(0xf25d);
 
   /// ![shield-check-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/shield-check-bold.svg)
-  static const shieldCheckBold = PhosphorIconData(0xf25e);
+  static const shieldCheckBold = PhosphorIconDataBold(0xf25e);
 
   /// ![shield-check-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/shield-check-fill.svg)
-  static const shieldCheckFill = PhosphorIconData(0xf25f);
+  static const shieldCheckFill = PhosphorIconDataFill(0xf25f);
 
   /// ![shield-check-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/shield-check-light.svg)
-  static const shieldCheckLight = PhosphorIconData(0xf260);
+  static const shieldCheckLight = PhosphorIconDataLight(0xf260);
 
   /// ![shield-check-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/shield-check-thin.svg)
-  static const shieldCheckThin = PhosphorIconData(0xf261);
+  static const shieldCheckThin = PhosphorIconDataThin(0xf261);
 
   /// ![shield-chevron](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/shield-chevron.svg)
-  static const shieldChevron = PhosphorIconData(0xf262);
+  static const shieldChevron = PhosphorIconDataRegular(0xf262);
 
   /// ![shield-chevron-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/shield-chevron-bold.svg)
-  static const shieldChevronBold = PhosphorIconData(0xf263);
+  static const shieldChevronBold = PhosphorIconDataBold(0xf263);
 
   /// ![shield-chevron-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/shield-chevron-fill.svg)
-  static const shieldChevronFill = PhosphorIconData(0xf264);
+  static const shieldChevronFill = PhosphorIconDataFill(0xf264);
 
   /// ![shield-chevron-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/shield-chevron-light.svg)
-  static const shieldChevronLight = PhosphorIconData(0xf265);
+  static const shieldChevronLight = PhosphorIconDataLight(0xf265);
 
   /// ![shield-chevron-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/shield-chevron-thin.svg)
-  static const shieldChevronThin = PhosphorIconData(0xf266);
+  static const shieldChevronThin = PhosphorIconDataThin(0xf266);
 
   /// ![shield-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/shield-fill.svg)
-  static const shieldFill = PhosphorIconData(0xf267);
+  static const shieldFill = PhosphorIconDataFill(0xf267);
 
   /// ![shield-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/shield-light.svg)
-  static const shieldLight = PhosphorIconData(0xf268);
+  static const shieldLight = PhosphorIconDataLight(0xf268);
 
   /// ![shield-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/shield-slash.svg)
-  static const shieldSlash = PhosphorIconData(0xf269);
+  static const shieldSlash = PhosphorIconDataRegular(0xf269);
 
   /// ![shield-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/shield-slash-bold.svg)
-  static const shieldSlashBold = PhosphorIconData(0xf26a);
+  static const shieldSlashBold = PhosphorIconDataBold(0xf26a);
 
   /// ![shield-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/shield-slash-fill.svg)
-  static const shieldSlashFill = PhosphorIconData(0xf26b);
+  static const shieldSlashFill = PhosphorIconDataFill(0xf26b);
 
   /// ![shield-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/shield-slash-light.svg)
-  static const shieldSlashLight = PhosphorIconData(0xf26c);
+  static const shieldSlashLight = PhosphorIconDataLight(0xf26c);
 
   /// ![shield-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/shield-slash-thin.svg)
-  static const shieldSlashThin = PhosphorIconData(0xf26d);
+  static const shieldSlashThin = PhosphorIconDataThin(0xf26d);
 
   /// ![shield-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/shield-thin.svg)
-  static const shieldThin = PhosphorIconData(0xf26e);
+  static const shieldThin = PhosphorIconDataThin(0xf26e);
 
   /// ![shield-warning](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/shield-warning.svg)
-  static const shieldWarning = PhosphorIconData(0xf26f);
+  static const shieldWarning = PhosphorIconDataRegular(0xf26f);
 
   /// ![shield-warning-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/shield-warning-bold.svg)
-  static const shieldWarningBold = PhosphorIconData(0xf270);
+  static const shieldWarningBold = PhosphorIconDataBold(0xf270);
 
   /// ![shield-warning-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/shield-warning-fill.svg)
-  static const shieldWarningFill = PhosphorIconData(0xf271);
+  static const shieldWarningFill = PhosphorIconDataFill(0xf271);
 
   /// ![shield-warning-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/shield-warning-light.svg)
-  static const shieldWarningLight = PhosphorIconData(0xf272);
+  static const shieldWarningLight = PhosphorIconDataLight(0xf272);
 
   /// ![shield-warning-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/shield-warning-thin.svg)
-  static const shieldWarningThin = PhosphorIconData(0xf273);
+  static const shieldWarningThin = PhosphorIconDataThin(0xf273);
 
   /// ![shopping-bag](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/shopping-bag.svg)
-  static const shoppingBag = PhosphorIconData(0xf274);
+  static const shoppingBag = PhosphorIconDataRegular(0xf274);
 
   /// ![shopping-bag-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/shopping-bag-bold.svg)
-  static const shoppingBagBold = PhosphorIconData(0xf275);
+  static const shoppingBagBold = PhosphorIconDataBold(0xf275);
 
   /// ![shopping-bag-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/shopping-bag-fill.svg)
-  static const shoppingBagFill = PhosphorIconData(0xf276);
+  static const shoppingBagFill = PhosphorIconDataFill(0xf276);
 
   /// ![shopping-bag-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/shopping-bag-light.svg)
-  static const shoppingBagLight = PhosphorIconData(0xf277);
+  static const shoppingBagLight = PhosphorIconDataLight(0xf277);
 
   /// ![shopping-bag-open](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/shopping-bag-open.svg)
-  static const shoppingBagOpen = PhosphorIconData(0xf278);
+  static const shoppingBagOpen = PhosphorIconDataRegular(0xf278);
 
   /// ![shopping-bag-open-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/shopping-bag-open-bold.svg)
-  static const shoppingBagOpenBold = PhosphorIconData(0xf279);
+  static const shoppingBagOpenBold = PhosphorIconDataBold(0xf279);
 
   /// ![shopping-bag-open-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/shopping-bag-open-fill.svg)
-  static const shoppingBagOpenFill = PhosphorIconData(0xf27a);
+  static const shoppingBagOpenFill = PhosphorIconDataFill(0xf27a);
 
   /// ![shopping-bag-open-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/shopping-bag-open-light.svg)
-  static const shoppingBagOpenLight = PhosphorIconData(0xf27b);
+  static const shoppingBagOpenLight = PhosphorIconDataLight(0xf27b);
 
   /// ![shopping-bag-open-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/shopping-bag-open-thin.svg)
-  static const shoppingBagOpenThin = PhosphorIconData(0xf27c);
+  static const shoppingBagOpenThin = PhosphorIconDataThin(0xf27c);
 
   /// ![shopping-bag-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/shopping-bag-thin.svg)
-  static const shoppingBagThin = PhosphorIconData(0xf27d);
+  static const shoppingBagThin = PhosphorIconDataThin(0xf27d);
 
   /// ![shopping-cart](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/shopping-cart.svg)
-  static const shoppingCart = PhosphorIconData(0xf27e);
+  static const shoppingCart = PhosphorIconDataRegular(0xf27e);
 
   /// ![shopping-cart-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/shopping-cart-bold.svg)
-  static const shoppingCartBold = PhosphorIconData(0xf27f);
+  static const shoppingCartBold = PhosphorIconDataBold(0xf27f);
 
   /// ![shopping-cart-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/shopping-cart-fill.svg)
-  static const shoppingCartFill = PhosphorIconData(0xf280);
+  static const shoppingCartFill = PhosphorIconDataFill(0xf280);
 
   /// ![shopping-cart-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/shopping-cart-light.svg)
-  static const shoppingCartLight = PhosphorIconData(0xf281);
+  static const shoppingCartLight = PhosphorIconDataLight(0xf281);
 
   /// ![shopping-cart-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/shopping-cart-simple.svg)
-  static const shoppingCartSimple = PhosphorIconData(0xf282);
+  static const shoppingCartSimple = PhosphorIconDataRegular(0xf282);
 
   /// ![shopping-cart-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/shopping-cart-simple-bold.svg)
-  static const shoppingCartSimpleBold = PhosphorIconData(0xf283);
+  static const shoppingCartSimpleBold = PhosphorIconDataBold(0xf283);
 
   /// ![shopping-cart-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/shopping-cart-simple-fill.svg)
-  static const shoppingCartSimpleFill = PhosphorIconData(0xf284);
+  static const shoppingCartSimpleFill = PhosphorIconDataFill(0xf284);
 
   /// ![shopping-cart-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/shopping-cart-simple-light.svg)
-  static const shoppingCartSimpleLight = PhosphorIconData(0xf285);
+  static const shoppingCartSimpleLight = PhosphorIconDataLight(0xf285);
 
   /// ![shopping-cart-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/shopping-cart-simple-thin.svg)
-  static const shoppingCartSimpleThin = PhosphorIconData(0xf286);
+  static const shoppingCartSimpleThin = PhosphorIconDataThin(0xf286);
 
   /// ![shopping-cart-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/shopping-cart-thin.svg)
-  static const shoppingCartThin = PhosphorIconData(0xf287);
+  static const shoppingCartThin = PhosphorIconDataThin(0xf287);
 
   /// ![shuffle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/shuffle.svg)
-  static const shuffle = PhosphorIconData(0xf288);
+  static const shuffle = PhosphorIconDataRegular(0xf288);
 
   /// ![shuffle-angular](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/shuffle-angular.svg)
-  static const shuffleAngular = PhosphorIconData(0xf289);
+  static const shuffleAngular = PhosphorIconDataRegular(0xf289);
 
   /// ![shuffle-angular-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/shuffle-angular-bold.svg)
-  static const shuffleAngularBold = PhosphorIconData(0xf28a);
+  static const shuffleAngularBold = PhosphorIconDataBold(0xf28a);
 
   /// ![shuffle-angular-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/shuffle-angular-fill.svg)
-  static const shuffleAngularFill = PhosphorIconData(0xf28b);
+  static const shuffleAngularFill = PhosphorIconDataFill(0xf28b);
 
   /// ![shuffle-angular-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/shuffle-angular-light.svg)
-  static const shuffleAngularLight = PhosphorIconData(0xf28c);
+  static const shuffleAngularLight = PhosphorIconDataLight(0xf28c);
 
   /// ![shuffle-angular-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/shuffle-angular-thin.svg)
-  static const shuffleAngularThin = PhosphorIconData(0xf28d);
+  static const shuffleAngularThin = PhosphorIconDataThin(0xf28d);
 
   /// ![shuffle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/shuffle-bold.svg)
-  static const shuffleBold = PhosphorIconData(0xf28e);
+  static const shuffleBold = PhosphorIconDataBold(0xf28e);
 
   /// ![shuffle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/shuffle-fill.svg)
-  static const shuffleFill = PhosphorIconData(0xf28f);
+  static const shuffleFill = PhosphorIconDataFill(0xf28f);
 
   /// ![shuffle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/shuffle-light.svg)
-  static const shuffleLight = PhosphorIconData(0xf290);
+  static const shuffleLight = PhosphorIconDataLight(0xf290);
 
   /// ![shuffle-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/shuffle-simple.svg)
-  static const shuffleSimple = PhosphorIconData(0xf291);
+  static const shuffleSimple = PhosphorIconDataRegular(0xf291);
 
   /// ![shuffle-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/shuffle-simple-bold.svg)
-  static const shuffleSimpleBold = PhosphorIconData(0xf292);
+  static const shuffleSimpleBold = PhosphorIconDataBold(0xf292);
 
   /// ![shuffle-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/shuffle-simple-fill.svg)
-  static const shuffleSimpleFill = PhosphorIconData(0xf293);
+  static const shuffleSimpleFill = PhosphorIconDataFill(0xf293);
 
   /// ![shuffle-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/shuffle-simple-light.svg)
-  static const shuffleSimpleLight = PhosphorIconData(0xf294);
+  static const shuffleSimpleLight = PhosphorIconDataLight(0xf294);
 
   /// ![shuffle-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/shuffle-simple-thin.svg)
-  static const shuffleSimpleThin = PhosphorIconData(0xf295);
+  static const shuffleSimpleThin = PhosphorIconDataThin(0xf295);
 
   /// ![shuffle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/shuffle-thin.svg)
-  static const shuffleThin = PhosphorIconData(0xf296);
+  static const shuffleThin = PhosphorIconDataThin(0xf296);
 
   /// ![sign-in](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/sign-in.svg)
-  static const signIn = PhosphorIconData(0xf297);
+  static const signIn = PhosphorIconDataRegular(0xf297);
 
   /// ![sign-in-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/sign-in-bold.svg)
-  static const signInBold = PhosphorIconData(0xf298);
+  static const signInBold = PhosphorIconDataBold(0xf298);
 
   /// ![sign-in-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/sign-in-fill.svg)
-  static const signInFill = PhosphorIconData(0xf299);
+  static const signInFill = PhosphorIconDataFill(0xf299);
 
   /// ![sign-in-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/sign-in-light.svg)
-  static const signInLight = PhosphorIconData(0xf29a);
+  static const signInLight = PhosphorIconDataLight(0xf29a);
 
   /// ![sign-in-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/sign-in-thin.svg)
-  static const signInThin = PhosphorIconData(0xf29b);
+  static const signInThin = PhosphorIconDataThin(0xf29b);
 
   /// ![sign-out](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/sign-out.svg)
-  static const signOut = PhosphorIconData(0xf29c);
+  static const signOut = PhosphorIconDataRegular(0xf29c);
 
   /// ![sign-out-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/sign-out-bold.svg)
-  static const signOutBold = PhosphorIconData(0xf29d);
+  static const signOutBold = PhosphorIconDataBold(0xf29d);
 
   /// ![sign-out-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/sign-out-fill.svg)
-  static const signOutFill = PhosphorIconData(0xf29e);
+  static const signOutFill = PhosphorIconDataFill(0xf29e);
 
   /// ![sign-out-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/sign-out-light.svg)
-  static const signOutLight = PhosphorIconData(0xf29f);
+  static const signOutLight = PhosphorIconDataLight(0xf29f);
 
   /// ![sign-out-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/sign-out-thin.svg)
-  static const signOutThin = PhosphorIconData(0xf2a0);
+  static const signOutThin = PhosphorIconDataThin(0xf2a0);
 
   /// ![sketch-logo](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/sketch-logo.svg)
-  static const sketchLogo = PhosphorIconData(0xf2a1);
+  static const sketchLogo = PhosphorIconDataRegular(0xf2a1);
 
   /// ![sketch-logo-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/sketch-logo-bold.svg)
-  static const sketchLogoBold = PhosphorIconData(0xf2a2);
+  static const sketchLogoBold = PhosphorIconDataBold(0xf2a2);
 
   /// ![sketch-logo-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/sketch-logo-fill.svg)
-  static const sketchLogoFill = PhosphorIconData(0xf2a3);
+  static const sketchLogoFill = PhosphorIconDataFill(0xf2a3);
 
   /// ![sketch-logo-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/sketch-logo-light.svg)
-  static const sketchLogoLight = PhosphorIconData(0xf2a4);
+  static const sketchLogoLight = PhosphorIconDataLight(0xf2a4);
 
   /// ![sketch-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/sketch-logo-thin.svg)
-  static const sketchLogoThin = PhosphorIconData(0xf2a5);
+  static const sketchLogoThin = PhosphorIconDataThin(0xf2a5);
 
   /// ![skip-back](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/skip-back.svg)
-  static const skipBack = PhosphorIconData(0xf2a6);
+  static const skipBack = PhosphorIconDataRegular(0xf2a6);
 
   /// ![skip-back-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/skip-back-bold.svg)
-  static const skipBackBold = PhosphorIconData(0xf2a7);
+  static const skipBackBold = PhosphorIconDataBold(0xf2a7);
 
   /// ![skip-back-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/skip-back-fill.svg)
-  static const skipBackFill = PhosphorIconData(0xf2a8);
+  static const skipBackFill = PhosphorIconDataFill(0xf2a8);
 
   /// ![skip-back-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/skip-back-light.svg)
-  static const skipBackLight = PhosphorIconData(0xf2a9);
+  static const skipBackLight = PhosphorIconDataLight(0xf2a9);
 
   /// ![skip-back-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/skip-back-thin.svg)
-  static const skipBackThin = PhosphorIconData(0xf2aa);
+  static const skipBackThin = PhosphorIconDataThin(0xf2aa);
 
   /// ![skip-forward](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/skip-forward.svg)
-  static const skipForward = PhosphorIconData(0xf2ab);
+  static const skipForward = PhosphorIconDataRegular(0xf2ab);
 
   /// ![skip-forward-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/skip-forward-bold.svg)
-  static const skipForwardBold = PhosphorIconData(0xf2ac);
+  static const skipForwardBold = PhosphorIconDataBold(0xf2ac);
 
   /// ![skip-forward-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/skip-forward-fill.svg)
-  static const skipForwardFill = PhosphorIconData(0xf2ad);
+  static const skipForwardFill = PhosphorIconDataFill(0xf2ad);
 
   /// ![skip-forward-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/skip-forward-light.svg)
-  static const skipForwardLight = PhosphorIconData(0xf2ae);
+  static const skipForwardLight = PhosphorIconDataLight(0xf2ae);
 
   /// ![skip-forward-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/skip-forward-thin.svg)
-  static const skipForwardThin = PhosphorIconData(0xf2af);
+  static const skipForwardThin = PhosphorIconDataThin(0xf2af);
 
   /// ![sliders](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/sliders.svg)
-  static const sliders = PhosphorIconData(0xf2b0);
+  static const sliders = PhosphorIconDataRegular(0xf2b0);
 
   /// ![sliders-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/sliders-bold.svg)
-  static const slidersBold = PhosphorIconData(0xf2b1);
+  static const slidersBold = PhosphorIconDataBold(0xf2b1);
 
   /// ![sliders-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/sliders-fill.svg)
-  static const slidersFill = PhosphorIconData(0xf2b2);
+  static const slidersFill = PhosphorIconDataFill(0xf2b2);
 
   /// ![sliders-horizontal](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/sliders-horizontal.svg)
-  static const slidersHorizontal = PhosphorIconData(0xf2b3);
+  static const slidersHorizontal = PhosphorIconDataRegular(0xf2b3);
 
   /// ![sliders-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/sliders-horizontal-bold.svg)
-  static const slidersHorizontalBold = PhosphorIconData(0xf2b4);
+  static const slidersHorizontalBold = PhosphorIconDataBold(0xf2b4);
 
   /// ![sliders-horizontal-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/sliders-horizontal-fill.svg)
-  static const slidersHorizontalFill = PhosphorIconData(0xf2b5);
+  static const slidersHorizontalFill = PhosphorIconDataFill(0xf2b5);
 
   /// ![sliders-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/sliders-horizontal-light.svg)
-  static const slidersHorizontalLight = PhosphorIconData(0xf2b6);
+  static const slidersHorizontalLight = PhosphorIconDataLight(0xf2b6);
 
   /// ![sliders-horizontal-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/sliders-horizontal-thin.svg)
-  static const slidersHorizontalThin = PhosphorIconData(0xf2b7);
+  static const slidersHorizontalThin = PhosphorIconDataThin(0xf2b7);
 
   /// ![sliders-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/sliders-light.svg)
-  static const slidersLight = PhosphorIconData(0xf2b8);
+  static const slidersLight = PhosphorIconDataLight(0xf2b8);
 
   /// ![sliders-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/sliders-thin.svg)
-  static const slidersThin = PhosphorIconData(0xf2b9);
+  static const slidersThin = PhosphorIconDataThin(0xf2b9);
 
   /// ![smiley](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/smiley.svg)
-  static const smiley = PhosphorIconData(0xf2ba);
+  static const smiley = PhosphorIconDataRegular(0xf2ba);
 
   /// ![smiley-blank](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/smiley-blank.svg)
-  static const smileyBlank = PhosphorIconData(0xf2bb);
+  static const smileyBlank = PhosphorIconDataRegular(0xf2bb);
 
   /// ![smiley-blank-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/smiley-blank-bold.svg)
-  static const smileyBlankBold = PhosphorIconData(0xf2bc);
+  static const smileyBlankBold = PhosphorIconDataBold(0xf2bc);
 
   /// ![smiley-blank-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/smiley-blank-fill.svg)
-  static const smileyBlankFill = PhosphorIconData(0xf2bd);
+  static const smileyBlankFill = PhosphorIconDataFill(0xf2bd);
 
   /// ![smiley-blank-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/smiley-blank-light.svg)
-  static const smileyBlankLight = PhosphorIconData(0xf2be);
+  static const smileyBlankLight = PhosphorIconDataLight(0xf2be);
 
   /// ![smiley-blank-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/smiley-blank-thin.svg)
-  static const smileyBlankThin = PhosphorIconData(0xf2bf);
+  static const smileyBlankThin = PhosphorIconDataThin(0xf2bf);
 
   /// ![smiley-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/smiley-bold.svg)
-  static const smileyBold = PhosphorIconData(0xf2c0);
+  static const smileyBold = PhosphorIconDataBold(0xf2c0);
 
   /// ![smiley-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/smiley-fill.svg)
-  static const smileyFill = PhosphorIconData(0xf2c1);
+  static const smileyFill = PhosphorIconDataFill(0xf2c1);
 
   /// ![smiley-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/smiley-light.svg)
-  static const smileyLight = PhosphorIconData(0xf2c2);
+  static const smileyLight = PhosphorIconDataLight(0xf2c2);
 
   /// ![smiley-meh](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/smiley-meh.svg)
-  static const smileyMeh = PhosphorIconData(0xf2c3);
+  static const smileyMeh = PhosphorIconDataRegular(0xf2c3);
 
   /// ![smiley-meh-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/smiley-meh-bold.svg)
-  static const smileyMehBold = PhosphorIconData(0xf2c4);
+  static const smileyMehBold = PhosphorIconDataBold(0xf2c4);
 
   /// ![smiley-meh-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/smiley-meh-fill.svg)
-  static const smileyMehFill = PhosphorIconData(0xf2c5);
+  static const smileyMehFill = PhosphorIconDataFill(0xf2c5);
 
   /// ![smiley-meh-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/smiley-meh-light.svg)
-  static const smileyMehLight = PhosphorIconData(0xf2c6);
+  static const smileyMehLight = PhosphorIconDataLight(0xf2c6);
 
   /// ![smiley-meh-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/smiley-meh-thin.svg)
-  static const smileyMehThin = PhosphorIconData(0xf2c7);
+  static const smileyMehThin = PhosphorIconDataThin(0xf2c7);
 
   /// ![smiley-nervous](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/smiley-nervous.svg)
-  static const smileyNervous = PhosphorIconData(0xf2c8);
+  static const smileyNervous = PhosphorIconDataRegular(0xf2c8);
 
   /// ![smiley-nervous-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/smiley-nervous-bold.svg)
-  static const smileyNervousBold = PhosphorIconData(0xf2c9);
+  static const smileyNervousBold = PhosphorIconDataBold(0xf2c9);
 
   /// ![smiley-nervous-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/smiley-nervous-fill.svg)
-  static const smileyNervousFill = PhosphorIconData(0xf2ca);
+  static const smileyNervousFill = PhosphorIconDataFill(0xf2ca);
 
   /// ![smiley-nervous-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/smiley-nervous-light.svg)
-  static const smileyNervousLight = PhosphorIconData(0xf2cb);
+  static const smileyNervousLight = PhosphorIconDataLight(0xf2cb);
 
   /// ![smiley-nervous-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/smiley-nervous-thin.svg)
-  static const smileyNervousThin = PhosphorIconData(0xf2cc);
+  static const smileyNervousThin = PhosphorIconDataThin(0xf2cc);
 
   /// ![smiley-sad](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/smiley-sad.svg)
-  static const smileySad = PhosphorIconData(0xf2cd);
+  static const smileySad = PhosphorIconDataRegular(0xf2cd);
 
   /// ![smiley-sad-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/smiley-sad-bold.svg)
-  static const smileySadBold = PhosphorIconData(0xf2ce);
+  static const smileySadBold = PhosphorIconDataBold(0xf2ce);
 
   /// ![smiley-sad-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/smiley-sad-fill.svg)
-  static const smileySadFill = PhosphorIconData(0xf2cf);
+  static const smileySadFill = PhosphorIconDataFill(0xf2cf);
 
   /// ![smiley-sad-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/smiley-sad-light.svg)
-  static const smileySadLight = PhosphorIconData(0xf2d0);
+  static const smileySadLight = PhosphorIconDataLight(0xf2d0);
 
   /// ![smiley-sad-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/smiley-sad-thin.svg)
-  static const smileySadThin = PhosphorIconData(0xf2d1);
+  static const smileySadThin = PhosphorIconDataThin(0xf2d1);
 
   /// ![smiley-sticker](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/smiley-sticker.svg)
-  static const smileySticker = PhosphorIconData(0xf2d2);
+  static const smileySticker = PhosphorIconDataRegular(0xf2d2);
 
   /// ![smiley-sticker-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/smiley-sticker-bold.svg)
-  static const smileyStickerBold = PhosphorIconData(0xf2d3);
+  static const smileyStickerBold = PhosphorIconDataBold(0xf2d3);
 
   /// ![smiley-sticker-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/smiley-sticker-fill.svg)
-  static const smileyStickerFill = PhosphorIconData(0xf2d4);
+  static const smileyStickerFill = PhosphorIconDataFill(0xf2d4);
 
   /// ![smiley-sticker-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/smiley-sticker-light.svg)
-  static const smileyStickerLight = PhosphorIconData(0xf2d5);
+  static const smileyStickerLight = PhosphorIconDataLight(0xf2d5);
 
   /// ![smiley-sticker-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/smiley-sticker-thin.svg)
-  static const smileyStickerThin = PhosphorIconData(0xf2d6);
+  static const smileyStickerThin = PhosphorIconDataThin(0xf2d6);
 
   /// ![smiley-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/smiley-thin.svg)
-  static const smileyThin = PhosphorIconData(0xf2d7);
+  static const smileyThin = PhosphorIconDataThin(0xf2d7);
 
   /// ![smiley-x-eyes](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/smiley-x-eyes.svg)
-  static const smileyXEyes = PhosphorIconData(0xf2d8);
+  static const smileyXEyes = PhosphorIconDataRegular(0xf2d8);
 
   /// ![smiley-x-eyes-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/smiley-x-eyes-bold.svg)
-  static const smileyXEyesBold = PhosphorIconData(0xf2d9);
+  static const smileyXEyesBold = PhosphorIconDataBold(0xf2d9);
 
   /// ![smiley-x-eyes-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/smiley-x-eyes-fill.svg)
-  static const smileyXEyesFill = PhosphorIconData(0xf2da);
+  static const smileyXEyesFill = PhosphorIconDataFill(0xf2da);
 
   /// ![smiley-x-eyes-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/smiley-x-eyes-light.svg)
-  static const smileyXEyesLight = PhosphorIconData(0xf2db);
+  static const smileyXEyesLight = PhosphorIconDataLight(0xf2db);
 
   /// ![smiley-x-eyes-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/smiley-x-eyes-thin.svg)
-  static const smileyXEyesThin = PhosphorIconData(0xf2dc);
+  static const smileyXEyesThin = PhosphorIconDataThin(0xf2dc);
 
   /// ![sort-ascending](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/sort-ascending.svg)
-  static const sortAscending = PhosphorIconData(0xf2dd);
+  static const sortAscending = PhosphorIconDataRegular(0xf2dd);
 
   /// ![sort-ascending-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/sort-ascending-bold.svg)
-  static const sortAscendingBold = PhosphorIconData(0xf2de);
+  static const sortAscendingBold = PhosphorIconDataBold(0xf2de);
 
   /// ![sort-ascending-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/sort-ascending-fill.svg)
-  static const sortAscendingFill = PhosphorIconData(0xf2df);
+  static const sortAscendingFill = PhosphorIconDataFill(0xf2df);
 
   /// ![sort-ascending-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/sort-ascending-light.svg)
-  static const sortAscendingLight = PhosphorIconData(0xf2e0);
+  static const sortAscendingLight = PhosphorIconDataLight(0xf2e0);
 
   /// ![sort-ascending-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/sort-ascending-thin.svg)
-  static const sortAscendingThin = PhosphorIconData(0xf2e1);
+  static const sortAscendingThin = PhosphorIconDataThin(0xf2e1);
 
   /// ![sort-descending](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/sort-descending.svg)
-  static const sortDescending = PhosphorIconData(0xf2e2);
+  static const sortDescending = PhosphorIconDataRegular(0xf2e2);
 
   /// ![sort-descending-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/sort-descending-bold.svg)
-  static const sortDescendingBold = PhosphorIconData(0xf2e3);
+  static const sortDescendingBold = PhosphorIconDataBold(0xf2e3);
 
   /// ![sort-descending-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/sort-descending-fill.svg)
-  static const sortDescendingFill = PhosphorIconData(0xf2e4);
+  static const sortDescendingFill = PhosphorIconDataFill(0xf2e4);
 
   /// ![sort-descending-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/sort-descending-light.svg)
-  static const sortDescendingLight = PhosphorIconData(0xf2e5);
+  static const sortDescendingLight = PhosphorIconDataLight(0xf2e5);
 
   /// ![sort-descending-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/sort-descending-thin.svg)
-  static const sortDescendingThin = PhosphorIconData(0xf2e6);
+  static const sortDescendingThin = PhosphorIconDataThin(0xf2e6);
 
   /// ![spade](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/spade.svg)
-  static const spade = PhosphorIconData(0xf2e7);
+  static const spade = PhosphorIconDataRegular(0xf2e7);
 
   /// ![spade-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/spade-bold.svg)
-  static const spadeBold = PhosphorIconData(0xf2e8);
+  static const spadeBold = PhosphorIconDataBold(0xf2e8);
 
   /// ![spade-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/spade-fill.svg)
-  static const spadeFill = PhosphorIconData(0xf2e9);
+  static const spadeFill = PhosphorIconDataFill(0xf2e9);
 
   /// ![spade-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/spade-light.svg)
-  static const spadeLight = PhosphorIconData(0xf2ea);
+  static const spadeLight = PhosphorIconDataLight(0xf2ea);
 
   /// ![spade-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/spade-thin.svg)
-  static const spadeThin = PhosphorIconData(0xf2eb);
+  static const spadeThin = PhosphorIconDataThin(0xf2eb);
 
   /// ![speaker-high](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/speaker-high.svg)
-  static const speakerHigh = PhosphorIconData(0xf2ec);
+  static const speakerHigh = PhosphorIconDataRegular(0xf2ec);
 
   /// ![speaker-high-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/speaker-high-bold.svg)
-  static const speakerHighBold = PhosphorIconData(0xf2ed);
+  static const speakerHighBold = PhosphorIconDataBold(0xf2ed);
 
   /// ![speaker-high-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/speaker-high-fill.svg)
-  static const speakerHighFill = PhosphorIconData(0xf2ee);
+  static const speakerHighFill = PhosphorIconDataFill(0xf2ee);
 
   /// ![speaker-high-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/speaker-high-light.svg)
-  static const speakerHighLight = PhosphorIconData(0xf2ef);
+  static const speakerHighLight = PhosphorIconDataLight(0xf2ef);
 
   /// ![speaker-high-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/speaker-high-thin.svg)
-  static const speakerHighThin = PhosphorIconData(0xf2f0);
+  static const speakerHighThin = PhosphorIconDataThin(0xf2f0);
 
   /// ![speaker-low](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/speaker-low.svg)
-  static const speakerLow = PhosphorIconData(0xf2f1);
+  static const speakerLow = PhosphorIconDataRegular(0xf2f1);
 
   /// ![speaker-low-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/speaker-low-bold.svg)
-  static const speakerLowBold = PhosphorIconData(0xf2f2);
+  static const speakerLowBold = PhosphorIconDataBold(0xf2f2);
 
   /// ![speaker-low-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/speaker-low-fill.svg)
-  static const speakerLowFill = PhosphorIconData(0xf2f3);
+  static const speakerLowFill = PhosphorIconDataFill(0xf2f3);
 
   /// ![speaker-low-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/speaker-low-light.svg)
-  static const speakerLowLight = PhosphorIconData(0xf2f4);
+  static const speakerLowLight = PhosphorIconDataLight(0xf2f4);
 
   /// ![speaker-low-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/speaker-low-thin.svg)
-  static const speakerLowThin = PhosphorIconData(0xf2f5);
+  static const speakerLowThin = PhosphorIconDataThin(0xf2f5);
 
   /// ![speaker-none](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/speaker-none.svg)
-  static const speakerNone = PhosphorIconData(0xf2f6);
+  static const speakerNone = PhosphorIconDataRegular(0xf2f6);
 
   /// ![speaker-none-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/speaker-none-bold.svg)
-  static const speakerNoneBold = PhosphorIconData(0xf2f7);
+  static const speakerNoneBold = PhosphorIconDataBold(0xf2f7);
 
   /// ![speaker-none-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/speaker-none-fill.svg)
-  static const speakerNoneFill = PhosphorIconData(0xf2f8);
+  static const speakerNoneFill = PhosphorIconDataFill(0xf2f8);
 
   /// ![speaker-none-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/speaker-none-light.svg)
-  static const speakerNoneLight = PhosphorIconData(0xf2f9);
+  static const speakerNoneLight = PhosphorIconDataLight(0xf2f9);
 
   /// ![speaker-none-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/speaker-none-thin.svg)
-  static const speakerNoneThin = PhosphorIconData(0xf2fa);
+  static const speakerNoneThin = PhosphorIconDataThin(0xf2fa);
 
   /// ![speaker-simple-high](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/speaker-simple-high.svg)
-  static const speakerSimpleHigh = PhosphorIconData(0xf2fb);
+  static const speakerSimpleHigh = PhosphorIconDataRegular(0xf2fb);
 
   /// ![speaker-simple-high-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/speaker-simple-high-bold.svg)
-  static const speakerSimpleHighBold = PhosphorIconData(0xf2fc);
+  static const speakerSimpleHighBold = PhosphorIconDataBold(0xf2fc);
 
   /// ![speaker-simple-high-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/speaker-simple-high-fill.svg)
-  static const speakerSimpleHighFill = PhosphorIconData(0xf2fd);
+  static const speakerSimpleHighFill = PhosphorIconDataFill(0xf2fd);
 
   /// ![speaker-simple-high-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/speaker-simple-high-light.svg)
-  static const speakerSimpleHighLight = PhosphorIconData(0xf2fe);
+  static const speakerSimpleHighLight = PhosphorIconDataLight(0xf2fe);
 
   /// ![speaker-simple-high-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/speaker-simple-high-thin.svg)
-  static const speakerSimpleHighThin = PhosphorIconData(0xf2ff);
+  static const speakerSimpleHighThin = PhosphorIconDataThin(0xf2ff);
 
   /// ![speaker-simple-low](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/speaker-simple-low.svg)
-  static const speakerSimpleLow = PhosphorIconData(0xf300);
+  static const speakerSimpleLow = PhosphorIconDataRegular(0xf300);
 
   /// ![speaker-simple-low-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/speaker-simple-low-bold.svg)
-  static const speakerSimpleLowBold = PhosphorIconData(0xf301);
+  static const speakerSimpleLowBold = PhosphorIconDataBold(0xf301);
 
   /// ![speaker-simple-low-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/speaker-simple-low-fill.svg)
-  static const speakerSimpleLowFill = PhosphorIconData(0xf302);
+  static const speakerSimpleLowFill = PhosphorIconDataFill(0xf302);
 
   /// ![speaker-simple-low-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/speaker-simple-low-light.svg)
-  static const speakerSimpleLowLight = PhosphorIconData(0xf303);
+  static const speakerSimpleLowLight = PhosphorIconDataLight(0xf303);
 
   /// ![speaker-simple-low-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/speaker-simple-low-thin.svg)
-  static const speakerSimpleLowThin = PhosphorIconData(0xf304);
+  static const speakerSimpleLowThin = PhosphorIconDataThin(0xf304);
 
   /// ![speaker-simple-none](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/speaker-simple-none.svg)
-  static const speakerSimpleNone = PhosphorIconData(0xf305);
+  static const speakerSimpleNone = PhosphorIconDataRegular(0xf305);
 
   /// ![speaker-simple-none-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/speaker-simple-none-bold.svg)
-  static const speakerSimpleNoneBold = PhosphorIconData(0xf306);
+  static const speakerSimpleNoneBold = PhosphorIconDataBold(0xf306);
 
   /// ![speaker-simple-none-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/speaker-simple-none-fill.svg)
-  static const speakerSimpleNoneFill = PhosphorIconData(0xf307);
+  static const speakerSimpleNoneFill = PhosphorIconDataFill(0xf307);
 
   /// ![speaker-simple-none-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/speaker-simple-none-light.svg)
-  static const speakerSimpleNoneLight = PhosphorIconData(0xf308);
+  static const speakerSimpleNoneLight = PhosphorIconDataLight(0xf308);
 
   /// ![speaker-simple-none-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/speaker-simple-none-thin.svg)
-  static const speakerSimpleNoneThin = PhosphorIconData(0xf309);
+  static const speakerSimpleNoneThin = PhosphorIconDataThin(0xf309);
 
   /// ![speaker-simple-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/speaker-simple-slash.svg)
-  static const speakerSimpleSlash = PhosphorIconData(0xf30a);
+  static const speakerSimpleSlash = PhosphorIconDataRegular(0xf30a);
 
   /// ![speaker-simple-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/speaker-simple-slash-bold.svg)
-  static const speakerSimpleSlashBold = PhosphorIconData(0xf30b);
+  static const speakerSimpleSlashBold = PhosphorIconDataBold(0xf30b);
 
   /// ![speaker-simple-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/speaker-simple-slash-fill.svg)
-  static const speakerSimpleSlashFill = PhosphorIconData(0xf30c);
+  static const speakerSimpleSlashFill = PhosphorIconDataFill(0xf30c);
 
   /// ![speaker-simple-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/speaker-simple-slash-light.svg)
-  static const speakerSimpleSlashLight = PhosphorIconData(0xf30d);
+  static const speakerSimpleSlashLight = PhosphorIconDataLight(0xf30d);
 
   /// ![speaker-simple-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/speaker-simple-slash-thin.svg)
-  static const speakerSimpleSlashThin = PhosphorIconData(0xf30e);
+  static const speakerSimpleSlashThin = PhosphorIconDataThin(0xf30e);
 
   /// ![speaker-simple-x](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/speaker-simple-x.svg)
-  static const speakerSimpleX = PhosphorIconData(0xf30f);
+  static const speakerSimpleX = PhosphorIconDataRegular(0xf30f);
 
   /// ![speaker-simple-x-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/speaker-simple-x-bold.svg)
-  static const speakerSimpleXBold = PhosphorIconData(0xf310);
+  static const speakerSimpleXBold = PhosphorIconDataBold(0xf310);
 
   /// ![speaker-simple-x-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/speaker-simple-x-fill.svg)
-  static const speakerSimpleXFill = PhosphorIconData(0xf311);
+  static const speakerSimpleXFill = PhosphorIconDataFill(0xf311);
 
   /// ![speaker-simple-x-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/speaker-simple-x-light.svg)
-  static const speakerSimpleXLight = PhosphorIconData(0xf312);
+  static const speakerSimpleXLight = PhosphorIconDataLight(0xf312);
 
   /// ![speaker-simple-x-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/speaker-simple-x-thin.svg)
-  static const speakerSimpleXThin = PhosphorIconData(0xf313);
+  static const speakerSimpleXThin = PhosphorIconDataThin(0xf313);
 
   /// ![speaker-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/speaker-slash.svg)
-  static const speakerSlash = PhosphorIconData(0xf314);
+  static const speakerSlash = PhosphorIconDataRegular(0xf314);
 
   /// ![speaker-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/speaker-slash-bold.svg)
-  static const speakerSlashBold = PhosphorIconData(0xf315);
+  static const speakerSlashBold = PhosphorIconDataBold(0xf315);
 
   /// ![speaker-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/speaker-slash-fill.svg)
-  static const speakerSlashFill = PhosphorIconData(0xf316);
+  static const speakerSlashFill = PhosphorIconDataFill(0xf316);
 
   /// ![speaker-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/speaker-slash-light.svg)
-  static const speakerSlashLight = PhosphorIconData(0xf317);
+  static const speakerSlashLight = PhosphorIconDataLight(0xf317);
 
   /// ![speaker-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/speaker-slash-thin.svg)
-  static const speakerSlashThin = PhosphorIconData(0xf318);
+  static const speakerSlashThin = PhosphorIconDataThin(0xf318);
 
   /// ![speaker-x](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/speaker-x.svg)
-  static const speakerX = PhosphorIconData(0xf319);
+  static const speakerX = PhosphorIconDataRegular(0xf319);
 
   /// ![speaker-x-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/speaker-x-bold.svg)
-  static const speakerXBold = PhosphorIconData(0xf31a);
+  static const speakerXBold = PhosphorIconDataBold(0xf31a);
 
   /// ![speaker-x-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/speaker-x-fill.svg)
-  static const speakerXFill = PhosphorIconData(0xf31b);
+  static const speakerXFill = PhosphorIconDataFill(0xf31b);
 
   /// ![speaker-x-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/speaker-x-light.svg)
-  static const speakerXLight = PhosphorIconData(0xf31c);
+  static const speakerXLight = PhosphorIconDataLight(0xf31c);
 
   /// ![speaker-x-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/speaker-x-thin.svg)
-  static const speakerXThin = PhosphorIconData(0xf31d);
+  static const speakerXThin = PhosphorIconDataThin(0xf31d);
 
   /// ![square](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/square.svg)
-  static const square = PhosphorIconData(0xf31e);
+  static const square = PhosphorIconDataRegular(0xf31e);
 
   /// ![square-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/square-bold.svg)
-  static const squareBold = PhosphorIconData(0xf31f);
+  static const squareBold = PhosphorIconDataBold(0xf31f);
 
   /// ![square-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/square-fill.svg)
-  static const squareFill = PhosphorIconData(0xf320);
+  static const squareFill = PhosphorIconDataFill(0xf320);
 
   /// ![square-half](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/square-half.svg)
-  static const squareHalf = PhosphorIconData(0xf321);
+  static const squareHalf = PhosphorIconDataRegular(0xf321);
 
   /// ![square-half-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/square-half-bold.svg)
-  static const squareHalfBold = PhosphorIconData(0xf322);
+  static const squareHalfBold = PhosphorIconDataBold(0xf322);
 
   /// ![square-half-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/square-half-fill.svg)
-  static const squareHalfFill = PhosphorIconData(0xf323);
+  static const squareHalfFill = PhosphorIconDataFill(0xf323);
 
   /// ![square-half-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/square-half-light.svg)
-  static const squareHalfLight = PhosphorIconData(0xf324);
+  static const squareHalfLight = PhosphorIconDataLight(0xf324);
 
   /// ![square-half-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/square-half-thin.svg)
-  static const squareHalfThin = PhosphorIconData(0xf325);
+  static const squareHalfThin = PhosphorIconDataThin(0xf325);
 
   /// ![square-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/square-light.svg)
-  static const squareLight = PhosphorIconData(0xf326);
+  static const squareLight = PhosphorIconDataLight(0xf326);
 
   /// ![square-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/square-thin.svg)
-  static const squareThin = PhosphorIconData(0xf327);
+  static const squareThin = PhosphorIconDataThin(0xf327);
 
   /// ![squares-four](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/squares-four.svg)
-  static const squaresFour = PhosphorIconData(0xf328);
+  static const squaresFour = PhosphorIconDataRegular(0xf328);
 
   /// ![squares-four-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/squares-four-bold.svg)
-  static const squaresFourBold = PhosphorIconData(0xf329);
+  static const squaresFourBold = PhosphorIconDataBold(0xf329);
 
   /// ![squares-four-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/squares-four-fill.svg)
-  static const squaresFourFill = PhosphorIconData(0xf32a);
+  static const squaresFourFill = PhosphorIconDataFill(0xf32a);
 
   /// ![squares-four-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/squares-four-light.svg)
-  static const squaresFourLight = PhosphorIconData(0xf32b);
+  static const squaresFourLight = PhosphorIconDataLight(0xf32b);
 
   /// ![squares-four-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/squares-four-thin.svg)
-  static const squaresFourThin = PhosphorIconData(0xf32c);
+  static const squaresFourThin = PhosphorIconDataThin(0xf32c);
 
   /// ![stack](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/stack.svg)
-  static const stack = PhosphorIconData(0xf32d);
+  static const stack = PhosphorIconDataRegular(0xf32d);
 
   /// ![stack-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/stack-bold.svg)
-  static const stackBold = PhosphorIconData(0xf32e);
+  static const stackBold = PhosphorIconDataBold(0xf32e);
 
   /// ![stack-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/stack-fill.svg)
-  static const stackFill = PhosphorIconData(0xf32f);
+  static const stackFill = PhosphorIconDataFill(0xf32f);
 
   /// ![stack-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/stack-light.svg)
-  static const stackLight = PhosphorIconData(0xf330);
+  static const stackLight = PhosphorIconDataLight(0xf330);
 
   /// ![stack-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/stack-simple.svg)
-  static const stackSimple = PhosphorIconData(0xf331);
+  static const stackSimple = PhosphorIconDataRegular(0xf331);
 
   /// ![stack-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/stack-simple-bold.svg)
-  static const stackSimpleBold = PhosphorIconData(0xf332);
+  static const stackSimpleBold = PhosphorIconDataBold(0xf332);
 
   /// ![stack-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/stack-simple-fill.svg)
-  static const stackSimpleFill = PhosphorIconData(0xf333);
+  static const stackSimpleFill = PhosphorIconDataFill(0xf333);
 
   /// ![stack-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/stack-simple-light.svg)
-  static const stackSimpleLight = PhosphorIconData(0xf334);
+  static const stackSimpleLight = PhosphorIconDataLight(0xf334);
 
   /// ![stack-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/stack-simple-thin.svg)
-  static const stackSimpleThin = PhosphorIconData(0xf335);
+  static const stackSimpleThin = PhosphorIconDataThin(0xf335);
 
   /// ![stack-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/stack-thin.svg)
-  static const stackThin = PhosphorIconData(0xf336);
+  static const stackThin = PhosphorIconDataThin(0xf336);
 
   /// ![star](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/star.svg)
-  static const star = PhosphorIconData(0xf337);
+  static const star = PhosphorIconDataRegular(0xf337);
 
   /// ![star-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/star-bold.svg)
-  static const starBold = PhosphorIconData(0xf338);
+  static const starBold = PhosphorIconDataBold(0xf338);
 
   /// ![star-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/star-fill.svg)
-  static const starFill = PhosphorIconData(0xf339);
+  static const starFill = PhosphorIconDataFill(0xf339);
 
   /// ![star-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/star-light.svg)
-  static const starLight = PhosphorIconData(0xf33a);
+  static const starLight = PhosphorIconDataLight(0xf33a);
 
   /// ![star-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/star-thin.svg)
-  static const starThin = PhosphorIconData(0xf33b);
+  static const starThin = PhosphorIconDataThin(0xf33b);
 
   /// ![stop](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/stop.svg)
-  static const stop = PhosphorIconData(0xf33c);
+  static const stop = PhosphorIconDataRegular(0xf33c);
 
   /// ![stop-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/stop-bold.svg)
-  static const stopBold = PhosphorIconData(0xf33d);
+  static const stopBold = PhosphorIconDataBold(0xf33d);
 
   /// ![stop-circle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/stop-circle.svg)
-  static const stopCircle = PhosphorIconData(0xf33e);
+  static const stopCircle = PhosphorIconDataRegular(0xf33e);
 
   /// ![stop-circle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/stop-circle-bold.svg)
-  static const stopCircleBold = PhosphorIconData(0xf33f);
+  static const stopCircleBold = PhosphorIconDataBold(0xf33f);
 
   /// ![stop-circle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/stop-circle-fill.svg)
-  static const stopCircleFill = PhosphorIconData(0xf340);
+  static const stopCircleFill = PhosphorIconDataFill(0xf340);
 
   /// ![stop-circle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/stop-circle-light.svg)
-  static const stopCircleLight = PhosphorIconData(0xf341);
+  static const stopCircleLight = PhosphorIconDataLight(0xf341);
 
   /// ![stop-circle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/stop-circle-thin.svg)
-  static const stopCircleThin = PhosphorIconData(0xf342);
+  static const stopCircleThin = PhosphorIconDataThin(0xf342);
 
   /// ![stop-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/stop-fill.svg)
-  static const stopFill = PhosphorIconData(0xf343);
+  static const stopFill = PhosphorIconDataFill(0xf343);
 
   /// ![stop-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/stop-light.svg)
-  static const stopLight = PhosphorIconData(0xf344);
+  static const stopLight = PhosphorIconDataLight(0xf344);
 
   /// ![stop-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/stop-thin.svg)
-  static const stopThin = PhosphorIconData(0xf345);
+  static const stopThin = PhosphorIconDataThin(0xf345);
 
   /// ![storefront](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/storefront.svg)
-  static const storefront = PhosphorIconData(0xf346);
+  static const storefront = PhosphorIconDataRegular(0xf346);
 
   /// ![storefront-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/storefront-bold.svg)
-  static const storefrontBold = PhosphorIconData(0xf347);
+  static const storefrontBold = PhosphorIconDataBold(0xf347);
 
   /// ![storefront-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/storefront-fill.svg)
-  static const storefrontFill = PhosphorIconData(0xf348);
+  static const storefrontFill = PhosphorIconDataFill(0xf348);
 
   /// ![storefront-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/storefront-light.svg)
-  static const storefrontLight = PhosphorIconData(0xf349);
+  static const storefrontLight = PhosphorIconDataLight(0xf349);
 
   /// ![storefront-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/storefront-thin.svg)
-  static const storefrontThin = PhosphorIconData(0xf34a);
+  static const storefrontThin = PhosphorIconDataThin(0xf34a);
 
   /// ![sun](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/sun.svg)
-  static const sun = PhosphorIconData(0xf34b);
+  static const sun = PhosphorIconDataRegular(0xf34b);
 
   /// ![sun-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/sun-bold.svg)
-  static const sunBold = PhosphorIconData(0xf34c);
+  static const sunBold = PhosphorIconDataBold(0xf34c);
 
   /// ![sun-dim](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/sun-dim.svg)
-  static const sunDim = PhosphorIconData(0xf34d);
+  static const sunDim = PhosphorIconDataRegular(0xf34d);
 
   /// ![sun-dim-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/sun-dim-bold.svg)
-  static const sunDimBold = PhosphorIconData(0xf34e);
+  static const sunDimBold = PhosphorIconDataBold(0xf34e);
 
   /// ![sun-dim-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/sun-dim-fill.svg)
-  static const sunDimFill = PhosphorIconData(0xf34f);
+  static const sunDimFill = PhosphorIconDataFill(0xf34f);
 
   /// ![sun-dim-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/sun-dim-light.svg)
-  static const sunDimLight = PhosphorIconData(0xf350);
+  static const sunDimLight = PhosphorIconDataLight(0xf350);
 
   /// ![sun-dim-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/sun-dim-thin.svg)
-  static const sunDimThin = PhosphorIconData(0xf351);
+  static const sunDimThin = PhosphorIconDataThin(0xf351);
 
   /// ![sun-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/sun-fill.svg)
-  static const sunFill = PhosphorIconData(0xf352);
+  static const sunFill = PhosphorIconDataFill(0xf352);
 
   /// ![sun-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/sun-light.svg)
-  static const sunLight = PhosphorIconData(0xf353);
+  static const sunLight = PhosphorIconDataLight(0xf353);
 
   /// ![sun-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/sun-thin.svg)
-  static const sunThin = PhosphorIconData(0xf354);
+  static const sunThin = PhosphorIconDataThin(0xf354);
 
   /// ![table](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/table.svg)
-  static const table = PhosphorIconData(0xf355);
+  static const table = PhosphorIconDataRegular(0xf355);
 
   /// ![table-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/table-bold.svg)
-  static const tableBold = PhosphorIconData(0xf356);
+  static const tableBold = PhosphorIconDataBold(0xf356);
 
   /// ![table-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/table-fill.svg)
-  static const tableFill = PhosphorIconData(0xf357);
+  static const tableFill = PhosphorIconDataFill(0xf357);
 
   /// ![table-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/table-light.svg)
-  static const tableLight = PhosphorIconData(0xf358);
+  static const tableLight = PhosphorIconDataLight(0xf358);
 
   /// ![table-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/table-thin.svg)
-  static const tableThin = PhosphorIconData(0xf359);
+  static const tableThin = PhosphorIconDataThin(0xf359);
 
   /// ![tag](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/tag.svg)
-  static const tag = PhosphorIconData(0xf35a);
+  static const tag = PhosphorIconDataRegular(0xf35a);
 
   /// ![tag-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/tag-bold.svg)
-  static const tagBold = PhosphorIconData(0xf35b);
+  static const tagBold = PhosphorIconDataBold(0xf35b);
 
   /// ![tag-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/tag-fill.svg)
-  static const tagFill = PhosphorIconData(0xf35c);
+  static const tagFill = PhosphorIconDataFill(0xf35c);
 
   /// ![tag-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/tag-light.svg)
-  static const tagLight = PhosphorIconData(0xf35d);
+  static const tagLight = PhosphorIconDataLight(0xf35d);
 
   /// ![tag-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/tag-simple.svg)
-  static const tagSimple = PhosphorIconData(0xf35e);
+  static const tagSimple = PhosphorIconDataRegular(0xf35e);
 
   /// ![tag-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/tag-simple-bold.svg)
-  static const tagSimpleBold = PhosphorIconData(0xf35f);
+  static const tagSimpleBold = PhosphorIconDataBold(0xf35f);
 
   /// ![tag-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/tag-simple-fill.svg)
-  static const tagSimpleFill = PhosphorIconData(0xf360);
+  static const tagSimpleFill = PhosphorIconDataFill(0xf360);
 
   /// ![tag-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/tag-simple-light.svg)
-  static const tagSimpleLight = PhosphorIconData(0xf361);
+  static const tagSimpleLight = PhosphorIconDataLight(0xf361);
 
   /// ![tag-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/tag-simple-thin.svg)
-  static const tagSimpleThin = PhosphorIconData(0xf362);
+  static const tagSimpleThin = PhosphorIconDataThin(0xf362);
 
   /// ![tag-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/tag-thin.svg)
-  static const tagThin = PhosphorIconData(0xf363);
+  static const tagThin = PhosphorIconDataThin(0xf363);
 
   /// ![target](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/target.svg)
-  static const target = PhosphorIconData(0xf364);
+  static const target = PhosphorIconDataRegular(0xf364);
 
   /// ![target-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/target-bold.svg)
-  static const targetBold = PhosphorIconData(0xf365);
+  static const targetBold = PhosphorIconDataBold(0xf365);
 
   /// ![target-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/target-fill.svg)
-  static const targetFill = PhosphorIconData(0xf366);
+  static const targetFill = PhosphorIconDataFill(0xf366);
 
   /// ![target-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/target-light.svg)
-  static const targetLight = PhosphorIconData(0xf367);
+  static const targetLight = PhosphorIconDataLight(0xf367);
 
   /// ![target-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/target-thin.svg)
-  static const targetThin = PhosphorIconData(0xf368);
+  static const targetThin = PhosphorIconDataThin(0xf368);
 
   /// ![terminal](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/terminal.svg)
-  static const terminal = PhosphorIconData(0xf369);
+  static const terminal = PhosphorIconDataRegular(0xf369);
 
   /// ![terminal-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/terminal-bold.svg)
-  static const terminalBold = PhosphorIconData(0xf36a);
+  static const terminalBold = PhosphorIconDataBold(0xf36a);
 
   /// ![terminal-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/terminal-fill.svg)
-  static const terminalFill = PhosphorIconData(0xf36b);
+  static const terminalFill = PhosphorIconDataFill(0xf36b);
 
   /// ![terminal-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/terminal-light.svg)
-  static const terminalLight = PhosphorIconData(0xf36c);
+  static const terminalLight = PhosphorIconDataLight(0xf36c);
 
   /// ![terminal-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/terminal-thin.svg)
-  static const terminalThin = PhosphorIconData(0xf36d);
+  static const terminalThin = PhosphorIconDataThin(0xf36d);
 
   /// ![text](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/text.svg)
-  static const text = PhosphorIconData(0xf36e);
+  static const text = PhosphorIconDataRegular(0xf36e);
 
   /// ![text-align-center](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/text-align-center.svg)
-  static const textAlignCenter = PhosphorIconData(0xf36f);
+  static const textAlignCenter = PhosphorIconDataRegular(0xf36f);
 
   /// ![text-align-center-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/text-align-center-bold.svg)
-  static const textAlignCenterBold = PhosphorIconData(0xf370);
+  static const textAlignCenterBold = PhosphorIconDataBold(0xf370);
 
   /// ![text-align-center-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/text-align-center-fill.svg)
-  static const textAlignCenterFill = PhosphorIconData(0xf371);
+  static const textAlignCenterFill = PhosphorIconDataFill(0xf371);
 
   /// ![text-align-center-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/text-align-center-light.svg)
-  static const textAlignCenterLight = PhosphorIconData(0xf372);
+  static const textAlignCenterLight = PhosphorIconDataLight(0xf372);
 
   /// ![text-align-center-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/text-align-center-thin.svg)
-  static const textAlignCenterThin = PhosphorIconData(0xf373);
+  static const textAlignCenterThin = PhosphorIconDataThin(0xf373);
 
   /// ![text-align-justify](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/text-align-justify.svg)
-  static const textAlignJustify = PhosphorIconData(0xf374);
+  static const textAlignJustify = PhosphorIconDataRegular(0xf374);
 
   /// ![text-align-justify-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/text-align-justify-bold.svg)
-  static const textAlignJustifyBold = PhosphorIconData(0xf375);
+  static const textAlignJustifyBold = PhosphorIconDataBold(0xf375);
 
   /// ![text-align-justify-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/text-align-justify-fill.svg)
-  static const textAlignJustifyFill = PhosphorIconData(0xf376);
+  static const textAlignJustifyFill = PhosphorIconDataFill(0xf376);
 
   /// ![text-align-justify-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/text-align-justify-light.svg)
-  static const textAlignJustifyLight = PhosphorIconData(0xf377);
+  static const textAlignJustifyLight = PhosphorIconDataLight(0xf377);
 
   /// ![text-align-justify-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/text-align-justify-thin.svg)
-  static const textAlignJustifyThin = PhosphorIconData(0xf378);
+  static const textAlignJustifyThin = PhosphorIconDataThin(0xf378);
 
   /// ![text-align-left](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/text-align-left.svg)
-  static const textAlignLeft = PhosphorIconData(0xf379);
+  static const textAlignLeft = PhosphorIconDataRegular(0xf379);
 
   /// ![text-align-left-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/text-align-left-bold.svg)
-  static const textAlignLeftBold = PhosphorIconData(0xf37a);
+  static const textAlignLeftBold = PhosphorIconDataBold(0xf37a);
 
   /// ![text-align-left-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/text-align-left-fill.svg)
-  static const textAlignLeftFill = PhosphorIconData(0xf37b);
+  static const textAlignLeftFill = PhosphorIconDataFill(0xf37b);
 
   /// ![text-align-left-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/text-align-left-light.svg)
-  static const textAlignLeftLight = PhosphorIconData(0xf37c);
+  static const textAlignLeftLight = PhosphorIconDataLight(0xf37c);
 
   /// ![text-align-left-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/text-align-left-thin.svg)
-  static const textAlignLeftThin = PhosphorIconData(0xf37d);
+  static const textAlignLeftThin = PhosphorIconDataThin(0xf37d);
 
   /// ![text-align-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/text-align-right.svg)
-  static const textAlignRight = PhosphorIconData(0xf37e);
+  static const textAlignRight = PhosphorIconDataRegular(0xf37e);
 
   /// ![text-align-right-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/text-align-right-bold.svg)
-  static const textAlignRightBold = PhosphorIconData(0xf37f);
+  static const textAlignRightBold = PhosphorIconDataBold(0xf37f);
 
   /// ![text-align-right-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/text-align-right-fill.svg)
-  static const textAlignRightFill = PhosphorIconData(0xf380);
+  static const textAlignRightFill = PhosphorIconDataFill(0xf380);
 
   /// ![text-align-right-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/text-align-right-light.svg)
-  static const textAlignRightLight = PhosphorIconData(0xf381);
+  static const textAlignRightLight = PhosphorIconDataLight(0xf381);
 
   /// ![text-align-right-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/text-align-right-thin.svg)
-  static const textAlignRightThin = PhosphorIconData(0xf382);
+  static const textAlignRightThin = PhosphorIconDataThin(0xf382);
 
   /// ![text-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/text-bold.svg)
-  static const textBold = PhosphorIconData(0xf383);
+  static const textBold = PhosphorIconDataBold(0xf383);
 
   /// ![text-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/text-fill.svg)
-  static const textFill = PhosphorIconData(0xf384);
+  static const textFill = PhosphorIconDataFill(0xf384);
 
   /// ![text-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/text-light.svg)
-  static const textLight = PhosphorIconData(0xf385);
+  static const textLight = PhosphorIconDataLight(0xf385);
 
   /// ![text-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/text-thin.svg)
-  static const textThin = PhosphorIconData(0xf386);
+  static const textThin = PhosphorIconDataThin(0xf386);
 
   /// ![thumbs-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/thumbs-down.svg)
-  static const thumbsDown = PhosphorIconData(0xf387);
+  static const thumbsDown = PhosphorIconDataRegular(0xf387);
 
   /// ![thumbs-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/thumbs-down-bold.svg)
-  static const thumbsDownBold = PhosphorIconData(0xf388);
+  static const thumbsDownBold = PhosphorIconDataBold(0xf388);
 
   /// ![thumbs-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/thumbs-down-fill.svg)
-  static const thumbsDownFill = PhosphorIconData(0xf389);
+  static const thumbsDownFill = PhosphorIconDataFill(0xf389);
 
   /// ![thumbs-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/thumbs-down-light.svg)
-  static const thumbsDownLight = PhosphorIconData(0xf38a);
+  static const thumbsDownLight = PhosphorIconDataLight(0xf38a);
 
   /// ![thumbs-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/thumbs-down-thin.svg)
-  static const thumbsDownThin = PhosphorIconData(0xf38b);
+  static const thumbsDownThin = PhosphorIconDataThin(0xf38b);
 
   /// ![thumbs-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/thumbs-up.svg)
-  static const thumbsUp = PhosphorIconData(0xf38c);
+  static const thumbsUp = PhosphorIconDataRegular(0xf38c);
 
   /// ![thumbs-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/thumbs-up-bold.svg)
-  static const thumbsUpBold = PhosphorIconData(0xf38d);
+  static const thumbsUpBold = PhosphorIconDataBold(0xf38d);
 
   /// ![thumbs-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/thumbs-up-fill.svg)
-  static const thumbsUpFill = PhosphorIconData(0xf38e);
+  static const thumbsUpFill = PhosphorIconDataFill(0xf38e);
 
   /// ![thumbs-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/thumbs-up-light.svg)
-  static const thumbsUpLight = PhosphorIconData(0xf38f);
+  static const thumbsUpLight = PhosphorIconDataLight(0xf38f);
 
   /// ![thumbs-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/thumbs-up-thin.svg)
-  static const thumbsUpThin = PhosphorIconData(0xf390);
+  static const thumbsUpThin = PhosphorIconDataThin(0xf390);
 
   /// ![ticket](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/ticket.svg)
-  static const ticket = PhosphorIconData(0xf391);
+  static const ticket = PhosphorIconDataRegular(0xf391);
 
   /// ![ticket-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/ticket-bold.svg)
-  static const ticketBold = PhosphorIconData(0xf392);
+  static const ticketBold = PhosphorIconDataBold(0xf392);
 
   /// ![ticket-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/ticket-fill.svg)
-  static const ticketFill = PhosphorIconData(0xf393);
+  static const ticketFill = PhosphorIconDataFill(0xf393);
 
   /// ![ticket-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/ticket-light.svg)
-  static const ticketLight = PhosphorIconData(0xf394);
+  static const ticketLight = PhosphorIconDataLight(0xf394);
 
   /// ![ticket-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/ticket-thin.svg)
-  static const ticketThin = PhosphorIconData(0xf395);
+  static const ticketThin = PhosphorIconDataThin(0xf395);
 
   /// ![timer](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/timer.svg)
-  static const timer = PhosphorIconData(0xf396);
+  static const timer = PhosphorIconDataRegular(0xf396);
 
   /// ![timer-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/timer-bold.svg)
-  static const timerBold = PhosphorIconData(0xf397);
+  static const timerBold = PhosphorIconDataBold(0xf397);
 
   /// ![timer-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/timer-fill.svg)
-  static const timerFill = PhosphorIconData(0xf398);
+  static const timerFill = PhosphorIconDataFill(0xf398);
 
   /// ![timer-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/timer-light.svg)
-  static const timerLight = PhosphorIconData(0xf399);
+  static const timerLight = PhosphorIconDataLight(0xf399);
 
   /// ![timer-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/timer-thin.svg)
-  static const timerThin = PhosphorIconData(0xf39a);
+  static const timerThin = PhosphorIconDataThin(0xf39a);
 
   /// ![tote](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/tote.svg)
-  static const tote = PhosphorIconData(0xf39b);
+  static const tote = PhosphorIconDataRegular(0xf39b);
 
   /// ![tote-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/tote-bold.svg)
-  static const toteBold = PhosphorIconData(0xf39c);
+  static const toteBold = PhosphorIconDataBold(0xf39c);
 
   /// ![tote-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/tote-fill.svg)
-  static const toteFill = PhosphorIconData(0xf39d);
+  static const toteFill = PhosphorIconDataFill(0xf39d);
 
   /// ![tote-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/tote-light.svg)
-  static const toteLight = PhosphorIconData(0xf39e);
+  static const toteLight = PhosphorIconDataLight(0xf39e);
 
   /// ![tote-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/tote-thin.svg)
-  static const toteThin = PhosphorIconData(0xf39f);
+  static const toteThin = PhosphorIconDataThin(0xf39f);
 
   /// ![train](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/train.svg)
-  static const train = PhosphorIconData(0xf3a0);
+  static const train = PhosphorIconDataRegular(0xf3a0);
 
   /// ![train-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/train-bold.svg)
-  static const trainBold = PhosphorIconData(0xf3a1);
+  static const trainBold = PhosphorIconDataBold(0xf3a1);
 
   /// ![train-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/train-fill.svg)
-  static const trainFill = PhosphorIconData(0xf3a2);
+  static const trainFill = PhosphorIconDataFill(0xf3a2);
 
   /// ![train-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/train-light.svg)
-  static const trainLight = PhosphorIconData(0xf3a3);
+  static const trainLight = PhosphorIconDataLight(0xf3a3);
 
   /// ![train-regional](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/train-regional.svg)
-  static const trainRegional = PhosphorIconData(0xf3a4);
+  static const trainRegional = PhosphorIconDataRegular(0xf3a4);
 
   /// ![train-regional-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/train-regional-bold.svg)
-  static const trainRegionalBold = PhosphorIconData(0xf3a5);
+  static const trainRegionalBold = PhosphorIconDataBold(0xf3a5);
 
   /// ![train-regional-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/train-regional-fill.svg)
-  static const trainRegionalFill = PhosphorIconData(0xf3a6);
+  static const trainRegionalFill = PhosphorIconDataFill(0xf3a6);
 
   /// ![train-regional-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/train-regional-light.svg)
-  static const trainRegionalLight = PhosphorIconData(0xf3a7);
+  static const trainRegionalLight = PhosphorIconDataLight(0xf3a7);
 
   /// ![train-regional-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/train-regional-thin.svg)
-  static const trainRegionalThin = PhosphorIconData(0xf3a8);
+  static const trainRegionalThin = PhosphorIconDataThin(0xf3a8);
 
   /// ![train-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/train-simple.svg)
-  static const trainSimple = PhosphorIconData(0xf3a9);
+  static const trainSimple = PhosphorIconDataRegular(0xf3a9);
 
   /// ![train-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/train-simple-bold.svg)
-  static const trainSimpleBold = PhosphorIconData(0xf3aa);
+  static const trainSimpleBold = PhosphorIconDataBold(0xf3aa);
 
   /// ![train-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/train-simple-fill.svg)
-  static const trainSimpleFill = PhosphorIconData(0xf3ab);
+  static const trainSimpleFill = PhosphorIconDataFill(0xf3ab);
 
   /// ![train-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/train-simple-light.svg)
-  static const trainSimpleLight = PhosphorIconData(0xf3ac);
+  static const trainSimpleLight = PhosphorIconDataLight(0xf3ac);
 
   /// ![train-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/train-simple-thin.svg)
-  static const trainSimpleThin = PhosphorIconData(0xf3ad);
+  static const trainSimpleThin = PhosphorIconDataThin(0xf3ad);
 
   /// ![train-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/train-thin.svg)
-  static const trainThin = PhosphorIconData(0xf3ae);
+  static const trainThin = PhosphorIconDataThin(0xf3ae);
 
   /// ![translate](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/translate.svg)
-  static const translate = PhosphorIconData(0xf3af);
+  static const translate = PhosphorIconDataRegular(0xf3af);
 
   /// ![translate-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/translate-bold.svg)
-  static const translateBold = PhosphorIconData(0xf3b0);
+  static const translateBold = PhosphorIconDataBold(0xf3b0);
 
   /// ![translate-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/translate-fill.svg)
-  static const translateFill = PhosphorIconData(0xf3b1);
+  static const translateFill = PhosphorIconDataFill(0xf3b1);
 
   /// ![translate-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/translate-light.svg)
-  static const translateLight = PhosphorIconData(0xf3b2);
+  static const translateLight = PhosphorIconDataLight(0xf3b2);
 
   /// ![translate-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/translate-thin.svg)
-  static const translateThin = PhosphorIconData(0xf3b3);
+  static const translateThin = PhosphorIconDataThin(0xf3b3);
 
   /// ![trash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/trash.svg)
-  static const trash = PhosphorIconData(0xf3b4);
+  static const trash = PhosphorIconDataRegular(0xf3b4);
 
   /// ![trash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/trash-bold.svg)
-  static const trashBold = PhosphorIconData(0xf3b5);
+  static const trashBold = PhosphorIconDataBold(0xf3b5);
 
   /// ![trash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/trash-fill.svg)
-  static const trashFill = PhosphorIconData(0xf3b6);
+  static const trashFill = PhosphorIconDataFill(0xf3b6);
 
   /// ![trash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/trash-light.svg)
-  static const trashLight = PhosphorIconData(0xf3b7);
+  static const trashLight = PhosphorIconDataLight(0xf3b7);
 
   /// ![trash-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/trash-simple.svg)
-  static const trashSimple = PhosphorIconData(0xf3b8);
+  static const trashSimple = PhosphorIconDataRegular(0xf3b8);
 
   /// ![trash-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/trash-simple-bold.svg)
-  static const trashSimpleBold = PhosphorIconData(0xf3b9);
+  static const trashSimpleBold = PhosphorIconDataBold(0xf3b9);
 
   /// ![trash-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/trash-simple-fill.svg)
-  static const trashSimpleFill = PhosphorIconData(0xf3ba);
+  static const trashSimpleFill = PhosphorIconDataFill(0xf3ba);
 
   /// ![trash-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/trash-simple-light.svg)
-  static const trashSimpleLight = PhosphorIconData(0xf3bb);
+  static const trashSimpleLight = PhosphorIconDataLight(0xf3bb);
 
   /// ![trash-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/trash-simple-thin.svg)
-  static const trashSimpleThin = PhosphorIconData(0xf3bc);
+  static const trashSimpleThin = PhosphorIconDataThin(0xf3bc);
 
   /// ![trash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/trash-thin.svg)
-  static const trashThin = PhosphorIconData(0xf3bd);
+  static const trashThin = PhosphorIconDataThin(0xf3bd);
 
   /// ![tray](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/tray.svg)
-  static const tray = PhosphorIconData(0xf3be);
+  static const tray = PhosphorIconDataRegular(0xf3be);
 
   /// ![tray-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/tray-bold.svg)
-  static const trayBold = PhosphorIconData(0xf3bf);
+  static const trayBold = PhosphorIconDataBold(0xf3bf);
 
   /// ![tray-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/tray-fill.svg)
-  static const trayFill = PhosphorIconData(0xf3c0);
+  static const trayFill = PhosphorIconDataFill(0xf3c0);
 
   /// ![tray-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/tray-light.svg)
-  static const trayLight = PhosphorIconData(0xf3c1);
+  static const trayLight = PhosphorIconDataLight(0xf3c1);
 
   /// ![tray-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/tray-thin.svg)
-  static const trayThin = PhosphorIconData(0xf3c2);
+  static const trayThin = PhosphorIconDataThin(0xf3c2);
 
   /// ![trend-down](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/trend-down.svg)
-  static const trendDown = PhosphorIconData(0xf3c3);
+  static const trendDown = PhosphorIconDataRegular(0xf3c3);
 
   /// ![trend-down-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/trend-down-bold.svg)
-  static const trendDownBold = PhosphorIconData(0xf3c4);
+  static const trendDownBold = PhosphorIconDataBold(0xf3c4);
 
   /// ![trend-down-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/trend-down-fill.svg)
-  static const trendDownFill = PhosphorIconData(0xf3c5);
+  static const trendDownFill = PhosphorIconDataFill(0xf3c5);
 
   /// ![trend-down-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/trend-down-light.svg)
-  static const trendDownLight = PhosphorIconData(0xf3c6);
+  static const trendDownLight = PhosphorIconDataLight(0xf3c6);
 
   /// ![trend-down-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/trend-down-thin.svg)
-  static const trendDownThin = PhosphorIconData(0xf3c7);
+  static const trendDownThin = PhosphorIconDataThin(0xf3c7);
 
   /// ![trend-up](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/trend-up.svg)
-  static const trendUp = PhosphorIconData(0xf3c8);
+  static const trendUp = PhosphorIconDataRegular(0xf3c8);
 
   /// ![trend-up-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/trend-up-bold.svg)
-  static const trendUpBold = PhosphorIconData(0xf3c9);
+  static const trendUpBold = PhosphorIconDataBold(0xf3c9);
 
   /// ![trend-up-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/trend-up-fill.svg)
-  static const trendUpFill = PhosphorIconData(0xf3ca);
+  static const trendUpFill = PhosphorIconDataFill(0xf3ca);
 
   /// ![trend-up-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/trend-up-light.svg)
-  static const trendUpLight = PhosphorIconData(0xf3cb);
+  static const trendUpLight = PhosphorIconDataLight(0xf3cb);
 
   /// ![trend-up-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/trend-up-thin.svg)
-  static const trendUpThin = PhosphorIconData(0xf3cc);
+  static const trendUpThin = PhosphorIconDataThin(0xf3cc);
 
   /// ![triangle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/triangle.svg)
-  static const triangle = PhosphorIconData(0xf3cd);
+  static const triangle = PhosphorIconDataRegular(0xf3cd);
 
   /// ![triangle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/triangle-bold.svg)
-  static const triangleBold = PhosphorIconData(0xf3ce);
+  static const triangleBold = PhosphorIconDataBold(0xf3ce);
 
   /// ![triangle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/triangle-fill.svg)
-  static const triangleFill = PhosphorIconData(0xf3cf);
+  static const triangleFill = PhosphorIconDataFill(0xf3cf);
 
   /// ![triangle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/triangle-light.svg)
-  static const triangleLight = PhosphorIconData(0xf3d0);
+  static const triangleLight = PhosphorIconDataLight(0xf3d0);
 
   /// ![triangle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/triangle-thin.svg)
-  static const triangleThin = PhosphorIconData(0xf3d1);
+  static const triangleThin = PhosphorIconDataThin(0xf3d1);
 
   /// ![truck](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/truck.svg)
-  static const truck = PhosphorIconData(0xf3d2);
+  static const truck = PhosphorIconDataRegular(0xf3d2);
 
   /// ![truck-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/truck-bold.svg)
-  static const truckBold = PhosphorIconData(0xf3d3);
+  static const truckBold = PhosphorIconDataBold(0xf3d3);
 
   /// ![truck-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/truck-fill.svg)
-  static const truckFill = PhosphorIconData(0xf3d4);
+  static const truckFill = PhosphorIconDataFill(0xf3d4);
 
   /// ![truck-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/truck-light.svg)
-  static const truckLight = PhosphorIconData(0xf3d5);
+  static const truckLight = PhosphorIconDataLight(0xf3d5);
 
   /// ![truck-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/truck-thin.svg)
-  static const truckThin = PhosphorIconData(0xf3d6);
+  static const truckThin = PhosphorIconDataThin(0xf3d6);
 
   /// ![twitter-logo](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/twitter-logo.svg)
-  static const twitterLogo = PhosphorIconData(0xf3d7);
+  static const twitterLogo = PhosphorIconDataRegular(0xf3d7);
 
   /// ![twitter-logo-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/twitter-logo-bold.svg)
-  static const twitterLogoBold = PhosphorIconData(0xf3d8);
+  static const twitterLogoBold = PhosphorIconDataBold(0xf3d8);
 
   /// ![twitter-logo-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/twitter-logo-fill.svg)
-  static const twitterLogoFill = PhosphorIconData(0xf3d9);
+  static const twitterLogoFill = PhosphorIconDataFill(0xf3d9);
 
   /// ![twitter-logo-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/twitter-logo-light.svg)
-  static const twitterLogoLight = PhosphorIconData(0xf3da);
+  static const twitterLogoLight = PhosphorIconDataLight(0xf3da);
 
   /// ![twitter-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/twitter-logo-thin.svg)
-  static const twitterLogoThin = PhosphorIconData(0xf3db);
+  static const twitterLogoThin = PhosphorIconDataThin(0xf3db);
 
   /// ![upload](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/upload.svg)
-  static const upload = PhosphorIconData(0xf3dc);
+  static const upload = PhosphorIconDataRegular(0xf3dc);
 
   /// ![upload-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/upload-bold.svg)
-  static const uploadBold = PhosphorIconData(0xf3dd);
+  static const uploadBold = PhosphorIconDataBold(0xf3dd);
 
   /// ![upload-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/upload-fill.svg)
-  static const uploadFill = PhosphorIconData(0xf3de);
+  static const uploadFill = PhosphorIconDataFill(0xf3de);
 
   /// ![upload-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/upload-light.svg)
-  static const uploadLight = PhosphorIconData(0xf3df);
+  static const uploadLight = PhosphorIconDataLight(0xf3df);
 
   /// ![upload-simple](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/upload-simple.svg)
-  static const uploadSimple = PhosphorIconData(0xf3e0);
+  static const uploadSimple = PhosphorIconDataRegular(0xf3e0);
 
   /// ![upload-simple-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/upload-simple-bold.svg)
-  static const uploadSimpleBold = PhosphorIconData(0xf3e1);
+  static const uploadSimpleBold = PhosphorIconDataBold(0xf3e1);
 
   /// ![upload-simple-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/upload-simple-fill.svg)
-  static const uploadSimpleFill = PhosphorIconData(0xf3e2);
+  static const uploadSimpleFill = PhosphorIconDataFill(0xf3e2);
 
   /// ![upload-simple-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/upload-simple-light.svg)
-  static const uploadSimpleLight = PhosphorIconData(0xf3e3);
+  static const uploadSimpleLight = PhosphorIconDataLight(0xf3e3);
 
   /// ![upload-simple-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/upload-simple-thin.svg)
-  static const uploadSimpleThin = PhosphorIconData(0xf3e4);
+  static const uploadSimpleThin = PhosphorIconDataThin(0xf3e4);
 
   /// ![upload-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/upload-thin.svg)
-  static const uploadThin = PhosphorIconData(0xf3e5);
+  static const uploadThin = PhosphorIconDataThin(0xf3e5);
 
   /// ![user](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/user.svg)
-  static const user = PhosphorIconData(0xf3e6);
+  static const user = PhosphorIconDataRegular(0xf3e6);
 
   /// ![user-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/user-bold.svg)
-  static const userBold = PhosphorIconData(0xf3e7);
+  static const userBold = PhosphorIconDataBold(0xf3e7);
 
   /// ![user-circle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/user-circle.svg)
-  static const userCircle = PhosphorIconData(0xf3e8);
+  static const userCircle = PhosphorIconDataRegular(0xf3e8);
 
   /// ![user-circle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/user-circle-bold.svg)
-  static const userCircleBold = PhosphorIconData(0xf3e9);
+  static const userCircleBold = PhosphorIconDataBold(0xf3e9);
 
   /// ![user-circle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/user-circle-fill.svg)
-  static const userCircleFill = PhosphorIconData(0xf3ea);
+  static const userCircleFill = PhosphorIconDataFill(0xf3ea);
 
   /// ![user-circle-gear](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/user-circle-gear.svg)
-  static const userCircleGear = PhosphorIconData(0xf3eb);
+  static const userCircleGear = PhosphorIconDataRegular(0xf3eb);
 
   /// ![user-circle-gear-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/user-circle-gear-bold.svg)
-  static const userCircleGearBold = PhosphorIconData(0xf3ec);
+  static const userCircleGearBold = PhosphorIconDataBold(0xf3ec);
 
   /// ![user-circle-gear-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/user-circle-gear-fill.svg)
-  static const userCircleGearFill = PhosphorIconData(0xf3ed);
+  static const userCircleGearFill = PhosphorIconDataFill(0xf3ed);
 
   /// ![user-circle-gear-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/user-circle-gear-light.svg)
-  static const userCircleGearLight = PhosphorIconData(0xf3ee);
+  static const userCircleGearLight = PhosphorIconDataLight(0xf3ee);
 
   /// ![user-circle-gear-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/user-circle-gear-thin.svg)
-  static const userCircleGearThin = PhosphorIconData(0xf3ef);
+  static const userCircleGearThin = PhosphorIconDataThin(0xf3ef);
 
   /// ![user-circle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/user-circle-light.svg)
-  static const userCircleLight = PhosphorIconData(0xf3f0);
+  static const userCircleLight = PhosphorIconDataLight(0xf3f0);
 
   /// ![user-circle-minus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/user-circle-minus.svg)
-  static const userCircleMinus = PhosphorIconData(0xf3f1);
+  static const userCircleMinus = PhosphorIconDataRegular(0xf3f1);
 
   /// ![user-circle-minus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/user-circle-minus-bold.svg)
-  static const userCircleMinusBold = PhosphorIconData(0xf3f2);
+  static const userCircleMinusBold = PhosphorIconDataBold(0xf3f2);
 
   /// ![user-circle-minus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/user-circle-minus-fill.svg)
-  static const userCircleMinusFill = PhosphorIconData(0xf3f3);
+  static const userCircleMinusFill = PhosphorIconDataFill(0xf3f3);
 
   /// ![user-circle-minus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/user-circle-minus-light.svg)
-  static const userCircleMinusLight = PhosphorIconData(0xf3f4);
+  static const userCircleMinusLight = PhosphorIconDataLight(0xf3f4);
 
   /// ![user-circle-minus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/user-circle-minus-thin.svg)
-  static const userCircleMinusThin = PhosphorIconData(0xf3f5);
+  static const userCircleMinusThin = PhosphorIconDataThin(0xf3f5);
 
   /// ![user-circle-plus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/user-circle-plus.svg)
-  static const userCirclePlus = PhosphorIconData(0xf3f6);
+  static const userCirclePlus = PhosphorIconDataRegular(0xf3f6);
 
   /// ![user-circle-plus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/user-circle-plus-bold.svg)
-  static const userCirclePlusBold = PhosphorIconData(0xf3f7);
+  static const userCirclePlusBold = PhosphorIconDataBold(0xf3f7);
 
   /// ![user-circle-plus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/user-circle-plus-fill.svg)
-  static const userCirclePlusFill = PhosphorIconData(0xf3f8);
+  static const userCirclePlusFill = PhosphorIconDataFill(0xf3f8);
 
   /// ![user-circle-plus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/user-circle-plus-light.svg)
-  static const userCirclePlusLight = PhosphorIconData(0xf3f9);
+  static const userCirclePlusLight = PhosphorIconDataLight(0xf3f9);
 
   /// ![user-circle-plus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/user-circle-plus-thin.svg)
-  static const userCirclePlusThin = PhosphorIconData(0xf3fa);
+  static const userCirclePlusThin = PhosphorIconDataThin(0xf3fa);
 
   /// ![user-circle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/user-circle-thin.svg)
-  static const userCircleThin = PhosphorIconData(0xf3fb);
+  static const userCircleThin = PhosphorIconDataThin(0xf3fb);
 
   /// ![user-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/user-fill.svg)
-  static const userFill = PhosphorIconData(0xf3fc);
+  static const userFill = PhosphorIconDataFill(0xf3fc);
 
   /// ![user-gear](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/user-gear.svg)
-  static const userGear = PhosphorIconData(0xf3fd);
+  static const userGear = PhosphorIconDataRegular(0xf3fd);
 
   /// ![user-gear-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/user-gear-bold.svg)
-  static const userGearBold = PhosphorIconData(0xf3fe);
+  static const userGearBold = PhosphorIconDataBold(0xf3fe);
 
   /// ![user-gear-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/user-gear-fill.svg)
-  static const userGearFill = PhosphorIconData(0xf3ff);
+  static const userGearFill = PhosphorIconDataFill(0xf3ff);
 
   /// ![user-gear-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/user-gear-light.svg)
-  static const userGearLight = PhosphorIconData(0xf400);
+  static const userGearLight = PhosphorIconDataLight(0xf400);
 
   /// ![user-gear-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/user-gear-thin.svg)
-  static const userGearThin = PhosphorIconData(0xf401);
+  static const userGearThin = PhosphorIconDataThin(0xf401);
 
   /// ![user-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/user-light.svg)
-  static const userLight = PhosphorIconData(0xf402);
+  static const userLight = PhosphorIconDataLight(0xf402);
 
   /// ![user-minus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/user-minus.svg)
-  static const userMinus = PhosphorIconData(0xf403);
+  static const userMinus = PhosphorIconDataRegular(0xf403);
 
   /// ![user-minus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/user-minus-bold.svg)
-  static const userMinusBold = PhosphorIconData(0xf404);
+  static const userMinusBold = PhosphorIconDataBold(0xf404);
 
   /// ![user-minus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/user-minus-fill.svg)
-  static const userMinusFill = PhosphorIconData(0xf405);
+  static const userMinusFill = PhosphorIconDataFill(0xf405);
 
   /// ![user-minus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/user-minus-light.svg)
-  static const userMinusLight = PhosphorIconData(0xf406);
+  static const userMinusLight = PhosphorIconDataLight(0xf406);
 
   /// ![user-minus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/user-minus-thin.svg)
-  static const userMinusThin = PhosphorIconData(0xf407);
+  static const userMinusThin = PhosphorIconDataThin(0xf407);
 
   /// ![user-plus](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/user-plus.svg)
-  static const userPlus = PhosphorIconData(0xf408);
+  static const userPlus = PhosphorIconDataRegular(0xf408);
 
   /// ![user-plus-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/user-plus-bold.svg)
-  static const userPlusBold = PhosphorIconData(0xf409);
+  static const userPlusBold = PhosphorIconDataBold(0xf409);
 
   /// ![user-plus-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/user-plus-fill.svg)
-  static const userPlusFill = PhosphorIconData(0xf40a);
+  static const userPlusFill = PhosphorIconDataFill(0xf40a);
 
   /// ![user-plus-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/user-plus-light.svg)
-  static const userPlusLight = PhosphorIconData(0xf40b);
+  static const userPlusLight = PhosphorIconDataLight(0xf40b);
 
   /// ![user-plus-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/user-plus-thin.svg)
-  static const userPlusThin = PhosphorIconData(0xf40c);
+  static const userPlusThin = PhosphorIconDataThin(0xf40c);
 
   /// ![user-rectangle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/user-rectangle.svg)
-  static const userRectangle = PhosphorIconData(0xf40d);
+  static const userRectangle = PhosphorIconDataRegular(0xf40d);
 
   /// ![user-rectangle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/user-rectangle-bold.svg)
-  static const userRectangleBold = PhosphorIconData(0xf40e);
+  static const userRectangleBold = PhosphorIconDataBold(0xf40e);
 
   /// ![user-rectangle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/user-rectangle-fill.svg)
-  static const userRectangleFill = PhosphorIconData(0xf40f);
+  static const userRectangleFill = PhosphorIconDataFill(0xf40f);
 
   /// ![user-rectangle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/user-rectangle-light.svg)
-  static const userRectangleLight = PhosphorIconData(0xf410);
+  static const userRectangleLight = PhosphorIconDataLight(0xf410);
 
   /// ![user-rectangle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/user-rectangle-thin.svg)
-  static const userRectangleThin = PhosphorIconData(0xf411);
+  static const userRectangleThin = PhosphorIconDataThin(0xf411);
 
   /// ![user-square](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/user-square.svg)
-  static const userSquare = PhosphorIconData(0xf412);
+  static const userSquare = PhosphorIconDataRegular(0xf412);
 
   /// ![user-square-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/user-square-bold.svg)
-  static const userSquareBold = PhosphorIconData(0xf413);
+  static const userSquareBold = PhosphorIconDataBold(0xf413);
 
   /// ![user-square-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/user-square-fill.svg)
-  static const userSquareFill = PhosphorIconData(0xf414);
+  static const userSquareFill = PhosphorIconDataFill(0xf414);
 
   /// ![user-square-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/user-square-light.svg)
-  static const userSquareLight = PhosphorIconData(0xf415);
+  static const userSquareLight = PhosphorIconDataLight(0xf415);
 
   /// ![user-square-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/user-square-thin.svg)
-  static const userSquareThin = PhosphorIconData(0xf416);
+  static const userSquareThin = PhosphorIconDataThin(0xf416);
 
   /// ![user-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/user-thin.svg)
-  static const userThin = PhosphorIconData(0xf417);
+  static const userThin = PhosphorIconDataThin(0xf417);
 
   /// ![users](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/users.svg)
-  static const users = PhosphorIconData(0xf418);
+  static const users = PhosphorIconDataRegular(0xf418);
 
   /// ![users-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/users-bold.svg)
-  static const usersBold = PhosphorIconData(0xf419);
+  static const usersBold = PhosphorIconDataBold(0xf419);
 
   /// ![users-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/users-fill.svg)
-  static const usersFill = PhosphorIconData(0xf41a);
+  static const usersFill = PhosphorIconDataFill(0xf41a);
 
   /// ![users-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/users-light.svg)
-  static const usersLight = PhosphorIconData(0xf41b);
+  static const usersLight = PhosphorIconDataLight(0xf41b);
 
   /// ![users-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/users-thin.svg)
-  static const usersThin = PhosphorIconData(0xf41c);
+  static const usersThin = PhosphorIconDataThin(0xf41c);
 
   /// ![vibrate](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/vibrate.svg)
-  static const vibrate = PhosphorIconData(0xf41d);
+  static const vibrate = PhosphorIconDataRegular(0xf41d);
 
   /// ![vibrate-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/vibrate-bold.svg)
-  static const vibrateBold = PhosphorIconData(0xf41e);
+  static const vibrateBold = PhosphorIconDataBold(0xf41e);
 
   /// ![vibrate-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/vibrate-fill.svg)
-  static const vibrateFill = PhosphorIconData(0xf41f);
+  static const vibrateFill = PhosphorIconDataFill(0xf41f);
 
   /// ![vibrate-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/vibrate-light.svg)
-  static const vibrateLight = PhosphorIconData(0xf420);
+  static const vibrateLight = PhosphorIconDataLight(0xf420);
 
   /// ![vibrate-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/vibrate-thin.svg)
-  static const vibrateThin = PhosphorIconData(0xf421);
+  static const vibrateThin = PhosphorIconDataThin(0xf421);
 
   /// ![video-camera](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/video-camera.svg)
-  static const videoCamera = PhosphorIconData(0xf422);
+  static const videoCamera = PhosphorIconDataRegular(0xf422);
 
   /// ![video-camera-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/video-camera-bold.svg)
-  static const videoCameraBold = PhosphorIconData(0xf423);
+  static const videoCameraBold = PhosphorIconDataBold(0xf423);
 
   /// ![video-camera-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/video-camera-fill.svg)
-  static const videoCameraFill = PhosphorIconData(0xf424);
+  static const videoCameraFill = PhosphorIconDataFill(0xf424);
 
   /// ![video-camera-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/video-camera-light.svg)
-  static const videoCameraLight = PhosphorIconData(0xf425);
+  static const videoCameraLight = PhosphorIconDataLight(0xf425);
 
   /// ![video-camera-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/video-camera-slash.svg)
-  static const videoCameraSlash = PhosphorIconData(0xf426);
+  static const videoCameraSlash = PhosphorIconDataRegular(0xf426);
 
   /// ![video-camera-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/video-camera-slash-bold.svg)
-  static const videoCameraSlashBold = PhosphorIconData(0xf427);
+  static const videoCameraSlashBold = PhosphorIconDataBold(0xf427);
 
   /// ![video-camera-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/video-camera-slash-fill.svg)
-  static const videoCameraSlashFill = PhosphorIconData(0xf428);
+  static const videoCameraSlashFill = PhosphorIconDataFill(0xf428);
 
   /// ![video-camera-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/video-camera-slash-light.svg)
-  static const videoCameraSlashLight = PhosphorIconData(0xf429);
+  static const videoCameraSlashLight = PhosphorIconDataLight(0xf429);
 
   /// ![video-camera-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/video-camera-slash-thin.svg)
-  static const videoCameraSlashThin = PhosphorIconData(0xf42a);
+  static const videoCameraSlashThin = PhosphorIconDataThin(0xf42a);
 
   /// ![video-camera-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/video-camera-thin.svg)
-  static const videoCameraThin = PhosphorIconData(0xf42b);
+  static const videoCameraThin = PhosphorIconDataThin(0xf42b);
 
   /// ![voicemail](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/voicemail.svg)
-  static const voicemail = PhosphorIconData(0xf42c);
+  static const voicemail = PhosphorIconDataRegular(0xf42c);
 
   /// ![voicemail-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/voicemail-bold.svg)
-  static const voicemailBold = PhosphorIconData(0xf42d);
+  static const voicemailBold = PhosphorIconDataBold(0xf42d);
 
   /// ![voicemail-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/voicemail-fill.svg)
-  static const voicemailFill = PhosphorIconData(0xf42e);
+  static const voicemailFill = PhosphorIconDataFill(0xf42e);
 
   /// ![voicemail-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/voicemail-light.svg)
-  static const voicemailLight = PhosphorIconData(0xf42f);
+  static const voicemailLight = PhosphorIconDataLight(0xf42f);
 
   /// ![voicemail-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/voicemail-thin.svg)
-  static const voicemailThin = PhosphorIconData(0xf430);
+  static const voicemailThin = PhosphorIconDataThin(0xf430);
 
   /// ![warning](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/warning.svg)
-  static const warning = PhosphorIconData(0xf431);
+  static const warning = PhosphorIconDataRegular(0xf431);
 
   /// ![warning-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/warning-bold.svg)
-  static const warningBold = PhosphorIconData(0xf432);
+  static const warningBold = PhosphorIconDataBold(0xf432);
 
   /// ![warning-circle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/warning-circle.svg)
-  static const warningCircle = PhosphorIconData(0xf433);
+  static const warningCircle = PhosphorIconDataRegular(0xf433);
 
   /// ![warning-circle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/warning-circle-bold.svg)
-  static const warningCircleBold = PhosphorIconData(0xf434);
+  static const warningCircleBold = PhosphorIconDataBold(0xf434);
 
   /// ![warning-circle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/warning-circle-fill.svg)
-  static const warningCircleFill = PhosphorIconData(0xf435);
+  static const warningCircleFill = PhosphorIconDataFill(0xf435);
 
   /// ![warning-circle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/warning-circle-light.svg)
-  static const warningCircleLight = PhosphorIconData(0xf436);
+  static const warningCircleLight = PhosphorIconDataLight(0xf436);
 
   /// ![warning-circle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/warning-circle-thin.svg)
-  static const warningCircleThin = PhosphorIconData(0xf437);
+  static const warningCircleThin = PhosphorIconDataThin(0xf437);
 
   /// ![warning-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/warning-fill.svg)
-  static const warningFill = PhosphorIconData(0xf438);
+  static const warningFill = PhosphorIconDataFill(0xf438);
 
   /// ![warning-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/warning-light.svg)
-  static const warningLight = PhosphorIconData(0xf439);
+  static const warningLight = PhosphorIconDataLight(0xf439);
 
   /// ![warning-octagon](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/warning-octagon.svg)
-  static const warningOctagon = PhosphorIconData(0xf43a);
+  static const warningOctagon = PhosphorIconDataRegular(0xf43a);
 
   /// ![warning-octagon-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/warning-octagon-bold.svg)
-  static const warningOctagonBold = PhosphorIconData(0xf43b);
+  static const warningOctagonBold = PhosphorIconDataBold(0xf43b);
 
   /// ![warning-octagon-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/warning-octagon-fill.svg)
-  static const warningOctagonFill = PhosphorIconData(0xf43c);
+  static const warningOctagonFill = PhosphorIconDataFill(0xf43c);
 
   /// ![warning-octagon-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/warning-octagon-light.svg)
-  static const warningOctagonLight = PhosphorIconData(0xf43d);
+  static const warningOctagonLight = PhosphorIconDataLight(0xf43d);
 
   /// ![warning-octagon-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/warning-octagon-thin.svg)
-  static const warningOctagonThin = PhosphorIconData(0xf43e);
+  static const warningOctagonThin = PhosphorIconDataThin(0xf43e);
 
   /// ![warning-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/warning-thin.svg)
-  static const warningThin = PhosphorIconData(0xf43f);
+  static const warningThin = PhosphorIconDataThin(0xf43f);
 
   /// ![watch](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/watch.svg)
-  static const watch = PhosphorIconData(0xf440);
+  static const watch = PhosphorIconDataRegular(0xf440);
 
   /// ![watch-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/watch-bold.svg)
-  static const watchBold = PhosphorIconData(0xf441);
+  static const watchBold = PhosphorIconDataBold(0xf441);
 
   /// ![watch-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/watch-fill.svg)
-  static const watchFill = PhosphorIconData(0xf442);
+  static const watchFill = PhosphorIconDataFill(0xf442);
 
   /// ![watch-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/watch-light.svg)
-  static const watchLight = PhosphorIconData(0xf443);
+  static const watchLight = PhosphorIconDataLight(0xf443);
 
   /// ![watch-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/watch-thin.svg)
-  static const watchThin = PhosphorIconData(0xf444);
+  static const watchThin = PhosphorIconDataThin(0xf444);
 
   /// ![wheelchair](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/wheelchair.svg)
-  static const wheelchair = PhosphorIconData(0xf445);
+  static const wheelchair = PhosphorIconDataRegular(0xf445);
 
   /// ![wheelchair-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/wheelchair-bold.svg)
-  static const wheelchairBold = PhosphorIconData(0xf446);
+  static const wheelchairBold = PhosphorIconDataBold(0xf446);
 
   /// ![wheelchair-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/wheelchair-fill.svg)
-  static const wheelchairFill = PhosphorIconData(0xf447);
+  static const wheelchairFill = PhosphorIconDataFill(0xf447);
 
   /// ![wheelchair-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/wheelchair-light.svg)
-  static const wheelchairLight = PhosphorIconData(0xf448);
+  static const wheelchairLight = PhosphorIconDataLight(0xf448);
 
   /// ![wheelchair-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/wheelchair-thin.svg)
-  static const wheelchairThin = PhosphorIconData(0xf449);
+  static const wheelchairThin = PhosphorIconDataThin(0xf449);
 
   /// ![wifi-high](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/wifi-high.svg)
-  static const wifiHigh = PhosphorIconData(0xf44a);
+  static const wifiHigh = PhosphorIconDataRegular(0xf44a);
 
   /// ![wifi-high-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/wifi-high-bold.svg)
-  static const wifiHighBold = PhosphorIconData(0xf44b);
+  static const wifiHighBold = PhosphorIconDataBold(0xf44b);
 
   /// ![wifi-high-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/wifi-high-fill.svg)
-  static const wifiHighFill = PhosphorIconData(0xf44c);
+  static const wifiHighFill = PhosphorIconDataFill(0xf44c);
 
   /// ![wifi-high-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/wifi-high-light.svg)
-  static const wifiHighLight = PhosphorIconData(0xf44d);
+  static const wifiHighLight = PhosphorIconDataLight(0xf44d);
 
   /// ![wifi-high-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/wifi-high-thin.svg)
-  static const wifiHighThin = PhosphorIconData(0xf44e);
+  static const wifiHighThin = PhosphorIconDataThin(0xf44e);
 
   /// ![wifi-low](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/wifi-low.svg)
-  static const wifiLow = PhosphorIconData(0xf44f);
+  static const wifiLow = PhosphorIconDataRegular(0xf44f);
 
   /// ![wifi-low-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/wifi-low-bold.svg)
-  static const wifiLowBold = PhosphorIconData(0xf450);
+  static const wifiLowBold = PhosphorIconDataBold(0xf450);
 
   /// ![wifi-low-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/wifi-low-fill.svg)
-  static const wifiLowFill = PhosphorIconData(0xf451);
+  static const wifiLowFill = PhosphorIconDataFill(0xf451);
 
   /// ![wifi-low-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/wifi-low-light.svg)
-  static const wifiLowLight = PhosphorIconData(0xf452);
+  static const wifiLowLight = PhosphorIconDataLight(0xf452);
 
   /// ![wifi-low-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/wifi-low-thin.svg)
-  static const wifiLowThin = PhosphorIconData(0xf453);
+  static const wifiLowThin = PhosphorIconDataThin(0xf453);
 
   /// ![wifi-medium](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/wifi-medium.svg)
-  static const wifiMedium = PhosphorIconData(0xf454);
+  static const wifiMedium = PhosphorIconDataRegular(0xf454);
 
   /// ![wifi-medium-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/wifi-medium-bold.svg)
-  static const wifiMediumBold = PhosphorIconData(0xf455);
+  static const wifiMediumBold = PhosphorIconDataBold(0xf455);
 
   /// ![wifi-medium-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/wifi-medium-fill.svg)
-  static const wifiMediumFill = PhosphorIconData(0xf456);
+  static const wifiMediumFill = PhosphorIconDataFill(0xf456);
 
   /// ![wifi-medium-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/wifi-medium-light.svg)
-  static const wifiMediumLight = PhosphorIconData(0xf457);
+  static const wifiMediumLight = PhosphorIconDataLight(0xf457);
 
   /// ![wifi-medium-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/wifi-medium-thin.svg)
-  static const wifiMediumThin = PhosphorIconData(0xf458);
+  static const wifiMediumThin = PhosphorIconDataThin(0xf458);
 
   /// ![wifi-none](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/wifi-none.svg)
-  static const wifiNone = PhosphorIconData(0xf459);
+  static const wifiNone = PhosphorIconDataRegular(0xf459);
 
   /// ![wifi-none-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/wifi-none-bold.svg)
-  static const wifiNoneBold = PhosphorIconData(0xf45a);
+  static const wifiNoneBold = PhosphorIconDataBold(0xf45a);
 
   /// ![wifi-none-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/wifi-none-fill.svg)
-  static const wifiNoneFill = PhosphorIconData(0xf45b);
+  static const wifiNoneFill = PhosphorIconDataFill(0xf45b);
 
   /// ![wifi-none-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/wifi-none-light.svg)
-  static const wifiNoneLight = PhosphorIconData(0xf45c);
+  static const wifiNoneLight = PhosphorIconDataLight(0xf45c);
 
   /// ![wifi-none-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/wifi-none-thin.svg)
-  static const wifiNoneThin = PhosphorIconData(0xf45d);
+  static const wifiNoneThin = PhosphorIconDataThin(0xf45d);
 
   /// ![wifi-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/wifi-slash.svg)
-  static const wifiSlash = PhosphorIconData(0xf45e);
+  static const wifiSlash = PhosphorIconDataRegular(0xf45e);
 
   /// ![wifi-slash-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/wifi-slash-bold.svg)
-  static const wifiSlashBold = PhosphorIconData(0xf45f);
+  static const wifiSlashBold = PhosphorIconDataBold(0xf45f);
 
   /// ![wifi-slash-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/wifi-slash-fill.svg)
-  static const wifiSlashFill = PhosphorIconData(0xf460);
+  static const wifiSlashFill = PhosphorIconDataFill(0xf460);
 
   /// ![wifi-slash-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/wifi-slash-light.svg)
-  static const wifiSlashLight = PhosphorIconData(0xf461);
+  static const wifiSlashLight = PhosphorIconDataLight(0xf461);
 
   /// ![wifi-slash-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/wifi-slash-thin.svg)
-  static const wifiSlashThin = PhosphorIconData(0xf462);
+  static const wifiSlashThin = PhosphorIconDataThin(0xf462);
 
   /// ![wifi-x](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/wifi-x.svg)
-  static const wifiX = PhosphorIconData(0xf463);
+  static const wifiX = PhosphorIconDataRegular(0xf463);
 
   /// ![wifi-x-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/wifi-x-bold.svg)
-  static const wifiXBold = PhosphorIconData(0xf464);
+  static const wifiXBold = PhosphorIconDataBold(0xf464);
 
   /// ![wifi-x-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/wifi-x-fill.svg)
-  static const wifiXFill = PhosphorIconData(0xf465);
+  static const wifiXFill = PhosphorIconDataFill(0xf465);
 
   /// ![wifi-x-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/wifi-x-light.svg)
-  static const wifiXLight = PhosphorIconData(0xf466);
+  static const wifiXLight = PhosphorIconDataLight(0xf466);
 
   /// ![wifi-x-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/wifi-x-thin.svg)
-  static const wifiXThin = PhosphorIconData(0xf467);
+  static const wifiXThin = PhosphorIconDataThin(0xf467);
 
   /// ![x](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/x.svg)
-  static const x = PhosphorIconData(0xf468);
+  static const x = PhosphorIconDataRegular(0xf468);
 
   /// ![x-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/x-bold.svg)
-  static const xBold = PhosphorIconData(0xf469);
+  static const xBold = PhosphorIconDataBold(0xf469);
 
   /// ![x-circle](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/x-circle.svg)
-  static const xCircle = PhosphorIconData(0xf46a);
+  static const xCircle = PhosphorIconDataRegular(0xf46a);
 
   /// ![x-circle-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/x-circle-bold.svg)
-  static const xCircleBold = PhosphorIconData(0xf46b);
+  static const xCircleBold = PhosphorIconDataBold(0xf46b);
 
   /// ![x-circle-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/x-circle-fill.svg)
-  static const xCircleFill = PhosphorIconData(0xf46c);
+  static const xCircleFill = PhosphorIconDataFill(0xf46c);
 
   /// ![x-circle-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/x-circle-light.svg)
-  static const xCircleLight = PhosphorIconData(0xf46d);
+  static const xCircleLight = PhosphorIconDataLight(0xf46d);
 
   /// ![x-circle-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/x-circle-thin.svg)
-  static const xCircleThin = PhosphorIconData(0xf46e);
+  static const xCircleThin = PhosphorIconDataThin(0xf46e);
 
   /// ![x-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/x-fill.svg)
-  static const xFill = PhosphorIconData(0xf46f);
+  static const xFill = PhosphorIconDataFill(0xf46f);
 
   /// ![x-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/x-light.svg)
-  static const xLight = PhosphorIconData(0xf470);
+  static const xLight = PhosphorIconDataLight(0xf470);
 
   /// ![x-square](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/x-square.svg)
-  static const xSquare = PhosphorIconData(0xf471);
+  static const xSquare = PhosphorIconDataRegular(0xf471);
 
   /// ![x-square-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/x-square-bold.svg)
-  static const xSquareBold = PhosphorIconData(0xf472);
+  static const xSquareBold = PhosphorIconDataBold(0xf472);
 
   /// ![x-square-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/x-square-fill.svg)
-  static const xSquareFill = PhosphorIconData(0xf473);
+  static const xSquareFill = PhosphorIconDataFill(0xf473);
 
   /// ![x-square-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/x-square-light.svg)
-  static const xSquareLight = PhosphorIconData(0xf474);
+  static const xSquareLight = PhosphorIconDataLight(0xf474);
 
   /// ![x-square-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/x-square-thin.svg)
-  static const xSquareThin = PhosphorIconData(0xf475);
+  static const xSquareThin = PhosphorIconDataThin(0xf475);
 
   /// ![x-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/x-thin.svg)
-  static const xThin = PhosphorIconData(0xf476);
+  static const xThin = PhosphorIconDataThin(0xf476);
 
   /// ![youtube-logo](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/youtube-logo.svg)
-  static const youtubeLogo = PhosphorIconData(0xf477);
+  static const youtubeLogo = PhosphorIconDataRegular(0xf477);
 
   /// ![youtube-logo-bold](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bold/youtube-logo-bold.svg)
-  static const youtubeLogoBold = PhosphorIconData(0xf478);
+  static const youtubeLogoBold = PhosphorIconDataBold(0xf478);
 
   /// ![youtube-logo-fill](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/youtube-logo-fill.svg)
-  static const youtubeLogoFill = PhosphorIconData(0xf479);
+  static const youtubeLogoFill = PhosphorIconDataFill(0xf479);
 
   /// ![youtube-logo-light](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/light/youtube-logo-light.svg)
-  static const youtubeLogoLight = PhosphorIconData(0xf47a);
+  static const youtubeLogoLight = PhosphorIconDataLight(0xf47a);
 
   /// ![youtube-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/youtube-logo-thin.svg)
-  static const youtubeLogoThin = PhosphorIconData(0xf47b);
+  static const youtubeLogoThin = PhosphorIconDataThin(0xf47b);
 
   
   static List<PhosphorIconData> get icons => allIconsAsMap.values.toList();
@@ -8835,7 +8846,7 @@ class PhosphorIcons {
       ...fillIcons,
     };
   
-  static Map<String, PhosphorIconData> get regularIcons => {
+  static Map<String, PhosphorIconDataRegular> get regularIcons => {
     'activity': activity,
     'airplane': airplane,
     'airplay': airplay,
@@ -9426,7 +9437,7 @@ class PhosphorIcons {
     'youtube-logo': youtubeLogo,
   };
   
-  static Map<String, PhosphorIconData> get boldIcons => {
+  static Map<String, PhosphorIconDataBold> get boldIcons => {
     'activity-bold': activityBold,
     'airplane-bold': airplaneBold,
     'airplay-bold': airplayBold,
@@ -10017,7 +10028,7 @@ class PhosphorIcons {
     'youtube-logo-bold': youtubeLogoBold,
   };
   
-  static Map<String, PhosphorIconData> get fillIcons => {
+  static Map<String, PhosphorIconDataFill> get fillIcons => {
     'activity-fill': activityFill,
     'airplane-fill': airplaneFill,
     'airplay-fill': airplayFill,
@@ -10608,7 +10619,7 @@ class PhosphorIcons {
     'youtube-logo-fill': youtubeLogoFill,
   };
   
-  static Map<String, PhosphorIconData> get lightIcons => {
+  static Map<String, PhosphorIconDataLight> get lightIcons => {
     'activity-light': activityLight,
     'airplane-light': airplaneLight,
     'airplay-light': airplayLight,
@@ -11199,7 +11210,7 @@ class PhosphorIcons {
     'youtube-logo-light': youtubeLogoLight,
   };
   
-  static Map<String, PhosphorIconData> get thinIcons => {
+  static Map<String, PhosphorIconDataThin> get thinIcons => {
     'activity-thin': activityThin,
     'airplane-thin': airplaneThin,
     'airplay-thin': airplayThin,
@@ -11789,4 +11800,7 @@ class PhosphorIcons {
     'x-thin': xThin,
     'youtube-logo-thin': youtubeLogoThin,
   };
+    static Map<PhosphorIconDataRegular, String> get shadows =>
+      regularIcons.map<PhosphorIconDataRegular, String>(
+          (key, value) => MapEntry(value, key + '-fill'));
 }
