@@ -47,6 +47,28 @@ PhosphorIconDuotone(
 
 All the icons has their thin, light, regular, bold and fill versions.
 
+## ScreenShots
+
+![](/meta/screen_thin.png)
+![](/meta/screen_light.png)
+![](/meta/screen_regular.png)
+![](/meta/screen_bold.png)
+![](/meta/screen_fill.png)
+
+## Example App
+
+You could see all the widgets with the example app.
+
+### Installing
+
+- Download the APK from releases page and install in your device
+
+### From source code
+
+- Clone the repo
+- Open directory example `cd example`
+- Run flutter `flutter run`
+
 ## Related Projects
 
 - [phosphor-react](https://github.com/phosphor-icons/phosphor-react) ▲ Phosphor icon component library for React
