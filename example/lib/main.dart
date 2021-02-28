@@ -1,3 +1,4 @@
+import 'package:example/constants/all_icons.dart';
 import 'package:flutter/material.dart';
 import 'package:phosphor_flutter/phosphor_flutter.dart';
 
@@ -33,8 +34,8 @@ class _IconsCatalogState extends State<IconsCatalog> {
 
   @override
   void initState() {
-    _icons = PhosphorIcons.regularIcons.values.toList();
-    _iconsNames = PhosphorIcons.regularIcons.keys.toList();
+    _icons = AllIcons.regularIcons.values.toList();
+    _iconsNames = AllIcons.regularIcons.keys.toList();
     super.initState();
   }
 
@@ -115,25 +116,25 @@ class _IconsCatalogState extends State<IconsCatalog> {
 
               switch (value) {
                 case 'Bold':
-                  icons = PhosphorIcons.boldIcons.values.toList();
-                  iconsNames = PhosphorIcons.boldIcons.keys.toList();
+                  icons = AllIcons.boldIcons.values.toList();
+                  iconsNames = AllIcons.boldIcons.keys.toList();
                   break;
                 case 'Fill':
-                  icons = PhosphorIcons.fillIcons.values.toList();
-                  iconsNames = PhosphorIcons.fillIcons.keys.toList();
+                  icons = AllIcons.fillIcons.values.toList();
+                  iconsNames = AllIcons.fillIcons.keys.toList();
                   break;
                 case 'Light':
-                  icons = PhosphorIcons.lightIcons.values.toList();
-                  iconsNames = PhosphorIcons.lightIcons.keys.toList();
+                  icons = AllIcons.lightIcons.values.toList();
+                  iconsNames = AllIcons.lightIcons.keys.toList();
                   break;
                 case 'Thin':
-                  icons = PhosphorIcons.thinIcons.values.toList();
-                  iconsNames = PhosphorIcons.thinIcons.keys.toList();
+                  icons = AllIcons.thinIcons.values.toList();
+                  iconsNames = AllIcons.thinIcons.keys.toList();
                   break;
                 case 'Regular':
                 default:
-                  icons = PhosphorIcons.regularIcons.values.toList();
-                  iconsNames = PhosphorIcons.regularIcons.keys.toList();
+                  icons = AllIcons.regularIcons.values.toList();
+                  iconsNames = AllIcons.regularIcons.keys.toList();
                   break;
               }
 
