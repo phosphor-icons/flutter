@@ -47,6 +47,14 @@ PhosphorIconDuotone(
 
 All the icons has their thin, light, regular, bold and fill versions.
 
+## ScreenShots
+
+![](/meta/screen_thin.png)
+![](/meta/screen_light.png)
+![](/meta/screen_regular.png)
+![](/meta/screen_bold.png)
+![](/meta/screen_fill.png)
+
 ## Example App
 
 You could see all the widgets with the example app.
