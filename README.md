@@ -30,6 +30,20 @@ Icon(
 
 All the icons has their thin, light, regular, bold and fill versions.
 
+## Example App
+
+You could see all the widgets with the example app.
+
+### Installing
+
+- Download the APK from releases page and install in your device
+
+### From source code
+
+- Clone the repo
+- Open directory example `cd example`
+- Run flutter `flutter run`
+
 ## Related Projects
 
 - [phosphor-react](https://github.com/phosphor-icons/phosphor-react) ▲ Phosphor icon component library for React
