@@ -20,7 +20,7 @@ dependencies:
 
 ## Usage
 
-### Simple Icons
+### Normal Icons
 
 Just add a `Icon()` widget passing any Phosphor Icon value
 
@@ -30,30 +30,19 @@ Icon(
 ),
 ```
 
+All the icons has their thin, light, regular, bold and fill versions.
+
 ### [WIP] Duotone Icons
 
-Use `PhosphorIconDuo()` widget directly passing a `PhosphorIconDataRegular` as icon.
-
-You could use a secondary color for the shadow, if not the shadow will be the same
-as the main color with an opacity of 0.2,
-
-```dart
-PhosphorIconDuotone(
-  icon: PhosphorIcons.pencilLine,
-  color: Colors.green,
-  secondaryColor: Colors.yellow,
-),
-```
-
-All the icons has their thin, light, regular, bold and fill versions.
+The Duotone icons are still a work in progress
 
 ## ScreenShots
 
-![](/meta/screen_thin.png)
-![](/meta/screen_light.png)
-![](/meta/screen_regular.png)
-![](/meta/screen_bold.png)
-![](/meta/screen_fill.png)
+![Screenshot Thin](/meta/screen_thin.png)
+![Screenshot Light](/meta/screen_light.png)
+![Screenshot Regular](/meta/screen_regular.png)
+![Screenshot Bold](/meta/screen_bold.png)
+![Screenshot Fill](/meta/screen_fill.png)
 
 ## Example App
 
