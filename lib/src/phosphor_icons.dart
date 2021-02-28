@@ -10246,5 +10246,4 @@ abstract class PhosphorIcons {
 
   /// ![youtube-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/youtube-logo-thin.svg)
   static const youtubeLogoThin = PhosphorIconData(0xf6bb);
-
 }

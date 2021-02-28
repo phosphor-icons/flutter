@@ -20,11 +20,28 @@ dependencies:
 
 ## Usage
 
+### Simple Icons
+
 Just add a `Icon()` widget passing any Phosphor Icon value
 
 ```dart
 Icon(
   PhosphorIcons.pencilLine,
+),
+```
+
+### [WIP] Duotone Icons
+
+Use `PhosphorIconDuo()` widget directly passing a `PhosphorIconDataRegular` as icon.
+
+You could use a secondary color for the shadow, if not the shadow will be the same
+as the main color with an opacity of 0.2,
+
+```dart
+PhosphorIconDuotone(
+  icon: PhosphorIcons.pencilLine,
+  color: Colors.green,
+  secondaryColor: Colors.yellow,
 ),
 ```
 
