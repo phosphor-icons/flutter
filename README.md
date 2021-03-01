@@ -18,15 +18,41 @@ dependencies:
   phosphor_flutter: ^any
 ```
 
+Then run the pub get command
+
+```bash
+flutter pub get
+```
+
 ## Usage
 
 ### Normal Icons
 
-Just add a `Icon()` widget passing any Phosphor Icon value
+Just add a `Icon()` widget passing any Phosphor Icon value like any Material Icon
 
 ```dart
+// With Material Icons
 Icon(
-  PhosphorIcons.pencilLine,
+  Icons.edit, // Pencil icon
+),
+
+// With Phosphor Icons
+Icon(
+  PhosphorIcons.pencil, // Pencil Icon
+),
+```
+
+You could use any property of the [`Icon widget`](https://api.flutter.dev/flutter/widgets/Icon-class.html) to personalize the icon.
+
+```dart
+// This will show the [Note Pencil] icon in its fill version
+// with a size of 30.0, green color and a semantic label for
+// screen readers.
+Icon(
+  PhosphorIcons.notePencilFill,
+  color: Colors.green,
+  size: 30.0,
+  semanticLabel: 'New Note',
 ),
 ```
 
