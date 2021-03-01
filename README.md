@@ -11,11 +11,78 @@ Phosphor is a flexible icon family for interfaces, diagrams, presentations — w
 
 ## Installation
 
-> **TDB**
+Add this to your `pubspec.yaml`
+
+```yaml
+dependencies:
+  phosphor_flutter: ^any
+```
+
+Then run the pub get command
+
+```bash
+flutter pub get
+```
 
 ## Usage
 
-> **TDB**
+### Normal Icons
+
+Just add a `Icon()` widget passing any Phosphor Icon value like any Material Icon
+
+```dart
+// With Material Icons
+Icon(
+  Icons.edit, // Pencil icon
+),
+
+// With Phosphor Icons
+Icon(
+  PhosphorIcons.pencil, // Pencil Icon
+),
+```
+
+You could use any property of the [`Icon widget`](https://api.flutter.dev/flutter/widgets/Icon-class.html) to personalize the icon.
+
+```dart
+// This will show the [Note Pencil] icon in its fill version
+// with a size of 30.0, green color and a semantic label for
+// screen readers.
+Icon(
+  PhosphorIcons.notePencilFill,
+  color: Colors.green,
+  size: 30.0,
+  semanticLabel: 'New Note',
+),
+```
+
+All the icons has their thin, light, regular, bold and fill versions.
+
+### [WIP] Duotone Icons
+
+The Duotone icons are still a work in progress
+
+## ScreenShots
+
+![Screenshot Thin](/meta/screen_thin.png)
+![Screenshot Light](/meta/screen_light.png)
+![Screenshot Regular](/meta/screen_regular.png)
+![Screenshot Bold](/meta/screen_bold.png)
+![Screenshot Fill](/meta/screen_fill.png)
+
+## Example App
+
+You could see all the widgets with the example app.
+
+### Installing
+
+- Download the APK from releases page and install in your device
+
+### From source code
+
+- Clone the repo
+- Open directory example `cd example`
+- Run flutter `flutter run`
 
 ## Related Projects
 
