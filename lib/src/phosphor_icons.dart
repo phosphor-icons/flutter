@@ -4106,7 +4106,7 @@ abstract class PhosphorIcons {
   /// ![airplane](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/airplane.svg)
   static const airplane = PhosphorIconData(0xee57);
 
-  /// ![airplane-in-flight](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/flight/airplane-in-flight.svg)
+  /// ![airplane-in-flight](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/airplane-in-flight.svg)
   static const airplaneInFlight = PhosphorIconData(0xee58);
 
   /// ![airplane-landing](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/airplane-landing.svg)
@@ -4781,7 +4781,7 @@ abstract class PhosphorIcons {
   /// ![cloud-fog](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cloud-fog.svg)
   static const cloudFog = PhosphorIconData(0xef38);
 
-  /// ![cloud-lightning](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/lightning/cloud-lightning.svg)
+  /// ![cloud-lightning](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cloud-lightning.svg)
   static const cloudLightning = PhosphorIconData(0xef39);
 
   /// ![cloud-moon](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/cloud-moon.svg)
@@ -5069,7 +5069,7 @@ abstract class PhosphorIcons {
   /// ![flag](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/flag.svg)
   static const flag = PhosphorIconData(0xef98);
 
-  /// ![flashlight](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/flashlight/flashlight.svg)
+  /// ![flashlight](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/flashlight.svg)
   static const flashlight = PhosphorIconData(0xef99);
 
   /// ![floppy-disk](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/floppy-disk.svg)
@@ -5306,13 +5306,13 @@ abstract class PhosphorIcons {
   /// ![leaf](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/leaf.svg)
   static const leaf = PhosphorIconData(0xefe7);
 
-  /// ![lightbulb](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/lightbulb/lightbulb.svg)
+  /// ![lightbulb](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/lightbulb.svg)
   static const lightbulb = PhosphorIconData(0xefe8);
 
-  /// ![lightning](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/lightning/lightning.svg)
+  /// ![lightning](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/lightning.svg)
   static const lightning = PhosphorIconData(0xefe9);
 
-  /// ![lightning-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/slash/lightning-slash.svg)
+  /// ![lightning-slash](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/lightning-slash.svg)
   static const lightningSlash = PhosphorIconData(0xefea);
 
   /// ![link](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/link.svg)
@@ -5963,7 +5963,7 @@ abstract class PhosphorIcons {
   /// ![text-align-right](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/text-align-right.svg)
   static const textAlignRight = PhosphorIconData(0xf0c2);
 
-  /// ![text-bolder](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/bolder/text-bolder.svg)
+  /// ![text-bolder](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/text-bolder.svg)
   static const textBolder = PhosphorIconData(0xf0c3);
 
   /// ![text-italic](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/regular/text-italic.svg)
@@ -10246,4 +10246,5 @@ abstract class PhosphorIcons {
 
   /// ![youtube-logo-thin](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/thin/youtube-logo-thin.svg)
   static const youtubeLogoThin = PhosphorIconData(0xf6bb);
+
 }
