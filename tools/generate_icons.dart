@@ -1,5 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
+import 'utils.dart';
 
 /// Phosphor Icons generator
 /// reads the phosphor json and generates a dart class
@@ -18,6 +19,8 @@ abstract class PhosphorIcons {""",
   ];
   final constantsLines = <String>[];
 
+  var iconsStylesMap = <String, List<String>>{};
+
   icons.forEach((icon) {
     var setIdx = icon['setIdx'];
     if (setIdx == 1) {
@@ -28,9 +31,11 @@ abstract class PhosphorIcons {""",
       String name = formatName(fullName);
       String style = fullName.split('-').last;
 
-      if (!fullName.contains(RegExp(r'(fill|bold|thin|light)'))) {
+      if (!fullName.contains(RegExp(r'(?<=-)(fill|bold|thin|light)$'))) {
         style = 'regular';
       }
+
+      saveStyles(iconsStylesMap, fullName);
 
       constantsLines.add(
         '/// ![$fullName](https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/$style/$fullName.svg)',
@@ -39,21 +44,12 @@ abstract class PhosphorIcons {""",
     }
   });
 
+  checkStyles(iconsStylesMap);
+
   fileLines.addAll(constantsLines);
 
   final finalString = fileLines.join('\n  ') + '\n}';
 
   final resultFile = File('./lib/src/phosphor_icons.dart');
   resultFile.writeAsStringSync(finalString);
-}
-
-String formatName(String name) {
-  final splitName = name.toLowerCase().split('-');
-  return splitName
-      .map((word) {
-        if (splitName.indexOf(word) == 0) return word;
-        return word.replaceFirst(word[0], word[0].toUpperCase());
-      })
-      .toList()
-      .join();
 }
