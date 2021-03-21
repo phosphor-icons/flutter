@@ -12,10 +12,10 @@ void main(List<String> arguments) {
   final icons = json.decode(jsonFile.readAsStringSync())['icons'];
 
   final fileLines = [
-    """// Auto Generated File
+    '''// Auto Generated File
 import 'package:phosphor_flutter/src/phosphor_icon_data.dart';
 
-abstract class PhosphorIcons {""",
+abstract class PhosphorIcons {''',
   ];
   final constantsLines = <String>[];
 
@@ -23,7 +23,7 @@ abstract class PhosphorIcons {""",
 
   icons.forEach((icon) {
     var setIdx = icon['setIdx'];
-    if (setIdx == 1) {
+    if (setIdx == 0) {
       var properties = icon['properties'];
       int code = properties['code'];
       String hexCode = '0x' + code.toRadixString(16);
