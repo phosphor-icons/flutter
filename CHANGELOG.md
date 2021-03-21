@@ -16,7 +16,11 @@ Added in this release:
 airplane-tilt, anchor-simple, app-window, armchair, arrow-square-in, arrow-square-out, article-medium, article-ny-times, atom, bag-simple, bell-ringing, bell-z, bell-simple-ringing, bell-simple-z, bookmarks-simple, briefcase-metal, bug, bug-beetle, bug-droid, cardholder, chalkboard, chalkboard-simple, chalkboard-teacher, circle-dashed, circle-wavy, circle-wavy-check, circle-wavy-question, circle-wavy-warning, coin, cpu, crown, crown-simple, currency-btc, discord-logo, door, file-arrow-up, fire-simple, flag-banner, flame, frame-corners, gauge, ghost, graduation-cap, hand-soap, handbag-simple, highlighter-circle, infinity, knife, lamp, lifebuoy, lightbulb-filament, magnet, magnet-straight, marker-circle, megaphone-simple, mouse-simple, notepad, ny-times-logo, paw-print, pen-nib, picture-in-picture, pinterest-logo, placeholder, planet, presentation, presentation-chart, projector-screen, projector-screen-chart, push-pin-simple, push-pin-simple-slash, quotes, scribble-loop, sim-card, smiley-wink, snapchat-logo, spinner, spinner-gap, spotify-logo, t-shirt, tag-chevron, toggle-left, toggle-right, traffic-sign, tree-structure, trophy, umbrella, umbrella-simple, wall, wallet
 ```
 
+<<<<<<< HEAD
+> **Note:** This package is to be considered in beta and is subject to change
+=======
 > This version its considerate as beta because the missing duo tone style
+>>>>>>> 09359f2988a93f85b17c4ef5d8854b8db9020fde
 
 ---
 
@@ -32,4 +36,4 @@ Support the next styles
 - Bold
 - Fill
 
-> This version its considerate as beta because the missing duo tone style
+> **Note:** This package is to be considered in beta and is subject to change
