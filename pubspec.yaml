@@ -1,12 +1,12 @@
 name: phosphor_flutter
 description: Implementation of Phosphoricons for Flutter. 588 icons and counting. Thin, Light, Regular, Bold, Fill.
-version: 1.1.2
+version: 1.2.0
 maintainer: Rurick Maqueo Poisot @rurickdev
 homepage: https://phosphoricons.com/
 repository: https://github.com/phosphor-icons/phosphor-flutter
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.17.0 <2.0.0"
 
 dependencies:

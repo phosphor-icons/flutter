@@ -19,7 +19,7 @@ void saveStyles(Map<String, List<String>> iconsStylesMap, String fullName) {
   }
   var baseName = fullNameAsList.join('-');
   iconsStylesMap[baseName] ??= [];
-  iconsStylesMap[baseName].add(style);
+  iconsStylesMap[baseName]!.add(style);
 }
 
 /// Checks if all the icons in the map has his five styles

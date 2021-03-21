@@ -12,11 +12,11 @@ void main(List<String> arguments) {
   final icons = json.decode(jsonFile.readAsStringSync())['icons'];
 
   final fileLines = [
-    """// Auto Generated File
+    '''// Auto Generated File
 
 import 'package:phosphor_flutter/phosphor_flutter.dart';
 
-abstract class AllIcons {""",
+abstract class AllIcons {''',
   ];
   final mapGetterContent = <String>[
     '''
@@ -63,7 +63,7 @@ abstract class AllIcons {""",
 
   icons.forEach((icon) {
     var setIdx = icon['setIdx'];
-    if (setIdx == 1) {
+    if (setIdx == 0) {
       var properties = icon['properties'];
       String fullName = properties['name'];
       String name = formatName(fullName);
