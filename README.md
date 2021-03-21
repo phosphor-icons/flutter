@@ -72,7 +72,7 @@ The Duotone icons are still a work in progress
 
 ## Example App
 
-You could see all the widgets with the example app.
+You could see all the icons within the example app.
 
 ### Installing
 
