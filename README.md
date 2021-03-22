@@ -9,21 +9,6 @@ Phosphor is a flexible icon family for interfaces, diagrams, presentations — w
 [![GitHub watchers](https://img.shields.io/github/watchers/phosphor-icons/phosphor-flutter?style=flat-square&label=Watch)](https://github.com/phosphor-icons/phosphor-flutter)
 [![Follow on GitHub](https://img.shields.io/github/followers/rektdeckard?style=flat-square&label=Follow)](https://github.com/rektdeckard)
 
-## Installation
-
-Add this to your `pubspec.yaml`
-
-```yaml
-dependencies:
-  phosphor_flutter: ^any
-```
-
-Then run the pub get command
-
-```bash
-flutter pub get
-```
-
 ## Usage
 
 ### Normal Icons
