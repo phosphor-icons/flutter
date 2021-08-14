@@ -124,6 +124,6 @@ abstract class AllIcons {''',
 
   final finalString = fileLines.join('\n  ') + '\n}';
 
-  final resultFile = File('./example/lib/constants/all_icons.dart');
+  final resultFile = File('../example/lib/constants/all_icons.dart');
   resultFile.writeAsStringSync(finalString);
 }
