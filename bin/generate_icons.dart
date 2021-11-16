@@ -50,6 +50,6 @@ abstract class PhosphorIcons {''',
 
   final finalString = fileLines.join('\n  ') + '\n}';
 
-  final resultFile = File('./lib/src/phosphor_icons.dart');
+  final resultFile = File('../lib/src/phosphor_icons.dart');
   resultFile.writeAsStringSync(finalString);
 }
