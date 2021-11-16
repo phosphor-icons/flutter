@@ -1,4 +1,4 @@
-import 'package:example/constants/all_icons.dart';
+import 'package:icons_catalog/constants/all_icons.dart';
 import 'package:flutter/material.dart';
 import 'package:phosphor_flutter/phosphor_flutter.dart';
 

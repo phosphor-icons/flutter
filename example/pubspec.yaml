@@ -1,5 +1,5 @@
-name: example
-description: A new Flutter project.
+name: icons_catalog
+description: Catalog of icons showing a preview of them.
 publish_to: "none"
 
 environment:
