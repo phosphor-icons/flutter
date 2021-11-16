@@ -1,0 +1,18 @@
+name: phosphoricons_generator
+maintainer: Rurick Maqueo Poisot @rurickdev
+version: 2.0.0
+homepage: https://phosphoricons.com/
+repository: https://github.com/phosphor-icons/phosphor-flutter
+publish_to: none
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  archive: ^3.1.6
+  code_builder: ^4.1.0
+  dart_style: ^2.2.0
+  http: ^0.13.4
+
+dev_dependencies:
+  lints: ^1.0.1
