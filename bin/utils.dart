@@ -1,3 +1,10 @@
+import 'dart:convert';
+import 'dart:io';
+import 'dart:typed_data';
+
+import 'package:archive/archive.dart';
+import 'package:http/http.dart' as http;
+
 /// Format the icon name in camelCase
 String formatName(String name) {
   final splitName = name.toLowerCase().split('-');
@@ -33,5 +40,83 @@ Found ${iconStyles.value}
 Should be ${['regular', 'fill', 'bold', 'thin', 'light']}
 ''',
       );
+  }
+}
+
+/// Write a [String] to a file
+void saveContentToFile({
+  required String filePath,
+  required String content,
+}) {
+  final resultFile = File(filePath);
+  if (!resultFile.existsSync()) {
+    resultFile.createSync(
+      recursive: true,
+    );
+  }
+  resultFile.writeAsStringSync(
+    '''// Auto generated File
+// DON'T EDIT BY HAND
+
+$content''',
+  );
+}
+
+/// Downloads to memory a the latest release zip [Archive]
+/// from Phosphor Github repository
+Future<Uint8List> downloadPhosphorZip() async {
+  final client = http.Client();
+  final jsonUrl = Uri.parse(
+    'https://api.github.com/repos/phosphor-icons/phosphor-home/releases/latest',
+  );
+  final request = await client.get(jsonUrl);
+  final releaseJson = jsonDecode(request.body);
+  final downloadUrl = Uri.tryParse(
+    releaseJson['assets'][0]['browser_download_url'] as String,
+  );
+
+  if (downloadUrl == null) {
+    throw Exception('Download Url is null');
+  } else {
+    print('-------- DOWNLOAD URL:------------');
+    print('$downloadUrl');
+    print('----------------------------------');
+    final fileRequest = await client.get(downloadUrl);
+    return fileRequest.bodyBytes;
+  }
+}
+
+/// Extracts a file from a zip [Archive]
+/// and writes it to disk
+///
+/// [filePath] is the path of the file inside the zip
+///
+/// [outputPath] is the path where the extracted file will be saved to disk
+/// This should include the extension.
+/// If this is omitted the extracted file will be saved following the path as
+/// [filePath]
+File extractFileFromZip({
+  required Archive zip,
+  required String filePath,
+  String? outputPath,
+}) {
+  print('Extracting $filePath');
+  final extractedArchive = zip.findFile(filePath);
+  if (extractedArchive == null) {
+    throw Exception('$filePath was not found inside zip');
+  }
+  print('Saving in $outputPath');
+  final extractedFile = File(outputPath ?? filePath)
+    ..createSync(recursive: true)
+    ..writeAsBytesSync(extractedArchive.content as List<int>);
+
+  return extractedFile;
+}
+
+void deleteFile(String path) {
+  final file = File(path);
+  if (file.existsSync()) {
+    print('Deleting $path');
+    file.deleteSync();
   }
 }
