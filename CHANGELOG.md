@@ -1,5 +1,61 @@
 # CHANGELOG
 
+## [1.4.0] - 2021/12/24
+
+## New icons
+
+This release adds 153 new icons to the family:
+
+`alien`, `align-bottom-simple`, `align-center-horizontal-simple`, `align-center-vertical-simple`, `align-left-simple`, `align-right-simple`, `align-top-simple`, `angular-logo`, `app-store-logo`, `apple-podcasts-logo`, `arrows-horizontal`, `arrows-vertical`, `asterisk-simple`, `backpack`, `balloon`, `barricade`, `bathtub`, `battery-plus`, `beer-bottle`, `behance-logo`, `bezier-curve`, `binoculars`, `butterfly`, `cactus`, `camera-rotate`, `campfire`, `circle-notch`, `coat-hanger`, `codepen-logo`, `codesandbox-logo`, `coin-vertical`, `coins`, `confetti`, `copyleft`, `currency-eth`, `currency-kzt`, `currency-ngn`, `cursor-text`, `cylinder`, `detective`, `diamonds-four`, `drop-half-bottom`, `egg`, `egg-crack`, `equalizer`, `exam`, `eyedropper-sample`, `eyeglasses`, `file-audio`, `file-cloud`, `file-code`, `file-css`, `file-csv`, `file-doc`, `file-html`, `file-image`, `file-jpg`, `file-js`, `file-jsx`, `file-lock`, `file-png`, `file-ppt`, `file-rs`, `file-ts`, `file-tsx`, `file-video`, `file-vue`, `file-xls`, `file-zip`, `film-script`, `film-slate`, `flag-checkered`, `flying-saucer`, `folder-dotted`, `folder-lock`, `folder-star`, `folder-user`, `folder-simple-dotted`, `folder-simple-lock`, `folder-simple-star`, `folder-simple-user`, `function`, `google-chrome-logo`, `google-photos-logo`, `google-podcasts-logo`, `gradient`, `graph`, `hamburger`, `hand-eye`, `heart-break`, `heart-straight-break`, `kanban`, `keyhole`, `ladder`, `ladder-simple`, `linux-logo`, `list-checks`, `mask-happy`, `mask-sad`, `microphone-stage`, `microsoft-excel-logo`, `microsoft-powerpoint-logo`, `microsoft-teams-logo`, `microsoft-word-logo`, `mountains`, `music-notes-plus`, `needle`, `option`, `parachute`, `password`, `pencil-simple-line`, `perspective`, `piano-keys`, `pinwheel`, `plug`, `plugs`, `plugs-connected`, `police-car`, `popcorn`, `radio-button`, `rug`, `scan`, `scroll`, `shield-star`, `sidebar`, `sidebar-simple`, `signpost`, `skull`, `spiral`, `square-half-bottom`, `stack-overflow-logo`, `stamp`, `strategy`, `sunglasses`, `syringe`, `tabs`, `taxi`, `text-indent`, `text-outdent`, `textbox`, `toilet`, `trademark-registered`, `traffic-cone`, `traffic-signal`, `user-switch`, `vault`, `vignette`, `wave-sawtooth`, `wave-sine`, `wave-square`, `wave-triangle`, `webcam`, `yin-yang`
+
+## Regressions
+
+Due to limitations with our tools, our icon font no longer supports ligatures, for the time being. Use the unicode codepoints, or class names provided on our site if in a web context. We're looking for a solution to this, and hope to have one soon.
+
+## Revisions
+
+### Notable changes:
+
+- Redrew `film-strip` to be more readable
+<img width="306" alt="1 4-film-strip-change" src="https://user-images.githubusercontent.com/26732044/147204627-8fca8120-ff31-414f-b051-a800bbaa090c.png">
+
+- Added one more line to `pencil` and `pencil-line` to push some contrast with the `pencil-simple` set; use `pencil-simple` for a more minimal approach
+<img width="306" alt="1 4-pencil-change" src="https://user-images.githubusercontent.com/26732044/147204661-01ca69e9-79bc-4385-8bb7-f8d32e5fd174.png">
+
+- Adjusted dotted line to solid line for `star-half-fill` and `star-half-duotone`
+<img width="306" alt="1 4-star-half-change" src="https://user-images.githubusercontent.com/26732044/147204672-71a3afa2-c036-470b-a39b-4237b782fafc.png">
+
+- Hatching approach reworked across `drop-half`, `circle-half`, `circle-half-tilt`, and `square-half`
+<img width="306" alt="1 4-hatching-change" src="https://user-images.githubusercontent.com/26732044/147204693-4400eb30-28ec-429a-abf0-ec1a3d50bdf1.png">
+
+### Micro enhancements:
+- Adjusted `file-pdf` slightly as we expand the `file` set
+- Softened sharp outer edges in  handful of icons: `armchair-fill`, `dribbble-logo-fill`, `facebook-logo-fill`, `pinterest-logo-fill`, `briefcase-metal-fill`, `download-fill`, `upload-fill`, `airplay-fill`, `wall-fill`, `ruler-fill`, `baby-fill`, `cat-fill`, `gauge-fill`, `cloud-fog-fill`, `cloud-check-fill`, `cloud-arrow-up-fill`, `cloud-arrow-down-fill`, `cloud-lightning-fill`, `cloud-rain-fill`, `cloud-snow-fill`, `cloud-fill`, `paper-plane-fill`, `paper-plane-right-fill`, `paper-plane-tilt-fill`, `jeep-fill`, `at-fill`, `wifi-x-fill`, `cell-signal-x-fill`, `floppy-disk-back-fill`, `heartbeat-fill`, `baseball-fill`, `tennis-ball-fill`, `basketball-fill`
+
+### Visual bugs:
+- Fixed `hands-clapping-fill` and `hands-clapping-duotone` to be the right weight
+- Fixed a corner radius mistake in one corner of `pencil-simple`
+
+### Refactoring:
+- Anchor points cleaned up in many icons
+- Duplicate elements removed from `truck`, `key`, `hand`, `hand-palm`, and `hand-grabbing` sets
+- Joined lines in `hand-pointing` set
+
+## Related projects
+
+Check out our plugins for popular design tools:
+
+- [phosphor-figma](https://www.figma.com/community/plugin/898620911119764089/Phosphor-Icons) ▲ Phosphor plugin for Figma
+- [phosphor-sketch](https://github.com/phosphor-icons/phosphor-sketch) ▲ Phosphor plugin for Sketch
+
+For developers, please check out our framework-specific packages:
+
+- [phosphor-react](https://github.com/phosphor-icons/phosphor-react) ▲ Phosphor icon component library for React
+- [phosphor-vue](https://github.com/phosphor-icons/phosphor-vue) ▲ Phosphor icon component library for Vue
+- [phosphor-icons](https://github.com/phosphor-icons/phosphor-icons) ▲ Phosphor icons for Vanilla JS
+- [phosphor-flutter](https://github.com/phosphor-icons/phosphor-flutter) ▲ Phosphor IconData library for Flutter
+- [phosphor-webcomponents](https://github.com/phosphor-icons/phosphor-webcomponents) ▲ Phosphor icons as Web Components [WIP]
+
 ## [1.3.1] - 2021/08/14
 
 ### New icons
