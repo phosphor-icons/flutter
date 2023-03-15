@@ -1,4 +1,4 @@
-package com.example.example
+package com.phosphoricons.flutter.demo
 
 import io.flutter.embedding.android.FlutterActivity
 
