@@ -6,8 +6,11 @@ import 'package:archive/archive.dart';
 import 'package:http/http.dart' as http;
 
 /// Format the icon name in camelCase
-String formatName(String name) {
+String formatName(String name, {required String style}) {
   final splitName = name.toLowerCase().split('-');
+  if (style != 'regular') {
+    splitName.removeLast();
+  }
   return splitName
       .map((word) {
         if (splitName.indexOf(word) == 0) return word;
