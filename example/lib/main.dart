@@ -1,6 +1,7 @@
-import 'package:icons_catalog/constants/all_icons.dart';
 import 'package:flutter/material.dart';
 import 'package:phosphor_flutter/phosphor_flutter.dart';
+
+import 'constants/all_icons.dart';
 
 void main() {
   runApp(MyApp());
@@ -10,11 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-        visualDensity: VisualDensity.adaptivePlatformDensity,
-      ),
+      title: 'Phosphor Icons Demo',
       home: IconsCatalog(),
     );
   }
@@ -62,7 +59,7 @@ class _IconsCatalogState extends State<IconsCatalog> {
         actions: [
           PopupMenuButton<String>(
             tooltip: 'Style',
-            icon: Icon(PhosphorIcons.pencilLine),
+            icon: Icon(PhosphorIcons.regular.pencilLine),
             itemBuilder: (context) {
               return {
                 'Thin',
@@ -75,19 +72,19 @@ class _IconsCatalogState extends State<IconsCatalog> {
 
                 switch (style) {
                   case 'Regular':
-                    icon = PhosphorIcons.pencilLine;
+                    icon = PhosphorIcons.regular.pencilLine;
                     break;
                   case 'Bold':
-                    icon = PhosphorIcons.pencilLineBold;
+                    icon = PhosphorIcons.bold.pencilLine;
                     break;
                   case 'Fill':
-                    icon = PhosphorIcons.pencilLineFill;
+                    icon = PhosphorIcons.fill.pencilLine;
                     break;
                   case 'Light':
-                    icon = PhosphorIcons.pencilLineLight;
+                    icon = PhosphorIcons.light.pencilLine;
                     break;
                   case 'Thin':
-                    icon = PhosphorIcons.pencilLineThin;
+                    icon = PhosphorIcons.thin.pencilLine;
                     break;
                   default:
                     break;
