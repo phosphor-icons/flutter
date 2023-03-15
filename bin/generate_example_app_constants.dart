@@ -3,6 +3,15 @@ import 'package:dart_style/dart_style.dart';
 
 import 'utils.dart';
 
+const styles = {
+  'bold',
+  'fill',
+  'light',
+  'thin',
+  // 'duotone',
+  'regular',
+};
+
 /// Phosphor Icons generator
 /// reads the phosphor json and generates a dart class
 /// with all the phosphor icons constants
@@ -19,38 +28,28 @@ void generateExampleAppConstants(List icons) {
 
   final mapThinGetterBody = <String>[];
 
-  var iconsStylesMap = <String, List<String>>{};
-
   icons.forEach((icon) {
-    var setIdx = icon['setIdx'];
-    if (setIdx == 0) {
-      final properties = icon['properties'] as Map<String, dynamic>;
-      final fullName = properties['name'] as String;
-      final name = formatName(fullName);
-      var style = fullName.split('-').last;
-
-      if (!fullName.contains(RegExp(r'(?<=-)(fill|bold|thin|light)$'))) {
-        style = 'regular';
-      }
-
-      saveStyles(iconsStylesMap, fullName);
+    final properties = icon['properties'] as Map<String, dynamic>;
+    final fullName = properties['name'] as String;
+    for (var style in styles) {
+      final name = formatName(fullName, style: 'regular');
 
       switch (style) {
         case 'bold':
-          mapBoldGetterBody.add("'$fullName': PhosphorIcons.$name,");
+          mapBoldGetterBody.add("'$fullName': PhosphorIcons.$style.$name,");
           break;
         case 'fill':
-          mapFillGetterBody.add("'$fullName': PhosphorIcons.$name,");
+          mapFillGetterBody.add("'$fullName': PhosphorIcons.$style.$name,");
           break;
         case 'light':
-          mapLightGetterBody.add("'$fullName': PhosphorIcons.$name,");
+          mapLightGetterBody.add("'$fullName': PhosphorIcons.$style.$name,");
           break;
         case 'thin':
-          mapThinGetterBody.add("'$fullName': PhosphorIcons.$name,");
+          mapThinGetterBody.add("'$fullName': PhosphorIcons.$style.$name,");
           break;
         case 'regular':
         default:
-          mapRegularGetterBody.add("'$fullName': PhosphorIcons.$name,");
+          mapRegularGetterBody.add("'$fullName': PhosphorIcons.$style.$name,");
           break;
       }
     }
@@ -61,8 +60,6 @@ void generateExampleAppConstants(List icons) {
   mapLightGetterBody.sort();
   mapRegularGetterBody.sort();
   mapThinGetterBody.sort();
-
-  checkStyles(iconsStylesMap);
 
   final allIconsClass = Class(
     (classBuilder) => classBuilder

@@ -7,35 +7,58 @@ import 'generate_example_app_constants.dart';
 import 'generate_package_icons.dart';
 import 'utils.dart';
 
+const fileNames = {
+  // zip containing directory : file name
+  'bold': 'Phosphor-Bold.ttf', // idx 3
+  'fill': 'Phosphor-Fill.ttf', // idx 4
+  'light': 'Phosphor-Light.ttf', // idx 2
+  'thin': 'Phosphor-Thin.ttf', // idx 1
+  // 'duotone': 'Phosphor-Duotone.ttf', // idx 5
+  'regular': 'Phosphor.ttf', // idx 0
+};
+
 void main(List<String> args) async {
   try {
     print('Downloading latest phosphor release zip');
     final zipBytes = await downloadPhosphorZip();
     final zipArchive = ZipDecoder().decodeBytes(zipBytes);
 
-    final phosphorJson = extractFileFromZip(
-      zip: zipArchive,
-      filePath: 'Icon Font/Font/Phosphor.json',
-      outputPath: 'Phosphor.json',
-    );
+    for (final entry in fileNames.entries) {
+      print('Working with ${entry.key} style');
 
-    deleteFile('../lib/fonts/phosphor.ttf');
-    extractFileFromZip(
-      zip: zipArchive,
-      filePath: 'Icon Font/Font/Phosphor.ttf',
-      outputPath: '../lib/fonts/phosphor.ttf',
-    );
+      final styleName = entry.key;
+      final styleDirPath = '2.0.0/Fonts/$styleName';
+      final fontFileName = entry.value;
+      final fontExtractFilePath = '../lib/fonts/$fontFileName';
 
-    final icons = jsonDecode(phosphorJson.readAsStringSync())['icons'] as List;
-    generatePackageIcons(icons);
-    generateExampleAppConstants(icons);
+      final styleJson = extractFileFromZip(
+        zip: zipArchive,
+        filePath: '$styleDirPath/selection.json',
+        outputPath: 'selection_$styleName.json',
+      );
+      deleteFile(fontExtractFilePath);
+      extractFileFromZip(
+        zip: zipArchive,
+        filePath: '$styleDirPath/$fontFileName',
+        outputPath: fontExtractFilePath,
+      );
 
-    deleteFile('Phosphor.json');
+      final icons = jsonDecode(styleJson.readAsStringSync())['icons'] as List;
+      generateStyleClass(icons, style: styleName);
+
+      if (styleName == 'regular') {
+        generateExampleAppConstants(icons);
+      }
+
+      deleteFile('selection_$styleName.json');
+    }
+
+    generateMainClass(fileNames.keys.toList());
 
     print('All files generated');
+    exit(0);
   } catch (e) {
     print(e);
     exit(1);
   }
-  exit(0);
 }
