@@ -1,20 +1,11 @@
 import 'package:code_builder/code_builder.dart';
 import 'package:dart_style/dart_style.dart';
 
+import 'style_file_data.dart';
 import 'utils.dart';
 
-const styles = {
-  'bold',
-  'fill',
-  'light',
-  'thin',
-  // 'duotone',
-  'regular',
-};
-
-/// Phosphor Icons generator
-/// reads the phosphor json and generates a dart class
-/// with all the phosphor icons constants
+/// reads a list of icons graphs and generates a dart class
+/// with all the phosphor icons constants from the generated files
 void generateExampleAppConstants(List icons) {
   print('Generating example app all_icons.dart file');
 
@@ -28,28 +19,34 @@ void generateExampleAppConstants(List icons) {
 
   final mapThinGetterBody = <String>[];
 
+  final mapDuotoneGetterBody = <String>[];
+
   icons.forEach((icon) {
     final properties = icon['properties'] as Map<String, dynamic>;
     final fullName = properties['name'] as String;
-    for (var style in styles) {
+    for (final style in StyleFileData.values) {
       final name = formatName(fullName, style: 'regular');
+      final mapEntryLine =
+          "'$fullName': PhosphorIcons.${style.styleName}.$name";
 
       switch (style) {
-        case 'bold':
-          mapBoldGetterBody.add("'$fullName': PhosphorIcons.$style.$name,");
+        case StyleFileData.bold:
+          mapBoldGetterBody.add(mapEntryLine);
           break;
-        case 'fill':
-          mapFillGetterBody.add("'$fullName': PhosphorIcons.$style.$name,");
+        case StyleFileData.fill:
+          mapFillGetterBody.add(mapEntryLine);
           break;
-        case 'light':
-          mapLightGetterBody.add("'$fullName': PhosphorIcons.$style.$name,");
+        case StyleFileData.light:
+          mapLightGetterBody.add(mapEntryLine);
           break;
-        case 'thin':
-          mapThinGetterBody.add("'$fullName': PhosphorIcons.$style.$name,");
+        case StyleFileData.thin:
+          mapThinGetterBody.add(mapEntryLine);
           break;
-        case 'regular':
-        default:
-          mapRegularGetterBody.add("'$fullName': PhosphorIcons.$style.$name,");
+        case StyleFileData.regular:
+          mapRegularGetterBody.add(mapEntryLine);
+          break;
+        case StyleFileData.duotone:
+          mapDuotoneGetterBody.add(mapEntryLine);
           break;
       }
     }
@@ -60,6 +57,7 @@ void generateExampleAppConstants(List icons) {
   mapLightGetterBody.sort();
   mapRegularGetterBody.sort();
   mapThinGetterBody.sort();
+  mapDuotoneGetterBody.sort();
 
   final allIconsClass = Class(
     (classBuilder) => classBuilder
@@ -70,15 +68,15 @@ void generateExampleAppConstants(List icons) {
           buildMethod(
             returnType: 'List<PhosphorIconData>',
             name: 'icons',
-            body: 'allIconsAsMap.values.toList()',
+            body: 'allFlatIconsAsMap.values.toList()',
           ),
           buildMethod(
             returnType: 'List<String>',
             name: 'names',
-            body: 'allIconsAsMap.keys.toList()',
+            body: 'allFlatIconsAsMap.keys.toList()',
           ),
           buildMethod(
-            name: 'allIconsAsMap',
+            name: 'allFlatIconsAsMap',
             body: '''{
       ...boldIcons,
       ...fillIcons,
@@ -88,23 +86,28 @@ void generateExampleAppConstants(List icons) {
           ),
           buildMethod(
             name: 'boldIcons',
-            body: '{${mapBoldGetterBody.join()}}',
+            body: '{${mapBoldGetterBody.join(',')}}',
           ),
           buildMethod(
             name: 'fillIcons',
-            body: '{${mapFillGetterBody.join()}}',
+            body: '{${mapFillGetterBody.join(',')}}',
           ),
           buildMethod(
             name: 'lightIcons',
-            body: '{${mapLightGetterBody.join()}}',
+            body: '{${mapLightGetterBody.join(',')}}',
           ),
           buildMethod(
             name: 'regularIcons',
-            body: '{${mapRegularGetterBody.join()}}',
+            body: '{${mapRegularGetterBody.join(',')}}',
           ),
           buildMethod(
             name: 'thinIcons',
-            body: '{${mapThinGetterBody.join()}}',
+            body: '{${mapThinGetterBody.join(',')}}',
+          ),
+          buildMethod(
+            name: 'duotoneIcons',
+            returnType: 'Map<String, Widget>',
+            body: '{${mapDuotoneGetterBody.join(',')}}',
           ),
         ],
       ),
@@ -112,11 +115,14 @@ void generateExampleAppConstants(List icons) {
 
   final allFilesLib = Library(
     (libraryBuilder) => libraryBuilder
-      ..directives.add(
+      ..directives.addAll([
+        Directive.import(
+          'package:flutter/widgets.dart',
+        ),
         Directive.import(
           'package:phosphor_flutter/phosphor_flutter.dart',
         ),
-      )
+      ])
       ..body.add(allIconsClass),
   );
 
@@ -131,6 +137,18 @@ void generateExampleAppConstants(List icons) {
   );
 }
 
+/// Returns a getter method and defaults to return a
+/// Map<String, PhosphorIconData>
+///
+/// for example, if no [returnType] is passed, [name] is `'bold'` and
+/// [body] is `{pencil: PhosphorIcons.bold.pencil,}` then this will be the
+/// result
+///
+/// ```dart
+/// Map<String, PhosphorIconData> get bold => {
+///   pencil: PhosphorIcons.bold.pencil,
+/// }
+/// ```
 Method buildMethod({
   String returnType = 'Map<String, PhosphorIconData>',
   required String name,
