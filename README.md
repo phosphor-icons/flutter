@@ -127,6 +127,32 @@ Icon(
 
 All the icons has their thin, light, regular, bold and fill versions.
 
+## Migration Guide
+
+To migrate from v1.0.0 to 2.0.0 you just need to change all your
+`PhosphorIcons.iconStyle` to the new syntax `PhosphorIcons.style.icon`.
+For example:
+
+```dart
+// previous
+Icon(
+  PhosphorIcons.pencilFill, // Pencil Fill Icon
+)
+
+// new
+Icon(
+  PhosphorIcons.fill.pencil, // Pencil Fill Icon
+)
+
+// new and suggested
+PhosphorIcon(
+  PhosphorIcons.fill.pencil, // Pencil Fill Icon
+)
+```
+
+Also, we encourage you to use our new `PhosphorIcon` widget to have support for
+duotone icons.
+
 ## Example App
 
 You could see all the icons within the example app.
