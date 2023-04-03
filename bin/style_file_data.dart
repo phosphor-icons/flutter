@@ -53,8 +53,3 @@ enum StyleFileData {
   String get classFileName => 'phosphor_icons_$styleName.dart';
   String get classConstructorLine => '$className()';
 }
-
-// all styles excluding duotone because it needs a different treatment
-final flatStylesData = StyleFileData.values
-    .where((style) => style != StyleFileData.duotone)
-    .toList();
