@@ -76,15 +76,11 @@ void generateStyleClass(List icons, {required StyleFileData style}) {
 
   final phosphorLib = Library(
     (libraryBuilder) => libraryBuilder
-      ..directives.addAll([
+      ..directives.add(
         Directive.import(
           'package:phosphor_flutter/src/phosphor_icon_data.dart',
         ),
-        if (style == StyleFileData.duotone)
-          Directive.import(
-            'package:flutter/widgets.dart',
-          ),
-      ])
+      )
       ..body.add(phosphorIconsClass),
   );
 
@@ -108,31 +104,18 @@ Field buildFieldIconByStyle(dynamic icon, {required StyleFileData style}) {
 
   late Code codeStatement;
 
-  if (style == StyleFileData.duotone) {
-    if (properties['codes'] != null) {
-      final graphCodes = (properties['codes'] as List).cast<int>();
-      final backgroundHexCode = '0x' + graphCodes.first.toRadixString(16);
-      final foregroundHexCode = '0x' + graphCodes.last.toRadixString(16);
-      codeStatement = Code(
-        """Stack(
-      children: [
-        Icon(PhosphorIconData($backgroundHexCode, '${style.styleName.capitalize()}')),
-        Icon(PhosphorIconData($foregroundHexCode, '${style.styleName.capitalize()}')),
-      ],
-    )""",
-      );
-    } else {
-      final graphCode = properties['code'] as int;
-      final hexCode = '0x' + graphCode.toRadixString(16);
-      codeStatement = Code(
-        "Icon(PhosphorIconData($hexCode, '${style.styleName.capitalize()}'))",
-      );
-    }
+  if (style == StyleFileData.duotone && properties['codes'] != null) {
+    final graphCodes = (properties['codes'] as List).cast<int>();
+    final backgroundHexCode = '0x' + graphCodes.first.toRadixString(16);
+    final foregroundHexCode = '0x' + graphCodes.last.toRadixString(16);
+    codeStatement = Code(
+      "PhosphorDuotoneIconData($foregroundHexCode, PhosphorIconData($backgroundHexCode, 'duotone'),)",
+    );
   } else {
     final graphCode = properties['code'] as int;
     final hexCode = '0x' + graphCode.toRadixString(16);
     codeStatement = Code(
-      "PhosphorIconData($hexCode, '${style.styleName.capitalize()}')",
+      "PhosphorFlatIconData($hexCode, '${style.styleName.capitalize()}')",
     );
   }
 
