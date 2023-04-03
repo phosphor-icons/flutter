@@ -4,13 +4,13 @@ import 'package:phosphor_flutter/phosphor_flutter.dart';
 import 'constants/all_icons.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(_MyApp());
 }
 
-class MyApp extends StatelessWidget {
+class _MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       title: 'Phosphor Icons Demo',
       home: IconsCatalog(),
     );
@@ -18,10 +18,10 @@ class MyApp extends StatelessWidget {
 }
 
 class IconsCatalog extends StatefulWidget {
-  IconsCatalog({Key key}) : super(key: key);
+  const IconsCatalog({Key key}) : super(key: key);
 
   @override
-  _IconsCatalogState createState() => _IconsCatalogState();
+  State<IconsCatalog> createState() => _IconsCatalogState();
 }
 
 class _IconsCatalogState extends State<IconsCatalog> {
@@ -44,7 +44,7 @@ class _IconsCatalogState extends State<IconsCatalog> {
         leading: Padding(
           padding: const EdgeInsets.all(8.0),
           child: Container(
-            decoration: BoxDecoration(
+            decoration: const BoxDecoration(
               image: DecorationImage(
                 image: AssetImage(
                   'assets/images/phosphor-mark-tight-yellow.png',
@@ -55,30 +55,25 @@ class _IconsCatalogState extends State<IconsCatalog> {
           ),
         ),
         centerTitle: true,
-        backgroundColor: Color(0xff35313d),
+        backgroundColor: const Color(0xff35313d),
         actions: [
           PopupMenuButton<String>(
             tooltip: 'Style',
             icon: Icon(PhosphorIcons.regular.pencilLine),
             itemBuilder: (context) {
-              return {
+              return [
+                'Regular',
                 'Thin',
                 'Light',
-                'Regular',
                 'Bold',
                 'Fill',
-              }.map((style) {
-                var icon;
+                'Duotone',
+              ].map((style) {
+                PhosphorIconData icon;
 
                 switch (style) {
                   case 'Regular':
                     icon = PhosphorIcons.regular.pencilLine;
-                    break;
-                  case 'Bold':
-                    icon = PhosphorIcons.bold.pencilLine;
-                    break;
-                  case 'Fill':
-                    icon = PhosphorIcons.fill.pencilLine;
                     break;
                   case 'Light':
                     icon = PhosphorIcons.light.pencilLine;
@@ -86,32 +81,49 @@ class _IconsCatalogState extends State<IconsCatalog> {
                   case 'Thin':
                     icon = PhosphorIcons.thin.pencilLine;
                     break;
-                  default:
+                  case 'Bold':
+                    icon = PhosphorIcons.bold.pencilLine;
+                    break;
+                  case 'Fill':
+                    icon = PhosphorIcons.fill.pencilLine;
+                    break;
+                  case 'Duotone':
+                    icon = PhosphorIcons.duotone.pencilLine;
                     break;
                 }
 
                 return PopupMenuItem<String>(
+                  value: style,
                   child: Row(
                     children: [
-                      Icon(
+                      PhosphorIcon(
                         icon,
                         color: Colors.black,
                       ),
-                      SizedBox(
-                        width: 8,
-                      ),
+                      const SizedBox(width: 8),
                       Text(style),
                     ],
                   ),
-                  value: style,
                 );
               }).toList();
             },
             onSelected: (value) {
-              var icons;
-              var iconsNames;
+              List<PhosphorIconData> icons;
+              List<String> iconsNames;
 
               switch (value) {
+                case 'Regular':
+                  icons = AllIcons.regularIcons.values.toList();
+                  iconsNames = AllIcons.regularIcons.keys.toList();
+                  break;
+                case 'Thin':
+                  icons = AllIcons.thinIcons.values.toList();
+                  iconsNames = AllIcons.thinIcons.keys.toList();
+                  break;
+                case 'Light':
+                  icons = AllIcons.lightIcons.values.toList();
+                  iconsNames = AllIcons.lightIcons.keys.toList();
+                  break;
                 case 'Bold':
                   icons = AllIcons.boldIcons.values.toList();
                   iconsNames = AllIcons.boldIcons.keys.toList();
@@ -120,18 +132,9 @@ class _IconsCatalogState extends State<IconsCatalog> {
                   icons = AllIcons.fillIcons.values.toList();
                   iconsNames = AllIcons.fillIcons.keys.toList();
                   break;
-                case 'Light':
-                  icons = AllIcons.lightIcons.values.toList();
-                  iconsNames = AllIcons.lightIcons.keys.toList();
-                  break;
-                case 'Thin':
-                  icons = AllIcons.thinIcons.values.toList();
-                  iconsNames = AllIcons.thinIcons.keys.toList();
-                  break;
-                case 'Regular':
-                default:
-                  icons = AllIcons.regularIcons.values.toList();
-                  iconsNames = AllIcons.regularIcons.keys.toList();
+                case 'Duotone':
+                  icons = AllIcons.duotoneIcons.values.toList();
+                  iconsNames = AllIcons.duotoneIcons.keys.toList();
                   break;
               }
 
@@ -147,7 +150,7 @@ class _IconsCatalogState extends State<IconsCatalog> {
       body: GridView.builder(
         shrinkWrap: true,
         primary: true,
-        gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+        gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
           crossAxisCount: 3,
           crossAxisSpacing: 0,
           mainAxisSpacing: 0,
@@ -160,7 +163,7 @@ class _IconsCatalogState extends State<IconsCatalog> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 if (_icons is List<PhosphorIconData>)
-                  Icon(
+                  PhosphorIcon(
                     _icons[index],
                     size: 48,
                   )
