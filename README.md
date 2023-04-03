@@ -9,6 +9,15 @@ Phosphor is a flexible icon family for interfaces, diagrams, presentations — w
 [![GitHub watchers](https://img.shields.io/github/watchers/phosphor-icons/phosphor-flutter?style=flat-square&label=Watch)](https://github.com/phosphor-icons/phosphor-flutter)
 [![Follow on GitHub](https://img.shields.io/github/followers/rektdeckard?style=flat-square&label=Follow)](https://github.com/rektdeckard)
 
+## ScreenShots
+
+![Screenshot Regular](/meta/screenshot_regular.png)
+![Screenshot Thin](/meta/screenshot_thin.png)
+![Screenshot Light](/meta/screenshot_light.png)
+![Screenshot Bold](/meta/screenshot_bold.png)
+![Screenshot Fill](/meta/screenshot_fill.png)
+![Screenshot Duotone](/meta/screenshot_duotone.png)
+
 ## Installation
 
 Add this to your `pubspec.yaml`
@@ -26,9 +35,69 @@ flutter pub get
 
 ## Usage
 
-### Normal Icons
+### `PhosphorIcon` Widget
 
-Just add a `Icon()` widget passing any Phosphor Icon value like any Material Icon
+The easiest way to use all the Phosphor Icon with you app is to use our
+`PhosphorIcon` and pass any of our `PhosphorIcons` to it.
+
+```dart
+// import the package
+import 'package:phosphor_flutter/phosphor_flutter.dart';
+
+// This will show the [Note Pencil] icon in it's fill version
+// with a size of 30.0, green color and a semantic label for
+// screen readers.
+PhosphorIcon(
+  PhosphorIcons.fill.notePencil,
+  color: Colors.green,
+  size: 30.0,
+  semanticLabel: 'New Note',
+),
+```
+
+you could also use the duotone style like this
+
+```dart
+// import the package
+import 'package:phosphor_flutter/phosphor_flutter.dart';
+
+// This will show the [Note Pencil] icon in it's duotone version
+PhosphorIcon(
+  PhosphorIcons.duotone.notePencil,
+  color: Colors.green,
+),
+```
+
+by default the secondary color will be the same as the one passed here but with
+a 20% of opacity, but you can easily override that behavior with the
+`duotoneSecondaryOpacity` and `duotoneSecondaryColor` properties
+
+```dart
+// import the package
+import 'package:phosphor_flutter/phosphor_flutter.dart';
+
+// This will show the [Note Pencil] icon in it's duotone version where the
+// foreground color will be green and the background color will be yellow
+// with an opacity of 50%
+PhosphorIcon(
+  PhosphorIcons.duotone.notePencil,
+  color: Colors.green,
+  duotoneSecondaryOpacity: 0.50,
+  duotoneSecondaryColor: Color.yellow,
+),
+```
+
+you can even make the opacity 100% to have a real duocolor icon.
+
+### Flutter `Icon` Widget
+
+You can use the native flutter `Icon()` widget passing any `PhosphorIcon` value
+like any Material Icon
+
+> NOTE: Due some limitations with the flutter `Icon` widget when you pass a duotone
+> icon it will render it as a simple icon, for this case prefer to use our
+> custom `PhosphorIcon` widget that works the same as `Icon` but support our
+> duotone style
 
 ```dart
 // With Material Icons
@@ -38,18 +107,18 @@ Icon(
 
 // With Phosphor Icons
 Icon(
-  PhosphorIcons.pencil, // Pencil Icon
+  PhosphorIcons.regular.pencil, // Pencil Icon
 ),
 ```
 
 You could use any property of the [`Icon widget`](https://api.flutter.dev/flutter/widgets/Icon-class.html) to personalize the icon.
 
 ```dart
-// This will show the [Note Pencil] icon in its fill version
+// This will show the [Note Pencil] icon in it's fill version
 // with a size of 30.0, green color and a semantic label for
 // screen readers.
 Icon(
-  PhosphorIcons.notePencilFill,
+  PhosphorIcons.fill.notePencil,
   color: Colors.green,
   size: 30.0,
   semanticLabel: 'New Note',
@@ -58,31 +127,17 @@ Icon(
 
 All the icons has their thin, light, regular, bold and fill versions.
 
-### [WIP] Duotone Icons
-
-The Duotone icons are still a work in progress
-
-## ScreenShots
-
-![Screenshot Thin](/meta/screen_thin.png)
-![Screenshot Light](/meta/screen_light.png)
-![Screenshot Regular](/meta/screen_regular.png)
-![Screenshot Bold](/meta/screen_bold.png)
-![Screenshot Fill](/meta/screen_fill.png)
-
 ## Example App
 
 You could see all the icons within the example app.
 
-### Installing
+Just clone the repository and run the next commands
 
-- Download the APK from releases page and install in your device
-
-### From source code
-
-- Clone the repo
-- Open directory example `cd example`
-- Run flutter `flutter run`
+```bash
+cd phosphor_flutter/example
+flutter pub get
+flutter run
+```
 
 ## Our Related Projects
 
