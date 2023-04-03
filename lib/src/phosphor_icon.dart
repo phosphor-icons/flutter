@@ -12,6 +12,8 @@ class PhosphorIcon extends StatelessWidget {
     this.shadows,
     this.size,
     this.textDirection,
+    this.duotoneSecondaryOpacity = 0.20,
+    this.duotoneSecondaryColor,
   }) : super(key: key);
 
   final PhosphorIconData icon;
@@ -20,18 +22,20 @@ class PhosphorIcon extends StatelessWidget {
   final List<Shadow>? shadows;
   final double? size;
   final TextDirection? textDirection;
+  final double duotoneSecondaryOpacity;
+  final Color? duotoneSecondaryColor;
 
   @override
   Widget build(BuildContext context) {
     if (icon is PhosphorDuotoneIconData) {
-      final duoIcon = icon as PhosphorDuotoneIconData;
+      final duotoneIcon = icon as PhosphorDuotoneIconData;
       return Stack(
         children: [
           Opacity(
-            opacity: 0.20,
+            opacity: duotoneSecondaryOpacity,
             child: Icon(
-              duoIcon.secondary,
-              color: color,
+              duotoneIcon.secondary,
+              color: duotoneSecondaryColor ?? color,
               semanticLabel: semanticLabel,
               shadows: shadows,
               size: size,
@@ -39,7 +43,7 @@ class PhosphorIcon extends StatelessWidget {
             ),
           ),
           Icon(
-            duoIcon,
+            duotoneIcon,
             color: color,
             semanticLabel: semanticLabel,
             shadows: shadows,
