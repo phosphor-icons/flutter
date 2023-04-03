@@ -4,6 +4,19 @@ version: 2.0.0
 maintainer: Rurick Maqueo Poisot @rurickdev
 homepage: https://phosphoricons.com/
 repository: https://github.com/phosphor-icons/phosphor-flutter
+screenshots:
+  - description: Regular style icons
+    path: meta/screenshot_regular.png
+  - description: Thin style icons
+    path: meta/screenshot_thin.png
+  - description: Light style icons
+    path: meta/screenshot_light.png
+  - description: Bold style icons
+    path: meta/screenshot_bold.png
+  - description: Fill style icons
+    path: meta/screenshot_fill.png
+  - description: Duotone style icons
+    path: meta/screenshot_duotone.png
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
