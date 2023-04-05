@@ -53,6 +53,49 @@ void generateMainClass(List<StyleFileData> styles) {
   );
 }
 
+const baseStyle = "PhosphorIconsBase";
+const baseStyleFileName = "phosphor_icons_base.dart";
+
+/// Generates an abstract class that exposes all the icons that every style extends
+void generateBaseClass(List icons) {
+  final methods = icons.map((icon) => buildBaseFieldIcon(icon)).toList();
+  final phosphorIconsClass = Class((classBuilder) {
+    classBuilder
+      ..abstract = true
+      ..name = baseStyle
+      ..methods.addAll(methods);
+  });
+
+  final phosphorLib = Library(
+    (libraryBuilder) => libraryBuilder
+      ..directives.addAll([
+        Directive.import(
+          'package:phosphor_flutter/src/phosphor_icon_data.dart',
+        ),
+      ])
+      ..body.add(phosphorIconsClass),
+  );
+
+  final emitter = DartEmitter();
+  final generatedFileContent = DartFormatter().format(
+    '${phosphorLib.accept(emitter)}',
+  );
+  saveContentToFile(
+    filePath: '../lib/src/$baseStyleFileName',
+    content: generatedFileContent,
+  );
+}
+
+Method buildBaseFieldIcon(dynamic icon) {
+  final properties = icon['properties'] as Map<String, dynamic>;
+  final fullName = properties['name'] as String;
+  final name = formatName(fullName, style: 'regular');
+  return Method((methodBuilder) => methodBuilder
+    ..name = name
+    ..type = MethodType.getter
+    ..returns = Reference('PhosphorIconData'));
+}
+
 /// reads the phosphor json  of one style and generates a dart class
 /// with all the phosphor icons constants for that style
 void generateStyleClass(List icons, {required StyleFileData style}) {
@@ -67,20 +110,24 @@ void generateStyleClass(List icons, {required StyleFileData style}) {
     // sort the element alphabetically
     ..sort((a, b) => a.name.compareTo(b.name));
 
-  final phosphorIconsClass = Class(
-    (classBuilder) => classBuilder
+  final phosphorIconsClass = Class((classBuilder) {
+    classBuilder
       ..abstract = false
       ..name = style.className
-      ..fields.addAll(fields),
-  );
+      ..fields.addAll(fields);
+    classBuilder.extend = Reference(baseStyle);
+  });
 
   final phosphorLib = Library(
     (libraryBuilder) => libraryBuilder
-      ..directives.add(
+      ..directives.addAll([
         Directive.import(
           'package:phosphor_flutter/src/phosphor_icon_data.dart',
         ),
-      )
+        Directive.import(
+          'package:phosphor_flutter/src/$baseStyleFileName',
+        ),
+      ])
       ..body.add(phosphorIconsClass),
   );
 

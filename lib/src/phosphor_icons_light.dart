@@ -2,8 +2,9 @@
 // DON'T EDIT BY HAND
 
 import 'package:phosphor_flutter/src/phosphor_icon_data.dart';
+import 'package:phosphor_flutter/src/phosphor_icons_base.dart';
 
-class PhosphorIconsLight {
+class PhosphorIconsLight extends PhosphorIconsBase {
   /// ![address-book-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/address-book-light.svg)
   final addressBook = PhosphorFlatIconData(0xe900, 'Light');
 
