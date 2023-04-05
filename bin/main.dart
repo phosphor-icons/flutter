@@ -55,7 +55,6 @@ Future<void> _processStyleFileInZip(
   generateStyleClass(icons, style: styleData);
 
   if (styleData.styleName == 'regular') {
-    generateBaseClass(icons);
     generateExampleAppConstants(icons);
   }
 

@@ -53,39 +53,6 @@ void generateMainClass(List<StyleFileData> styles) {
   );
 }
 
-const baseStyle = "PhosphorIconsBase";
-const baseStyleFileName = "phosphor_icons_base.dart";
-
-/// Generates an abstract class that exposes all the icons that every style extends
-void generateBaseClass(List icons) {
-  final methods = icons.map((icon) => buildBaseFieldIcon(icon)).toList();
-  final phosphorIconsClass = Class((classBuilder) {
-    classBuilder
-      ..abstract = true
-      ..name = baseStyle
-      ..methods.addAll(methods);
-  });
-
-  final phosphorLib = Library(
-    (libraryBuilder) => libraryBuilder
-      ..directives.addAll([
-        Directive.import(
-          'package:phosphor_flutter/src/phosphor_icon_data.dart',
-        ),
-      ])
-      ..body.add(phosphorIconsClass),
-  );
-
-  final emitter = DartEmitter();
-  final generatedFileContent = DartFormatter().format(
-    '${phosphorLib.accept(emitter)}',
-  );
-  saveContentToFile(
-    filePath: '../lib/src/$baseStyleFileName',
-    content: generatedFileContent,
-  );
-}
-
 Method buildBaseFieldIcon(dynamic icon) {
   final properties = icon['properties'] as Map<String, dynamic>;
   final fullName = properties['name'] as String;
@@ -101,6 +68,8 @@ Method buildBaseFieldIcon(dynamic icon) {
 void generateStyleClass(List icons, {required StyleFileData style}) {
   print('Generating style abstract class ${style.classFileName} file');
 
+  final baseStyle = StyleFileData.regular;
+
   final fields = icons
       // filter only valid graphs by idx of the style
       .where((icon) => icon['setIdx'] as int == style.idx)
@@ -115,7 +84,8 @@ void generateStyleClass(List icons, {required StyleFileData style}) {
       ..abstract = false
       ..name = style.className
       ..fields.addAll(fields);
-    classBuilder.extend = Reference(baseStyle);
+    if (style != baseStyle)
+      classBuilder.extend = Reference(baseStyle.className);
   });
 
   final phosphorLib = Library(
@@ -124,9 +94,10 @@ void generateStyleClass(List icons, {required StyleFileData style}) {
         Directive.import(
           'package:phosphor_flutter/src/phosphor_icon_data.dart',
         ),
-        Directive.import(
-          'package:phosphor_flutter/src/$baseStyleFileName',
-        ),
+        if (style != baseStyle)
+          Directive.import(
+            'package:phosphor_flutter/src/${baseStyle.classFileName}',
+          ),
       ])
       ..body.add(phosphorIconsClass),
   );
@@ -169,7 +140,8 @@ Field buildFieldIconByStyle(dynamic icon, {required StyleFileData style}) {
   return Field(
     (fieldBuilder) => fieldBuilder
       ..docs.add(iconDocs)
-      ..modifier = FieldModifier.final$
+      ..modifier = FieldModifier.constant
+      ..static = true
       ..name = name
       ..assignment = codeStatement,
   );
