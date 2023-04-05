@@ -1,5 +1,112 @@
 # CHANGELOG
 
+## [2.0.0] - 2023/04/04
+
+This release adds 201 new icons to the family:
+
+`air-traffic-control`, `amazon-logo`, `arrows-merge`, `arrows-split`, `baseball-cap`, `basket`, `battery-plus-vertical`, `battery-vertical-empty`, `battery-vertical-full`, `battery-vertical-high`, `battery-vertical-low`, `battery-vertical-medium`, `beer-stein`, `bone`, `book-open-text`, `boot`, `bowl-food`, `bridge`, `broom`, `call-bell`, `camera-plus`, `car-profile`, `caret-circle-up-down`, `caret-up-down`, `carrot`, `cassette-tape`, `castle-turret`, `certificate`, `chair`, `champagne`, `charging-station`, `chart-donut`, `chart-line-down`, `chart-polar`, `chart-scatter`, `check-fat`, `church`, `circuitry`, `clock-countdown`, `cloud-warning`, `cloud-x`, `coda-logo`, `code-block`, `compass-tool`, `contactless-payment`, `control`, `couch`, `cross`, `cube-focus`, `cube-transparent`, `cursor-click`, `dev-to-logo`, `devices`, `dna`, `door-open`, `dot`, `dot-outline`, `dress`, `dropbox-logo`, `elevator`, `engine`, `escalator-down`, `escalator-up`, `exclude`, `exclude-square`, `fan`, `feather`, `file-archive`, `file-sql`, `file-svg`, `film-reel`, `fire-extinguisher`, `flag-pennant`, `flower-tulip`, `footprints`, `garage`, `gas-can`, `gavel`, `gear-fine`, `goggles`, `goodreads-logo`, `google-cardboard-logo`, `google-drive-logo`, `grains`, `grains-slash`, `grid-nine`, `guitar`, `hammer`, `hand-coins`, `hand-heart`, `hand-swipe-left`, `hand-swipe-right`, `hand-tap`, `hands-praying`, `heart-half`, `high-heel`, `hoodie`, `ice-cream`, `images`, `images-square`, `intersect-square`, `intersect-three`, `lighthouse`, `lightning-a`, `list-magnifying-glass`, `lockers`, `medal-military`, `meta-logo`, `metronome`, `microsoft-outlook-logo`, `minus-square`, `moped`, `moped-front`, `mosque`, `motorcycle`, `notches`, `notion-logo`, `office-chair`, `orange-slice`, `pants`, `paragraph`, `parallelogram`, `park`, `patreon-logo`, `paypal-logo`, `pencil-simple-slash`, `pencil-slash`, `pentagram`, `pepper`, `person-arms-spread`, `person-simple-bike`, `person-simple-throw`, `phone-plus`, `pi`, `piggy-bank`, `plant`, `play-pause`, `plug-charging`, `plus-square`, `potted-plant`, `radioactive`, `read-cv-logo`, `receipt-x`, `road-horizon`, `scooter`, `shapes`, `share-fat`, `shirt-folded`, `shooting-star`, `shrimp`, `sigma`, `signature`, `siren`, `slideshow`, `smiley-angry`, `sneaker`, `sneaker-move`, `soundcloud-logo`, `speaker-hifi`, `split-horizontal`, `split-vertical`, `square-split-horizontal`, `square-split-vertical`, `stairs`, `star-and-crescent`, `star-of-david`, `steering-wheel`, `steps`, `stethoscope`, `stool`, `subtitles`, `subtract`, `subtract-square`, `suitcase-rolling`, `swimming-pool`, `synagogue`, `tent`, `text-a-underline`, `text-columns`, `tidal-logo`, `tipi`, `toolbox`, `tooth`, `trademark`, `tram`, `tree-palm`, `unite`, `unite-square`, `usb`, `van`, `video`, `vinyl-record`, `virtual-reality`, `virus`, `warehouse`, `warning-diamond`, `waveform`, `webcam-slash`, `webhooks-logo`, `wechat-logo`, `wheelchair-motion`
+
+## Features
+
+- Backing fonts are now split by weight, reducing bundle size if you only use a subset of them
+- Adds `PhosphorIcon` widget, which enables duotone weight and richer customization
+
+## Migration Guide
+
+To migrate from v1.0.0 to 2.0.0 you just need to change all your
+`PhosphorIcons.iconStyle` to the new syntax `PhosphorIcons.style.icon`.
+For example:
+
+```dart
+// previous
+Icon(
+  PhosphorIcons.pencilFill, // Pencil Fill Icon
+)
+
+// new
+Icon(
+  PhosphorIcons.fill.pencil, // Pencil Fill Icon
+)
+
+// new and suggested
+PhosphorIcon(
+  PhosphorIcons.fill.pencil, // Pencil Fill Icon
+)
+```
+
+Also, we encourage you to use our new `PhosphorIcon` widget to have support for
+duotone icons.
+
+## Revisions
+
+### Notable changes:
+
+- Distinct Fill and Duotone weights added for all icons
+- Revised `github-logo` to better resemble their logo
+- Revised `gitlab-logo` and `gitlab-logo-simple` to resemble their new logo
+- Changed `battery-` set to be narrower
+- Simplified `books` from 3 to 2 books
+- Changed shape of `buildings`
+- Updated `cell-signal-` set with bars for the Regular, Thin, Light, and Bold weights
+- Revised `flag-banner` to appear to be in motion
+- Simplified `image-square` to 1 mountain and updated `image` to have 2 discrete mountains
+- Changed `calendar` date from "31" to "12"
+- Thickened `cursor` stem
+- Adjusted `bus` to read more like bus
+- Rounded the corners in `money`
+- Improved stem on `leaf-fill`
+- Updated the ticks on `gauge`
+- Inverted the fill treatments for `map-trifold-fill` and `cake-fill`
+- Simplified `address-book` from 4 to 3 spiral rings
+- Slimmed down `git-` set
+- Revised scale of `number-` set
+- Improved lettering of the `file-` set and `closed-captioning`
+- Filled more of `grid-four-fill` and `barbell-fill`
+- Simplified fill treatments for `pen-nib-fill`, `pen-nib-straight`, `lock-key-fill`, and `lock-key-open-fill`
+
+### Visual bugs and refactors:
+
+- Fixed crooked lines in `codesandbox-logo`, `cube`, `star-half`, `star`, `hourglass-low`
+- Fixed mispositioned lines in `paper-plane`, `credit-card`, `trophy`, `paperclip-horizontal`, `file-search`, `bicycle`
+- Fixed extra anchor points or elements in `film-strip-fill`, `file-search-fill`, `wrench`, `floppy-disk`, `paw-print`, `truck`, `smiley-sad`, `text-strikethrough`
+- Fixed incorrect opacity in `toilet-duotone`, `dots-three-outline-duotone`, `dots-three-outline-vertical-duotone`
+- Fixed incorrect stroke thickness in `keyboard`, `terminal-window`
+- Fixed corner radii in `video-camera`, `gauge-fill`
+- Fixed optical alignment of `navigation-arrow`
+
+### Renames:
+
+Some icon names were confusing or broke with convention and have been renamed. For backwards compatibility and ease of upgrade, existing names will continue to be available as aliases, though may be removed in future releases.
+
+- Renamed `activity` to `pulse`
+- Renamed `circle-wavy` to `seal`
+- Renamed `circle-wavy-check` to `seal-check`
+- Renamed `circle-wavy-question` to `seal-question`
+- Renamed `circle-wavy-warning` to `seal-warning`
+- Renamed `file-dotted` to `file-dashed`
+- Renamed `file-search` to `file-magnifying-glass`
+- Renamed `folder-dotted` to `folder-dashed`
+- Renamed `folder-simple-dotted` to `folder-simple-dashed`
+- Renamed `text-bolder` to `text-b`
+
+## Related projects
+
+Check out our plugins for popular design tools:
+
+- [@phosphor-icons/figma](https://www.figma.com/community/plugin/898620911119764089/Phosphor-Icons) ▲ Phosphor plugin for Figma
+- [@phosphor-icons/sketch](https://github.com/phosphor-icons/phosphor-sketch) ▲ Phosphor plugin for Sketch
+
+For developers, please check out our framework-specific packages:
+
+- [@phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) ▲ Phosphor homepage and general info
+- [@phosphor-icons/core](https://github.com/phosphor-icons/core) ▲ Phosphor icon assets and catalog
+- [@phosphor-icons/react](https://github.com/phosphor-icons/react) ▲ Phosphor icon component library for React
+- [@phosphor-icons/web](https://github.com/phosphor-icons/web) ▲ Phosphor icons for Vanilla JS
+- [@phosphor-icons/vue](https://github.com/phosphor-icons/vue) ▲ Phosphor icon component library for Vue
+- [@phosphor-icons/elm](https://github.com/phosphor-icons/phosphor-elm) ▲ Phosphor icons for Elm
+- [@phosphor-icons/flutter](https://github.com/phosphor-icons/flutter) ▲ Phosphor IconData library for Flutter
+- [@phosphor-icons/webcomponents](https://github.com/phosphor-icons/webcomponents) ▲ Phosphor icons as Web Components
+
 ## [1.4.0] - 2021/12/24
 
 ## New icons
@@ -17,26 +124,29 @@ Due to limitations with our tools, our icon font no longer supports ligatures, f
 ### Notable changes:
 
 - Redrew `film-strip` to be more readable
-<img width="306" alt="1 4-film-strip-change" src="https://user-images.githubusercontent.com/26732044/147204627-8fca8120-ff31-414f-b051-a800bbaa090c.png">
+  <img width="306" alt="1 4-film-strip-change" src="https://user-images.githubusercontent.com/26732044/147204627-8fca8120-ff31-414f-b051-a800bbaa090c.png">
 
 - Added one more line to `pencil` and `pencil-line` to push some contrast with the `pencil-simple` set; use `pencil-simple` for a more minimal approach
-<img width="306" alt="1 4-pencil-change" src="https://user-images.githubusercontent.com/26732044/147204661-01ca69e9-79bc-4385-8bb7-f8d32e5fd174.png">
+  <img width="306" alt="1 4-pencil-change" src="https://user-images.githubusercontent.com/26732044/147204661-01ca69e9-79bc-4385-8bb7-f8d32e5fd174.png">
 
 - Adjusted dotted line to solid line for `star-half-fill` and `star-half-duotone`
-<img width="306" alt="1 4-star-half-change" src="https://user-images.githubusercontent.com/26732044/147204672-71a3afa2-c036-470b-a39b-4237b782fafc.png">
+  <img width="306" alt="1 4-star-half-change" src="https://user-images.githubusercontent.com/26732044/147204672-71a3afa2-c036-470b-a39b-4237b782fafc.png">
 
 - Hatching approach reworked across `drop-half`, `circle-half`, `circle-half-tilt`, and `square-half`
-<img width="306" alt="1 4-hatching-change" src="https://user-images.githubusercontent.com/26732044/147204693-4400eb30-28ec-429a-abf0-ec1a3d50bdf1.png">
+  <img width="306" alt="1 4-hatching-change" src="https://user-images.githubusercontent.com/26732044/147204693-4400eb30-28ec-429a-abf0-ec1a3d50bdf1.png">
 
 ### Micro enhancements:
+
 - Adjusted `file-pdf` slightly as we expand the `file` set
-- Softened sharp outer edges in  handful of icons: `armchair-fill`, `dribbble-logo-fill`, `facebook-logo-fill`, `pinterest-logo-fill`, `briefcase-metal-fill`, `download-fill`, `upload-fill`, `airplay-fill`, `wall-fill`, `ruler-fill`, `baby-fill`, `cat-fill`, `gauge-fill`, `cloud-fog-fill`, `cloud-check-fill`, `cloud-arrow-up-fill`, `cloud-arrow-down-fill`, `cloud-lightning-fill`, `cloud-rain-fill`, `cloud-snow-fill`, `cloud-fill`, `paper-plane-fill`, `paper-plane-right-fill`, `paper-plane-tilt-fill`, `jeep-fill`, `at-fill`, `wifi-x-fill`, `cell-signal-x-fill`, `floppy-disk-back-fill`, `heartbeat-fill`, `baseball-fill`, `tennis-ball-fill`, `basketball-fill`
+- Softened sharp outer edges in handful of icons: `armchair-fill`, `dribbble-logo-fill`, `facebook-logo-fill`, `pinterest-logo-fill`, `briefcase-metal-fill`, `download-fill`, `upload-fill`, `airplay-fill`, `wall-fill`, `ruler-fill`, `baby-fill`, `cat-fill`, `gauge-fill`, `cloud-fog-fill`, `cloud-check-fill`, `cloud-arrow-up-fill`, `cloud-arrow-down-fill`, `cloud-lightning-fill`, `cloud-rain-fill`, `cloud-snow-fill`, `cloud-fill`, `paper-plane-fill`, `paper-plane-right-fill`, `paper-plane-tilt-fill`, `jeep-fill`, `at-fill`, `wifi-x-fill`, `cell-signal-x-fill`, `floppy-disk-back-fill`, `heartbeat-fill`, `baseball-fill`, `tennis-ball-fill`, `basketball-fill`
 
 ### Visual bugs:
+
 - Fixed `hands-clapping-fill` and `hands-clapping-duotone` to be the right weight
 - Fixed a corner radius mistake in one corner of `pencil-simple`
 
 ### Refactoring:
+
 - Anchor points cleaned up in many icons
 - Duplicate elements removed from `truck`, `key`, `hand`, `hand-palm`, and `hand-grabbing` sets
 - Joined lines in `hand-pointing` set
