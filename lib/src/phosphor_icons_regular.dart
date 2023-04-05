@@ -4,6 +4,8 @@
 import 'package:phosphor_flutter/src/phosphor_icon_data.dart';
 
 class PhosphorIconsRegular {
+  const PhosphorIconsRegular();
+
   /// ![address-book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/address-book.svg)
   static const addressBook = PhosphorFlatIconData(0xe900, 'Regular');
 

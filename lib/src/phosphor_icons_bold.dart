@@ -2,9 +2,10 @@
 // DON'T EDIT BY HAND
 
 import 'package:phosphor_flutter/src/phosphor_icon_data.dart';
-import 'package:phosphor_flutter/src/phosphor_icons_regular.dart';
 
-class PhosphorIconsBold extends PhosphorIconsRegular {
+class PhosphorIconsBold {
+  const PhosphorIconsBold();
+
   /// ![address-book-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/address-book-bold.svg)
   static const addressBook = PhosphorFlatIconData(0xe900, 'Bold');
 

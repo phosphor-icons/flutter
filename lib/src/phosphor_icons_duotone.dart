@@ -2,9 +2,10 @@
 // DON'T EDIT BY HAND
 
 import 'package:phosphor_flutter/src/phosphor_icon_data.dart';
-import 'package:phosphor_flutter/src/phosphor_icons_regular.dart';
 
-class PhosphorIconsDuotone extends PhosphorIconsRegular {
+class PhosphorIconsDuotone {
+  const PhosphorIconsDuotone();
+
   /// ![address-book-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/address-book-duotone.svg)
   static const addressBook = PhosphorDuotoneIconData(
     0xe901,
