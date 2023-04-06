@@ -59,41 +59,13 @@ class _IconsCatalogState extends State<IconsCatalog> {
         actions: [
           PopupMenuButton<String>(
             tooltip: 'Style',
-            icon: Icon(PhosphorIcons.regular.pencilLine),
+            icon: Icon(PhosphorIcons.pencilLine(PhosphorIconsStyle.regular)),
             itemBuilder: (context) {
-              return [
-                'Regular',
-                'Thin',
-                'Light',
-                'Bold',
-                'Fill',
-                'Duotone',
-              ].map((style) {
-                PhosphorIconData icon;
-
-                switch (style) {
-                  case 'Regular':
-                    icon = PhosphorIcons.regular.pencilLine;
-                    break;
-                  case 'Light':
-                    icon = PhosphorIcons.light.pencilLine;
-                    break;
-                  case 'Thin':
-                    icon = PhosphorIcons.thin.pencilLine;
-                    break;
-                  case 'Bold':
-                    icon = PhosphorIcons.bold.pencilLine;
-                    break;
-                  case 'Fill':
-                    icon = PhosphorIcons.fill.pencilLine;
-                    break;
-                  case 'Duotone':
-                    icon = PhosphorIcons.duotone.pencilLine;
-                    break;
-                }
+              return PhosphorIconsStyle.values.map((style) {
+                PhosphorIconData icon = PhosphorIcons.pencilLine(style);
 
                 return PopupMenuItem<String>(
-                  value: style,
+                  value: style.name,
                   child: Row(
                     children: [
                       PhosphorIcon(
@@ -101,7 +73,7 @@ class _IconsCatalogState extends State<IconsCatalog> {
                         color: Colors.black,
                       ),
                       const SizedBox(width: 8),
-                      Text(style),
+                      Text(style.name),
                     ],
                   ),
                 );

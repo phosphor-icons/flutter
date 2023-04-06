@@ -24,7 +24,7 @@ void generateExampleAppConstants(List icons) {
     for (final style in StyleFileData.values) {
       final name = formatName(fullName, style: 'regular');
       final mapEntryLine =
-          "'$fullName': PhosphorIcons.${style.styleName}.$name";
+          "'$fullName': PhosphorIcons.$name(PhosphorIconsStyle.${style.styleName})";
       stylesMaps[style]!.add(mapEntryLine);
     }
   });

@@ -11,7 +11,6 @@ import 'utils.dart';
 void main(List<String> args) async {
   try {
     final zipArchive = await downloadPhosphorZip();
-
     for (final styleData in StyleFileData.values) {
       await _processStyleFileInZip(zipArchive, styleData);
     }
@@ -56,6 +55,7 @@ Future<void> _processStyleFileInZip(
   generateStyleClass(icons, style: styleData);
 
   if (styleData.styleName == 'regular') {
+    generateBaseClass(icons);
     generateExampleAppConstants(icons);
   }
 
