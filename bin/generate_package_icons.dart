@@ -50,6 +50,10 @@ void generateBaseClass(List icons) {
   final phosphorIconsClass = Class((classBuilder) {
     classBuilder
       ..name = 'PhosphorIcons'
+      ..docs.addAll([
+        '/// This class helps to access the icons of all the styles. Use the specific style class to access the icons of that style:',
+        ...styles.map((style) => '/// - [${style.className}]'),
+      ])
       ..methods.addAll(methods);
   });
 
@@ -94,8 +98,11 @@ case PhosphorIconsStyle.${style.styleName}:
   return Method((methodBuilder) => methodBuilder
     ..name = name
     ..static = true
-    ..requiredParameters.add(Parameter((parameterBuilder) => parameterBuilder
+    ..docs.addAll(styles.map((style) =>
+        '/// ${style.styleName}: ![$fullName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$fullName.svg)'))
+    ..optionalParameters.add(Parameter((parameterBuilder) => parameterBuilder
       ..name = 'style'
+      ..defaultTo = Code('PhosphorIconsStyle.regular')
       ..type = Reference('PhosphorIconsStyle')))
     ..body = Code(code)
     ..returns = Reference('PhosphorIconData'));
@@ -113,7 +120,9 @@ void generateStyleClass(List icons, {required StyleFileData style}) {
       .map((icon) => buildFieldIconByStyle(icon, style: style))
       .toList()
     // sort the element alphabetically
-    ..sort((a, b) => a.name.compareTo(b.name));
+    ..sort(
+      (a, b) => a.name.compareTo(b.name),
+    );
 
   final phosphorIconsClass = Class((classBuilder) => classBuilder
     ..abstract = false
@@ -124,11 +133,11 @@ void generateStyleClass(List icons, {required StyleFileData style}) {
 
   final phosphorLib = Library(
     (libraryBuilder) => libraryBuilder
-      ..directives.addAll([
+      ..directives.add(
         Directive.import(
           'package:phosphor_flutter/src/phosphor_icon_data.dart',
         ),
-      ])
+      )
       ..body.add(phosphorIconsClass),
   );
 
