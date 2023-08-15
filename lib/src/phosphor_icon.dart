@@ -27,6 +27,7 @@ class PhosphorIcon extends Icon {
     if (icon is PhosphorDuotoneIconData) {
       final duotoneIcon = icon as PhosphorDuotoneIconData;
       return Stack(
+        alignment: Alignment.center,
         children: [
           Opacity(
             opacity: duotoneSecondaryOpacity,
