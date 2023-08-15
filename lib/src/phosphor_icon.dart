@@ -44,19 +44,7 @@ class PhosphorIcon extends Icon {
               duotoneIcon.secondary,
             ),
           ),
-          Icon(
-            duotoneIcon,
-            key: key,
-            size: size,
-            fill: fill,
-            weight: weight,
-            grade: grade,
-            opticalSize: opticalSize,
-            color: color,
-            shadows: shadows,
-            semanticLabel: semanticLabel,
-            textDirection: textDirection,
-          ),
+          super.build(context),
         ],
       );
     }
