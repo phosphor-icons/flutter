@@ -18,7 +18,7 @@ class _MyApp extends StatelessWidget {
 }
 
 class IconsCatalog extends StatefulWidget {
-  const IconsCatalog({Key key}) : super(key: key);
+  const IconsCatalog({super.key});
 
   @override
   State<IconsCatalog> createState() => _IconsCatalogState();
@@ -26,7 +26,7 @@ class IconsCatalog extends StatefulWidget {
 
 class _IconsCatalogState extends State<IconsCatalog> {
   dynamic _icons;
-  List<String> _iconsNames;
+  late List<String> _iconsNames;
   String _title = 'Icons Catalog - Regular';
 
   @override
@@ -80,8 +80,8 @@ class _IconsCatalogState extends State<IconsCatalog> {
               }).toList();
             },
             onSelected: (value) {
-              List<PhosphorIconData> icons;
-              List<String> iconsNames;
+              List<PhosphorIconData> icons = [];
+              List<String> iconsNames = [];
 
               switch (value) {
                 case 'Regular':
