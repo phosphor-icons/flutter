@@ -3,25 +3,22 @@ library phosphor_flutter;
 import 'package:flutter/material.dart';
 import 'package:phosphor_flutter/phosphor_flutter.dart';
 
-class PhosphorIcon extends StatelessWidget {
+class PhosphorIcon extends Icon {
   const PhosphorIcon(
-    this.icon, {
-    Key? key,
-    this.color,
-    this.semanticLabel,
-    this.shadows,
-    this.size,
-    this.textDirection,
-    this.duotoneSecondaryOpacity = 0.20,
-    this.duotoneSecondaryColor,
-  }) : super(key: key);
-
-  final PhosphorIconData icon;
-  final Color? color;
-  final String? semanticLabel;
-  final List<Shadow>? shadows;
-  final double? size;
-  final TextDirection? textDirection;
+      super.icon, {
+        super.key,
+        super.size,
+        super.fill,
+        super.weight,
+        super.grade,
+        super.opticalSize,
+        super.color,
+        super.shadows,
+        super.semanticLabel,
+        super.textDirection,
+        this.duotoneSecondaryOpacity = 0.20,
+        this.duotoneSecondaryColor,
+      });
   final double duotoneSecondaryOpacity;
   final Color? duotoneSecondaryColor;
 
@@ -34,32 +31,35 @@ class PhosphorIcon extends StatelessWidget {
           Opacity(
             opacity: duotoneSecondaryOpacity,
             child: Icon(
-              duotoneIcon.secondary,
-              color: duotoneSecondaryColor ?? color,
-              semanticLabel: semanticLabel,
-              shadows: shadows,
+              key: key,
               size: size,
+              fill: fill,
+              weight: weight,
+              grade: grade,
+              opticalSize: opticalSize,
+              color: duotoneSecondaryColor ?? color,
+              shadows: shadows,
+              semanticLabel: semanticLabel,
               textDirection: textDirection,
+              duotoneIcon.secondary,
             ),
           ),
           Icon(
             duotoneIcon,
-            color: color,
-            semanticLabel: semanticLabel,
-            shadows: shadows,
+            key: key,
             size: size,
+            fill: fill,
+            weight: weight,
+            grade: grade,
+            opticalSize: opticalSize,
+            color: color,
+            shadows: shadows,
+            semanticLabel: semanticLabel,
             textDirection: textDirection,
           ),
         ],
       );
     }
-    return Icon(
-      icon,
-      color: color,
-      semanticLabel: semanticLabel,
-      shadows: shadows,
-      size: size,
-      textDirection: textDirection,
-    );
+    return super.build(context);
   }
 }
