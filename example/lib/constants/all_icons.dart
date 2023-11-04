@@ -5,7 +5,9 @@ import 'package:phosphor_flutter/phosphor_flutter.dart';
 
 abstract class AllIcons {
   static List<PhosphorIconData> get icons => allFlatIconsAsMap.values.toList();
+
   static List<String> get names => allFlatIconsAsMap.keys.toList();
+
   static Map<String, PhosphorIconData> get allFlatIconsAsMap => {
         ...regularIcons,
         ...thinIcons,
@@ -14,6 +16,7 @@ abstract class AllIcons {
         ...fillIcons,
         ...duotoneIcons,
       };
+
   static Map<String, PhosphorIconData> get regularIcons => {
         'address-book': PhosphorIcons.addressBook(PhosphorIconsStyle.regular),
         'airplane': PhosphorIcons.airplane(PhosphorIconsStyle.regular),
@@ -1654,6 +1657,7 @@ abstract class AllIcons {
         'yin-yang': PhosphorIcons.yinYang(PhosphorIconsStyle.regular),
         'youtube-logo': PhosphorIcons.youtubeLogo(PhosphorIconsStyle.regular)
       };
+
   static Map<String, PhosphorIconData> get thinIcons => {
         'address-book': PhosphorIcons.addressBook(PhosphorIconsStyle.thin),
         'airplane': PhosphorIcons.airplane(PhosphorIconsStyle.thin),
@@ -3219,6 +3223,7 @@ abstract class AllIcons {
         'yin-yang': PhosphorIcons.yinYang(PhosphorIconsStyle.thin),
         'youtube-logo': PhosphorIcons.youtubeLogo(PhosphorIconsStyle.thin)
       };
+
   static Map<String, PhosphorIconData> get lightIcons => {
         'address-book': PhosphorIcons.addressBook(PhosphorIconsStyle.light),
         'airplane': PhosphorIcons.airplane(PhosphorIconsStyle.light),
@@ -4801,6 +4806,7 @@ abstract class AllIcons {
         'yin-yang': PhosphorIcons.yinYang(PhosphorIconsStyle.light),
         'youtube-logo': PhosphorIcons.youtubeLogo(PhosphorIconsStyle.light)
       };
+
   static Map<String, PhosphorIconData> get boldIcons => {
         'address-book': PhosphorIcons.addressBook(PhosphorIconsStyle.bold),
         'airplane': PhosphorIcons.airplane(PhosphorIconsStyle.bold),
@@ -6366,6 +6372,7 @@ abstract class AllIcons {
         'yin-yang': PhosphorIcons.yinYang(PhosphorIconsStyle.bold),
         'youtube-logo': PhosphorIcons.youtubeLogo(PhosphorIconsStyle.bold)
       };
+
   static Map<String, PhosphorIconData> get fillIcons => {
         'address-book': PhosphorIcons.addressBook(PhosphorIconsStyle.fill),
         'airplane': PhosphorIcons.airplane(PhosphorIconsStyle.fill),
@@ -7931,6 +7938,7 @@ abstract class AllIcons {
         'yin-yang': PhosphorIcons.yinYang(PhosphorIconsStyle.fill),
         'youtube-logo': PhosphorIcons.youtubeLogo(PhosphorIconsStyle.fill)
       };
+
   static Map<String, PhosphorIconData> get duotoneIcons => {
         'address-book': PhosphorIcons.addressBook(PhosphorIconsStyle.duotone),
         'airplane': PhosphorIcons.airplane(PhosphorIconsStyle.duotone),

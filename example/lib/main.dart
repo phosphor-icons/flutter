@@ -18,16 +18,16 @@ class _MyApp extends StatelessWidget {
 }
 
 class IconsCatalog extends StatefulWidget {
-  const IconsCatalog({Key key}) : super(key: key);
+  const IconsCatalog({super.key});
 
   @override
   State<IconsCatalog> createState() => _IconsCatalogState();
 }
 
 class _IconsCatalogState extends State<IconsCatalog> {
-  dynamic _icons;
-  List<String> _iconsNames;
-  String _title = 'Icons Catalog - Regular';
+  late List<PhosphorIconData> _icons;
+  late List<String> _iconsNames;
+  String _title = 'Icons Catalog - regular';
 
   @override
   void initState() {
@@ -57,63 +57,56 @@ class _IconsCatalogState extends State<IconsCatalog> {
         centerTitle: true,
         backgroundColor: const Color(0xff35313d),
         actions: [
-          PopupMenuButton<String>(
+          PopupMenuButton<PhosphorIconsStyle>(
             tooltip: 'Style',
             icon: Icon(PhosphorIcons.pencilLine(PhosphorIconsStyle.regular)),
-            itemBuilder: (context) {
-              return PhosphorIconsStyle.values.map((style) {
-                PhosphorIconData icon = PhosphorIcons.pencilLine(style);
-
-                return PopupMenuItem<String>(
-                  value: style.name,
-                  child: Row(
-                    children: [
-                      PhosphorIcon(
-                        icon,
-                        color: Colors.black,
+            itemBuilder: (context) => PhosphorIconsStyle.values
+                .map((style) => PopupMenuItem<PhosphorIconsStyle>(
+                      value: style,
+                      child: Row(
+                        children: [
+                          PhosphorIcon(
+                            PhosphorIcons.pencilLine(style),
+                            color: Colors.black,
+                          ),
+                          const SizedBox(width: 8),
+                          Text(style.name),
+                        ],
                       ),
-                      const SizedBox(width: 8),
-                      Text(style.name),
-                    ],
-                  ),
-                );
-              }).toList();
-            },
+                    ))
+                .toList(),
             onSelected: (value) {
-              List<PhosphorIconData> icons;
-              List<String> iconsNames;
-
-              switch (value) {
-                case 'Regular':
-                  icons = AllIcons.regularIcons.values.toList();
-                  iconsNames = AllIcons.regularIcons.keys.toList();
-                  break;
-                case 'Thin':
-                  icons = AllIcons.thinIcons.values.toList();
-                  iconsNames = AllIcons.thinIcons.keys.toList();
-                  break;
-                case 'Light':
-                  icons = AllIcons.lightIcons.values.toList();
-                  iconsNames = AllIcons.lightIcons.keys.toList();
-                  break;
-                case 'Bold':
-                  icons = AllIcons.boldIcons.values.toList();
-                  iconsNames = AllIcons.boldIcons.keys.toList();
-                  break;
-                case 'Fill':
-                  icons = AllIcons.fillIcons.values.toList();
-                  iconsNames = AllIcons.fillIcons.keys.toList();
-                  break;
-                case 'Duotone':
-                  icons = AllIcons.duotoneIcons.values.toList();
-                  iconsNames = AllIcons.duotoneIcons.keys.toList();
-                  break;
-              }
+              final (icons, names) = switch (value) {
+                PhosphorIconsStyle.regular => (
+                    AllIcons.regularIcons.values.toList(),
+                    AllIcons.regularIcons.keys.toList()
+                  ),
+                PhosphorIconsStyle.thin => (
+                    AllIcons.thinIcons.values.toList(),
+                    AllIcons.thinIcons.keys.toList()
+                  ),
+                PhosphorIconsStyle.light => (
+                    AllIcons.lightIcons.values.toList(),
+                    AllIcons.lightIcons.keys.toList()
+                  ),
+                PhosphorIconsStyle.bold => (
+                    AllIcons.boldIcons.values.toList(),
+                    AllIcons.boldIcons.keys.toList()
+                  ),
+                PhosphorIconsStyle.fill => (
+                    AllIcons.fillIcons.values.toList(),
+                    AllIcons.fillIcons.keys.toList()
+                  ),
+                PhosphorIconsStyle.duotone => (
+                    AllIcons.duotoneIcons.values.toList(),
+                    AllIcons.duotoneIcons.keys.toList()
+                  ),
+              };
 
               setState(() {
                 _icons = icons;
-                _iconsNames = iconsNames;
-                _title = 'Icons Catalog - $value';
+                _iconsNames = names;
+                _title = 'Icons Catalog - ${value.name}';
               });
             },
           ),
@@ -134,13 +127,10 @@ class _IconsCatalogState extends State<IconsCatalog> {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                if (_icons is List<PhosphorIconData>)
-                  PhosphorIcon(
-                    _icons[index],
-                    size: 48,
-                  )
-                else
+                PhosphorIcon(
                   _icons[index],
+                  size: 48,
+                ),
                 Text(
                   _iconsNames[index],
                   textAlign: TextAlign.center,

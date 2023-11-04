@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [2.0.1] - 2023/11/04
+
+- Fix duotone icons alignment
+- Fix duotone icons not working on web
+
 ## [2.0.0] - 2023/04/04
 
 This release adds 201 new icons to the family:
