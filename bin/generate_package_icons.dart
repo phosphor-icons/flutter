@@ -1,9 +1,9 @@
+import 'package:code_builder/code_builder.dart';
+import 'package:dart_style/dart_style.dart';
+
 import 'extensions.dart';
 import 'style_file_data.dart';
 import 'utils.dart';
-
-import 'package:code_builder/code_builder.dart';
-import 'package:dart_style/dart_style.dart';
 
 /// Generated the main class of the package that exposes all the style classes
 void generateMainClass(List<StyleFileData> styles) {
@@ -166,7 +166,7 @@ Field buildFieldIconByStyle(dynamic icon, {required StyleFileData style}) {
     final backgroundHexCode = '0x' + graphCodes.first.toRadixString(16);
     final foregroundHexCode = '0x' + graphCodes.last.toRadixString(16);
     codeStatement = Code(
-      "PhosphorDuotoneIconData($foregroundHexCode, PhosphorIconData($backgroundHexCode, 'duotone'),)",
+      "PhosphorDuotoneIconData($foregroundHexCode, PhosphorIconData($backgroundHexCode, 'Duotone'),)",
     );
   } else {
     final graphCode = properties['code'] as int;

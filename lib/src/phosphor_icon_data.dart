@@ -19,7 +19,7 @@ class PhosphorFlatIconData extends PhosphorIconData {
 
 class PhosphorDuotoneIconData extends PhosphorIconData {
   const PhosphorDuotoneIconData(int codePoint, this.secondary)
-      : super(codePoint, 'duotone');
+      : super(codePoint, 'Duotone');
 
   final PhosphorIconData secondary;
 }
