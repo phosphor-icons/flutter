@@ -10,9 +10,12 @@ import 'utils.dart';
 
 void main(List<String> args) async {
   try {
-    final zipArchive = await downloadPhosphorZip();
+    final result = await downloadPhosphorZip();
+    final zipArchive = result.archive;
+    final version = result.version;
+    _updatePubspec(result.version);
     for (final styleData in StyleFileData.values) {
-      await _processStyleFileInZip(zipArchive, styleData);
+      await _processStyleFileInZip(zipArchive, styleData, version);
     }
 
     generateMainClass(StyleFileData.values);
@@ -25,13 +28,32 @@ void main(List<String> args) async {
   }
 }
 
+Future<void> _updatePubspec(String version) async {
+  final pubspecs = {
+    'pubspec.yaml',
+    '../pubspec.yaml',
+  };
+  for (final current in pubspecs) {
+    final pubspecFile = File(current);
+    final pubspecContent = await pubspecFile.readAsString();
+    RegExp exp = RegExp(r'version:\s(?<version>.+)\+(?<build>.+)');
+    final build = exp.firstMatch(pubspecContent)?.namedGroup('build');
+    final updatedPubspecContent = pubspecContent.replaceAllMapped(
+      exp,
+      (match) => 'version: $version+${int.parse(build ?? '0') + 1}',
+    );
+    await pubspecFile.writeAsString(updatedPubspecContent);
+  }
+}
+
 Future<void> _processStyleFileInZip(
   Archive zipFile,
   StyleFileData styleData,
+  String version,
 ) async {
   print('Working with ${styleData.directoryName} style');
 
-  final styleDirPath = '2.0.0/Fonts/${styleData.styleName}';
+  final styleDirPath = '$version/Fonts/${styleData.styleName}';
   final fontFileName = styleData.fontFileName;
   final fontExtractFilePath = '../lib/fonts/$fontFileName';
 
