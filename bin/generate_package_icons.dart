@@ -34,6 +34,7 @@ void generateMainClass(List<StyleFileData> styles) {
 
 /// Generates an abstract class that exposes all the icons that every style extends
 void generateBaseClass(List icons) {
+  print('Generating phosphor_icons_base.dart file');
   final styles = StyleFileData.values;
   final stylesEnum = Enum(
     (enumBuilder) => enumBuilder
@@ -63,6 +64,9 @@ void generateBaseClass(List icons) {
         Directive.import(
           'package:phosphor_flutter/src/phosphor_icon_data.dart',
         ),
+        Directive.import(
+          'package:flutter/widgets.dart',
+        ),
         ...styles.map(
           (style) => Directive.import(
             'package:phosphor_flutter/src/${style.classFileName}',
@@ -84,7 +88,8 @@ void generateBaseClass(List icons) {
 
 Method buildBaseFieldIcon(dynamic icon) {
   final properties = icon['properties'] as Map<String, dynamic>;
-  final fullName = properties['name'] as String;
+  final rawName = properties['name'] as String;
+  final fullName = rawName.split(",").first;
   final name = formatName(fullName, style: 'regular');
   final styles = StyleFileData.values;
   var code = 'switch (style) {';
@@ -128,6 +133,7 @@ void generateStyleClass(List icons, {required StyleFileData style}) {
     ..abstract = false
     ..name = style.className
     ..fields.addAll(fields)
+    ..annotations.add(CodeExpression(Code('staticIconProvider')))
     ..constructors.add(Constructor(
         (constructorBuilder) => constructorBuilder..constant = true)));
 
@@ -136,6 +142,11 @@ void generateStyleClass(List icons, {required StyleFileData style}) {
       ..directives.add(
         Directive.import(
           'package:phosphor_flutter/src/phosphor_icon_data.dart',
+        ),
+      )
+      ..directives.add(
+        Directive.import(
+          'package:flutter/widgets.dart',
         ),
       )
       ..body.add(phosphorIconsClass),
@@ -154,10 +165,11 @@ void generateStyleClass(List icons, {required StyleFileData style}) {
 Field buildFieldIconByStyle(dynamic icon, {required StyleFileData style}) {
   final properties = icon['properties'] as Map<String, dynamic>;
   final fullName = properties['name'] as String;
-  final name = formatName(fullName, style: style.styleName);
+  final firstName = fullName.split(",").first;
+  final name = formatName(firstName, style: style.styleName);
 
   final iconDocs =
-      '/// ![$fullName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$fullName.svg)';
+      '/// ![$firstName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$firstName.svg)';
 
   late Code codeStatement;
 

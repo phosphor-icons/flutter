@@ -20,7 +20,8 @@ void generateExampleAppConstants(List icons) {
 
   icons.forEach((icon) {
     final properties = icon['properties'] as Map<String, dynamic>;
-    final fullName = properties['name'] as String;
+    final rawName = properties['name'] as String;
+    final fullName = rawName.split(",").first;
     for (final style in StyleFileData.values) {
       final name = formatName(fullName, style: 'regular');
       final mapEntryLine =
@@ -68,10 +69,14 @@ void generateExampleAppConstants(List icons) {
 
   final allFilesLib = Library(
     (libraryBuilder) => libraryBuilder
-      ..directives.add(
+      ..directives.addAll([
         Directive.import(
           'package:phosphor_flutter/phosphor_flutter.dart',
         ),
+        Directive.import(
+          'package:flutter/widgets.dart',
+        ),
+      ]
       )
       ..body.add(allIconsClass),
   );
