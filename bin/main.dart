@@ -31,7 +31,7 @@ Future<void> _processStyleFileInZip(
 ) async {
   print('Working with ${styleData.directoryName} style');
 
-  final styleDirPath = '2.0.0/Fonts/${styleData.styleName}';
+  final styleDirPath = 'Fonts/${styleData.styleName}';
   final fontFileName = styleData.fontFileName;
   final fontExtractFilePath = '../lib/fonts/$fontFileName';
 
