@@ -73,11 +73,7 @@ void generateExampleAppConstants(List icons) {
         Directive.import(
           'package:phosphor_flutter/phosphor_flutter.dart',
         ),
-        Directive.import(
-          'package:flutter/widgets.dart',
-        ),
-      ]
-      )
+      ])
       ..body.add(allIconsClass),
   );
 

@@ -2,7 +2,6 @@
 // DON'T EDIT BY HAND
 
 import 'package:phosphor_flutter/phosphor_flutter.dart';
-import 'package:flutter/widgets.dart';
 
 abstract class AllIcons {
   static List<PhosphorIconData> get icons => allFlatIconsAsMap.values.toList();

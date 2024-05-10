@@ -64,9 +64,6 @@ void generateBaseClass(List icons) {
         Directive.import(
           'package:phosphor_flutter/src/phosphor_icon_data.dart',
         ),
-        Directive.import(
-          'package:flutter/widgets.dart',
-        ),
         ...styles.map(
           (style) => Directive.import(
             'package:phosphor_flutter/src/${style.classFileName}',

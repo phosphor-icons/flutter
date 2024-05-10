@@ -2,7 +2,6 @@
 // DON'T EDIT BY HAND
 
 import 'package:phosphor_flutter/src/phosphor_icon_data.dart';
-import 'package:flutter/widgets.dart';
 import 'package:phosphor_flutter/src/phosphor_icons_regular.dart';
 import 'package:phosphor_flutter/src/phosphor_icons_thin.dart';
 import 'package:phosphor_flutter/src/phosphor_icons_light.dart';
