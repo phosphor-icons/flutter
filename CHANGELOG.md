@@ -1,5 +1,48 @@
 # CHANGELOG
 
+## [2.1.0] - 2024/05/10
+
+### New icons
+
+`acorn`, `address-book-tabs`, `airplane-taxiing`, `ambulance`, `angle`, `approximate-equals`, `asclepius`, `avocado`, `axe`, `baby-carriage`, `barn`, `baseball-helmet`, `beach-ball`, `beanie`, `belt`, `binary`, `biohazard`, `blueprint`, `bomb`, `book-open-user`, `boules`, `bowl-steam`, `bowling-ball`, `box-arrow-up`, `boxing-glove`, `bread`, `building`, `building-apartment`, `building-office`, `bulldozer`, `cable-car`, `calendar-dot`, `calendar-dots`, `calendar-heart`, `calendar-minus`, `calendar-slash`, `calendar-star`, `car-battery`, `cards-three`, `caret-line-down`, `caret-line-left`, `caret-line-right`, `caret-line-up`, `cash-register`, `cell-tower`, `chat-centered-slash`, `chat-circle-slash`, `chat-slash`, `chat-teardrop-slash`, `checkerboard`, `cheers`, `cheese`, `chef-hat`, `cherries`, `cigarette`, `cigarette-slash`, `city`, `clock-user`, `clover`, `coffee-bean`, `columns-plus-left`, `columns-plus-right`, `compass-rose`, `court-basketball`, `cow`, `cowboy-hat`, `crane`, `crane-tower`, `cricket`, `crown-cross`, `desk`, `device-mobile-slash`, `device-rotate`, `disco-ball`, `dresser`, `drone`, `drop-simple`, `drop-slash`, `empty`, `exclamation-mark`, `eyes`, `fallout-shelter`, `farm`, `fediverse-logo`, `file-c`, `file-c-sharp`, `file-cpp`, `file-ini`, `file-md`, `file-py`, `file-txt`, `fire-truck`, `flag-banner-fold`, `flip-horizontal`, `flip-vertical`, `football-helmet`, `four-k`, `funnel-simple-x`, `funnel-x`, `globe-simple-x`, `globe-x`, `golf`, `gps`, `gps-fix`, `gps-slash`, `graphics-card`, `greater-than`, `greater-than-or-equal`, `hair-dryer`, `hand-arrow-down`, `hand-arrow-up`, `hand-deposit`, `hand-peace`, `hand-withdraw`, `hard-hat`, `head-circuit`, `high-definition`, `highlighter`, `hockey`, `hospital`, `hurricane`, `image-broken`, `intersection`, `invoice`, `island`, `jar`, `jar-label`, `joystick`, `lamp-pendant`, `lasso`, `lastfm-logo`, `lectern`, `lego`, `lego-smiley`, `less-than`, `less-than-or-equal`, `letter-circle-h`, `letter-circle-p`, `letter-circle-v`, `line-vertical`, `linktree-logo`, `list-heart`, `list-star`, `log`, `mailbox`, `map-pin-area`, `map-pin-plus`, `map-pin-simple`, `map-pin-simple-area`, `map-pin-simple-line`, `markdown-logo`, `mastodon-logo`, `matrix-logo`, `member-of`, `memory`, `meteor`, `microscope`, `money-wavy`, `monitor-arrow-up`, `mouse-left-click`, `mouse-middle-click`, `mouse-right-click`, `mouse-scroll`, `music-notes-minus`, `network`, `network-slash`, `network-x`, `not-equals`, `not-member-of`, `not-subset-of`, `not-superset-of`, `nuclear-plant`, `numpad`, `onigiri`, `open-ai-logo`, `orange`, `oven`, `panorama`, `pencil-ruler`, `pentagon`, `person-simple-circle`, `person-simple-hike`, `person-simple-ski`, `person-simple-snowboard`, `person-simple-swim`, `person-simple-tai-chi`, `phone-list`, `phone-pause`, `phone-transfer`, `picnic-table`, `ping-pong`, `pint-glass`, `pipe`, `pipe-wrench`, `pix-logo`, `popsicle`, `question-mark`, `rabbit`, `racquet`, `ranking`, `rectangle-dashed`, `replit-logo`, `resize`, `rows-plus-bottom`, `rows-plus-top`, `sailboat`, `scan-smiley`, `screwdriver`, `scribble`, `seal-percent`, `seat`, `seatbelt`, `security-camera`, `shipping-container`, `shovel`, `skype-logo`, `smiley-melting`, `sock`, `solar-panel`, `solar-roof`, `speedometer`, `sphere`, `spinner-ball`, `spray-bottle`, `stack-minus`, `stack-plus`, `standard-definition`, `steam-logo`, `subset-of`, `subset-proper-of`, `subtitles-slash`, `subway`, `superset-of`, `superset-proper-of`, `tea-bag`, `text-subscript`, `text-superscript`, `text-t-slash`, `threads-logo`, `three-d`, `tilde`, `tip-jar`, `tire`, `tornado`, `towel`, `tractor`, `tray-arrow-up`, `treasure-chest`, `tree-view`, `triangle-dashed`, `trolley`, `trolley-suitcase`, `truck-trailer`, `tumblr-logo`, `union`, `user-check`, `user-circle-check`, `user-circle-dashed`, `user-sound`, `vector-three`, `vector-two`, `video-conference`, `visor`, `washing-machine`, `waveform-slash`, `windmill`, `x-logo`, `yarn`
+
+### Features
+
+- Icon fonts are now tree-shaken when you import individual weights, e.g. `PhosphorIconsBold` (thanks @josh-burton)
+- Icon fonts now have stable Unicode codepoints, which can be copied directly from our website!
+- Icon fonts once again support ligatures in all weights except Duotone.
+- We are now processing donations through both [GitHub Sponsors](https://github.com/sponsors/phosphor-icons) and [BuyMeACoffee](https://www.buymeacoffee.com/phosphoricons)! Your support is welcome and appreciated :)
+
+### Revisions
+
+#### Notable changes
+
+- Updated `patreon-logo`
+- Reworked `sneaker-move`
+- Reworked `crown-*` icons
+- Simplified some typographic elements, such as "T" in `article-ny-times`, "4" in `number-four -*`
+- More distinct duotone treatments for various icons, especially small arrowheads
+- Rectangular container fill treatments, including `list-*`, `text-*`, `sort-*`, and others
+- More "filled-in" fill treatments for many other icons
+- Knocked out vehicle windows in fill weight
+- Various simplifications and visual improvements
+
+#### Audits
+
+- Adjusted gaps for readability
+- Adjusted corner radiuses for consistency
+- Improved optical centering
+- Smoother curves: `anchor`, `flow-arrow`, `thermometer-hot`, `waves`
+- Removed extraneous control points
+
+#### Renames and deprecations
+
+- Renamed `archive-box` to `box-arrow-down`
+- Renamed `archive-tray` to `tray-arrow-down`
+- Deprecated `folder-notch-*` icons, which now alias to their `folder-*` counterparts
+
+> Existing names will continue to be available as aliases in 2.1, though may be removed in future releases.
+
 ## [2.0.1] - 2023/11/04
 
 - Fix duotone icons alignment
@@ -7,16 +50,16 @@
 
 ## [2.0.0] - 2023/04/04
 
-This release adds 201 new icons to the family:
+### New icons
 
 `air-traffic-control`, `amazon-logo`, `arrows-merge`, `arrows-split`, `baseball-cap`, `basket`, `battery-plus-vertical`, `battery-vertical-empty`, `battery-vertical-full`, `battery-vertical-high`, `battery-vertical-low`, `battery-vertical-medium`, `beer-stein`, `bone`, `book-open-text`, `boot`, `bowl-food`, `bridge`, `broom`, `call-bell`, `camera-plus`, `car-profile`, `caret-circle-up-down`, `caret-up-down`, `carrot`, `cassette-tape`, `castle-turret`, `certificate`, `chair`, `champagne`, `charging-station`, `chart-donut`, `chart-line-down`, `chart-polar`, `chart-scatter`, `check-fat`, `church`, `circuitry`, `clock-countdown`, `cloud-warning`, `cloud-x`, `coda-logo`, `code-block`, `compass-tool`, `contactless-payment`, `control`, `couch`, `cross`, `cube-focus`, `cube-transparent`, `cursor-click`, `dev-to-logo`, `devices`, `dna`, `door-open`, `dot`, `dot-outline`, `dress`, `dropbox-logo`, `elevator`, `engine`, `escalator-down`, `escalator-up`, `exclude`, `exclude-square`, `fan`, `feather`, `file-archive`, `file-sql`, `file-svg`, `film-reel`, `fire-extinguisher`, `flag-pennant`, `flower-tulip`, `footprints`, `garage`, `gas-can`, `gavel`, `gear-fine`, `goggles`, `goodreads-logo`, `google-cardboard-logo`, `google-drive-logo`, `grains`, `grains-slash`, `grid-nine`, `guitar`, `hammer`, `hand-coins`, `hand-heart`, `hand-swipe-left`, `hand-swipe-right`, `hand-tap`, `hands-praying`, `heart-half`, `high-heel`, `hoodie`, `ice-cream`, `images`, `images-square`, `intersect-square`, `intersect-three`, `lighthouse`, `lightning-a`, `list-magnifying-glass`, `lockers`, `medal-military`, `meta-logo`, `metronome`, `microsoft-outlook-logo`, `minus-square`, `moped`, `moped-front`, `mosque`, `motorcycle`, `notches`, `notion-logo`, `office-chair`, `orange-slice`, `pants`, `paragraph`, `parallelogram`, `park`, `patreon-logo`, `paypal-logo`, `pencil-simple-slash`, `pencil-slash`, `pentagram`, `pepper`, `person-arms-spread`, `person-simple-bike`, `person-simple-throw`, `phone-plus`, `pi`, `piggy-bank`, `plant`, `play-pause`, `plug-charging`, `plus-square`, `potted-plant`, `radioactive`, `read-cv-logo`, `receipt-x`, `road-horizon`, `scooter`, `shapes`, `share-fat`, `shirt-folded`, `shooting-star`, `shrimp`, `sigma`, `signature`, `siren`, `slideshow`, `smiley-angry`, `sneaker`, `sneaker-move`, `soundcloud-logo`, `speaker-hifi`, `split-horizontal`, `split-vertical`, `square-split-horizontal`, `square-split-vertical`, `stairs`, `star-and-crescent`, `star-of-david`, `steering-wheel`, `steps`, `stethoscope`, `stool`, `subtitles`, `subtract`, `subtract-square`, `suitcase-rolling`, `swimming-pool`, `synagogue`, `tent`, `text-a-underline`, `text-columns`, `tidal-logo`, `tipi`, `toolbox`, `tooth`, `trademark`, `tram`, `tree-palm`, `unite`, `unite-square`, `usb`, `van`, `video`, `vinyl-record`, `virtual-reality`, `virus`, `warehouse`, `warning-diamond`, `waveform`, `webcam-slash`, `webhooks-logo`, `wechat-logo`, `wheelchair-motion`
 
-## Features
+### Features
 
 - Backing fonts are now split by weight, reducing bundle size if you only use a subset of them
 - Adds `PhosphorIcon` widget, which enables duotone weight and richer customization
 
-## Migration Guide
+### Migration Guide
 
 To migrate from v1.0.0 to 2.0.0 you just need to change all your
 `PhosphorIcons.iconStyle` to the new syntax `PhosphorIcons.style.icon`.
@@ -42,9 +85,9 @@ PhosphorIcon(
 Also, we encourage you to use our new `PhosphorIcon` widget to have support for
 duotone icons.
 
-## Revisions
+### Revisions
 
-### Notable changes:
+#### Notable changes:
 
 - Distinct Fill and Duotone weights added for all icons
 - Revised `github-logo` to better resemble their logo
@@ -69,7 +112,7 @@ duotone icons.
 - Filled more of `grid-four-fill` and `barbell-fill`
 - Simplified fill treatments for `pen-nib-fill`, `pen-nib-straight`, `lock-key-fill`, and `lock-key-open-fill`
 
-### Visual bugs and refactors:
+#### Visual bugs and refactors:
 
 - Fixed crooked lines in `codesandbox-logo`, `cube`, `star-half`, `star`, `hourglass-low`
 - Fixed mispositioned lines in `paper-plane`, `credit-card`, `trophy`, `paperclip-horizontal`, `file-search`, `bicycle`
@@ -79,7 +122,7 @@ duotone icons.
 - Fixed corner radii in `video-camera`, `gauge-fill`
 - Fixed optical alignment of `navigation-arrow`
 
-### Renames:
+#### Renames:
 
 Some icon names were confusing or broke with convention and have been renamed. For backwards compatibility and ease of upgrade, existing names will continue to be available as aliases, though may be removed in future releases.
 
@@ -94,7 +137,7 @@ Some icon names were confusing or broke with convention and have been renamed. F
 - Renamed `folder-simple-dotted` to `folder-simple-dashed`
 - Renamed `text-bolder` to `text-b`
 
-## Related projects
+### Related projects
 
 Check out our plugins for popular design tools:
 
@@ -114,19 +157,19 @@ For developers, please check out our framework-specific packages:
 
 ## [1.4.0] - 2021/12/24
 
-## New icons
+### New icons
 
 This release adds 153 new icons to the family:
 
 `alien`, `align-bottom-simple`, `align-center-horizontal-simple`, `align-center-vertical-simple`, `align-left-simple`, `align-right-simple`, `align-top-simple`, `angular-logo`, `app-store-logo`, `apple-podcasts-logo`, `arrows-horizontal`, `arrows-vertical`, `asterisk-simple`, `backpack`, `balloon`, `barricade`, `bathtub`, `battery-plus`, `beer-bottle`, `behance-logo`, `bezier-curve`, `binoculars`, `butterfly`, `cactus`, `camera-rotate`, `campfire`, `circle-notch`, `coat-hanger`, `codepen-logo`, `codesandbox-logo`, `coin-vertical`, `coins`, `confetti`, `copyleft`, `currency-eth`, `currency-kzt`, `currency-ngn`, `cursor-text`, `cylinder`, `detective`, `diamonds-four`, `drop-half-bottom`, `egg`, `egg-crack`, `equalizer`, `exam`, `eyedropper-sample`, `eyeglasses`, `file-audio`, `file-cloud`, `file-code`, `file-css`, `file-csv`, `file-doc`, `file-html`, `file-image`, `file-jpg`, `file-js`, `file-jsx`, `file-lock`, `file-png`, `file-ppt`, `file-rs`, `file-ts`, `file-tsx`, `file-video`, `file-vue`, `file-xls`, `file-zip`, `film-script`, `film-slate`, `flag-checkered`, `flying-saucer`, `folder-dotted`, `folder-lock`, `folder-star`, `folder-user`, `folder-simple-dotted`, `folder-simple-lock`, `folder-simple-star`, `folder-simple-user`, `function`, `google-chrome-logo`, `google-photos-logo`, `google-podcasts-logo`, `gradient`, `graph`, `hamburger`, `hand-eye`, `heart-break`, `heart-straight-break`, `kanban`, `keyhole`, `ladder`, `ladder-simple`, `linux-logo`, `list-checks`, `mask-happy`, `mask-sad`, `microphone-stage`, `microsoft-excel-logo`, `microsoft-powerpoint-logo`, `microsoft-teams-logo`, `microsoft-word-logo`, `mountains`, `music-notes-plus`, `needle`, `option`, `parachute`, `password`, `pencil-simple-line`, `perspective`, `piano-keys`, `pinwheel`, `plug`, `plugs`, `plugs-connected`, `police-car`, `popcorn`, `radio-button`, `rug`, `scan`, `scroll`, `shield-star`, `sidebar`, `sidebar-simple`, `signpost`, `skull`, `spiral`, `square-half-bottom`, `stack-overflow-logo`, `stamp`, `strategy`, `sunglasses`, `syringe`, `tabs`, `taxi`, `text-indent`, `text-outdent`, `textbox`, `toilet`, `trademark-registered`, `traffic-cone`, `traffic-signal`, `user-switch`, `vault`, `vignette`, `wave-sawtooth`, `wave-sine`, `wave-square`, `wave-triangle`, `webcam`, `yin-yang`
 
-## Regressions
+### Regressions
 
 Due to limitations with our tools, our icon font no longer supports ligatures, for the time being. Use the unicode codepoints, or class names provided on our site if in a web context. We're looking for a solution to this, and hope to have one soon.
 
-## Revisions
+### Revisions
 
-### Notable changes:
+#### Notable changes:
 
 - Redrew `film-strip` to be more readable
   <img width="306" alt="1 4-film-strip-change" src="https://user-images.githubusercontent.com/26732044/147204627-8fca8120-ff31-414f-b051-a800bbaa090c.png">
@@ -140,23 +183,23 @@ Due to limitations with our tools, our icon font no longer supports ligatures, f
 - Hatching approach reworked across `drop-half`, `circle-half`, `circle-half-tilt`, and `square-half`
   <img width="306" alt="1 4-hatching-change" src="https://user-images.githubusercontent.com/26732044/147204693-4400eb30-28ec-429a-abf0-ec1a3d50bdf1.png">
 
-### Micro enhancements:
+#### Micro enhancements:
 
 - Adjusted `file-pdf` slightly as we expand the `file` set
 - Softened sharp outer edges in handful of icons: `armchair-fill`, `dribbble-logo-fill`, `facebook-logo-fill`, `pinterest-logo-fill`, `briefcase-metal-fill`, `download-fill`, `upload-fill`, `airplay-fill`, `wall-fill`, `ruler-fill`, `baby-fill`, `cat-fill`, `gauge-fill`, `cloud-fog-fill`, `cloud-check-fill`, `cloud-arrow-up-fill`, `cloud-arrow-down-fill`, `cloud-lightning-fill`, `cloud-rain-fill`, `cloud-snow-fill`, `cloud-fill`, `paper-plane-fill`, `paper-plane-right-fill`, `paper-plane-tilt-fill`, `jeep-fill`, `at-fill`, `wifi-x-fill`, `cell-signal-x-fill`, `floppy-disk-back-fill`, `heartbeat-fill`, `baseball-fill`, `tennis-ball-fill`, `basketball-fill`
 
-### Visual bugs:
+#### Visual bugs:
 
 - Fixed `hands-clapping-fill` and `hands-clapping-duotone` to be the right weight
 - Fixed a corner radius mistake in one corner of `pencil-simple`
 
-### Refactoring:
+#### Refactoring:
 
 - Anchor points cleaned up in many icons
 - Duplicate elements removed from `truck`, `key`, `hand`, `hand-palm`, and `hand-grabbing` sets
 - Joined lines in `hand-pointing` set
 
-## Related projects
+### Related projects
 
 Check out our plugins for popular design tools:
 
