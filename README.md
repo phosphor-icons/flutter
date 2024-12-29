@@ -165,6 +165,7 @@ flutter pub get
 flutter run
 ```
 
+<!-- BEGIN_LINKS -->
 ## Our Related Projects
 
 - [phosphor-home](https://github.com/phosphor-icons/phosphor-home) ▲ Phosphor homepage and general info
@@ -188,3 +189,4 @@ If you've made a port of Phosphor and you want to see it here, just open a PR [h
 ## License
 
 MIT © [Phosphor Icons](https://github.com/phosphor-icons)
+<!-- END_LINKS -->
