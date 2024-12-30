@@ -1,6 +1,9 @@
-<img src="/meta/phosphor-mark-tight-yellow.png" width="128" align="right" />
 
 # phosphor-flutter
+
+<!-- BEGIN_LOGO -->
+<img src="/meta/phosphor-mark-tight-yellow.png" width="128" align="right" />
+<!-- END_LOGO -->
 
 Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really. Explore all our icons at [phosphoricons.com](https://phosphoricons.com).
 
@@ -11,12 +14,12 @@ Phosphor is a flexible icon family for interfaces, diagrams, presentations — w
 
 ## ScreenShots
 
-![Screenshot Regular](/meta/screenshot_regular.png)
-![Screenshot Thin](/meta/screenshot_thin.png)
-![Screenshot Light](/meta/screenshot_light.png)
-![Screenshot Bold](/meta/screenshot_bold.png)
-![Screenshot Fill](/meta/screenshot_fill.png)
-![Screenshot Duotone](/meta/screenshot_duotone.png)
+![Screenshot Regular](/.github/screenshot_regular.png)
+![Screenshot Thin](/.github/screenshot_thin.png)
+![Screenshot Light](/.github/screenshot_light.png)
+![Screenshot Bold](/.github/screenshot_bold.png)
+![Screenshot Fill](/.github/screenshot_fill.png)
+![Screenshot Duotone](/.github/screenshot_duotone.png)
 
 ## Installation
 
