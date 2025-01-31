@@ -40,18 +40,29 @@ flutter pub get
 
 ### `PhosphorIcon` Widget
 
-The easiest way to use all the Phosphor Icon with you app is to use our
-`PhosphorIcon` and pass any of our `PhosphorIcons` to it.
+The easiest way to use all the Phosphor Icons in your app is to use the
+`PhosphorIcon` widget with one of the style-specific icon classes and pass any of our `PhosphorIcons` to it.
+
+### Available Styles:
+- `PhosphorIconsRegular`
+- `PhosphorIconsThin`
+- `PhosphorIconsLight`
+- `PhosphorIconsBold`
+- `PhosphorIconsFill`
+- `PhosphorIconsDuotone`
+
+> [!TIP]
+> Use the style classes for smaller font file size. The alternative syntax `PhosphorIcons.pencil(PhosphorIconsStyle.fill)` is not recommended as it prevents tree shaking.
 
 ```dart
 // import the package
 import 'package:phosphor_flutter/phosphor_flutter.dart';
 
-// This will show the [Note Pencil] icon in it's fill version
+// This will show the [Note Pencil] icon in its fill version
 // with a size of 30.0, green color and a semantic label for
 // screen readers.
 PhosphorIcon(
-  PhosphorIcons.fill.notePencil,
+  PhosphorIconsFill.notePencil,
   color: Colors.green,
   size: 30.0,
   semanticLabel: 'New Note',
@@ -66,7 +77,7 @@ import 'package:phosphor_flutter/phosphor_flutter.dart';
 
 // This will show the [Note Pencil] icon in it's duotone version
 PhosphorIcon(
-  PhosphorIcons.duotone.notePencil,
+  PhosphorIconsDuotone.notePencil,
   color: Colors.green,
 ),
 ```
@@ -83,10 +94,10 @@ import 'package:phosphor_flutter/phosphor_flutter.dart';
 // foreground color will be green and the background color will be yellow
 // with an opacity of 50%
 PhosphorIcon(
-  PhosphorIcons.duotone.notePencil,
+  PhosphorIconsDuotone.notePencil,
   color: Colors.green,
   duotoneSecondaryOpacity: 0.50,
-  duotoneSecondaryColor: Color.yellow,
+  duotoneSecondaryColor: Colors.yellow,
 ),
 ```
 
@@ -110,7 +121,7 @@ Icon(
 
 // With Phosphor Icons
 Icon(
-  PhosphorIcons.regular.pencil, // Pencil Icon
+  PhosphorIconsRegular.pencil, // Pencil Icon
 ),
 ```
 
@@ -121,7 +132,7 @@ You could use any property of the [`Icon widget`](https://api.flutter.dev/flutte
 // with a size of 30.0, green color and a semantic label for
 // screen readers.
 Icon(
-  PhosphorIcons.fill.notePencil,
+  PhosphorIconsFill.notePencil,
   color: Colors.green,
   size: 30.0,
   semanticLabel: 'New Note',
@@ -132,8 +143,8 @@ All the icons has their thin, light, regular, bold and fill versions.
 
 ## Migration Guide
 
-To migrate from v1.0.0 to 2.0.0 you just need to change all your
-`PhosphorIcons.iconStyle` to the new syntax `PhosphorIcons.style.icon`.
+To migrate from v1.0.0 to 2.1.0 you just need to change all your
+`PhosphorIcons.iconStyle` to the new syntax.
 For example:
 
 ```dart
@@ -144,12 +155,12 @@ Icon(
 
 // new
 Icon(
-  PhosphorIcons.fill.pencil, // Pencil Fill Icon
+  PhosphorIconsFill.pencil, // Pencil Fill Icon
 )
 
 // new and suggested
 PhosphorIcon(
-  PhosphorIcons.fill.pencil, // Pencil Fill Icon
+  PhosphorIconsFill.pencil, // Pencil Fill Icon
 )
 ```
 
