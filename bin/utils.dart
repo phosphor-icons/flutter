@@ -64,19 +64,31 @@ $content''',
   );
 }
 
+class DownloadResult {
+  final Archive archive;
+  final String version;
+
+  DownloadResult({
+    required this.archive,
+    required this.version,
+  });
+}
+
 /// Downloads to memory a the latest release zip [Archive]
 /// from Phosphor Github repository
-Future<Archive> downloadPhosphorZip() async {
+Future<DownloadResult> downloadPhosphorZip() async {
   print('Downloading latest phosphor release zip');
   final client = http.Client();
   final jsonUrl = Uri.parse(
-    'https://api.github.com/repos/phosphor-icons/phosphor-home/releases/latest',
+    'https://api.github.com/repos/phosphor-icons/homepage/releases/latest',
   );
   final request = await client.get(jsonUrl);
   final releaseJson = jsonDecode(request.body);
   final downloadUrl = Uri.tryParse(
     releaseJson['assets'][0]['browser_download_url'] as String? ?? '',
   );
+  var version = releaseJson['tag_name'] as String? ?? '';
+  version = version.replaceFirst('v', '');
 
   if (downloadUrl == null) {
     throw Exception('Download Url is null');
@@ -85,7 +97,10 @@ Future<Archive> downloadPhosphorZip() async {
     print('$downloadUrl');
     print('----------------------------------');
     final fileRequest = await client.get(downloadUrl);
-    return ZipDecoder().decodeBytes(fileRequest.bodyBytes);
+    return DownloadResult(
+      archive: ZipDecoder().decodeBytes(fileRequest.bodyBytes),
+      version: version,
+    );
   }
 }
 
