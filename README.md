@@ -138,6 +138,25 @@ Icon(
 
 All the icons has their thin, light, regular, bold and fill versions.
 
+### Theming
+
+To define a global theme for duotone icons, simply add `PhosphorIconTheme`
+to your application's theme extensions:
+
+```dart
+MaterialApp(
+  theme: ThemeData(
+    extensions: [
+      PhosphorIconTheme(
+        secondaryDuotoneColor: Colors.yellow.withValues(alpha: 0.33),
+      ),
+    ],
+    ...
+  ),
+  ...
+)
+```
+
 ## Migration Guide
 
 To migrate from v1.0.0 to 2.1.0 you just need to change all your
