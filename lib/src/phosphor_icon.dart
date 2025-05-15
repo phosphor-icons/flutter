@@ -16,8 +16,7 @@ class PhosphorIcon extends Icon {
     List<Shadow>? shadows,
     String? semanticLabel,
     TextDirection? textDirection,
-    this.duotoneSecondaryOpacity = 0.20,
-    this.duotoneSecondaryColor,
+    this.secondaryDuotoneColor,
   }) : super(
           icon,
           color: color,
@@ -32,8 +31,7 @@ class PhosphorIcon extends Icon {
           weight: weight,
         );
 
-  final double duotoneSecondaryOpacity;
-  final Color? duotoneSecondaryColor;
+  final Color? secondaryDuotoneColor;
 
   @override
   Widget build(BuildContext context) {
@@ -42,21 +40,18 @@ class PhosphorIcon extends Icon {
       return Stack(
         alignment: Alignment.center,
         children: [
-          Opacity(
-            opacity: duotoneSecondaryOpacity,
-            child: Icon(
-              duotoneIcon.secondary,
-              key: key,
-              size: size,
-              fill: fill,
-              weight: weight,
-              grade: grade,
-              opticalSize: opticalSize,
-              color: duotoneSecondaryColor ?? color,
-              shadows: shadows,
-              semanticLabel: semanticLabel,
-              textDirection: textDirection,
-            ),
+          Icon(
+            duotoneIcon.secondary,
+            key: key,
+            size: size,
+            fill: fill,
+            weight: weight,
+            grade: grade,
+            opticalSize: opticalSize,
+            color: secondaryDuotoneColor ?? color?.withValues(alpha: 0.2),
+            shadows: shadows,
+            semanticLabel: semanticLabel,
+            textDirection: textDirection,
           ),
           super.build(context),
         ],
