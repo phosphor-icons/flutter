@@ -75,7 +75,7 @@ you could also use the duotone style like this
 // import the package
 import 'package:phosphor_flutter/phosphor_flutter.dart';
 
-// This will show the [Note Pencil] icon in it's duotone version
+// This will show the [Note Pencil] icon in its duotone version
 PhosphorIcon(
   PhosphorIconsDuotone.notePencil,
   color: Colors.green,
@@ -83,25 +83,22 @@ PhosphorIcon(
 ```
 
 by default the secondary color will be the same as the one passed here but with
-a 20% of opacity, but you can easily override that behavior with the
-`duotoneSecondaryOpacity` and `duotoneSecondaryColor` properties
+a 20% of opacity, but you can easily override that behavior by passing a custom
+`secondaryDuotoneColor` property
 
 ```dart
 // import the package
 import 'package:phosphor_flutter/phosphor_flutter.dart';
 
-// This will show the [Note Pencil] icon in it's duotone version where the
+// This will show the [Note Pencil] icon in its duotone version where the
 // foreground color will be green and the background color will be yellow
 // with an opacity of 50%
 PhosphorIcon(
   PhosphorIconsDuotone.notePencil,
   color: Colors.green,
-  duotoneSecondaryOpacity: 0.50,
-  duotoneSecondaryColor: Colors.yellow,
+  secondaryDuotoneColor: Colors.yellow.withValues(alpha: 0.5),
 ),
 ```
-
-you can even make the opacity 100% to have a real duocolor icon.
 
 ### Flutter `Icon` Widget
 
@@ -128,7 +125,7 @@ Icon(
 You could use any property of the [`Icon widget`](https://api.flutter.dev/flutter/widgets/Icon-class.html) to personalize the icon.
 
 ```dart
-// This will show the [Note Pencil] icon in it's fill version
+// This will show the [Note Pencil] icon in its fill version
 // with a size of 30.0, green color and a semantic label for
 // screen readers.
 Icon(
