@@ -8,7 +8,7 @@ class PhosphorIconData extends IconData {
           codePoint,
           fontFamily: 'Phosphor$style',
           fontPackage: 'phosphor_flutter',
-          matchTextDirection: true,
+          matchTextDirection: false,
         );
 }
 
