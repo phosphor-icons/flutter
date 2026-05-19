@@ -126,27 +126,55 @@ void generateStyleClass(List icons, {required StyleFileData style}) {
       (a, b) => a.name.compareTo(b.name),
     );
 
+  final allFields = [...fields];
+  if (style == StyleFileData.duotone) {
+    final mapEntries = <String>[];
+    for (final icon in icons) {
+      final properties = icon['properties'] as Map<String, dynamic>;
+      if (properties['codes'] == null) continue;
+      final graphCodes = (properties['codes'] as List).cast<int>();
+      final bg = '0x' + graphCodes.first.toRadixString(16);
+      final fg = '0x' + graphCodes.last.toRadixString(16);
+      mapEntries.add(
+        '$fg: IconData($bg, fontFamily: _f, fontPackage: _p, matchTextDirection: true),',
+      );
+    }
+    allFields.add(Field((b) => b
+      ..name = 'secondaryFor'
+      ..static = true
+      ..modifier = FieldModifier.constant
+      ..type = Reference('Map<int, IconData>')
+      ..docs.addAll([
+        '/// A map that contains the secondary IconData for each primary IconData of the duotone style.',
+        '/// The key is the `codePoint` of the primary IconData and the value is the secondary IconData.',
+        '/// `PhosphorIcon` reads this map to stack the secondary glyph beneath the primary, producing the duotone effect.',
+      ])
+      ..assignment = Code('{${mapEntries.join('\n')}}')));
+  }
+
   final phosphorIconsClass = Class((classBuilder) => classBuilder
     ..abstract = false
     ..name = style.className
-    ..fields.addAll(fields)
+    ..fields.addAll(allFields)
     ..annotations.add(CodeExpression(Code('staticIconProvider')))
     ..constructors.add(Constructor(
         (constructorBuilder) => constructorBuilder..constant = true)));
 
+  final fontFamilyConst = Field((b) => b
+    ..name = '_f'
+    ..type = Reference('String')
+    ..modifier = FieldModifier.constant
+    ..assignment = Code("'Phosphor${style.styleName.capitalize()}'"));
+  final fontPackageConst = Field((b) => b
+    ..name = '_p'
+    ..type = Reference('String')
+    ..modifier = FieldModifier.constant
+    ..assignment = Code("'phosphor_flutter'"));
+
   final phosphorLib = Library(
     (libraryBuilder) => libraryBuilder
-      ..directives.add(
-        Directive.import(
-          'package:phosphor_flutter/src/phosphor_icon_data.dart',
-        ),
-      )
-      ..directives.add(
-        Directive.import(
-          'package:flutter/widgets.dart',
-        ),
-      )
-      ..body.add(phosphorIconsClass),
+      ..directives.add(Directive.import('package:flutter/widgets.dart'))
+      ..body.addAll([fontFamilyConst, fontPackageConst, phosphorIconsClass]),
   );
 
   final emitter = DartEmitter();
@@ -170,19 +198,17 @@ Field buildFieldIconByStyle(dynamic icon, {required StyleFileData style}) {
 
   late Code codeStatement;
 
+  String iconDataLiteral(String hex) =>
+      "IconData($hex, fontFamily: _f, fontPackage: _p, matchTextDirection: true)";
+
   if (style == StyleFileData.duotone && properties['codes'] != null) {
     final graphCodes = (properties['codes'] as List).cast<int>();
-    final backgroundHexCode = '0x' + graphCodes.first.toRadixString(16);
     final foregroundHexCode = '0x' + graphCodes.last.toRadixString(16);
-    codeStatement = Code(
-      "PhosphorDuotoneIconData($foregroundHexCode, PhosphorIconData($backgroundHexCode, 'Duotone'),)",
-    );
+    codeStatement = Code(iconDataLiteral(foregroundHexCode));
   } else {
     final graphCode = properties['code'] as int;
     final hexCode = '0x' + graphCode.toRadixString(16);
-    codeStatement = Code(
-      "PhosphorFlatIconData($hexCode, '${style.styleName.capitalize()}')",
-    );
+    codeStatement = Code(iconDataLiteral(hexCode));
   }
 
   return Field(

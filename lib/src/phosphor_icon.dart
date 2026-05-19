@@ -35,18 +35,24 @@ class PhosphorIcon extends Icon {
   final double duotoneSecondaryOpacity;
   final Color? duotoneSecondaryColor;
 
+  static const String _duotoneFontFamily = 'PhosphorDuotone';
+
+  IconData? _resolveSecondary() {
+    if (icon?.fontFamily != _duotoneFontFamily) return null;
+    return PhosphorIconsDuotone.secondaryFor[icon?.codePoint];
+  }
+
   @override
   Widget build(BuildContext context) {
-    if (icon is PhosphorDuotoneIconData) {
-      final duotoneIcon = icon as PhosphorDuotoneIconData;
+    final secondary = _resolveSecondary();
+    if (secondary != null) {
       return Stack(
         alignment: Alignment.center,
         children: [
           Opacity(
             opacity: duotoneSecondaryOpacity,
             child: Icon(
-              duotoneIcon.secondary,
-              key: key,
+              secondary,
               size: size,
               fill: fill,
               weight: weight,

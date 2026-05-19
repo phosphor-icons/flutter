@@ -1,4547 +1,6060 @@
 // Auto generated File
 // DON'T EDIT BY HAND
 
-import 'package:phosphor_flutter/src/phosphor_icon_data.dart';
 import 'package:flutter/widgets.dart';
+
+const String _f = 'PhosphorBold';
+const String _p = 'phosphor_flutter';
 
 @staticIconProvider
 class PhosphorIconsBold {
   const PhosphorIconsBold();
 
   /// ![acorn-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/acorn-bold.svg)
-  static const acorn = PhosphorFlatIconData(0xeb9a, 'Bold');
+  static const acorn = IconData(0xeb9a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![address-book-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/address-book-bold.svg)
-  static const addressBook = PhosphorFlatIconData(0xe6f8, 'Bold');
+  static const addressBook = IconData(0xe6f8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![address-book-tabs-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/address-book-tabs-bold.svg)
-  static const addressBookTabs = PhosphorFlatIconData(0xee4e, 'Bold');
+  static const addressBookTabs = IconData(0xee4e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![air-traffic-control-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/air-traffic-control-bold.svg)
-  static const airTrafficControl = PhosphorFlatIconData(0xecd8, 'Bold');
+  static const airTrafficControl = IconData(0xecd8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![airplane-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-bold.svg)
-  static const airplane = PhosphorFlatIconData(0xe002, 'Bold');
+  static const airplane = IconData(0xe002,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![airplane-in-flight-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-in-flight-bold.svg)
-  static const airplaneInFlight = PhosphorFlatIconData(0xe4fe, 'Bold');
+  static const airplaneInFlight = IconData(0xe4fe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![airplane-landing-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-landing-bold.svg)
-  static const airplaneLanding = PhosphorFlatIconData(0xe502, 'Bold');
+  static const airplaneLanding = IconData(0xe502,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![airplane-takeoff-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-takeoff-bold.svg)
-  static const airplaneTakeoff = PhosphorFlatIconData(0xe504, 'Bold');
+  static const airplaneTakeoff = IconData(0xe504,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![airplane-taxiing-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-taxiing-bold.svg)
-  static const airplaneTaxiing = PhosphorFlatIconData(0xe500, 'Bold');
+  static const airplaneTaxiing = IconData(0xe500,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![airplane-tilt-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-tilt-bold.svg)
-  static const airplaneTilt = PhosphorFlatIconData(0xe5d6, 'Bold');
+  static const airplaneTilt = IconData(0xe5d6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![airplay-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplay-bold.svg)
-  static const airplay = PhosphorFlatIconData(0xe004, 'Bold');
+  static const airplay = IconData(0xe004,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![alarm-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/alarm-bold.svg)
-  static const alarm = PhosphorFlatIconData(0xe006, 'Bold');
+  static const alarm = IconData(0xe006,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![alien-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/alien-bold.svg)
-  static const alien = PhosphorFlatIconData(0xe8a6, 'Bold');
+  static const alien = IconData(0xe8a6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![align-bottom-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-bottom-bold.svg)
-  static const alignBottom = PhosphorFlatIconData(0xe506, 'Bold');
+  static const alignBottom = IconData(0xe506,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![align-bottom-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-bottom-simple-bold.svg)
-  static const alignBottomSimple = PhosphorFlatIconData(0xeb0c, 'Bold');
+  static const alignBottomSimple = IconData(0xeb0c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![align-center-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-horizontal-bold.svg)
-  static const alignCenterHorizontal = PhosphorFlatIconData(0xe50a, 'Bold');
+  static const alignCenterHorizontal = IconData(0xe50a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![align-center-horizontal-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-horizontal-simple-bold.svg)
-  static const alignCenterHorizontalSimple =
-      PhosphorFlatIconData(0xeb0e, 'Bold');
+  static const alignCenterHorizontalSimple = IconData(0xeb0e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![align-center-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-vertical-bold.svg)
-  static const alignCenterVertical = PhosphorFlatIconData(0xe50c, 'Bold');
+  static const alignCenterVertical = IconData(0xe50c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![align-center-vertical-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-vertical-simple-bold.svg)
-  static const alignCenterVerticalSimple = PhosphorFlatIconData(0xeb10, 'Bold');
+  static const alignCenterVerticalSimple = IconData(0xeb10,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![align-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-left-bold.svg)
-  static const alignLeft = PhosphorFlatIconData(0xe50e, 'Bold');
+  static const alignLeft = IconData(0xe50e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![align-left-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-left-simple-bold.svg)
-  static const alignLeftSimple = PhosphorFlatIconData(0xeaee, 'Bold');
+  static const alignLeftSimple = IconData(0xeaee,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![align-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-right-bold.svg)
-  static const alignRight = PhosphorFlatIconData(0xe510, 'Bold');
+  static const alignRight = IconData(0xe510,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![align-right-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-right-simple-bold.svg)
-  static const alignRightSimple = PhosphorFlatIconData(0xeb12, 'Bold');
+  static const alignRightSimple = IconData(0xeb12,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![align-top-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-top-bold.svg)
-  static const alignTop = PhosphorFlatIconData(0xe512, 'Bold');
+  static const alignTop = IconData(0xe512,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![align-top-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-top-simple-bold.svg)
-  static const alignTopSimple = PhosphorFlatIconData(0xeb14, 'Bold');
+  static const alignTopSimple = IconData(0xeb14,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![amazon-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/amazon-logo-bold.svg)
-  static const amazonLogo = PhosphorFlatIconData(0xe96c, 'Bold');
+  static const amazonLogo = IconData(0xe96c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![ambulance-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ambulance-bold.svg)
-  static const ambulance = PhosphorFlatIconData(0xe572, 'Bold');
+  static const ambulance = IconData(0xe572,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![anchor-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/anchor-bold.svg)
-  static const anchor = PhosphorFlatIconData(0xe514, 'Bold');
+  static const anchor = IconData(0xe514,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![anchor-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/anchor-simple-bold.svg)
-  static const anchorSimple = PhosphorFlatIconData(0xe5d8, 'Bold');
+  static const anchorSimple = IconData(0xe5d8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![android-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/android-logo-bold.svg)
-  static const androidLogo = PhosphorFlatIconData(0xe008, 'Bold');
+  static const androidLogo = IconData(0xe008,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![angle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/angle-bold.svg)
-  static const angle = PhosphorFlatIconData(0xe7bc, 'Bold');
+  static const angle = IconData(0xe7bc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![angular-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/angular-logo-bold.svg)
-  static const angularLogo = PhosphorFlatIconData(0xeb80, 'Bold');
+  static const angularLogo = IconData(0xeb80,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![aperture-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/aperture-bold.svg)
-  static const aperture = PhosphorFlatIconData(0xe00a, 'Bold');
+  static const aperture = IconData(0xe00a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![app-store-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/app-store-logo-bold.svg)
-  static const appStoreLogo = PhosphorFlatIconData(0xe974, 'Bold');
+  static const appStoreLogo = IconData(0xe974,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![app-window-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/app-window-bold.svg)
-  static const appWindow = PhosphorFlatIconData(0xe5da, 'Bold');
+  static const appWindow = IconData(0xe5da,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![apple-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/apple-logo-bold.svg)
-  static const appleLogo = PhosphorFlatIconData(0xe516, 'Bold');
+  static const appleLogo = IconData(0xe516,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![apple-podcasts-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/apple-podcasts-logo-bold.svg)
-  static const applePodcastsLogo = PhosphorFlatIconData(0xeb96, 'Bold');
+  static const applePodcastsLogo = IconData(0xeb96,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![approximate-equals-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/approximate-equals-bold.svg)
-  static const approximateEquals = PhosphorFlatIconData(0xedaa, 'Bold');
+  static const approximateEquals = IconData(0xedaa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![archive-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/archive-bold.svg)
-  static const archive = PhosphorFlatIconData(0xe00c, 'Bold');
+  static const archive = IconData(0xe00c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![armchair-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/armchair-bold.svg)
-  static const armchair = PhosphorFlatIconData(0xe012, 'Bold');
+  static const armchair = IconData(0xe012,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-arc-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-arc-left-bold.svg)
-  static const arrowArcLeft = PhosphorFlatIconData(0xe014, 'Bold');
+  static const arrowArcLeft = IconData(0xe014,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-arc-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-arc-right-bold.svg)
-  static const arrowArcRight = PhosphorFlatIconData(0xe016, 'Bold');
+  static const arrowArcRight = IconData(0xe016,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-bend-double-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-double-up-left-bold.svg)
-  static const arrowBendDoubleUpLeft = PhosphorFlatIconData(0xe03a, 'Bold');
+  static const arrowBendDoubleUpLeft = IconData(0xe03a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-bend-double-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-double-up-right-bold.svg)
-  static const arrowBendDoubleUpRight = PhosphorFlatIconData(0xe03c, 'Bold');
+  static const arrowBendDoubleUpRight = IconData(0xe03c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-bend-down-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-down-left-bold.svg)
-  static const arrowBendDownLeft = PhosphorFlatIconData(0xe018, 'Bold');
+  static const arrowBendDownLeft = IconData(0xe018,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-bend-down-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-down-right-bold.svg)
-  static const arrowBendDownRight = PhosphorFlatIconData(0xe01a, 'Bold');
+  static const arrowBendDownRight = IconData(0xe01a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-bend-left-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-left-down-bold.svg)
-  static const arrowBendLeftDown = PhosphorFlatIconData(0xe01c, 'Bold');
+  static const arrowBendLeftDown = IconData(0xe01c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-bend-left-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-left-up-bold.svg)
-  static const arrowBendLeftUp = PhosphorFlatIconData(0xe01e, 'Bold');
+  static const arrowBendLeftUp = IconData(0xe01e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-bend-right-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-right-down-bold.svg)
-  static const arrowBendRightDown = PhosphorFlatIconData(0xe020, 'Bold');
+  static const arrowBendRightDown = IconData(0xe020,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-bend-right-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-right-up-bold.svg)
-  static const arrowBendRightUp = PhosphorFlatIconData(0xe022, 'Bold');
+  static const arrowBendRightUp = IconData(0xe022,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-bend-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-up-left-bold.svg)
-  static const arrowBendUpLeft = PhosphorFlatIconData(0xe024, 'Bold');
+  static const arrowBendUpLeft = IconData(0xe024,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-bend-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-up-right-bold.svg)
-  static const arrowBendUpRight = PhosphorFlatIconData(0xe026, 'Bold');
+  static const arrowBendUpRight = IconData(0xe026,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-circle-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-down-bold.svg)
-  static const arrowCircleDown = PhosphorFlatIconData(0xe028, 'Bold');
+  static const arrowCircleDown = IconData(0xe028,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-circle-down-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-down-left-bold.svg)
-  static const arrowCircleDownLeft = PhosphorFlatIconData(0xe02a, 'Bold');
+  static const arrowCircleDownLeft = IconData(0xe02a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-circle-down-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-down-right-bold.svg)
-  static const arrowCircleDownRight = PhosphorFlatIconData(0xe02c, 'Bold');
+  static const arrowCircleDownRight = IconData(0xe02c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-circle-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-left-bold.svg)
-  static const arrowCircleLeft = PhosphorFlatIconData(0xe05a, 'Bold');
+  static const arrowCircleLeft = IconData(0xe05a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-circle-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-right-bold.svg)
-  static const arrowCircleRight = PhosphorFlatIconData(0xe02e, 'Bold');
+  static const arrowCircleRight = IconData(0xe02e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-circle-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-up-bold.svg)
-  static const arrowCircleUp = PhosphorFlatIconData(0xe030, 'Bold');
+  static const arrowCircleUp = IconData(0xe030,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-circle-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-up-left-bold.svg)
-  static const arrowCircleUpLeft = PhosphorFlatIconData(0xe032, 'Bold');
+  static const arrowCircleUpLeft = IconData(0xe032,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-circle-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-up-right-bold.svg)
-  static const arrowCircleUpRight = PhosphorFlatIconData(0xe034, 'Bold');
+  static const arrowCircleUpRight = IconData(0xe034,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-clockwise-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-clockwise-bold.svg)
-  static const arrowClockwise = PhosphorFlatIconData(0xe036, 'Bold');
+  static const arrowClockwise = IconData(0xe036,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-counter-clockwise-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-counter-clockwise-bold.svg)
-  static const arrowCounterClockwise = PhosphorFlatIconData(0xe038, 'Bold');
+  static const arrowCounterClockwise = IconData(0xe038,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-down-bold.svg)
-  static const arrowDown = PhosphorFlatIconData(0xe03e, 'Bold');
+  static const arrowDown = IconData(0xe03e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-down-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-down-left-bold.svg)
-  static const arrowDownLeft = PhosphorFlatIconData(0xe040, 'Bold');
+  static const arrowDownLeft = IconData(0xe040,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-down-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-down-right-bold.svg)
-  static const arrowDownRight = PhosphorFlatIconData(0xe042, 'Bold');
+  static const arrowDownRight = IconData(0xe042,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-elbow-down-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-down-left-bold.svg)
-  static const arrowElbowDownLeft = PhosphorFlatIconData(0xe044, 'Bold');
+  static const arrowElbowDownLeft = IconData(0xe044,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-elbow-down-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-down-right-bold.svg)
-  static const arrowElbowDownRight = PhosphorFlatIconData(0xe046, 'Bold');
+  static const arrowElbowDownRight = IconData(0xe046,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-elbow-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-left-bold.svg)
-  static const arrowElbowLeft = PhosphorFlatIconData(0xe048, 'Bold');
+  static const arrowElbowLeft = IconData(0xe048,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-elbow-left-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-left-down-bold.svg)
-  static const arrowElbowLeftDown = PhosphorFlatIconData(0xe04a, 'Bold');
+  static const arrowElbowLeftDown = IconData(0xe04a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-elbow-left-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-left-up-bold.svg)
-  static const arrowElbowLeftUp = PhosphorFlatIconData(0xe04c, 'Bold');
+  static const arrowElbowLeftUp = IconData(0xe04c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-elbow-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-right-bold.svg)
-  static const arrowElbowRight = PhosphorFlatIconData(0xe04e, 'Bold');
+  static const arrowElbowRight = IconData(0xe04e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-elbow-right-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-right-down-bold.svg)
-  static const arrowElbowRightDown = PhosphorFlatIconData(0xe050, 'Bold');
+  static const arrowElbowRightDown = IconData(0xe050,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-elbow-right-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-right-up-bold.svg)
-  static const arrowElbowRightUp = PhosphorFlatIconData(0xe052, 'Bold');
+  static const arrowElbowRightUp = IconData(0xe052,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-elbow-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-up-left-bold.svg)
-  static const arrowElbowUpLeft = PhosphorFlatIconData(0xe054, 'Bold');
+  static const arrowElbowUpLeft = IconData(0xe054,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-elbow-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-up-right-bold.svg)
-  static const arrowElbowUpRight = PhosphorFlatIconData(0xe056, 'Bold');
+  static const arrowElbowUpRight = IconData(0xe056,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-fat-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-down-bold.svg)
-  static const arrowFatDown = PhosphorFlatIconData(0xe518, 'Bold');
+  static const arrowFatDown = IconData(0xe518,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-fat-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-left-bold.svg)
-  static const arrowFatLeft = PhosphorFlatIconData(0xe51a, 'Bold');
+  static const arrowFatLeft = IconData(0xe51a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-fat-line-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-down-bold.svg)
-  static const arrowFatLineDown = PhosphorFlatIconData(0xe51c, 'Bold');
+  static const arrowFatLineDown = IconData(0xe51c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-fat-line-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-left-bold.svg)
-  static const arrowFatLineLeft = PhosphorFlatIconData(0xe51e, 'Bold');
+  static const arrowFatLineLeft = IconData(0xe51e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-fat-line-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-right-bold.svg)
-  static const arrowFatLineRight = PhosphorFlatIconData(0xe520, 'Bold');
+  static const arrowFatLineRight = IconData(0xe520,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-fat-line-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-up-bold.svg)
-  static const arrowFatLineUp = PhosphorFlatIconData(0xe522, 'Bold');
+  static const arrowFatLineUp = IconData(0xe522,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-fat-lines-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-down-bold.svg)
-  static const arrowFatLinesDown = PhosphorFlatIconData(0xe524, 'Bold');
+  static const arrowFatLinesDown = IconData(0xe524,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-fat-lines-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-left-bold.svg)
-  static const arrowFatLinesLeft = PhosphorFlatIconData(0xe526, 'Bold');
+  static const arrowFatLinesLeft = IconData(0xe526,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-fat-lines-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-right-bold.svg)
-  static const arrowFatLinesRight = PhosphorFlatIconData(0xe528, 'Bold');
+  static const arrowFatLinesRight = IconData(0xe528,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-fat-lines-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-up-bold.svg)
-  static const arrowFatLinesUp = PhosphorFlatIconData(0xe52a, 'Bold');
+  static const arrowFatLinesUp = IconData(0xe52a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-fat-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-right-bold.svg)
-  static const arrowFatRight = PhosphorFlatIconData(0xe52c, 'Bold');
+  static const arrowFatRight = IconData(0xe52c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-fat-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-up-bold.svg)
-  static const arrowFatUp = PhosphorFlatIconData(0xe52e, 'Bold');
+  static const arrowFatUp = IconData(0xe52e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-left-bold.svg)
-  static const arrowLeft = PhosphorFlatIconData(0xe058, 'Bold');
+  static const arrowLeft = IconData(0xe058,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-line-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-down-bold.svg)
-  static const arrowLineDown = PhosphorFlatIconData(0xe05c, 'Bold');
+  static const arrowLineDown = IconData(0xe05c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-line-down-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-down-left-bold.svg)
-  static const arrowLineDownLeft = PhosphorFlatIconData(0xe05e, 'Bold');
+  static const arrowLineDownLeft = IconData(0xe05e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-line-down-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-down-right-bold.svg)
-  static const arrowLineDownRight = PhosphorFlatIconData(0xe060, 'Bold');
+  static const arrowLineDownRight = IconData(0xe060,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-line-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-left-bold.svg)
-  static const arrowLineLeft = PhosphorFlatIconData(0xe062, 'Bold');
+  static const arrowLineLeft = IconData(0xe062,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-line-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-right-bold.svg)
-  static const arrowLineRight = PhosphorFlatIconData(0xe064, 'Bold');
+  static const arrowLineRight = IconData(0xe064,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-line-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-up-bold.svg)
-  static const arrowLineUp = PhosphorFlatIconData(0xe066, 'Bold');
+  static const arrowLineUp = IconData(0xe066,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-line-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-up-left-bold.svg)
-  static const arrowLineUpLeft = PhosphorFlatIconData(0xe068, 'Bold');
+  static const arrowLineUpLeft = IconData(0xe068,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-line-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-up-right-bold.svg)
-  static const arrowLineUpRight = PhosphorFlatIconData(0xe06a, 'Bold');
+  static const arrowLineUpRight = IconData(0xe06a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-right-bold.svg)
-  static const arrowRight = PhosphorFlatIconData(0xe06c, 'Bold');
+  static const arrowRight = IconData(0xe06c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-square-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-down-bold.svg)
-  static const arrowSquareDown = PhosphorFlatIconData(0xe06e, 'Bold');
+  static const arrowSquareDown = IconData(0xe06e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-square-down-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-down-left-bold.svg)
-  static const arrowSquareDownLeft = PhosphorFlatIconData(0xe070, 'Bold');
+  static const arrowSquareDownLeft = IconData(0xe070,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-square-down-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-down-right-bold.svg)
-  static const arrowSquareDownRight = PhosphorFlatIconData(0xe072, 'Bold');
+  static const arrowSquareDownRight = IconData(0xe072,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-square-in-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-in-bold.svg)
-  static const arrowSquareIn = PhosphorFlatIconData(0xe5dc, 'Bold');
+  static const arrowSquareIn = IconData(0xe5dc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-square-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-left-bold.svg)
-  static const arrowSquareLeft = PhosphorFlatIconData(0xe074, 'Bold');
+  static const arrowSquareLeft = IconData(0xe074,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-square-out-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-out-bold.svg)
-  static const arrowSquareOut = PhosphorFlatIconData(0xe5de, 'Bold');
+  static const arrowSquareOut = IconData(0xe5de,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-square-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-right-bold.svg)
-  static const arrowSquareRight = PhosphorFlatIconData(0xe076, 'Bold');
+  static const arrowSquareRight = IconData(0xe076,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-square-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-up-bold.svg)
-  static const arrowSquareUp = PhosphorFlatIconData(0xe078, 'Bold');
+  static const arrowSquareUp = IconData(0xe078,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-square-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-up-left-bold.svg)
-  static const arrowSquareUpLeft = PhosphorFlatIconData(0xe07a, 'Bold');
+  static const arrowSquareUpLeft = IconData(0xe07a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-square-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-up-right-bold.svg)
-  static const arrowSquareUpRight = PhosphorFlatIconData(0xe07c, 'Bold');
+  static const arrowSquareUpRight = IconData(0xe07c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-u-down-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-down-left-bold.svg)
-  static const arrowUDownLeft = PhosphorFlatIconData(0xe07e, 'Bold');
+  static const arrowUDownLeft = IconData(0xe07e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-u-down-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-down-right-bold.svg)
-  static const arrowUDownRight = PhosphorFlatIconData(0xe080, 'Bold');
+  static const arrowUDownRight = IconData(0xe080,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-u-left-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-left-down-bold.svg)
-  static const arrowULeftDown = PhosphorFlatIconData(0xe082, 'Bold');
+  static const arrowULeftDown = IconData(0xe082,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-u-left-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-left-up-bold.svg)
-  static const arrowULeftUp = PhosphorFlatIconData(0xe084, 'Bold');
+  static const arrowULeftUp = IconData(0xe084,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-u-right-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-right-down-bold.svg)
-  static const arrowURightDown = PhosphorFlatIconData(0xe086, 'Bold');
+  static const arrowURightDown = IconData(0xe086,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-u-right-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-right-up-bold.svg)
-  static const arrowURightUp = PhosphorFlatIconData(0xe088, 'Bold');
+  static const arrowURightUp = IconData(0xe088,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-u-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-up-left-bold.svg)
-  static const arrowUUpLeft = PhosphorFlatIconData(0xe08a, 'Bold');
+  static const arrowUUpLeft = IconData(0xe08a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-u-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-up-right-bold.svg)
-  static const arrowUUpRight = PhosphorFlatIconData(0xe08c, 'Bold');
+  static const arrowUUpRight = IconData(0xe08c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-up-bold.svg)
-  static const arrowUp = PhosphorFlatIconData(0xe08e, 'Bold');
+  static const arrowUp = IconData(0xe08e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-up-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-up-left-bold.svg)
-  static const arrowUpLeft = PhosphorFlatIconData(0xe090, 'Bold');
+  static const arrowUpLeft = IconData(0xe090,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrow-up-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-up-right-bold.svg)
-  static const arrowUpRight = PhosphorFlatIconData(0xe092, 'Bold');
+  static const arrowUpRight = IconData(0xe092,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-clockwise-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-clockwise-bold.svg)
-  static const arrowsClockwise = PhosphorFlatIconData(0xe094, 'Bold');
+  static const arrowsClockwise = IconData(0xe094,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-counter-clockwise-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-counter-clockwise-bold.svg)
-  static const arrowsCounterClockwise = PhosphorFlatIconData(0xe096, 'Bold');
+  static const arrowsCounterClockwise = IconData(0xe096,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-down-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-down-up-bold.svg)
-  static const arrowsDownUp = PhosphorFlatIconData(0xe098, 'Bold');
+  static const arrowsDownUp = IconData(0xe098,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-horizontal-bold.svg)
-  static const arrowsHorizontal = PhosphorFlatIconData(0xeb06, 'Bold');
+  static const arrowsHorizontal = IconData(0xeb06,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-in-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-bold.svg)
-  static const arrowsIn = PhosphorFlatIconData(0xe09a, 'Bold');
+  static const arrowsIn = IconData(0xe09a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-in-cardinal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-cardinal-bold.svg)
-  static const arrowsInCardinal = PhosphorFlatIconData(0xe09c, 'Bold');
+  static const arrowsInCardinal = IconData(0xe09c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-in-line-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-line-horizontal-bold.svg)
-  static const arrowsInLineHorizontal = PhosphorFlatIconData(0xe530, 'Bold');
+  static const arrowsInLineHorizontal = IconData(0xe530,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-in-line-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-line-vertical-bold.svg)
-  static const arrowsInLineVertical = PhosphorFlatIconData(0xe532, 'Bold');
+  static const arrowsInLineVertical = IconData(0xe532,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-in-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-simple-bold.svg)
-  static const arrowsInSimple = PhosphorFlatIconData(0xe09e, 'Bold');
+  static const arrowsInSimple = IconData(0xe09e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-left-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-left-right-bold.svg)
-  static const arrowsLeftRight = PhosphorFlatIconData(0xe0a0, 'Bold');
+  static const arrowsLeftRight = IconData(0xe0a0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-merge-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-merge-bold.svg)
-  static const arrowsMerge = PhosphorFlatIconData(0xed3e, 'Bold');
+  static const arrowsMerge = IconData(0xed3e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-out-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-bold.svg)
-  static const arrowsOut = PhosphorFlatIconData(0xe0a2, 'Bold');
+  static const arrowsOut = IconData(0xe0a2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-out-cardinal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-cardinal-bold.svg)
-  static const arrowsOutCardinal = PhosphorFlatIconData(0xe0a4, 'Bold');
+  static const arrowsOutCardinal = IconData(0xe0a4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-out-line-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-line-horizontal-bold.svg)
-  static const arrowsOutLineHorizontal = PhosphorFlatIconData(0xe534, 'Bold');
+  static const arrowsOutLineHorizontal = IconData(0xe534,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-out-line-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-line-vertical-bold.svg)
-  static const arrowsOutLineVertical = PhosphorFlatIconData(0xe536, 'Bold');
+  static const arrowsOutLineVertical = IconData(0xe536,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-out-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-simple-bold.svg)
-  static const arrowsOutSimple = PhosphorFlatIconData(0xe0a6, 'Bold');
+  static const arrowsOutSimple = IconData(0xe0a6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-split-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-split-bold.svg)
-  static const arrowsSplit = PhosphorFlatIconData(0xed3c, 'Bold');
+  static const arrowsSplit = IconData(0xed3c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![arrows-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-vertical-bold.svg)
-  static const arrowsVertical = PhosphorFlatIconData(0xeb04, 'Bold');
+  static const arrowsVertical = IconData(0xeb04,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![article-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/article-bold.svg)
-  static const article = PhosphorFlatIconData(0xe0a8, 'Bold');
+  static const article = IconData(0xe0a8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![article-medium-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/article-medium-bold.svg)
-  static const articleMedium = PhosphorFlatIconData(0xe5e0, 'Bold');
+  static const articleMedium = IconData(0xe5e0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![article-ny-times-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/article-ny-times-bold.svg)
-  static const articleNyTimes = PhosphorFlatIconData(0xe5e2, 'Bold');
+  static const articleNyTimes = IconData(0xe5e2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![asclepius-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/asclepius-bold.svg)
-  static const asclepius = PhosphorFlatIconData(0xee34, 'Bold');
+  static const asclepius = IconData(0xee34,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![asterisk-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/asterisk-bold.svg)
-  static const asterisk = PhosphorFlatIconData(0xe0aa, 'Bold');
+  static const asterisk = IconData(0xe0aa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![asterisk-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/asterisk-simple-bold.svg)
-  static const asteriskSimple = PhosphorFlatIconData(0xe832, 'Bold');
+  static const asteriskSimple = IconData(0xe832,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![at-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/at-bold.svg)
-  static const at = PhosphorFlatIconData(0xe0ac, 'Bold');
+  static const at = IconData(0xe0ac,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![atom-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/atom-bold.svg)
-  static const atom = PhosphorFlatIconData(0xe5e4, 'Bold');
+  static const atom = IconData(0xe5e4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![avocado-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/avocado-bold.svg)
-  static const avocado = PhosphorFlatIconData(0xee04, 'Bold');
+  static const avocado = IconData(0xee04,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![axe-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/axe-bold.svg)
-  static const axe = PhosphorFlatIconData(0xe9fc, 'Bold');
+  static const axe = IconData(0xe9fc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![baby-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baby-bold.svg)
-  static const baby = PhosphorFlatIconData(0xe774, 'Bold');
+  static const baby = IconData(0xe774,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![baby-carriage-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baby-carriage-bold.svg)
-  static const babyCarriage = PhosphorFlatIconData(0xe818, 'Bold');
+  static const babyCarriage = IconData(0xe818,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![backpack-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/backpack-bold.svg)
-  static const backpack = PhosphorFlatIconData(0xe922, 'Bold');
+  static const backpack = IconData(0xe922,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![backspace-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/backspace-bold.svg)
-  static const backspace = PhosphorFlatIconData(0xe0ae, 'Bold');
+  static const backspace = IconData(0xe0ae,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bag-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bag-bold.svg)
-  static const bag = PhosphorFlatIconData(0xe0b0, 'Bold');
+  static const bag = IconData(0xe0b0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bag-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bag-simple-bold.svg)
-  static const bagSimple = PhosphorFlatIconData(0xe5e6, 'Bold');
+  static const bagSimple = IconData(0xe5e6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![balloon-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/balloon-bold.svg)
-  static const balloon = PhosphorFlatIconData(0xe76c, 'Bold');
+  static const balloon = IconData(0xe76c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bandaids-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bandaids-bold.svg)
-  static const bandaids = PhosphorFlatIconData(0xe0b2, 'Bold');
+  static const bandaids = IconData(0xe0b2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bank-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bank-bold.svg)
-  static const bank = PhosphorFlatIconData(0xe0b4, 'Bold');
+  static const bank = IconData(0xe0b4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![barbell-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barbell-bold.svg)
-  static const barbell = PhosphorFlatIconData(0xe0b6, 'Bold');
+  static const barbell = IconData(0xe0b6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![barcode-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barcode-bold.svg)
-  static const barcode = PhosphorFlatIconData(0xe0b8, 'Bold');
+  static const barcode = IconData(0xe0b8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![barn-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barn-bold.svg)
-  static const barn = PhosphorFlatIconData(0xec72, 'Bold');
+  static const barn = IconData(0xec72,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![barricade-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barricade-bold.svg)
-  static const barricade = PhosphorFlatIconData(0xe948, 'Bold');
+  static const barricade = IconData(0xe948,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![baseball-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baseball-bold.svg)
-  static const baseball = PhosphorFlatIconData(0xe71a, 'Bold');
+  static const baseball = IconData(0xe71a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![baseball-cap-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baseball-cap-bold.svg)
-  static const baseballCap = PhosphorFlatIconData(0xea28, 'Bold');
+  static const baseballCap = IconData(0xea28,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![baseball-helmet-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baseball-helmet-bold.svg)
-  static const baseballHelmet = PhosphorFlatIconData(0xee4a, 'Bold');
+  static const baseballHelmet = IconData(0xee4a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![basket-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/basket-bold.svg)
-  static const basket = PhosphorFlatIconData(0xe964, 'Bold');
+  static const basket = IconData(0xe964,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![basketball-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/basketball-bold.svg)
-  static const basketball = PhosphorFlatIconData(0xe724, 'Bold');
+  static const basketball = IconData(0xe724,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bathtub-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bathtub-bold.svg)
-  static const bathtub = PhosphorFlatIconData(0xe81e, 'Bold');
+  static const bathtub = IconData(0xe81e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-charging-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-charging-bold.svg)
-  static const batteryCharging = PhosphorFlatIconData(0xe0ba, 'Bold');
+  static const batteryCharging = IconData(0xe0ba,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-charging-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-charging-vertical-bold.svg)
-  static const batteryChargingVertical = PhosphorFlatIconData(0xe0bc, 'Bold');
+  static const batteryChargingVertical = IconData(0xe0bc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-empty-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-empty-bold.svg)
-  static const batteryEmpty = PhosphorFlatIconData(0xe0be, 'Bold');
+  static const batteryEmpty = IconData(0xe0be,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-full-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-full-bold.svg)
-  static const batteryFull = PhosphorFlatIconData(0xe0c0, 'Bold');
+  static const batteryFull = IconData(0xe0c0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-high-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-high-bold.svg)
-  static const batteryHigh = PhosphorFlatIconData(0xe0c2, 'Bold');
+  static const batteryHigh = IconData(0xe0c2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-low-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-low-bold.svg)
-  static const batteryLow = PhosphorFlatIconData(0xe0c4, 'Bold');
+  static const batteryLow = IconData(0xe0c4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-medium-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-medium-bold.svg)
-  static const batteryMedium = PhosphorFlatIconData(0xe0c6, 'Bold');
+  static const batteryMedium = IconData(0xe0c6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-plus-bold.svg)
-  static const batteryPlus = PhosphorFlatIconData(0xe808, 'Bold');
+  static const batteryPlus = IconData(0xe808,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-plus-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-plus-vertical-bold.svg)
-  static const batteryPlusVertical = PhosphorFlatIconData(0xec50, 'Bold');
+  static const batteryPlusVertical = IconData(0xec50,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-vertical-empty-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-empty-bold.svg)
-  static const batteryVerticalEmpty = PhosphorFlatIconData(0xe7c6, 'Bold');
+  static const batteryVerticalEmpty = IconData(0xe7c6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-vertical-full-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-full-bold.svg)
-  static const batteryVerticalFull = PhosphorFlatIconData(0xe7c4, 'Bold');
+  static const batteryVerticalFull = IconData(0xe7c4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-vertical-high-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-high-bold.svg)
-  static const batteryVerticalHigh = PhosphorFlatIconData(0xe7c2, 'Bold');
+  static const batteryVerticalHigh = IconData(0xe7c2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-vertical-low-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-low-bold.svg)
-  static const batteryVerticalLow = PhosphorFlatIconData(0xe7be, 'Bold');
+  static const batteryVerticalLow = IconData(0xe7be,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-vertical-medium-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-medium-bold.svg)
-  static const batteryVerticalMedium = PhosphorFlatIconData(0xe7c0, 'Bold');
+  static const batteryVerticalMedium = IconData(0xe7c0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-warning-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-warning-bold.svg)
-  static const batteryWarning = PhosphorFlatIconData(0xe0c8, 'Bold');
+  static const batteryWarning = IconData(0xe0c8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![battery-warning-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-warning-vertical-bold.svg)
-  static const batteryWarningVertical = PhosphorFlatIconData(0xe0ca, 'Bold');
+  static const batteryWarningVertical = IconData(0xe0ca,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![beach-ball-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beach-ball-bold.svg)
-  static const beachBall = PhosphorFlatIconData(0xed24, 'Bold');
+  static const beachBall = IconData(0xed24,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![beanie-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beanie-bold.svg)
-  static const beanie = PhosphorFlatIconData(0xea2a, 'Bold');
+  static const beanie = IconData(0xea2a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bed-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bed-bold.svg)
-  static const bed = PhosphorFlatIconData(0xe0cc, 'Bold');
+  static const bed = IconData(0xe0cc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![beer-bottle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beer-bottle-bold.svg)
-  static const beerBottle = PhosphorFlatIconData(0xe7b0, 'Bold');
+  static const beerBottle = IconData(0xe7b0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![beer-stein-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beer-stein-bold.svg)
-  static const beerStein = PhosphorFlatIconData(0xeb62, 'Bold');
+  static const beerStein = IconData(0xeb62,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![behance-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/behance-logo-bold.svg)
-  static const behanceLogo = PhosphorFlatIconData(0xe7f4, 'Bold');
+  static const behanceLogo = IconData(0xe7f4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bell-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-bold.svg)
-  static const bell = PhosphorFlatIconData(0xe0ce, 'Bold');
+  static const bell = IconData(0xe0ce,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bell-ringing-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-ringing-bold.svg)
-  static const bellRinging = PhosphorFlatIconData(0xe5e8, 'Bold');
+  static const bellRinging = IconData(0xe5e8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bell-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple-bold.svg)
-  static const bellSimple = PhosphorFlatIconData(0xe0d0, 'Bold');
+  static const bellSimple = IconData(0xe0d0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bell-simple-ringing-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple-ringing-bold.svg)
-  static const bellSimpleRinging = PhosphorFlatIconData(0xe5ea, 'Bold');
+  static const bellSimpleRinging = IconData(0xe5ea,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bell-simple-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple-slash-bold.svg)
-  static const bellSimpleSlash = PhosphorFlatIconData(0xe0d2, 'Bold');
+  static const bellSimpleSlash = IconData(0xe0d2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bell-simple-z-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple-z-bold.svg)
-  static const bellSimpleZ = PhosphorFlatIconData(0xe5ec, 'Bold');
+  static const bellSimpleZ = IconData(0xe5ec,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bell-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-slash-bold.svg)
-  static const bellSlash = PhosphorFlatIconData(0xe0d4, 'Bold');
+  static const bellSlash = IconData(0xe0d4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bell-z-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-z-bold.svg)
-  static const bellZ = PhosphorFlatIconData(0xe5ee, 'Bold');
+  static const bellZ = IconData(0xe5ee,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![belt-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/belt-bold.svg)
-  static const belt = PhosphorFlatIconData(0xea2c, 'Bold');
+  static const belt = IconData(0xea2c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bezier-curve-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bezier-curve-bold.svg)
-  static const bezierCurve = PhosphorFlatIconData(0xeb00, 'Bold');
+  static const bezierCurve = IconData(0xeb00,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bicycle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bicycle-bold.svg)
-  static const bicycle = PhosphorFlatIconData(0xe0d6, 'Bold');
+  static const bicycle = IconData(0xe0d6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![binary-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/binary-bold.svg)
-  static const binary = PhosphorFlatIconData(0xee60, 'Bold');
+  static const binary = IconData(0xee60,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![binoculars-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/binoculars-bold.svg)
-  static const binoculars = PhosphorFlatIconData(0xea64, 'Bold');
+  static const binoculars = IconData(0xea64,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![biohazard-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/biohazard-bold.svg)
-  static const biohazard = PhosphorFlatIconData(0xe9e0, 'Bold');
+  static const biohazard = IconData(0xe9e0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bird-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bird-bold.svg)
-  static const bird = PhosphorFlatIconData(0xe72c, 'Bold');
+  static const bird = IconData(0xe72c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![blueprint-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/blueprint-bold.svg)
-  static const blueprint = PhosphorFlatIconData(0xeda0, 'Bold');
+  static const blueprint = IconData(0xeda0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bluetooth-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth-bold.svg)
-  static const bluetooth = PhosphorFlatIconData(0xe0da, 'Bold');
+  static const bluetooth = IconData(0xe0da,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bluetooth-connected-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth-connected-bold.svg)
-  static const bluetoothConnected = PhosphorFlatIconData(0xe0dc, 'Bold');
+  static const bluetoothConnected = IconData(0xe0dc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bluetooth-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth-slash-bold.svg)
-  static const bluetoothSlash = PhosphorFlatIconData(0xe0de, 'Bold');
+  static const bluetoothSlash = IconData(0xe0de,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bluetooth-x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth-x-bold.svg)
-  static const bluetoothX = PhosphorFlatIconData(0xe0e0, 'Bold');
+  static const bluetoothX = IconData(0xe0e0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![boat-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boat-bold.svg)
-  static const boat = PhosphorFlatIconData(0xe786, 'Bold');
+  static const boat = IconData(0xe786,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bomb-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bomb-bold.svg)
-  static const bomb = PhosphorFlatIconData(0xee0a, 'Bold');
+  static const bomb = IconData(0xee0a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bone-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bone-bold.svg)
-  static const bone = PhosphorFlatIconData(0xe7f2, 'Bold');
+  static const bone = IconData(0xe7f2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![book-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-bold.svg)
-  static const book = PhosphorFlatIconData(0xe0e2, 'Bold');
+  static const book = IconData(0xe0e2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![book-bookmark-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-bookmark-bold.svg)
-  static const bookBookmark = PhosphorFlatIconData(0xe0e4, 'Bold');
+  static const bookBookmark = IconData(0xe0e4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![book-open-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-open-bold.svg)
-  static const bookOpen = PhosphorFlatIconData(0xe0e6, 'Bold');
+  static const bookOpen = IconData(0xe0e6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![book-open-text-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-open-text-bold.svg)
-  static const bookOpenText = PhosphorFlatIconData(0xe8f2, 'Bold');
+  static const bookOpenText = IconData(0xe8f2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![book-open-user-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-open-user-bold.svg)
-  static const bookOpenUser = PhosphorFlatIconData(0xede0, 'Bold');
+  static const bookOpenUser = IconData(0xede0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bookmark-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmark-bold.svg)
-  static const bookmark = PhosphorFlatIconData(0xe0e8, 'Bold');
+  static const bookmark = IconData(0xe0e8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bookmark-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmark-simple-bold.svg)
-  static const bookmarkSimple = PhosphorFlatIconData(0xe0ea, 'Bold');
+  static const bookmarkSimple = IconData(0xe0ea,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bookmarks-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmarks-bold.svg)
-  static const bookmarks = PhosphorFlatIconData(0xe0ec, 'Bold');
+  static const bookmarks = IconData(0xe0ec,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bookmarks-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmarks-simple-bold.svg)
-  static const bookmarksSimple = PhosphorFlatIconData(0xe5f0, 'Bold');
+  static const bookmarksSimple = IconData(0xe5f0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![books-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/books-bold.svg)
-  static const books = PhosphorFlatIconData(0xe758, 'Bold');
+  static const books = IconData(0xe758,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![boot-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boot-bold.svg)
-  static const boot = PhosphorFlatIconData(0xecca, 'Bold');
+  static const boot = IconData(0xecca,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![boules-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boules-bold.svg)
-  static const boules = PhosphorFlatIconData(0xe722, 'Bold');
+  static const boules = IconData(0xe722,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bounding-box-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bounding-box-bold.svg)
-  static const boundingBox = PhosphorFlatIconData(0xe6ce, 'Bold');
+  static const boundingBox = IconData(0xe6ce,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bowl-food-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bowl-food-bold.svg)
-  static const bowlFood = PhosphorFlatIconData(0xeaa4, 'Bold');
+  static const bowlFood = IconData(0xeaa4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bowl-steam-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bowl-steam-bold.svg)
-  static const bowlSteam = PhosphorFlatIconData(0xe8e4, 'Bold');
+  static const bowlSteam = IconData(0xe8e4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bowling-ball-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bowling-ball-bold.svg)
-  static const bowlingBall = PhosphorFlatIconData(0xea34, 'Bold');
+  static const bowlingBall = IconData(0xea34,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![box-arrow-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/box-arrow-down-bold.svg)
-  static const boxArrowDown = PhosphorFlatIconData(0xe00e, 'Bold');
+  static const boxArrowDown = IconData(0xe00e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![box-arrow-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/box-arrow-up-bold.svg)
-  static const boxArrowUp = PhosphorFlatIconData(0xee54, 'Bold');
+  static const boxArrowUp = IconData(0xee54,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![boxing-glove-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boxing-glove-bold.svg)
-  static const boxingGlove = PhosphorFlatIconData(0xea36, 'Bold');
+  static const boxingGlove = IconData(0xea36,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![brackets-angle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-angle-bold.svg)
-  static const bracketsAngle = PhosphorFlatIconData(0xe862, 'Bold');
+  static const bracketsAngle = IconData(0xe862,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![brackets-curly-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-curly-bold.svg)
-  static const bracketsCurly = PhosphorFlatIconData(0xe860, 'Bold');
+  static const bracketsCurly = IconData(0xe860,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![brackets-round-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-round-bold.svg)
-  static const bracketsRound = PhosphorFlatIconData(0xe864, 'Bold');
+  static const bracketsRound = IconData(0xe864,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![brackets-square-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-square-bold.svg)
-  static const bracketsSquare = PhosphorFlatIconData(0xe85e, 'Bold');
+  static const bracketsSquare = IconData(0xe85e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![brain-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brain-bold.svg)
-  static const brain = PhosphorFlatIconData(0xe74e, 'Bold');
+  static const brain = IconData(0xe74e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![brandy-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brandy-bold.svg)
-  static const brandy = PhosphorFlatIconData(0xe6b4, 'Bold');
+  static const brandy = IconData(0xe6b4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bread-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bread-bold.svg)
-  static const bread = PhosphorFlatIconData(0xe81c, 'Bold');
+  static const bread = IconData(0xe81c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bridge-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bridge-bold.svg)
-  static const bridge = PhosphorFlatIconData(0xea68, 'Bold');
+  static const bridge = IconData(0xea68,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![briefcase-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/briefcase-bold.svg)
-  static const briefcase = PhosphorFlatIconData(0xe0ee, 'Bold');
+  static const briefcase = IconData(0xe0ee,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![briefcase-metal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/briefcase-metal-bold.svg)
-  static const briefcaseMetal = PhosphorFlatIconData(0xe5f2, 'Bold');
+  static const briefcaseMetal = IconData(0xe5f2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![broadcast-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/broadcast-bold.svg)
-  static const broadcast = PhosphorFlatIconData(0xe0f2, 'Bold');
+  static const broadcast = IconData(0xe0f2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![broom-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/broom-bold.svg)
-  static const broom = PhosphorFlatIconData(0xec54, 'Bold');
+  static const broom = IconData(0xec54,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![browser-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/browser-bold.svg)
-  static const browser = PhosphorFlatIconData(0xe0f4, 'Bold');
+  static const browser = IconData(0xe0f4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![browsers-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/browsers-bold.svg)
-  static const browsers = PhosphorFlatIconData(0xe0f6, 'Bold');
+  static const browsers = IconData(0xe0f6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bug-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bug-bold.svg)
-  static const bug = PhosphorFlatIconData(0xe5f4, 'Bold');
+  static const bug = IconData(0xe5f4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bug-beetle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bug-beetle-bold.svg)
-  static const bugBeetle = PhosphorFlatIconData(0xe5f6, 'Bold');
+  static const bugBeetle = IconData(0xe5f6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bug-droid-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bug-droid-bold.svg)
-  static const bugDroid = PhosphorFlatIconData(0xe5f8, 'Bold');
+  static const bugDroid = IconData(0xe5f8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![building-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/building-bold.svg)
-  static const building = PhosphorFlatIconData(0xe100, 'Bold');
+  static const building = IconData(0xe100,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![building-apartment-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/building-apartment-bold.svg)
-  static const buildingApartment = PhosphorFlatIconData(0xe0fe, 'Bold');
+  static const buildingApartment = IconData(0xe0fe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![building-office-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/building-office-bold.svg)
-  static const buildingOffice = PhosphorFlatIconData(0xe0ff, 'Bold');
+  static const buildingOffice = IconData(0xe0ff,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![buildings-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/buildings-bold.svg)
-  static const buildings = PhosphorFlatIconData(0xe102, 'Bold');
+  static const buildings = IconData(0xe102,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bulldozer-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bulldozer-bold.svg)
-  static const bulldozer = PhosphorFlatIconData(0xec6c, 'Bold');
+  static const bulldozer = IconData(0xec6c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![bus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bus-bold.svg)
-  static const bus = PhosphorFlatIconData(0xe106, 'Bold');
+  static const bus = IconData(0xe106,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![butterfly-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/butterfly-bold.svg)
-  static const butterfly = PhosphorFlatIconData(0xea6e, 'Bold');
+  static const butterfly = IconData(0xea6e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cable-car-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cable-car-bold.svg)
-  static const cableCar = PhosphorFlatIconData(0xe49c, 'Bold');
+  static const cableCar = IconData(0xe49c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cactus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cactus-bold.svg)
-  static const cactus = PhosphorFlatIconData(0xe918, 'Bold');
+  static const cactus = IconData(0xe918,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cake-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cake-bold.svg)
-  static const cake = PhosphorFlatIconData(0xe780, 'Bold');
+  static const cake = IconData(0xe780,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![calculator-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calculator-bold.svg)
-  static const calculator = PhosphorFlatIconData(0xe538, 'Bold');
+  static const calculator = IconData(0xe538,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![calendar-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-bold.svg)
-  static const calendar = PhosphorFlatIconData(0xe108, 'Bold');
+  static const calendar = IconData(0xe108,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![calendar-blank-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-blank-bold.svg)
-  static const calendarBlank = PhosphorFlatIconData(0xe10a, 'Bold');
+  static const calendarBlank = IconData(0xe10a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![calendar-check-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-check-bold.svg)
-  static const calendarCheck = PhosphorFlatIconData(0xe712, 'Bold');
+  static const calendarCheck = IconData(0xe712,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![calendar-dot-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-dot-bold.svg)
-  static const calendarDot = PhosphorFlatIconData(0xe7b2, 'Bold');
+  static const calendarDot = IconData(0xe7b2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![calendar-dots-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-dots-bold.svg)
-  static const calendarDots = PhosphorFlatIconData(0xe7b4, 'Bold');
+  static const calendarDots = IconData(0xe7b4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![calendar-heart-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-heart-bold.svg)
-  static const calendarHeart = PhosphorFlatIconData(0xe8b0, 'Bold');
+  static const calendarHeart = IconData(0xe8b0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![calendar-minus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-minus-bold.svg)
-  static const calendarMinus = PhosphorFlatIconData(0xea14, 'Bold');
+  static const calendarMinus = IconData(0xea14,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![calendar-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-plus-bold.svg)
-  static const calendarPlus = PhosphorFlatIconData(0xe714, 'Bold');
+  static const calendarPlus = IconData(0xe714,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![calendar-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-slash-bold.svg)
-  static const calendarSlash = PhosphorFlatIconData(0xea12, 'Bold');
+  static const calendarSlash = IconData(0xea12,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![calendar-star-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-star-bold.svg)
-  static const calendarStar = PhosphorFlatIconData(0xe8b2, 'Bold');
+  static const calendarStar = IconData(0xe8b2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![calendar-x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-x-bold.svg)
-  static const calendarX = PhosphorFlatIconData(0xe10c, 'Bold');
+  static const calendarX = IconData(0xe10c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![call-bell-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/call-bell-bold.svg)
-  static const callBell = PhosphorFlatIconData(0xe7de, 'Bold');
+  static const callBell = IconData(0xe7de,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![camera-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera-bold.svg)
-  static const camera = PhosphorFlatIconData(0xe10e, 'Bold');
+  static const camera = IconData(0xe10e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![camera-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera-plus-bold.svg)
-  static const cameraPlus = PhosphorFlatIconData(0xec58, 'Bold');
+  static const cameraPlus = IconData(0xec58,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![camera-rotate-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera-rotate-bold.svg)
-  static const cameraRotate = PhosphorFlatIconData(0xe7a4, 'Bold');
+  static const cameraRotate = IconData(0xe7a4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![camera-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera-slash-bold.svg)
-  static const cameraSlash = PhosphorFlatIconData(0xe110, 'Bold');
+  static const cameraSlash = IconData(0xe110,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![campfire-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/campfire-bold.svg)
-  static const campfire = PhosphorFlatIconData(0xe9d8, 'Bold');
+  static const campfire = IconData(0xe9d8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![car-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car-bold.svg)
-  static const car = PhosphorFlatIconData(0xe112, 'Bold');
+  static const car = IconData(0xe112,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![car-battery-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car-battery-bold.svg)
-  static const carBattery = PhosphorFlatIconData(0xee30, 'Bold');
+  static const carBattery = IconData(0xee30,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![car-profile-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car-profile-bold.svg)
-  static const carProfile = PhosphorFlatIconData(0xe8cc, 'Bold');
+  static const carProfile = IconData(0xe8cc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![car-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car-simple-bold.svg)
-  static const carSimple = PhosphorFlatIconData(0xe114, 'Bold');
+  static const carSimple = IconData(0xe114,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cardholder-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cardholder-bold.svg)
-  static const cardholder = PhosphorFlatIconData(0xe5fa, 'Bold');
+  static const cardholder = IconData(0xe5fa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cards-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cards-bold.svg)
-  static const cards = PhosphorFlatIconData(0xe0f8, 'Bold');
+  static const cards = IconData(0xe0f8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cards-three-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cards-three-bold.svg)
-  static const cardsThree = PhosphorFlatIconData(0xee50, 'Bold');
+  static const cardsThree = IconData(0xee50,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-circle-double-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-down-bold.svg)
-  static const caretCircleDoubleDown = PhosphorFlatIconData(0xe116, 'Bold');
+  static const caretCircleDoubleDown = IconData(0xe116,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-circle-double-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-left-bold.svg)
-  static const caretCircleDoubleLeft = PhosphorFlatIconData(0xe118, 'Bold');
+  static const caretCircleDoubleLeft = IconData(0xe118,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-circle-double-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-right-bold.svg)
-  static const caretCircleDoubleRight = PhosphorFlatIconData(0xe11a, 'Bold');
+  static const caretCircleDoubleRight = IconData(0xe11a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-circle-double-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-up-bold.svg)
-  static const caretCircleDoubleUp = PhosphorFlatIconData(0xe11c, 'Bold');
+  static const caretCircleDoubleUp = IconData(0xe11c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-circle-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-down-bold.svg)
-  static const caretCircleDown = PhosphorFlatIconData(0xe11e, 'Bold');
+  static const caretCircleDown = IconData(0xe11e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-circle-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-left-bold.svg)
-  static const caretCircleLeft = PhosphorFlatIconData(0xe120, 'Bold');
+  static const caretCircleLeft = IconData(0xe120,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-circle-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-right-bold.svg)
-  static const caretCircleRight = PhosphorFlatIconData(0xe122, 'Bold');
+  static const caretCircleRight = IconData(0xe122,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-circle-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-up-bold.svg)
-  static const caretCircleUp = PhosphorFlatIconData(0xe124, 'Bold');
+  static const caretCircleUp = IconData(0xe124,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-circle-up-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-up-down-bold.svg)
-  static const caretCircleUpDown = PhosphorFlatIconData(0xe13e, 'Bold');
+  static const caretCircleUpDown = IconData(0xe13e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-double-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-down-bold.svg)
-  static const caretDoubleDown = PhosphorFlatIconData(0xe126, 'Bold');
+  static const caretDoubleDown = IconData(0xe126,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-double-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-left-bold.svg)
-  static const caretDoubleLeft = PhosphorFlatIconData(0xe128, 'Bold');
+  static const caretDoubleLeft = IconData(0xe128,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-double-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-right-bold.svg)
-  static const caretDoubleRight = PhosphorFlatIconData(0xe12a, 'Bold');
+  static const caretDoubleRight = IconData(0xe12a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-double-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-up-bold.svg)
-  static const caretDoubleUp = PhosphorFlatIconData(0xe12c, 'Bold');
+  static const caretDoubleUp = IconData(0xe12c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-down-bold.svg)
-  static const caretDown = PhosphorFlatIconData(0xe136, 'Bold');
+  static const caretDown = IconData(0xe136,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-left-bold.svg)
-  static const caretLeft = PhosphorFlatIconData(0xe138, 'Bold');
+  static const caretLeft = IconData(0xe138,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-line-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-down-bold.svg)
-  static const caretLineDown = PhosphorFlatIconData(0xe134, 'Bold');
+  static const caretLineDown = IconData(0xe134,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-line-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-left-bold.svg)
-  static const caretLineLeft = PhosphorFlatIconData(0xe132, 'Bold');
+  static const caretLineLeft = IconData(0xe132,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-line-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-right-bold.svg)
-  static const caretLineRight = PhosphorFlatIconData(0xe130, 'Bold');
+  static const caretLineRight = IconData(0xe130,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-line-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-up-bold.svg)
-  static const caretLineUp = PhosphorFlatIconData(0xe12e, 'Bold');
+  static const caretLineUp = IconData(0xe12e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-right-bold.svg)
-  static const caretRight = PhosphorFlatIconData(0xe13a, 'Bold');
+  static const caretRight = IconData(0xe13a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-up-bold.svg)
-  static const caretUp = PhosphorFlatIconData(0xe13c, 'Bold');
+  static const caretUp = IconData(0xe13c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![caret-up-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-up-down-bold.svg)
-  static const caretUpDown = PhosphorFlatIconData(0xe140, 'Bold');
+  static const caretUpDown = IconData(0xe140,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![carrot-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/carrot-bold.svg)
-  static const carrot = PhosphorFlatIconData(0xed38, 'Bold');
+  static const carrot = IconData(0xed38,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cash-register-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cash-register-bold.svg)
-  static const cashRegister = PhosphorFlatIconData(0xed80, 'Bold');
+  static const cashRegister = IconData(0xed80,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cassette-tape-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cassette-tape-bold.svg)
-  static const cassetteTape = PhosphorFlatIconData(0xed2e, 'Bold');
+  static const cassetteTape = IconData(0xed2e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![castle-turret-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/castle-turret-bold.svg)
-  static const castleTurret = PhosphorFlatIconData(0xe9d0, 'Bold');
+  static const castleTurret = IconData(0xe9d0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cat-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cat-bold.svg)
-  static const cat = PhosphorFlatIconData(0xe748, 'Bold');
+  static const cat = IconData(0xe748,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cell-signal-full-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-full-bold.svg)
-  static const cellSignalFull = PhosphorFlatIconData(0xe142, 'Bold');
+  static const cellSignalFull = IconData(0xe142,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cell-signal-high-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-high-bold.svg)
-  static const cellSignalHigh = PhosphorFlatIconData(0xe144, 'Bold');
+  static const cellSignalHigh = IconData(0xe144,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cell-signal-low-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-low-bold.svg)
-  static const cellSignalLow = PhosphorFlatIconData(0xe146, 'Bold');
+  static const cellSignalLow = IconData(0xe146,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cell-signal-medium-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-medium-bold.svg)
-  static const cellSignalMedium = PhosphorFlatIconData(0xe148, 'Bold');
+  static const cellSignalMedium = IconData(0xe148,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cell-signal-none-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-none-bold.svg)
-  static const cellSignalNone = PhosphorFlatIconData(0xe14a, 'Bold');
+  static const cellSignalNone = IconData(0xe14a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cell-signal-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-slash-bold.svg)
-  static const cellSignalSlash = PhosphorFlatIconData(0xe14c, 'Bold');
+  static const cellSignalSlash = IconData(0xe14c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cell-signal-x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-x-bold.svg)
-  static const cellSignalX = PhosphorFlatIconData(0xe14e, 'Bold');
+  static const cellSignalX = IconData(0xe14e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cell-tower-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-tower-bold.svg)
-  static const cellTower = PhosphorFlatIconData(0xebaa, 'Bold');
+  static const cellTower = IconData(0xebaa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![certificate-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/certificate-bold.svg)
-  static const certificate = PhosphorFlatIconData(0xe766, 'Bold');
+  static const certificate = IconData(0xe766,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chair-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chair-bold.svg)
-  static const chair = PhosphorFlatIconData(0xe950, 'Bold');
+  static const chair = IconData(0xe950,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chalkboard-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chalkboard-bold.svg)
-  static const chalkboard = PhosphorFlatIconData(0xe5fc, 'Bold');
+  static const chalkboard = IconData(0xe5fc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chalkboard-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chalkboard-simple-bold.svg)
-  static const chalkboardSimple = PhosphorFlatIconData(0xe5fe, 'Bold');
+  static const chalkboardSimple = IconData(0xe5fe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chalkboard-teacher-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chalkboard-teacher-bold.svg)
-  static const chalkboardTeacher = PhosphorFlatIconData(0xe600, 'Bold');
+  static const chalkboardTeacher = IconData(0xe600,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![champagne-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/champagne-bold.svg)
-  static const champagne = PhosphorFlatIconData(0xeaca, 'Bold');
+  static const champagne = IconData(0xeaca,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![charging-station-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/charging-station-bold.svg)
-  static const chargingStation = PhosphorFlatIconData(0xe8d0, 'Bold');
+  static const chargingStation = IconData(0xe8d0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chart-bar-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-bar-bold.svg)
-  static const chartBar = PhosphorFlatIconData(0xe150, 'Bold');
+  static const chartBar = IconData(0xe150,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chart-bar-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-bar-horizontal-bold.svg)
-  static const chartBarHorizontal = PhosphorFlatIconData(0xe152, 'Bold');
+  static const chartBarHorizontal = IconData(0xe152,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chart-donut-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-donut-bold.svg)
-  static const chartDonut = PhosphorFlatIconData(0xeaa6, 'Bold');
+  static const chartDonut = IconData(0xeaa6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chart-line-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-line-bold.svg)
-  static const chartLine = PhosphorFlatIconData(0xe154, 'Bold');
+  static const chartLine = IconData(0xe154,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chart-line-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-line-down-bold.svg)
-  static const chartLineDown = PhosphorFlatIconData(0xe8b6, 'Bold');
+  static const chartLineDown = IconData(0xe8b6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chart-line-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-line-up-bold.svg)
-  static const chartLineUp = PhosphorFlatIconData(0xe156, 'Bold');
+  static const chartLineUp = IconData(0xe156,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chart-pie-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-pie-bold.svg)
-  static const chartPie = PhosphorFlatIconData(0xe158, 'Bold');
+  static const chartPie = IconData(0xe158,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chart-pie-slice-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-pie-slice-bold.svg)
-  static const chartPieSlice = PhosphorFlatIconData(0xe15a, 'Bold');
+  static const chartPieSlice = IconData(0xe15a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chart-polar-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-polar-bold.svg)
-  static const chartPolar = PhosphorFlatIconData(0xeaa8, 'Bold');
+  static const chartPolar = IconData(0xeaa8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chart-scatter-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-scatter-bold.svg)
-  static const chartScatter = PhosphorFlatIconData(0xeaac, 'Bold');
+  static const chartScatter = IconData(0xeaac,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-bold.svg)
-  static const chat = PhosphorFlatIconData(0xe15c, 'Bold');
+  static const chat = IconData(0xe15c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-centered-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered-bold.svg)
-  static const chatCentered = PhosphorFlatIconData(0xe160, 'Bold');
+  static const chatCentered = IconData(0xe160,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-centered-dots-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered-dots-bold.svg)
-  static const chatCenteredDots = PhosphorFlatIconData(0xe164, 'Bold');
+  static const chatCenteredDots = IconData(0xe164,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-centered-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered-slash-bold.svg)
-  static const chatCenteredSlash = PhosphorFlatIconData(0xe162, 'Bold');
+  static const chatCenteredSlash = IconData(0xe162,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-centered-text-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered-text-bold.svg)
-  static const chatCenteredText = PhosphorFlatIconData(0xe166, 'Bold');
+  static const chatCenteredText = IconData(0xe166,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle-bold.svg)
-  static const chatCircle = PhosphorFlatIconData(0xe168, 'Bold');
+  static const chatCircle = IconData(0xe168,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-circle-dots-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle-dots-bold.svg)
-  static const chatCircleDots = PhosphorFlatIconData(0xe16c, 'Bold');
+  static const chatCircleDots = IconData(0xe16c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-circle-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle-slash-bold.svg)
-  static const chatCircleSlash = PhosphorFlatIconData(0xe16a, 'Bold');
+  static const chatCircleSlash = IconData(0xe16a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-circle-text-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle-text-bold.svg)
-  static const chatCircleText = PhosphorFlatIconData(0xe16e, 'Bold');
+  static const chatCircleText = IconData(0xe16e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-dots-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-dots-bold.svg)
-  static const chatDots = PhosphorFlatIconData(0xe170, 'Bold');
+  static const chatDots = IconData(0xe170,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-slash-bold.svg)
-  static const chatSlash = PhosphorFlatIconData(0xe15e, 'Bold');
+  static const chatSlash = IconData(0xe15e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-teardrop-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop-bold.svg)
-  static const chatTeardrop = PhosphorFlatIconData(0xe172, 'Bold');
+  static const chatTeardrop = IconData(0xe172,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-teardrop-dots-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop-dots-bold.svg)
-  static const chatTeardropDots = PhosphorFlatIconData(0xe176, 'Bold');
+  static const chatTeardropDots = IconData(0xe176,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-teardrop-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop-slash-bold.svg)
-  static const chatTeardropSlash = PhosphorFlatIconData(0xe174, 'Bold');
+  static const chatTeardropSlash = IconData(0xe174,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-teardrop-text-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop-text-bold.svg)
-  static const chatTeardropText = PhosphorFlatIconData(0xe178, 'Bold');
+  static const chatTeardropText = IconData(0xe178,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chat-text-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-text-bold.svg)
-  static const chatText = PhosphorFlatIconData(0xe17a, 'Bold');
+  static const chatText = IconData(0xe17a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chats-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chats-bold.svg)
-  static const chats = PhosphorFlatIconData(0xe17c, 'Bold');
+  static const chats = IconData(0xe17c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chats-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chats-circle-bold.svg)
-  static const chatsCircle = PhosphorFlatIconData(0xe17e, 'Bold');
+  static const chatsCircle = IconData(0xe17e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chats-teardrop-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chats-teardrop-bold.svg)
-  static const chatsTeardrop = PhosphorFlatIconData(0xe180, 'Bold');
+  static const chatsTeardrop = IconData(0xe180,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![check-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-bold.svg)
-  static const check = PhosphorFlatIconData(0xe182, 'Bold');
+  static const check = IconData(0xe182,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![check-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-circle-bold.svg)
-  static const checkCircle = PhosphorFlatIconData(0xe184, 'Bold');
+  static const checkCircle = IconData(0xe184,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![check-fat-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-fat-bold.svg)
-  static const checkFat = PhosphorFlatIconData(0xeba6, 'Bold');
+  static const checkFat = IconData(0xeba6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![check-square-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-square-bold.svg)
-  static const checkSquare = PhosphorFlatIconData(0xe186, 'Bold');
+  static const checkSquare = IconData(0xe186,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![check-square-offset-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-square-offset-bold.svg)
-  static const checkSquareOffset = PhosphorFlatIconData(0xe188, 'Bold');
+  static const checkSquareOffset = IconData(0xe188,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![checkerboard-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/checkerboard-bold.svg)
-  static const checkerboard = PhosphorFlatIconData(0xe8c4, 'Bold');
+  static const checkerboard = IconData(0xe8c4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![checks-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/checks-bold.svg)
-  static const checks = PhosphorFlatIconData(0xe53a, 'Bold');
+  static const checks = IconData(0xe53a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cheers-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cheers-bold.svg)
-  static const cheers = PhosphorFlatIconData(0xea4a, 'Bold');
+  static const cheers = IconData(0xea4a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cheese-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cheese-bold.svg)
-  static const cheese = PhosphorFlatIconData(0xe9fe, 'Bold');
+  static const cheese = IconData(0xe9fe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![chef-hat-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chef-hat-bold.svg)
-  static const chefHat = PhosphorFlatIconData(0xed8e, 'Bold');
+  static const chefHat = IconData(0xed8e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cherries-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cherries-bold.svg)
-  static const cherries = PhosphorFlatIconData(0xe830, 'Bold');
+  static const cherries = IconData(0xe830,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![church-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/church-bold.svg)
-  static const church = PhosphorFlatIconData(0xecea, 'Bold');
+  static const church = IconData(0xecea,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cigarette-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cigarette-bold.svg)
-  static const cigarette = PhosphorFlatIconData(0xed90, 'Bold');
+  static const cigarette = IconData(0xed90,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cigarette-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cigarette-slash-bold.svg)
-  static const cigaretteSlash = PhosphorFlatIconData(0xed92, 'Bold');
+  static const cigaretteSlash = IconData(0xed92,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-bold.svg)
-  static const circle = PhosphorFlatIconData(0xe18a, 'Bold');
+  static const circle = IconData(0xe18a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![circle-dashed-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-dashed-bold.svg)
-  static const circleDashed = PhosphorFlatIconData(0xe602, 'Bold');
+  static const circleDashed = IconData(0xe602,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![circle-half-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-half-bold.svg)
-  static const circleHalf = PhosphorFlatIconData(0xe18c, 'Bold');
+  static const circleHalf = IconData(0xe18c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![circle-half-tilt-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-half-tilt-bold.svg)
-  static const circleHalfTilt = PhosphorFlatIconData(0xe18e, 'Bold');
+  static const circleHalfTilt = IconData(0xe18e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![circle-notch-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-notch-bold.svg)
-  static const circleNotch = PhosphorFlatIconData(0xeb44, 'Bold');
+  static const circleNotch = IconData(0xeb44,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![circles-four-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circles-four-bold.svg)
-  static const circlesFour = PhosphorFlatIconData(0xe190, 'Bold');
+  static const circlesFour = IconData(0xe190,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![circles-three-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circles-three-bold.svg)
-  static const circlesThree = PhosphorFlatIconData(0xe192, 'Bold');
+  static const circlesThree = IconData(0xe192,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![circles-three-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circles-three-plus-bold.svg)
-  static const circlesThreePlus = PhosphorFlatIconData(0xe194, 'Bold');
+  static const circlesThreePlus = IconData(0xe194,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![circuitry-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circuitry-bold.svg)
-  static const circuitry = PhosphorFlatIconData(0xe9c2, 'Bold');
+  static const circuitry = IconData(0xe9c2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![city-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/city-bold.svg)
-  static const city = PhosphorFlatIconData(0xea6a, 'Bold');
+  static const city = IconData(0xea6a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![clipboard-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clipboard-bold.svg)
-  static const clipboard = PhosphorFlatIconData(0xe196, 'Bold');
+  static const clipboard = IconData(0xe196,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![clipboard-text-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clipboard-text-bold.svg)
-  static const clipboardText = PhosphorFlatIconData(0xe198, 'Bold');
+  static const clipboardText = IconData(0xe198,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![clock-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-bold.svg)
-  static const clock = PhosphorFlatIconData(0xe19a, 'Bold');
+  static const clock = IconData(0xe19a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![clock-afternoon-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-afternoon-bold.svg)
-  static const clockAfternoon = PhosphorFlatIconData(0xe19c, 'Bold');
+  static const clockAfternoon = IconData(0xe19c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![clock-clockwise-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-clockwise-bold.svg)
-  static const clockClockwise = PhosphorFlatIconData(0xe19e, 'Bold');
+  static const clockClockwise = IconData(0xe19e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![clock-countdown-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-countdown-bold.svg)
-  static const clockCountdown = PhosphorFlatIconData(0xed2c, 'Bold');
+  static const clockCountdown = IconData(0xed2c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![clock-counter-clockwise-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-counter-clockwise-bold.svg)
-  static const clockCounterClockwise = PhosphorFlatIconData(0xe1a0, 'Bold');
+  static const clockCounterClockwise = IconData(0xe1a0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![clock-user-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-user-bold.svg)
-  static const clockUser = PhosphorFlatIconData(0xedec, 'Bold');
+  static const clockUser = IconData(0xedec,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![closed-captioning-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/closed-captioning-bold.svg)
-  static const closedCaptioning = PhosphorFlatIconData(0xe1a4, 'Bold');
+  static const closedCaptioning = IconData(0xe1a4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cloud-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-bold.svg)
-  static const cloud = PhosphorFlatIconData(0xe1aa, 'Bold');
+  static const cloud = IconData(0xe1aa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cloud-arrow-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-arrow-down-bold.svg)
-  static const cloudArrowDown = PhosphorFlatIconData(0xe1ac, 'Bold');
+  static const cloudArrowDown = IconData(0xe1ac,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cloud-arrow-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-arrow-up-bold.svg)
-  static const cloudArrowUp = PhosphorFlatIconData(0xe1ae, 'Bold');
+  static const cloudArrowUp = IconData(0xe1ae,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cloud-check-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-check-bold.svg)
-  static const cloudCheck = PhosphorFlatIconData(0xe1b0, 'Bold');
+  static const cloudCheck = IconData(0xe1b0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cloud-fog-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-fog-bold.svg)
-  static const cloudFog = PhosphorFlatIconData(0xe53c, 'Bold');
+  static const cloudFog = IconData(0xe53c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cloud-lightning-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-lightning-bold.svg)
-  static const cloudLightning = PhosphorFlatIconData(0xe1b2, 'Bold');
+  static const cloudLightning = IconData(0xe1b2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cloud-moon-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-moon-bold.svg)
-  static const cloudMoon = PhosphorFlatIconData(0xe53e, 'Bold');
+  static const cloudMoon = IconData(0xe53e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cloud-rain-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-rain-bold.svg)
-  static const cloudRain = PhosphorFlatIconData(0xe1b4, 'Bold');
+  static const cloudRain = IconData(0xe1b4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cloud-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-slash-bold.svg)
-  static const cloudSlash = PhosphorFlatIconData(0xe1b6, 'Bold');
+  static const cloudSlash = IconData(0xe1b6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cloud-snow-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-snow-bold.svg)
-  static const cloudSnow = PhosphorFlatIconData(0xe1b8, 'Bold');
+  static const cloudSnow = IconData(0xe1b8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cloud-sun-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-sun-bold.svg)
-  static const cloudSun = PhosphorFlatIconData(0xe540, 'Bold');
+  static const cloudSun = IconData(0xe540,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cloud-warning-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-warning-bold.svg)
-  static const cloudWarning = PhosphorFlatIconData(0xea98, 'Bold');
+  static const cloudWarning = IconData(0xea98,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cloud-x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-x-bold.svg)
-  static const cloudX = PhosphorFlatIconData(0xea96, 'Bold');
+  static const cloudX = IconData(0xea96,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![clover-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clover-bold.svg)
-  static const clover = PhosphorFlatIconData(0xedc8, 'Bold');
+  static const clover = IconData(0xedc8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![club-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/club-bold.svg)
-  static const club = PhosphorFlatIconData(0xe1ba, 'Bold');
+  static const club = IconData(0xe1ba,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![coat-hanger-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coat-hanger-bold.svg)
-  static const coatHanger = PhosphorFlatIconData(0xe7fe, 'Bold');
+  static const coatHanger = IconData(0xe7fe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![coda-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coda-logo-bold.svg)
-  static const codaLogo = PhosphorFlatIconData(0xe7ce, 'Bold');
+  static const codaLogo = IconData(0xe7ce,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![code-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/code-bold.svg)
-  static const code = PhosphorFlatIconData(0xe1bc, 'Bold');
+  static const code = IconData(0xe1bc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![code-block-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/code-block-bold.svg)
-  static const codeBlock = PhosphorFlatIconData(0xeafe, 'Bold');
+  static const codeBlock = IconData(0xeafe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![code-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/code-simple-bold.svg)
-  static const codeSimple = PhosphorFlatIconData(0xe1be, 'Bold');
+  static const codeSimple = IconData(0xe1be,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![codepen-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/codepen-logo-bold.svg)
-  static const codepenLogo = PhosphorFlatIconData(0xe978, 'Bold');
+  static const codepenLogo = IconData(0xe978,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![codesandbox-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/codesandbox-logo-bold.svg)
-  static const codesandboxLogo = PhosphorFlatIconData(0xea06, 'Bold');
+  static const codesandboxLogo = IconData(0xea06,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![coffee-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coffee-bold.svg)
-  static const coffee = PhosphorFlatIconData(0xe1c2, 'Bold');
+  static const coffee = IconData(0xe1c2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![coffee-bean-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coffee-bean-bold.svg)
-  static const coffeeBean = PhosphorFlatIconData(0xe1c0, 'Bold');
+  static const coffeeBean = IconData(0xe1c0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![coin-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coin-bold.svg)
-  static const coin = PhosphorFlatIconData(0xe60e, 'Bold');
+  static const coin = IconData(0xe60e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![coin-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coin-vertical-bold.svg)
-  static const coinVertical = PhosphorFlatIconData(0xeb48, 'Bold');
+  static const coinVertical = IconData(0xeb48,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![coins-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coins-bold.svg)
-  static const coins = PhosphorFlatIconData(0xe78e, 'Bold');
+  static const coins = IconData(0xe78e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![columns-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/columns-bold.svg)
-  static const columns = PhosphorFlatIconData(0xe546, 'Bold');
+  static const columns = IconData(0xe546,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![columns-plus-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/columns-plus-left-bold.svg)
-  static const columnsPlusLeft = PhosphorFlatIconData(0xe544, 'Bold');
+  static const columnsPlusLeft = IconData(0xe544,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![columns-plus-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/columns-plus-right-bold.svg)
-  static const columnsPlusRight = PhosphorFlatIconData(0xe542, 'Bold');
+  static const columnsPlusRight = IconData(0xe542,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![command-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/command-bold.svg)
-  static const command = PhosphorFlatIconData(0xe1c4, 'Bold');
+  static const command = IconData(0xe1c4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![compass-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/compass-bold.svg)
-  static const compass = PhosphorFlatIconData(0xe1c8, 'Bold');
+  static const compass = IconData(0xe1c8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![compass-rose-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/compass-rose-bold.svg)
-  static const compassRose = PhosphorFlatIconData(0xe1c6, 'Bold');
+  static const compassRose = IconData(0xe1c6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![compass-tool-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/compass-tool-bold.svg)
-  static const compassTool = PhosphorFlatIconData(0xea0e, 'Bold');
+  static const compassTool = IconData(0xea0e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![computer-tower-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/computer-tower-bold.svg)
-  static const computerTower = PhosphorFlatIconData(0xe548, 'Bold');
+  static const computerTower = IconData(0xe548,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![confetti-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/confetti-bold.svg)
-  static const confetti = PhosphorFlatIconData(0xe81a, 'Bold');
+  static const confetti = IconData(0xe81a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![contactless-payment-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/contactless-payment-bold.svg)
-  static const contactlessPayment = PhosphorFlatIconData(0xed42, 'Bold');
+  static const contactlessPayment = IconData(0xed42,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![control-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/control-bold.svg)
-  static const control = PhosphorFlatIconData(0xeca6, 'Bold');
+  static const control = IconData(0xeca6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cookie-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cookie-bold.svg)
-  static const cookie = PhosphorFlatIconData(0xe6ca, 'Bold');
+  static const cookie = IconData(0xe6ca,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cooking-pot-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cooking-pot-bold.svg)
-  static const cookingPot = PhosphorFlatIconData(0xe764, 'Bold');
+  static const cookingPot = IconData(0xe764,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![copy-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copy-bold.svg)
-  static const copy = PhosphorFlatIconData(0xe1ca, 'Bold');
+  static const copy = IconData(0xe1ca,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![copy-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copy-simple-bold.svg)
-  static const copySimple = PhosphorFlatIconData(0xe1cc, 'Bold');
+  static const copySimple = IconData(0xe1cc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![copyleft-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copyleft-bold.svg)
-  static const copyleft = PhosphorFlatIconData(0xe86a, 'Bold');
+  static const copyleft = IconData(0xe86a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![copyright-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copyright-bold.svg)
-  static const copyright = PhosphorFlatIconData(0xe54a, 'Bold');
+  static const copyright = IconData(0xe54a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![corners-in-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/corners-in-bold.svg)
-  static const cornersIn = PhosphorFlatIconData(0xe1ce, 'Bold');
+  static const cornersIn = IconData(0xe1ce,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![corners-out-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/corners-out-bold.svg)
-  static const cornersOut = PhosphorFlatIconData(0xe1d0, 'Bold');
+  static const cornersOut = IconData(0xe1d0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![couch-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/couch-bold.svg)
-  static const couch = PhosphorFlatIconData(0xe7f6, 'Bold');
+  static const couch = IconData(0xe7f6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![court-basketball-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/court-basketball-bold.svg)
-  static const courtBasketball = PhosphorFlatIconData(0xee36, 'Bold');
+  static const courtBasketball = IconData(0xee36,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cow-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cow-bold.svg)
-  static const cow = PhosphorFlatIconData(0xeabe, 'Bold');
+  static const cow = IconData(0xeabe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cowboy-hat-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cowboy-hat-bold.svg)
-  static const cowboyHat = PhosphorFlatIconData(0xed12, 'Bold');
+  static const cowboyHat = IconData(0xed12,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cpu-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cpu-bold.svg)
-  static const cpu = PhosphorFlatIconData(0xe610, 'Bold');
+  static const cpu = IconData(0xe610,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![crane-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crane-bold.svg)
-  static const crane = PhosphorFlatIconData(0xed48, 'Bold');
+  static const crane = IconData(0xed48,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![crane-tower-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crane-tower-bold.svg)
-  static const craneTower = PhosphorFlatIconData(0xed49, 'Bold');
+  static const craneTower = IconData(0xed49,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![credit-card-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/credit-card-bold.svg)
-  static const creditCard = PhosphorFlatIconData(0xe1d2, 'Bold');
+  static const creditCard = IconData(0xe1d2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cricket-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cricket-bold.svg)
-  static const cricket = PhosphorFlatIconData(0xee12, 'Bold');
+  static const cricket = IconData(0xee12,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![crop-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crop-bold.svg)
-  static const crop = PhosphorFlatIconData(0xe1d4, 'Bold');
+  static const crop = IconData(0xe1d4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cross-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cross-bold.svg)
-  static const cross = PhosphorFlatIconData(0xe8a0, 'Bold');
+  static const cross = IconData(0xe8a0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![crosshair-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crosshair-bold.svg)
-  static const crosshair = PhosphorFlatIconData(0xe1d6, 'Bold');
+  static const crosshair = IconData(0xe1d6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![crosshair-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crosshair-simple-bold.svg)
-  static const crosshairSimple = PhosphorFlatIconData(0xe1d8, 'Bold');
+  static const crosshairSimple = IconData(0xe1d8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![crown-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crown-bold.svg)
-  static const crown = PhosphorFlatIconData(0xe614, 'Bold');
+  static const crown = IconData(0xe614,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![crown-cross-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crown-cross-bold.svg)
-  static const crownCross = PhosphorFlatIconData(0xee5e, 'Bold');
+  static const crownCross = IconData(0xee5e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![crown-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crown-simple-bold.svg)
-  static const crownSimple = PhosphorFlatIconData(0xe616, 'Bold');
+  static const crownSimple = IconData(0xe616,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cube-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cube-bold.svg)
-  static const cube = PhosphorFlatIconData(0xe1da, 'Bold');
+  static const cube = IconData(0xe1da,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cube-focus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cube-focus-bold.svg)
-  static const cubeFocus = PhosphorFlatIconData(0xed0a, 'Bold');
+  static const cubeFocus = IconData(0xed0a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cube-transparent-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cube-transparent-bold.svg)
-  static const cubeTransparent = PhosphorFlatIconData(0xec7c, 'Bold');
+  static const cubeTransparent = IconData(0xec7c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![currency-btc-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-btc-bold.svg)
-  static const currencyBtc = PhosphorFlatIconData(0xe618, 'Bold');
+  static const currencyBtc = IconData(0xe618,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![currency-circle-dollar-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-circle-dollar-bold.svg)
-  static const currencyCircleDollar = PhosphorFlatIconData(0xe54c, 'Bold');
+  static const currencyCircleDollar = IconData(0xe54c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![currency-cny-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-cny-bold.svg)
-  static const currencyCny = PhosphorFlatIconData(0xe54e, 'Bold');
+  static const currencyCny = IconData(0xe54e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![currency-dollar-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-dollar-bold.svg)
-  static const currencyDollar = PhosphorFlatIconData(0xe550, 'Bold');
+  static const currencyDollar = IconData(0xe550,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![currency-dollar-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-dollar-simple-bold.svg)
-  static const currencyDollarSimple = PhosphorFlatIconData(0xe552, 'Bold');
+  static const currencyDollarSimple = IconData(0xe552,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![currency-eth-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-eth-bold.svg)
-  static const currencyEth = PhosphorFlatIconData(0xeada, 'Bold');
+  static const currencyEth = IconData(0xeada,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![currency-eur-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-eur-bold.svg)
-  static const currencyEur = PhosphorFlatIconData(0xe554, 'Bold');
+  static const currencyEur = IconData(0xe554,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![currency-gbp-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-gbp-bold.svg)
-  static const currencyGbp = PhosphorFlatIconData(0xe556, 'Bold');
+  static const currencyGbp = IconData(0xe556,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![currency-inr-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-inr-bold.svg)
-  static const currencyInr = PhosphorFlatIconData(0xe558, 'Bold');
+  static const currencyInr = IconData(0xe558,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![currency-jpy-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-jpy-bold.svg)
-  static const currencyJpy = PhosphorFlatIconData(0xe55a, 'Bold');
+  static const currencyJpy = IconData(0xe55a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![currency-krw-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-krw-bold.svg)
-  static const currencyKrw = PhosphorFlatIconData(0xe55c, 'Bold');
+  static const currencyKrw = IconData(0xe55c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![currency-kzt-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-kzt-bold.svg)
-  static const currencyKzt = PhosphorFlatIconData(0xec4c, 'Bold');
+  static const currencyKzt = IconData(0xec4c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![currency-ngn-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-ngn-bold.svg)
-  static const currencyNgn = PhosphorFlatIconData(0xeb52, 'Bold');
+  static const currencyNgn = IconData(0xeb52,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![currency-rub-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-rub-bold.svg)
-  static const currencyRub = PhosphorFlatIconData(0xe55e, 'Bold');
+  static const currencyRub = IconData(0xe55e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cursor-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cursor-bold.svg)
-  static const cursor = PhosphorFlatIconData(0xe1dc, 'Bold');
+  static const cursor = IconData(0xe1dc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cursor-click-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cursor-click-bold.svg)
-  static const cursorClick = PhosphorFlatIconData(0xe7c8, 'Bold');
+  static const cursorClick = IconData(0xe7c8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cursor-text-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cursor-text-bold.svg)
-  static const cursorText = PhosphorFlatIconData(0xe7d8, 'Bold');
+  static const cursorText = IconData(0xe7d8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![cylinder-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cylinder-bold.svg)
-  static const cylinder = PhosphorFlatIconData(0xe8fc, 'Bold');
+  static const cylinder = IconData(0xe8fc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![database-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/database-bold.svg)
-  static const database = PhosphorFlatIconData(0xe1de, 'Bold');
+  static const database = IconData(0xe1de,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![desk-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/desk-bold.svg)
-  static const desk = PhosphorFlatIconData(0xed16, 'Bold');
+  static const desk = IconData(0xed16,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![desktop-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/desktop-bold.svg)
-  static const desktop = PhosphorFlatIconData(0xe560, 'Bold');
+  static const desktop = IconData(0xe560,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![desktop-tower-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/desktop-tower-bold.svg)
-  static const desktopTower = PhosphorFlatIconData(0xe562, 'Bold');
+  static const desktopTower = IconData(0xe562,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![detective-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/detective-bold.svg)
-  static const detective = PhosphorFlatIconData(0xe83e, 'Bold');
+  static const detective = IconData(0xe83e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dev-to-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dev-to-logo-bold.svg)
-  static const devToLogo = PhosphorFlatIconData(0xed0e, 'Bold');
+  static const devToLogo = IconData(0xed0e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![device-mobile-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile-bold.svg)
-  static const deviceMobile = PhosphorFlatIconData(0xe1e0, 'Bold');
+  static const deviceMobile = IconData(0xe1e0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![device-mobile-camera-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile-camera-bold.svg)
-  static const deviceMobileCamera = PhosphorFlatIconData(0xe1e2, 'Bold');
+  static const deviceMobileCamera = IconData(0xe1e2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![device-mobile-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile-slash-bold.svg)
-  static const deviceMobileSlash = PhosphorFlatIconData(0xee46, 'Bold');
+  static const deviceMobileSlash = IconData(0xee46,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![device-mobile-speaker-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile-speaker-bold.svg)
-  static const deviceMobileSpeaker = PhosphorFlatIconData(0xe1e4, 'Bold');
+  static const deviceMobileSpeaker = IconData(0xe1e4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![device-rotate-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-rotate-bold.svg)
-  static const deviceRotate = PhosphorFlatIconData(0xedf2, 'Bold');
+  static const deviceRotate = IconData(0xedf2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![device-tablet-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-tablet-bold.svg)
-  static const deviceTablet = PhosphorFlatIconData(0xe1e6, 'Bold');
+  static const deviceTablet = IconData(0xe1e6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![device-tablet-camera-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-tablet-camera-bold.svg)
-  static const deviceTabletCamera = PhosphorFlatIconData(0xe1e8, 'Bold');
+  static const deviceTabletCamera = IconData(0xe1e8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![device-tablet-speaker-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-tablet-speaker-bold.svg)
-  static const deviceTabletSpeaker = PhosphorFlatIconData(0xe1ea, 'Bold');
+  static const deviceTabletSpeaker = IconData(0xe1ea,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![devices-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/devices-bold.svg)
-  static const devices = PhosphorFlatIconData(0xeba4, 'Bold');
+  static const devices = IconData(0xeba4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![diamond-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/diamond-bold.svg)
-  static const diamond = PhosphorFlatIconData(0xe1ec, 'Bold');
+  static const diamond = IconData(0xe1ec,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![diamonds-four-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/diamonds-four-bold.svg)
-  static const diamondsFour = PhosphorFlatIconData(0xe8f4, 'Bold');
+  static const diamondsFour = IconData(0xe8f4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dice-five-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-five-bold.svg)
-  static const diceFive = PhosphorFlatIconData(0xe1ee, 'Bold');
+  static const diceFive = IconData(0xe1ee,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dice-four-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-four-bold.svg)
-  static const diceFour = PhosphorFlatIconData(0xe1f0, 'Bold');
+  static const diceFour = IconData(0xe1f0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dice-one-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-one-bold.svg)
-  static const diceOne = PhosphorFlatIconData(0xe1f2, 'Bold');
+  static const diceOne = IconData(0xe1f2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dice-six-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-six-bold.svg)
-  static const diceSix = PhosphorFlatIconData(0xe1f4, 'Bold');
+  static const diceSix = IconData(0xe1f4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dice-three-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-three-bold.svg)
-  static const diceThree = PhosphorFlatIconData(0xe1f6, 'Bold');
+  static const diceThree = IconData(0xe1f6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dice-two-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-two-bold.svg)
-  static const diceTwo = PhosphorFlatIconData(0xe1f8, 'Bold');
+  static const diceTwo = IconData(0xe1f8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![disc-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/disc-bold.svg)
-  static const disc = PhosphorFlatIconData(0xe564, 'Bold');
+  static const disc = IconData(0xe564,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![disco-ball-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/disco-ball-bold.svg)
-  static const discoBall = PhosphorFlatIconData(0xed98, 'Bold');
+  static const discoBall = IconData(0xed98,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![discord-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/discord-logo-bold.svg)
-  static const discordLogo = PhosphorFlatIconData(0xe61a, 'Bold');
+  static const discordLogo = IconData(0xe61a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![divide-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/divide-bold.svg)
-  static const divide = PhosphorFlatIconData(0xe1fa, 'Bold');
+  static const divide = IconData(0xe1fa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dna-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dna-bold.svg)
-  static const dna = PhosphorFlatIconData(0xe924, 'Bold');
+  static const dna = IconData(0xe924,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dog-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dog-bold.svg)
-  static const dog = PhosphorFlatIconData(0xe74a, 'Bold');
+  static const dog = IconData(0xe74a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![door-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/door-bold.svg)
-  static const door = PhosphorFlatIconData(0xe61c, 'Bold');
+  static const door = IconData(0xe61c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![door-open-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/door-open-bold.svg)
-  static const doorOpen = PhosphorFlatIconData(0xe7e6, 'Bold');
+  static const doorOpen = IconData(0xe7e6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dot-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dot-bold.svg)
-  static const dot = PhosphorFlatIconData(0xecde, 'Bold');
+  static const dot = IconData(0xecde,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dot-outline-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dot-outline-bold.svg)
-  static const dotOutline = PhosphorFlatIconData(0xece0, 'Bold');
+  static const dotOutline = IconData(0xece0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dots-nine-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-nine-bold.svg)
-  static const dotsNine = PhosphorFlatIconData(0xe1fc, 'Bold');
+  static const dotsNine = IconData(0xe1fc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dots-six-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-six-bold.svg)
-  static const dotsSix = PhosphorFlatIconData(0xe794, 'Bold');
+  static const dotsSix = IconData(0xe794,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dots-six-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-six-vertical-bold.svg)
-  static const dotsSixVertical = PhosphorFlatIconData(0xeae2, 'Bold');
+  static const dotsSixVertical = IconData(0xeae2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dots-three-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-bold.svg)
-  static const dotsThree = PhosphorFlatIconData(0xe1fe, 'Bold');
+  static const dotsThree = IconData(0xe1fe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dots-three-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-circle-bold.svg)
-  static const dotsThreeCircle = PhosphorFlatIconData(0xe200, 'Bold');
+  static const dotsThreeCircle = IconData(0xe200,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dots-three-circle-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-circle-vertical-bold.svg)
-  static const dotsThreeCircleVertical = PhosphorFlatIconData(0xe202, 'Bold');
+  static const dotsThreeCircleVertical = IconData(0xe202,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dots-three-outline-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-outline-bold.svg)
-  static const dotsThreeOutline = PhosphorFlatIconData(0xe204, 'Bold');
+  static const dotsThreeOutline = IconData(0xe204,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dots-three-outline-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-outline-vertical-bold.svg)
-  static const dotsThreeOutlineVertical = PhosphorFlatIconData(0xe206, 'Bold');
+  static const dotsThreeOutlineVertical = IconData(0xe206,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dots-three-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-vertical-bold.svg)
-  static const dotsThreeVertical = PhosphorFlatIconData(0xe208, 'Bold');
+  static const dotsThreeVertical = IconData(0xe208,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![download-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/download-bold.svg)
-  static const download = PhosphorFlatIconData(0xe20a, 'Bold');
+  static const download = IconData(0xe20a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![download-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/download-simple-bold.svg)
-  static const downloadSimple = PhosphorFlatIconData(0xe20c, 'Bold');
+  static const downloadSimple = IconData(0xe20c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dress-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dress-bold.svg)
-  static const dress = PhosphorFlatIconData(0xea7e, 'Bold');
+  static const dress = IconData(0xea7e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dresser-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dresser-bold.svg)
-  static const dresser = PhosphorFlatIconData(0xe94e, 'Bold');
+  static const dresser = IconData(0xe94e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dribbble-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dribbble-logo-bold.svg)
-  static const dribbbleLogo = PhosphorFlatIconData(0xe20e, 'Bold');
+  static const dribbbleLogo = IconData(0xe20e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![drone-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drone-bold.svg)
-  static const drone = PhosphorFlatIconData(0xed74, 'Bold');
+  static const drone = IconData(0xed74,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![drop-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-bold.svg)
-  static const drop = PhosphorFlatIconData(0xe210, 'Bold');
+  static const drop = IconData(0xe210,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![drop-half-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-half-bold.svg)
-  static const dropHalf = PhosphorFlatIconData(0xe566, 'Bold');
+  static const dropHalf = IconData(0xe566,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![drop-half-bottom-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-half-bottom-bold.svg)
-  static const dropHalfBottom = PhosphorFlatIconData(0xeb40, 'Bold');
+  static const dropHalfBottom = IconData(0xeb40,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![drop-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-simple-bold.svg)
-  static const dropSimple = PhosphorFlatIconData(0xee32, 'Bold');
+  static const dropSimple = IconData(0xee32,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![drop-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-slash-bold.svg)
-  static const dropSlash = PhosphorFlatIconData(0xe954, 'Bold');
+  static const dropSlash = IconData(0xe954,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![dropbox-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dropbox-logo-bold.svg)
-  static const dropboxLogo = PhosphorFlatIconData(0xe7d0, 'Bold');
+  static const dropboxLogo = IconData(0xe7d0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![ear-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ear-bold.svg)
-  static const ear = PhosphorFlatIconData(0xe70c, 'Bold');
+  static const ear = IconData(0xe70c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![ear-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ear-slash-bold.svg)
-  static const earSlash = PhosphorFlatIconData(0xe70e, 'Bold');
+  static const earSlash = IconData(0xe70e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![egg-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/egg-bold.svg)
-  static const egg = PhosphorFlatIconData(0xe812, 'Bold');
+  static const egg = IconData(0xe812,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![egg-crack-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/egg-crack-bold.svg)
-  static const eggCrack = PhosphorFlatIconData(0xeb64, 'Bold');
+  static const eggCrack = IconData(0xeb64,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![eject-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eject-bold.svg)
-  static const eject = PhosphorFlatIconData(0xe212, 'Bold');
+  static const eject = IconData(0xe212,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![eject-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eject-simple-bold.svg)
-  static const ejectSimple = PhosphorFlatIconData(0xe6ae, 'Bold');
+  static const ejectSimple = IconData(0xe6ae,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![elevator-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/elevator-bold.svg)
-  static const elevator = PhosphorFlatIconData(0xecc0, 'Bold');
+  static const elevator = IconData(0xecc0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![empty-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/empty-bold.svg)
-  static const empty = PhosphorFlatIconData(0xedbc, 'Bold');
+  static const empty = IconData(0xedbc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![engine-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/engine-bold.svg)
-  static const engine = PhosphorFlatIconData(0xea80, 'Bold');
+  static const engine = IconData(0xea80,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![envelope-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope-bold.svg)
-  static const envelope = PhosphorFlatIconData(0xe214, 'Bold');
+  static const envelope = IconData(0xe214,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![envelope-open-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope-open-bold.svg)
-  static const envelopeOpen = PhosphorFlatIconData(0xe216, 'Bold');
+  static const envelopeOpen = IconData(0xe216,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![envelope-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope-simple-bold.svg)
-  static const envelopeSimple = PhosphorFlatIconData(0xe218, 'Bold');
+  static const envelopeSimple = IconData(0xe218,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![envelope-simple-open-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope-simple-open-bold.svg)
-  static const envelopeSimpleOpen = PhosphorFlatIconData(0xe21a, 'Bold');
+  static const envelopeSimpleOpen = IconData(0xe21a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![equalizer-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/equalizer-bold.svg)
-  static const equalizer = PhosphorFlatIconData(0xebbc, 'Bold');
+  static const equalizer = IconData(0xebbc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![equals-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/equals-bold.svg)
-  static const equals = PhosphorFlatIconData(0xe21c, 'Bold');
+  static const equals = IconData(0xe21c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![eraser-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eraser-bold.svg)
-  static const eraser = PhosphorFlatIconData(0xe21e, 'Bold');
+  static const eraser = IconData(0xe21e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![escalator-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/escalator-down-bold.svg)
-  static const escalatorDown = PhosphorFlatIconData(0xecba, 'Bold');
+  static const escalatorDown = IconData(0xecba,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![escalator-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/escalator-up-bold.svg)
-  static const escalatorUp = PhosphorFlatIconData(0xecbc, 'Bold');
+  static const escalatorUp = IconData(0xecbc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![exam-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exam-bold.svg)
-  static const exam = PhosphorFlatIconData(0xe742, 'Bold');
+  static const exam = IconData(0xe742,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![exclamation-mark-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exclamation-mark-bold.svg)
-  static const exclamationMark = PhosphorFlatIconData(0xee44, 'Bold');
+  static const exclamationMark = IconData(0xee44,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![exclude-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exclude-bold.svg)
-  static const exclude = PhosphorFlatIconData(0xe882, 'Bold');
+  static const exclude = IconData(0xe882,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![exclude-square-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exclude-square-bold.svg)
-  static const excludeSquare = PhosphorFlatIconData(0xe880, 'Bold');
+  static const excludeSquare = IconData(0xe880,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![export-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/export-bold.svg)
-  static const export = PhosphorFlatIconData(0xeaf0, 'Bold');
+  static const export = IconData(0xeaf0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![eye-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eye-bold.svg)
-  static const eye = PhosphorFlatIconData(0xe220, 'Bold');
+  static const eye = IconData(0xe220,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![eye-closed-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eye-closed-bold.svg)
-  static const eyeClosed = PhosphorFlatIconData(0xe222, 'Bold');
+  static const eyeClosed = IconData(0xe222,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![eye-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eye-slash-bold.svg)
-  static const eyeSlash = PhosphorFlatIconData(0xe224, 'Bold');
+  static const eyeSlash = IconData(0xe224,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![eyedropper-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyedropper-bold.svg)
-  static const eyedropper = PhosphorFlatIconData(0xe568, 'Bold');
+  static const eyedropper = IconData(0xe568,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![eyedropper-sample-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyedropper-sample-bold.svg)
-  static const eyedropperSample = PhosphorFlatIconData(0xeac4, 'Bold');
+  static const eyedropperSample = IconData(0xeac4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![eyeglasses-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyeglasses-bold.svg)
-  static const eyeglasses = PhosphorFlatIconData(0xe7ba, 'Bold');
+  static const eyeglasses = IconData(0xe7ba,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![eyes-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyes-bold.svg)
-  static const eyes = PhosphorFlatIconData(0xee5c, 'Bold');
+  static const eyes = IconData(0xee5c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![face-mask-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/face-mask-bold.svg)
-  static const faceMask = PhosphorFlatIconData(0xe56a, 'Bold');
+  static const faceMask = IconData(0xe56a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![facebook-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/facebook-logo-bold.svg)
-  static const facebookLogo = PhosphorFlatIconData(0xe226, 'Bold');
+  static const facebookLogo = IconData(0xe226,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![factory-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/factory-bold.svg)
-  static const factory = PhosphorFlatIconData(0xe760, 'Bold');
+  static const factory = IconData(0xe760,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![faders-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/faders-bold.svg)
-  static const faders = PhosphorFlatIconData(0xe228, 'Bold');
+  static const faders = IconData(0xe228,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![faders-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/faders-horizontal-bold.svg)
-  static const fadersHorizontal = PhosphorFlatIconData(0xe22a, 'Bold');
+  static const fadersHorizontal = IconData(0xe22a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![fallout-shelter-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fallout-shelter-bold.svg)
-  static const falloutShelter = PhosphorFlatIconData(0xe9de, 'Bold');
+  static const falloutShelter = IconData(0xe9de,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![fan-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fan-bold.svg)
-  static const fan = PhosphorFlatIconData(0xe9f2, 'Bold');
+  static const fan = IconData(0xe9f2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![farm-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/farm-bold.svg)
-  static const farm = PhosphorFlatIconData(0xec70, 'Bold');
+  static const farm = IconData(0xec70,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![fast-forward-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fast-forward-bold.svg)
-  static const fastForward = PhosphorFlatIconData(0xe6a6, 'Bold');
+  static const fastForward = IconData(0xe6a6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![fast-forward-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fast-forward-circle-bold.svg)
-  static const fastForwardCircle = PhosphorFlatIconData(0xe22c, 'Bold');
+  static const fastForwardCircle = IconData(0xe22c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![feather-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/feather-bold.svg)
-  static const feather = PhosphorFlatIconData(0xe9c0, 'Bold');
+  static const feather = IconData(0xe9c0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![fediverse-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fediverse-logo-bold.svg)
-  static const fediverseLogo = PhosphorFlatIconData(0xed66, 'Bold');
+  static const fediverseLogo = IconData(0xed66,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![figma-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/figma-logo-bold.svg)
-  static const figmaLogo = PhosphorFlatIconData(0xe22e, 'Bold');
+  static const figmaLogo = IconData(0xe22e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-bold.svg)
-  static const file = PhosphorFlatIconData(0xe230, 'Bold');
+  static const file = IconData(0xe230,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-archive-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-archive-bold.svg)
-  static const fileArchive = PhosphorFlatIconData(0xeb2a, 'Bold');
+  static const fileArchive = IconData(0xeb2a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-arrow-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-arrow-down-bold.svg)
-  static const fileArrowDown = PhosphorFlatIconData(0xe232, 'Bold');
+  static const fileArrowDown = IconData(0xe232,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-arrow-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-arrow-up-bold.svg)
-  static const fileArrowUp = PhosphorFlatIconData(0xe61e, 'Bold');
+  static const fileArrowUp = IconData(0xe61e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-audio-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-audio-bold.svg)
-  static const fileAudio = PhosphorFlatIconData(0xea20, 'Bold');
+  static const fileAudio = IconData(0xea20,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-c-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-c-bold.svg)
-  static const fileC = PhosphorFlatIconData(0xeb32, 'Bold');
+  static const fileC = IconData(0xeb32,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-c-sharp-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-c-sharp-bold.svg)
-  static const fileCSharp = PhosphorFlatIconData(0xeb30, 'Bold');
+  static const fileCSharp = IconData(0xeb30,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-cloud-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-cloud-bold.svg)
-  static const fileCloud = PhosphorFlatIconData(0xe95e, 'Bold');
+  static const fileCloud = IconData(0xe95e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-code-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-code-bold.svg)
-  static const fileCode = PhosphorFlatIconData(0xe914, 'Bold');
+  static const fileCode = IconData(0xe914,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-cpp-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-cpp-bold.svg)
-  static const fileCpp = PhosphorFlatIconData(0xeb2e, 'Bold');
+  static const fileCpp = IconData(0xeb2e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-css-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-css-bold.svg)
-  static const fileCss = PhosphorFlatIconData(0xeb34, 'Bold');
+  static const fileCss = IconData(0xeb34,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-csv-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-csv-bold.svg)
-  static const fileCsv = PhosphorFlatIconData(0xeb1c, 'Bold');
+  static const fileCsv = IconData(0xeb1c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-dashed-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-dashed-bold.svg)
-  static const fileDashed = PhosphorFlatIconData(0xe704, 'Bold');
+  static const fileDashed = IconData(0xe704,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-doc-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-doc-bold.svg)
-  static const fileDoc = PhosphorFlatIconData(0xeb1e, 'Bold');
+  static const fileDoc = IconData(0xeb1e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-html-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-html-bold.svg)
-  static const fileHtml = PhosphorFlatIconData(0xeb38, 'Bold');
+  static const fileHtml = IconData(0xeb38,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-image-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-image-bold.svg)
-  static const fileImage = PhosphorFlatIconData(0xea24, 'Bold');
+  static const fileImage = IconData(0xea24,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-ini-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-ini-bold.svg)
-  static const fileIni = PhosphorFlatIconData(0xeb33, 'Bold');
+  static const fileIni = IconData(0xeb33,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-jpg-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-jpg-bold.svg)
-  static const fileJpg = PhosphorFlatIconData(0xeb1a, 'Bold');
+  static const fileJpg = IconData(0xeb1a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-js-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-js-bold.svg)
-  static const fileJs = PhosphorFlatIconData(0xeb24, 'Bold');
+  static const fileJs = IconData(0xeb24,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-jsx-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-jsx-bold.svg)
-  static const fileJsx = PhosphorFlatIconData(0xeb3a, 'Bold');
+  static const fileJsx = IconData(0xeb3a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-lock-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-lock-bold.svg)
-  static const fileLock = PhosphorFlatIconData(0xe95c, 'Bold');
+  static const fileLock = IconData(0xe95c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-magnifying-glass-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-magnifying-glass-bold.svg)
-  static const fileMagnifyingGlass = PhosphorFlatIconData(0xe238, 'Bold');
+  static const fileMagnifyingGlass = IconData(0xe238,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-md-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-md-bold.svg)
-  static const fileMd = PhosphorFlatIconData(0xed50, 'Bold');
+  static const fileMd = IconData(0xed50,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-minus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-minus-bold.svg)
-  static const fileMinus = PhosphorFlatIconData(0xe234, 'Bold');
+  static const fileMinus = IconData(0xe234,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-pdf-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-pdf-bold.svg)
-  static const filePdf = PhosphorFlatIconData(0xe702, 'Bold');
+  static const filePdf = IconData(0xe702,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-plus-bold.svg)
-  static const filePlus = PhosphorFlatIconData(0xe236, 'Bold');
+  static const filePlus = IconData(0xe236,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-png-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-png-bold.svg)
-  static const filePng = PhosphorFlatIconData(0xeb18, 'Bold');
+  static const filePng = IconData(0xeb18,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-ppt-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-ppt-bold.svg)
-  static const filePpt = PhosphorFlatIconData(0xeb20, 'Bold');
+  static const filePpt = IconData(0xeb20,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-py-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-py-bold.svg)
-  static const filePy = PhosphorFlatIconData(0xeb2c, 'Bold');
+  static const filePy = IconData(0xeb2c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-rs-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-rs-bold.svg)
-  static const fileRs = PhosphorFlatIconData(0xeb28, 'Bold');
+  static const fileRs = IconData(0xeb28,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-sql-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-sql-bold.svg)
-  static const fileSql = PhosphorFlatIconData(0xed4e, 'Bold');
+  static const fileSql = IconData(0xed4e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-svg-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-svg-bold.svg)
-  static const fileSvg = PhosphorFlatIconData(0xed08, 'Bold');
+  static const fileSvg = IconData(0xed08,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-text-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-text-bold.svg)
-  static const fileText = PhosphorFlatIconData(0xe23a, 'Bold');
+  static const fileText = IconData(0xe23a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-ts-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-ts-bold.svg)
-  static const fileTs = PhosphorFlatIconData(0xeb26, 'Bold');
+  static const fileTs = IconData(0xeb26,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-tsx-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-tsx-bold.svg)
-  static const fileTsx = PhosphorFlatIconData(0xeb3c, 'Bold');
+  static const fileTsx = IconData(0xeb3c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-txt-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-txt-bold.svg)
-  static const fileTxt = PhosphorFlatIconData(0xeb35, 'Bold');
+  static const fileTxt = IconData(0xeb35,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-video-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-video-bold.svg)
-  static const fileVideo = PhosphorFlatIconData(0xea22, 'Bold');
+  static const fileVideo = IconData(0xea22,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-vue-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-vue-bold.svg)
-  static const fileVue = PhosphorFlatIconData(0xeb3e, 'Bold');
+  static const fileVue = IconData(0xeb3e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-x-bold.svg)
-  static const fileX = PhosphorFlatIconData(0xe23c, 'Bold');
+  static const fileX = IconData(0xe23c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-xls-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-xls-bold.svg)
-  static const fileXls = PhosphorFlatIconData(0xeb22, 'Bold');
+  static const fileXls = IconData(0xeb22,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![file-zip-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-zip-bold.svg)
-  static const fileZip = PhosphorFlatIconData(0xe958, 'Bold');
+  static const fileZip = IconData(0xe958,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![files-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/files-bold.svg)
-  static const files = PhosphorFlatIconData(0xe710, 'Bold');
+  static const files = IconData(0xe710,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![film-reel-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-reel-bold.svg)
-  static const filmReel = PhosphorFlatIconData(0xe8c0, 'Bold');
+  static const filmReel = IconData(0xe8c0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![film-script-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-script-bold.svg)
-  static const filmScript = PhosphorFlatIconData(0xeb50, 'Bold');
+  static const filmScript = IconData(0xeb50,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![film-slate-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-slate-bold.svg)
-  static const filmSlate = PhosphorFlatIconData(0xe8c2, 'Bold');
+  static const filmSlate = IconData(0xe8c2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![film-strip-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-strip-bold.svg)
-  static const filmStrip = PhosphorFlatIconData(0xe792, 'Bold');
+  static const filmStrip = IconData(0xe792,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![fingerprint-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fingerprint-bold.svg)
-  static const fingerprint = PhosphorFlatIconData(0xe23e, 'Bold');
+  static const fingerprint = IconData(0xe23e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![fingerprint-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fingerprint-simple-bold.svg)
-  static const fingerprintSimple = PhosphorFlatIconData(0xe240, 'Bold');
+  static const fingerprintSimple = IconData(0xe240,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![finn-the-human-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/finn-the-human-bold.svg)
-  static const finnTheHuman = PhosphorFlatIconData(0xe56c, 'Bold');
+  static const finnTheHuman = IconData(0xe56c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![fire-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire-bold.svg)
-  static const fire = PhosphorFlatIconData(0xe242, 'Bold');
+  static const fire = IconData(0xe242,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![fire-extinguisher-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire-extinguisher-bold.svg)
-  static const fireExtinguisher = PhosphorFlatIconData(0xe9e8, 'Bold');
+  static const fireExtinguisher = IconData(0xe9e8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![fire-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire-simple-bold.svg)
-  static const fireSimple = PhosphorFlatIconData(0xe620, 'Bold');
+  static const fireSimple = IconData(0xe620,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![fire-truck-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire-truck-bold.svg)
-  static const fireTruck = PhosphorFlatIconData(0xe574, 'Bold');
+  static const fireTruck = IconData(0xe574,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![first-aid-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/first-aid-bold.svg)
-  static const firstAid = PhosphorFlatIconData(0xe56e, 'Bold');
+  static const firstAid = IconData(0xe56e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![first-aid-kit-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/first-aid-kit-bold.svg)
-  static const firstAidKit = PhosphorFlatIconData(0xe570, 'Bold');
+  static const firstAidKit = IconData(0xe570,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![fish-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fish-bold.svg)
-  static const fish = PhosphorFlatIconData(0xe728, 'Bold');
+  static const fish = IconData(0xe728,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![fish-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fish-simple-bold.svg)
-  static const fishSimple = PhosphorFlatIconData(0xe72a, 'Bold');
+  static const fishSimple = IconData(0xe72a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![flag-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-bold.svg)
-  static const flag = PhosphorFlatIconData(0xe244, 'Bold');
+  static const flag = IconData(0xe244,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![flag-banner-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-banner-bold.svg)
-  static const flagBanner = PhosphorFlatIconData(0xe622, 'Bold');
+  static const flagBanner = IconData(0xe622,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![flag-banner-fold-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-banner-fold-bold.svg)
-  static const flagBannerFold = PhosphorFlatIconData(0xecf2, 'Bold');
+  static const flagBannerFold = IconData(0xecf2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![flag-checkered-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-checkered-bold.svg)
-  static const flagCheckered = PhosphorFlatIconData(0xea38, 'Bold');
+  static const flagCheckered = IconData(0xea38,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![flag-pennant-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-pennant-bold.svg)
-  static const flagPennant = PhosphorFlatIconData(0xecf0, 'Bold');
+  static const flagPennant = IconData(0xecf0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![flame-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flame-bold.svg)
-  static const flame = PhosphorFlatIconData(0xe624, 'Bold');
+  static const flame = IconData(0xe624,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![flashlight-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flashlight-bold.svg)
-  static const flashlight = PhosphorFlatIconData(0xe246, 'Bold');
+  static const flashlight = IconData(0xe246,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![flask-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flask-bold.svg)
-  static const flask = PhosphorFlatIconData(0xe79e, 'Bold');
+  static const flask = IconData(0xe79e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![flip-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flip-horizontal-bold.svg)
-  static const flipHorizontal = PhosphorFlatIconData(0xed6a, 'Bold');
+  static const flipHorizontal = IconData(0xed6a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![flip-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flip-vertical-bold.svg)
-  static const flipVertical = PhosphorFlatIconData(0xed6c, 'Bold');
+  static const flipVertical = IconData(0xed6c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![floppy-disk-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/floppy-disk-bold.svg)
-  static const floppyDisk = PhosphorFlatIconData(0xe248, 'Bold');
+  static const floppyDisk = IconData(0xe248,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![floppy-disk-back-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/floppy-disk-back-bold.svg)
-  static const floppyDiskBack = PhosphorFlatIconData(0xeaf4, 'Bold');
+  static const floppyDiskBack = IconData(0xeaf4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![flow-arrow-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flow-arrow-bold.svg)
-  static const flowArrow = PhosphorFlatIconData(0xe6ec, 'Bold');
+  static const flowArrow = IconData(0xe6ec,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![flower-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flower-bold.svg)
-  static const flower = PhosphorFlatIconData(0xe75e, 'Bold');
+  static const flower = IconData(0xe75e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![flower-lotus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flower-lotus-bold.svg)
-  static const flowerLotus = PhosphorFlatIconData(0xe6cc, 'Bold');
+  static const flowerLotus = IconData(0xe6cc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![flower-tulip-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flower-tulip-bold.svg)
-  static const flowerTulip = PhosphorFlatIconData(0xeacc, 'Bold');
+  static const flowerTulip = IconData(0xeacc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![flying-saucer-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flying-saucer-bold.svg)
-  static const flyingSaucer = PhosphorFlatIconData(0xeb4a, 'Bold');
+  static const flyingSaucer = IconData(0xeb4a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folder-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-bold.svg)
-  static const folder = PhosphorFlatIconData(0xe24a, 'Bold');
+  static const folder = IconData(0xe24a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folder-dashed-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-dashed-bold.svg)
-  static const folderDashed = PhosphorFlatIconData(0xe8f8, 'Bold');
+  static const folderDashed = IconData(0xe8f8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folder-lock-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-lock-bold.svg)
-  static const folderLock = PhosphorFlatIconData(0xea3c, 'Bold');
+  static const folderLock = IconData(0xea3c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folder-minus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-minus-bold.svg)
-  static const folderMinus = PhosphorFlatIconData(0xe254, 'Bold');
+  static const folderMinus = IconData(0xe254,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folder-open-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-open-bold.svg)
-  static const folderOpen = PhosphorFlatIconData(0xe256, 'Bold');
+  static const folderOpen = IconData(0xe256,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folder-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-plus-bold.svg)
-  static const folderPlus = PhosphorFlatIconData(0xe258, 'Bold');
+  static const folderPlus = IconData(0xe258,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folder-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-bold.svg)
-  static const folderSimple = PhosphorFlatIconData(0xe25a, 'Bold');
+  static const folderSimple = IconData(0xe25a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folder-simple-dashed-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-dashed-bold.svg)
-  static const folderSimpleDashed = PhosphorFlatIconData(0xec2a, 'Bold');
+  static const folderSimpleDashed = IconData(0xec2a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folder-simple-lock-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-lock-bold.svg)
-  static const folderSimpleLock = PhosphorFlatIconData(0xeb5e, 'Bold');
+  static const folderSimpleLock = IconData(0xeb5e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folder-simple-minus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-minus-bold.svg)
-  static const folderSimpleMinus = PhosphorFlatIconData(0xe25c, 'Bold');
+  static const folderSimpleMinus = IconData(0xe25c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folder-simple-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-plus-bold.svg)
-  static const folderSimplePlus = PhosphorFlatIconData(0xe25e, 'Bold');
+  static const folderSimplePlus = IconData(0xe25e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folder-simple-star-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-star-bold.svg)
-  static const folderSimpleStar = PhosphorFlatIconData(0xec2e, 'Bold');
+  static const folderSimpleStar = IconData(0xec2e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folder-simple-user-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-user-bold.svg)
-  static const folderSimpleUser = PhosphorFlatIconData(0xeb60, 'Bold');
+  static const folderSimpleUser = IconData(0xeb60,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folder-star-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-star-bold.svg)
-  static const folderStar = PhosphorFlatIconData(0xea86, 'Bold');
+  static const folderStar = IconData(0xea86,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folder-user-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-user-bold.svg)
-  static const folderUser = PhosphorFlatIconData(0xeb46, 'Bold');
+  static const folderUser = IconData(0xeb46,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![folders-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folders-bold.svg)
-  static const folders = PhosphorFlatIconData(0xe260, 'Bold');
+  static const folders = IconData(0xe260,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![football-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/football-bold.svg)
-  static const football = PhosphorFlatIconData(0xe718, 'Bold');
+  static const football = IconData(0xe718,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![football-helmet-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/football-helmet-bold.svg)
-  static const footballHelmet = PhosphorFlatIconData(0xee4c, 'Bold');
+  static const footballHelmet = IconData(0xee4c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![footprints-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/footprints-bold.svg)
-  static const footprints = PhosphorFlatIconData(0xea88, 'Bold');
+  static const footprints = IconData(0xea88,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![fork-knife-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fork-knife-bold.svg)
-  static const forkKnife = PhosphorFlatIconData(0xe262, 'Bold');
+  static const forkKnife = IconData(0xe262,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![four-k-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/four-k-bold.svg)
-  static const fourK = PhosphorFlatIconData(0xea5c, 'Bold');
+  static const fourK = IconData(0xea5c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![frame-corners-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/frame-corners-bold.svg)
-  static const frameCorners = PhosphorFlatIconData(0xe626, 'Bold');
+  static const frameCorners = IconData(0xe626,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![framer-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/framer-logo-bold.svg)
-  static const framerLogo = PhosphorFlatIconData(0xe264, 'Bold');
+  static const framerLogo = IconData(0xe264,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![function-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/function-bold.svg)
-  static const function = PhosphorFlatIconData(0xebe4, 'Bold');
+  static const function = IconData(0xebe4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![funnel-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel-bold.svg)
-  static const funnel = PhosphorFlatIconData(0xe266, 'Bold');
+  static const funnel = IconData(0xe266,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![funnel-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel-simple-bold.svg)
-  static const funnelSimple = PhosphorFlatIconData(0xe268, 'Bold');
+  static const funnelSimple = IconData(0xe268,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![funnel-simple-x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel-simple-x-bold.svg)
-  static const funnelSimpleX = PhosphorFlatIconData(0xe26a, 'Bold');
+  static const funnelSimpleX = IconData(0xe26a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![funnel-x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel-x-bold.svg)
-  static const funnelX = PhosphorFlatIconData(0xe26c, 'Bold');
+  static const funnelX = IconData(0xe26c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![game-controller-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/game-controller-bold.svg)
-  static const gameController = PhosphorFlatIconData(0xe26e, 'Bold');
+  static const gameController = IconData(0xe26e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![garage-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/garage-bold.svg)
-  static const garage = PhosphorFlatIconData(0xecd6, 'Bold');
+  static const garage = IconData(0xecd6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gas-can-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gas-can-bold.svg)
-  static const gasCan = PhosphorFlatIconData(0xe8ce, 'Bold');
+  static const gasCan = IconData(0xe8ce,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gas-pump-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gas-pump-bold.svg)
-  static const gasPump = PhosphorFlatIconData(0xe768, 'Bold');
+  static const gasPump = IconData(0xe768,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gauge-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gauge-bold.svg)
-  static const gauge = PhosphorFlatIconData(0xe628, 'Bold');
+  static const gauge = IconData(0xe628,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gavel-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gavel-bold.svg)
-  static const gavel = PhosphorFlatIconData(0xea32, 'Bold');
+  static const gavel = IconData(0xea32,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gear-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gear-bold.svg)
-  static const gear = PhosphorFlatIconData(0xe270, 'Bold');
+  static const gear = IconData(0xe270,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gear-fine-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gear-fine-bold.svg)
-  static const gearFine = PhosphorFlatIconData(0xe87c, 'Bold');
+  static const gearFine = IconData(0xe87c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gear-six-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gear-six-bold.svg)
-  static const gearSix = PhosphorFlatIconData(0xe272, 'Bold');
+  static const gearSix = IconData(0xe272,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gender-female-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-female-bold.svg)
-  static const genderFemale = PhosphorFlatIconData(0xe6e0, 'Bold');
+  static const genderFemale = IconData(0xe6e0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gender-intersex-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-intersex-bold.svg)
-  static const genderIntersex = PhosphorFlatIconData(0xe6e6, 'Bold');
+  static const genderIntersex = IconData(0xe6e6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gender-male-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-male-bold.svg)
-  static const genderMale = PhosphorFlatIconData(0xe6e2, 'Bold');
+  static const genderMale = IconData(0xe6e2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gender-neuter-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-neuter-bold.svg)
-  static const genderNeuter = PhosphorFlatIconData(0xe6ea, 'Bold');
+  static const genderNeuter = IconData(0xe6ea,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gender-nonbinary-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-nonbinary-bold.svg)
-  static const genderNonbinary = PhosphorFlatIconData(0xe6e4, 'Bold');
+  static const genderNonbinary = IconData(0xe6e4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gender-transgender-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-transgender-bold.svg)
-  static const genderTransgender = PhosphorFlatIconData(0xe6e8, 'Bold');
+  static const genderTransgender = IconData(0xe6e8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![ghost-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ghost-bold.svg)
-  static const ghost = PhosphorFlatIconData(0xe62a, 'Bold');
+  static const ghost = IconData(0xe62a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gif-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gif-bold.svg)
-  static const gif = PhosphorFlatIconData(0xe274, 'Bold');
+  static const gif = IconData(0xe274,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gift-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gift-bold.svg)
-  static const gift = PhosphorFlatIconData(0xe276, 'Bold');
+  static const gift = IconData(0xe276,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![git-branch-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-branch-bold.svg)
-  static const gitBranch = PhosphorFlatIconData(0xe278, 'Bold');
+  static const gitBranch = IconData(0xe278,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![git-commit-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-commit-bold.svg)
-  static const gitCommit = PhosphorFlatIconData(0xe27a, 'Bold');
+  static const gitCommit = IconData(0xe27a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![git-diff-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-diff-bold.svg)
-  static const gitDiff = PhosphorFlatIconData(0xe27c, 'Bold');
+  static const gitDiff = IconData(0xe27c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![git-fork-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-fork-bold.svg)
-  static const gitFork = PhosphorFlatIconData(0xe27e, 'Bold');
+  static const gitFork = IconData(0xe27e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![git-merge-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-merge-bold.svg)
-  static const gitMerge = PhosphorFlatIconData(0xe280, 'Bold');
+  static const gitMerge = IconData(0xe280,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![git-pull-request-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-pull-request-bold.svg)
-  static const gitPullRequest = PhosphorFlatIconData(0xe282, 'Bold');
+  static const gitPullRequest = IconData(0xe282,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![github-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/github-logo-bold.svg)
-  static const githubLogo = PhosphorFlatIconData(0xe576, 'Bold');
+  static const githubLogo = IconData(0xe576,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gitlab-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gitlab-logo-bold.svg)
-  static const gitlabLogo = PhosphorFlatIconData(0xe694, 'Bold');
+  static const gitlabLogo = IconData(0xe694,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gitlab-logo-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gitlab-logo-simple-bold.svg)
-  static const gitlabLogoSimple = PhosphorFlatIconData(0xe696, 'Bold');
+  static const gitlabLogoSimple = IconData(0xe696,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![globe-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-bold.svg)
-  static const globe = PhosphorFlatIconData(0xe288, 'Bold');
+  static const globe = IconData(0xe288,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![globe-hemisphere-east-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-hemisphere-east-bold.svg)
-  static const globeHemisphereEast = PhosphorFlatIconData(0xe28a, 'Bold');
+  static const globeHemisphereEast = IconData(0xe28a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![globe-hemisphere-west-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-hemisphere-west-bold.svg)
-  static const globeHemisphereWest = PhosphorFlatIconData(0xe28c, 'Bold');
+  static const globeHemisphereWest = IconData(0xe28c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![globe-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-simple-bold.svg)
-  static const globeSimple = PhosphorFlatIconData(0xe28e, 'Bold');
+  static const globeSimple = IconData(0xe28e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![globe-simple-x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-simple-x-bold.svg)
-  static const globeSimpleX = PhosphorFlatIconData(0xe284, 'Bold');
+  static const globeSimpleX = IconData(0xe284,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![globe-stand-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-stand-bold.svg)
-  static const globeStand = PhosphorFlatIconData(0xe290, 'Bold');
+  static const globeStand = IconData(0xe290,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![globe-x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-x-bold.svg)
-  static const globeX = PhosphorFlatIconData(0xe286, 'Bold');
+  static const globeX = IconData(0xe286,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![goggles-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/goggles-bold.svg)
-  static const goggles = PhosphorFlatIconData(0xecb4, 'Bold');
+  static const goggles = IconData(0xecb4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![golf-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/golf-bold.svg)
-  static const golf = PhosphorFlatIconData(0xea3e, 'Bold');
+  static const golf = IconData(0xea3e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![goodreads-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/goodreads-logo-bold.svg)
-  static const goodreadsLogo = PhosphorFlatIconData(0xed10, 'Bold');
+  static const goodreadsLogo = IconData(0xed10,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![google-cardboard-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-cardboard-logo-bold.svg)
-  static const googleCardboardLogo = PhosphorFlatIconData(0xe7b6, 'Bold');
+  static const googleCardboardLogo = IconData(0xe7b6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![google-chrome-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-chrome-logo-bold.svg)
-  static const googleChromeLogo = PhosphorFlatIconData(0xe976, 'Bold');
+  static const googleChromeLogo = IconData(0xe976,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![google-drive-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-drive-logo-bold.svg)
-  static const googleDriveLogo = PhosphorFlatIconData(0xe8f6, 'Bold');
+  static const googleDriveLogo = IconData(0xe8f6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![google-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-logo-bold.svg)
-  static const googleLogo = PhosphorFlatIconData(0xe292, 'Bold');
+  static const googleLogo = IconData(0xe292,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![google-photos-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-photos-logo-bold.svg)
-  static const googlePhotosLogo = PhosphorFlatIconData(0xeb92, 'Bold');
+  static const googlePhotosLogo = IconData(0xeb92,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![google-play-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-play-logo-bold.svg)
-  static const googlePlayLogo = PhosphorFlatIconData(0xe294, 'Bold');
+  static const googlePlayLogo = IconData(0xe294,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![google-podcasts-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-podcasts-logo-bold.svg)
-  static const googlePodcastsLogo = PhosphorFlatIconData(0xeb94, 'Bold');
+  static const googlePodcastsLogo = IconData(0xeb94,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gps-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gps-bold.svg)
-  static const gps = PhosphorFlatIconData(0xedd8, 'Bold');
+  static const gps = IconData(0xedd8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gps-fix-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gps-fix-bold.svg)
-  static const gpsFix = PhosphorFlatIconData(0xedd6, 'Bold');
+  static const gpsFix = IconData(0xedd6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gps-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gps-slash-bold.svg)
-  static const gpsSlash = PhosphorFlatIconData(0xedd4, 'Bold');
+  static const gpsSlash = IconData(0xedd4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![gradient-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gradient-bold.svg)
-  static const gradient = PhosphorFlatIconData(0xeb42, 'Bold');
+  static const gradient = IconData(0xeb42,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![graduation-cap-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/graduation-cap-bold.svg)
-  static const graduationCap = PhosphorFlatIconData(0xe62c, 'Bold');
+  static const graduationCap = IconData(0xe62c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![grains-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grains-bold.svg)
-  static const grains = PhosphorFlatIconData(0xec68, 'Bold');
+  static const grains = IconData(0xec68,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![grains-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grains-slash-bold.svg)
-  static const grainsSlash = PhosphorFlatIconData(0xec6a, 'Bold');
+  static const grainsSlash = IconData(0xec6a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![graph-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/graph-bold.svg)
-  static const graph = PhosphorFlatIconData(0xeb58, 'Bold');
+  static const graph = IconData(0xeb58,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![graphics-card-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/graphics-card-bold.svg)
-  static const graphicsCard = PhosphorFlatIconData(0xe612, 'Bold');
+  static const graphicsCard = IconData(0xe612,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![greater-than-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/greater-than-bold.svg)
-  static const greaterThan = PhosphorFlatIconData(0xedc4, 'Bold');
+  static const greaterThan = IconData(0xedc4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![greater-than-or-equal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/greater-than-or-equal-bold.svg)
-  static const greaterThanOrEqual = PhosphorFlatIconData(0xeda2, 'Bold');
+  static const greaterThanOrEqual = IconData(0xeda2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![grid-four-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grid-four-bold.svg)
-  static const gridFour = PhosphorFlatIconData(0xe296, 'Bold');
+  static const gridFour = IconData(0xe296,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![grid-nine-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grid-nine-bold.svg)
-  static const gridNine = PhosphorFlatIconData(0xec8c, 'Bold');
+  static const gridNine = IconData(0xec8c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![guitar-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/guitar-bold.svg)
-  static const guitar = PhosphorFlatIconData(0xea8a, 'Bold');
+  static const guitar = IconData(0xea8a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hair-dryer-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hair-dryer-bold.svg)
-  static const hairDryer = PhosphorFlatIconData(0xea66, 'Bold');
+  static const hairDryer = IconData(0xea66,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hamburger-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hamburger-bold.svg)
-  static const hamburger = PhosphorFlatIconData(0xe790, 'Bold');
+  static const hamburger = IconData(0xe790,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hammer-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hammer-bold.svg)
-  static const hammer = PhosphorFlatIconData(0xe80e, 'Bold');
+  static const hammer = IconData(0xe80e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-bold.svg)
-  static const hand = PhosphorFlatIconData(0xe298, 'Bold');
+  static const hand = IconData(0xe298,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-arrow-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-arrow-down-bold.svg)
-  static const handArrowDown = PhosphorFlatIconData(0xea4e, 'Bold');
+  static const handArrowDown = IconData(0xea4e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-arrow-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-arrow-up-bold.svg)
-  static const handArrowUp = PhosphorFlatIconData(0xee5a, 'Bold');
+  static const handArrowUp = IconData(0xee5a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-coins-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-coins-bold.svg)
-  static const handCoins = PhosphorFlatIconData(0xea8c, 'Bold');
+  static const handCoins = IconData(0xea8c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-deposit-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-deposit-bold.svg)
-  static const handDeposit = PhosphorFlatIconData(0xee82, 'Bold');
+  static const handDeposit = IconData(0xee82,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-eye-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-eye-bold.svg)
-  static const handEye = PhosphorFlatIconData(0xea4c, 'Bold');
+  static const handEye = IconData(0xea4c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-fist-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-fist-bold.svg)
-  static const handFist = PhosphorFlatIconData(0xe57a, 'Bold');
+  static const handFist = IconData(0xe57a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-grabbing-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-grabbing-bold.svg)
-  static const handGrabbing = PhosphorFlatIconData(0xe57c, 'Bold');
+  static const handGrabbing = IconData(0xe57c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-heart-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-heart-bold.svg)
-  static const handHeart = PhosphorFlatIconData(0xe810, 'Bold');
+  static const handHeart = IconData(0xe810,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-palm-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-palm-bold.svg)
-  static const handPalm = PhosphorFlatIconData(0xe57e, 'Bold');
+  static const handPalm = IconData(0xe57e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-peace-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-peace-bold.svg)
-  static const handPeace = PhosphorFlatIconData(0xe7cc, 'Bold');
+  static const handPeace = IconData(0xe7cc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-pointing-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-pointing-bold.svg)
-  static const handPointing = PhosphorFlatIconData(0xe29a, 'Bold');
+  static const handPointing = IconData(0xe29a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-soap-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-soap-bold.svg)
-  static const handSoap = PhosphorFlatIconData(0xe630, 'Bold');
+  static const handSoap = IconData(0xe630,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-swipe-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-swipe-left-bold.svg)
-  static const handSwipeLeft = PhosphorFlatIconData(0xec94, 'Bold');
+  static const handSwipeLeft = IconData(0xec94,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-swipe-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-swipe-right-bold.svg)
-  static const handSwipeRight = PhosphorFlatIconData(0xec92, 'Bold');
+  static const handSwipeRight = IconData(0xec92,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-tap-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-tap-bold.svg)
-  static const handTap = PhosphorFlatIconData(0xec90, 'Bold');
+  static const handTap = IconData(0xec90,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-waving-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-waving-bold.svg)
-  static const handWaving = PhosphorFlatIconData(0xe580, 'Bold');
+  static const handWaving = IconData(0xe580,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hand-withdraw-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-withdraw-bold.svg)
-  static const handWithdraw = PhosphorFlatIconData(0xee80, 'Bold');
+  static const handWithdraw = IconData(0xee80,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![handbag-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/handbag-bold.svg)
-  static const handbag = PhosphorFlatIconData(0xe29c, 'Bold');
+  static const handbag = IconData(0xe29c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![handbag-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/handbag-simple-bold.svg)
-  static const handbagSimple = PhosphorFlatIconData(0xe62e, 'Bold');
+  static const handbagSimple = IconData(0xe62e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hands-clapping-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hands-clapping-bold.svg)
-  static const handsClapping = PhosphorFlatIconData(0xe6a0, 'Bold');
+  static const handsClapping = IconData(0xe6a0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hands-praying-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hands-praying-bold.svg)
-  static const handsPraying = PhosphorFlatIconData(0xecc8, 'Bold');
+  static const handsPraying = IconData(0xecc8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![handshake-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/handshake-bold.svg)
-  static const handshake = PhosphorFlatIconData(0xe582, 'Bold');
+  static const handshake = IconData(0xe582,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hard-drive-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hard-drive-bold.svg)
-  static const hardDrive = PhosphorFlatIconData(0xe29e, 'Bold');
+  static const hardDrive = IconData(0xe29e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hard-drives-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hard-drives-bold.svg)
-  static const hardDrives = PhosphorFlatIconData(0xe2a0, 'Bold');
+  static const hardDrives = IconData(0xe2a0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hard-hat-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hard-hat-bold.svg)
-  static const hardHat = PhosphorFlatIconData(0xed46, 'Bold');
+  static const hardHat = IconData(0xed46,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hash-bold.svg)
-  static const hash = PhosphorFlatIconData(0xe2a2, 'Bold');
+  static const hash = IconData(0xe2a2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hash-straight-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hash-straight-bold.svg)
-  static const hashStraight = PhosphorFlatIconData(0xe2a4, 'Bold');
+  static const hashStraight = IconData(0xe2a4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![head-circuit-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/head-circuit-bold.svg)
-  static const headCircuit = PhosphorFlatIconData(0xe7d4, 'Bold');
+  static const headCircuit = IconData(0xe7d4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![headlights-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/headlights-bold.svg)
-  static const headlights = PhosphorFlatIconData(0xe6fe, 'Bold');
+  static const headlights = IconData(0xe6fe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![headphones-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/headphones-bold.svg)
-  static const headphones = PhosphorFlatIconData(0xe2a6, 'Bold');
+  static const headphones = IconData(0xe2a6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![headset-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/headset-bold.svg)
-  static const headset = PhosphorFlatIconData(0xe584, 'Bold');
+  static const headset = IconData(0xe584,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![heart-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-bold.svg)
-  static const heart = PhosphorFlatIconData(0xe2a8, 'Bold');
+  static const heart = IconData(0xe2a8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![heart-break-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-break-bold.svg)
-  static const heartBreak = PhosphorFlatIconData(0xebe8, 'Bold');
+  static const heartBreak = IconData(0xebe8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![heart-half-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-half-bold.svg)
-  static const heartHalf = PhosphorFlatIconData(0xec48, 'Bold');
+  static const heartHalf = IconData(0xec48,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![heart-straight-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-straight-bold.svg)
-  static const heartStraight = PhosphorFlatIconData(0xe2aa, 'Bold');
+  static const heartStraight = IconData(0xe2aa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![heart-straight-break-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-straight-break-bold.svg)
-  static const heartStraightBreak = PhosphorFlatIconData(0xeb98, 'Bold');
+  static const heartStraightBreak = IconData(0xeb98,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![heartbeat-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heartbeat-bold.svg)
-  static const heartbeat = PhosphorFlatIconData(0xe2ac, 'Bold');
+  static const heartbeat = IconData(0xe2ac,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hexagon-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hexagon-bold.svg)
-  static const hexagon = PhosphorFlatIconData(0xe2ae, 'Bold');
+  static const hexagon = IconData(0xe2ae,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![high-definition-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/high-definition-bold.svg)
-  static const highDefinition = PhosphorFlatIconData(0xea8e, 'Bold');
+  static const highDefinition = IconData(0xea8e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![high-heel-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/high-heel-bold.svg)
-  static const highHeel = PhosphorFlatIconData(0xe8e8, 'Bold');
+  static const highHeel = IconData(0xe8e8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![highlighter-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/highlighter-bold.svg)
-  static const highlighter = PhosphorFlatIconData(0xec76, 'Bold');
+  static const highlighter = IconData(0xec76,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![highlighter-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/highlighter-circle-bold.svg)
-  static const highlighterCircle = PhosphorFlatIconData(0xe632, 'Bold');
+  static const highlighterCircle = IconData(0xe632,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hockey-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hockey-bold.svg)
-  static const hockey = PhosphorFlatIconData(0xec86, 'Bold');
+  static const hockey = IconData(0xec86,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hoodie-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hoodie-bold.svg)
-  static const hoodie = PhosphorFlatIconData(0xecd0, 'Bold');
+  static const hoodie = IconData(0xecd0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![horse-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/horse-bold.svg)
-  static const horse = PhosphorFlatIconData(0xe2b0, 'Bold');
+  static const horse = IconData(0xe2b0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hospital-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hospital-bold.svg)
-  static const hospital = PhosphorFlatIconData(0xe844, 'Bold');
+  static const hospital = IconData(0xe844,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hourglass-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-bold.svg)
-  static const hourglass = PhosphorFlatIconData(0xe2b2, 'Bold');
+  static const hourglass = IconData(0xe2b2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hourglass-high-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-high-bold.svg)
-  static const hourglassHigh = PhosphorFlatIconData(0xe2b4, 'Bold');
+  static const hourglassHigh = IconData(0xe2b4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hourglass-low-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-low-bold.svg)
-  static const hourglassLow = PhosphorFlatIconData(0xe2b6, 'Bold');
+  static const hourglassLow = IconData(0xe2b6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hourglass-medium-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-medium-bold.svg)
-  static const hourglassMedium = PhosphorFlatIconData(0xe2b8, 'Bold');
+  static const hourglassMedium = IconData(0xe2b8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hourglass-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple-bold.svg)
-  static const hourglassSimple = PhosphorFlatIconData(0xe2ba, 'Bold');
+  static const hourglassSimple = IconData(0xe2ba,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hourglass-simple-high-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple-high-bold.svg)
-  static const hourglassSimpleHigh = PhosphorFlatIconData(0xe2bc, 'Bold');
+  static const hourglassSimpleHigh = IconData(0xe2bc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hourglass-simple-low-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple-low-bold.svg)
-  static const hourglassSimpleLow = PhosphorFlatIconData(0xe2be, 'Bold');
+  static const hourglassSimpleLow = IconData(0xe2be,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hourglass-simple-medium-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple-medium-bold.svg)
-  static const hourglassSimpleMedium = PhosphorFlatIconData(0xe2c0, 'Bold');
+  static const hourglassSimpleMedium = IconData(0xe2c0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![house-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/house-bold.svg)
-  static const house = PhosphorFlatIconData(0xe2c2, 'Bold');
+  static const house = IconData(0xe2c2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![house-line-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/house-line-bold.svg)
-  static const houseLine = PhosphorFlatIconData(0xe2c4, 'Bold');
+  static const houseLine = IconData(0xe2c4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![house-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/house-simple-bold.svg)
-  static const houseSimple = PhosphorFlatIconData(0xe2c6, 'Bold');
+  static const houseSimple = IconData(0xe2c6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![hurricane-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hurricane-bold.svg)
-  static const hurricane = PhosphorFlatIconData(0xe88e, 'Bold');
+  static const hurricane = IconData(0xe88e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![ice-cream-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ice-cream-bold.svg)
-  static const iceCream = PhosphorFlatIconData(0xe804, 'Bold');
+  static const iceCream = IconData(0xe804,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![identification-badge-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/identification-badge-bold.svg)
-  static const identificationBadge = PhosphorFlatIconData(0xe6f6, 'Bold');
+  static const identificationBadge = IconData(0xe6f6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![identification-card-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/identification-card-bold.svg)
-  static const identificationCard = PhosphorFlatIconData(0xe2c8, 'Bold');
+  static const identificationCard = IconData(0xe2c8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![image-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/image-bold.svg)
-  static const image = PhosphorFlatIconData(0xe2ca, 'Bold');
+  static const image = IconData(0xe2ca,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![image-broken-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/image-broken-bold.svg)
-  static const imageBroken = PhosphorFlatIconData(0xe7a8, 'Bold');
+  static const imageBroken = IconData(0xe7a8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![image-square-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/image-square-bold.svg)
-  static const imageSquare = PhosphorFlatIconData(0xe2cc, 'Bold');
+  static const imageSquare = IconData(0xe2cc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![images-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/images-bold.svg)
-  static const images = PhosphorFlatIconData(0xe836, 'Bold');
+  static const images = IconData(0xe836,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![images-square-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/images-square-bold.svg)
-  static const imagesSquare = PhosphorFlatIconData(0xe834, 'Bold');
+  static const imagesSquare = IconData(0xe834,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![infinity-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/infinity-bold.svg)
-  static const infinity = PhosphorFlatIconData(0xe634, 'Bold');
+  static const infinity = IconData(0xe634,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![info-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/info-bold.svg)
-  static const info = PhosphorFlatIconData(0xe2ce, 'Bold');
+  static const info = IconData(0xe2ce,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![instagram-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/instagram-logo-bold.svg)
-  static const instagramLogo = PhosphorFlatIconData(0xe2d0, 'Bold');
+  static const instagramLogo = IconData(0xe2d0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![intersect-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersect-bold.svg)
-  static const intersect = PhosphorFlatIconData(0xe2d2, 'Bold');
+  static const intersect = IconData(0xe2d2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![intersect-square-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersect-square-bold.svg)
-  static const intersectSquare = PhosphorFlatIconData(0xe87a, 'Bold');
+  static const intersectSquare = IconData(0xe87a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![intersect-three-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersect-three-bold.svg)
-  static const intersectThree = PhosphorFlatIconData(0xecc4, 'Bold');
+  static const intersectThree = IconData(0xecc4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![intersection-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersection-bold.svg)
-  static const intersection = PhosphorFlatIconData(0xedba, 'Bold');
+  static const intersection = IconData(0xedba,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![invoice-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/invoice-bold.svg)
-  static const invoice = PhosphorFlatIconData(0xee42, 'Bold');
+  static const invoice = IconData(0xee42,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![island-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/island-bold.svg)
-  static const island = PhosphorFlatIconData(0xee06, 'Bold');
+  static const island = IconData(0xee06,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![jar-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/jar-bold.svg)
-  static const jar = PhosphorFlatIconData(0xe7e0, 'Bold');
+  static const jar = IconData(0xe7e0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![jar-label-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/jar-label-bold.svg)
-  static const jarLabel = PhosphorFlatIconData(0xe7e1, 'Bold');
+  static const jarLabel = IconData(0xe7e1,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![jeep-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/jeep-bold.svg)
-  static const jeep = PhosphorFlatIconData(0xe2d4, 'Bold');
+  static const jeep = IconData(0xe2d4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![joystick-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/joystick-bold.svg)
-  static const joystick = PhosphorFlatIconData(0xea5e, 'Bold');
+  static const joystick = IconData(0xea5e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![kanban-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/kanban-bold.svg)
-  static const kanban = PhosphorFlatIconData(0xeb54, 'Bold');
+  static const kanban = IconData(0xeb54,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![key-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/key-bold.svg)
-  static const key = PhosphorFlatIconData(0xe2d6, 'Bold');
+  static const key = IconData(0xe2d6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![key-return-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/key-return-bold.svg)
-  static const keyReturn = PhosphorFlatIconData(0xe782, 'Bold');
+  static const keyReturn = IconData(0xe782,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![keyboard-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/keyboard-bold.svg)
-  static const keyboard = PhosphorFlatIconData(0xe2d8, 'Bold');
+  static const keyboard = IconData(0xe2d8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![keyhole-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/keyhole-bold.svg)
-  static const keyhole = PhosphorFlatIconData(0xea78, 'Bold');
+  static const keyhole = IconData(0xea78,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![knife-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/knife-bold.svg)
-  static const knife = PhosphorFlatIconData(0xe636, 'Bold');
+  static const knife = IconData(0xe636,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![ladder-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ladder-bold.svg)
-  static const ladder = PhosphorFlatIconData(0xe9e4, 'Bold');
+  static const ladder = IconData(0xe9e4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![ladder-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ladder-simple-bold.svg)
-  static const ladderSimple = PhosphorFlatIconData(0xec26, 'Bold');
+  static const ladderSimple = IconData(0xec26,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lamp-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lamp-bold.svg)
-  static const lamp = PhosphorFlatIconData(0xe638, 'Bold');
+  static const lamp = IconData(0xe638,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lamp-pendant-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lamp-pendant-bold.svg)
-  static const lampPendant = PhosphorFlatIconData(0xee2e, 'Bold');
+  static const lampPendant = IconData(0xee2e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![laptop-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/laptop-bold.svg)
-  static const laptop = PhosphorFlatIconData(0xe586, 'Bold');
+  static const laptop = IconData(0xe586,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lasso-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lasso-bold.svg)
-  static const lasso = PhosphorFlatIconData(0xedc6, 'Bold');
+  static const lasso = IconData(0xedc6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lastfm-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lastfm-logo-bold.svg)
-  static const lastfmLogo = PhosphorFlatIconData(0xe842, 'Bold');
+  static const lastfmLogo = IconData(0xe842,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![layout-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/layout-bold.svg)
-  static const layout = PhosphorFlatIconData(0xe6d6, 'Bold');
+  static const layout = IconData(0xe6d6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![leaf-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/leaf-bold.svg)
-  static const leaf = PhosphorFlatIconData(0xe2da, 'Bold');
+  static const leaf = IconData(0xe2da,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lectern-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lectern-bold.svg)
-  static const lectern = PhosphorFlatIconData(0xe95a, 'Bold');
+  static const lectern = IconData(0xe95a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lego-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lego-bold.svg)
-  static const lego = PhosphorFlatIconData(0xe8c6, 'Bold');
+  static const lego = IconData(0xe8c6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lego-smiley-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lego-smiley-bold.svg)
-  static const legoSmiley = PhosphorFlatIconData(0xe8c7, 'Bold');
+  static const legoSmiley = IconData(0xe8c7,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![less-than-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/less-than-bold.svg)
-  static const lessThan = PhosphorFlatIconData(0xedac, 'Bold');
+  static const lessThan = IconData(0xedac,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![less-than-or-equal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/less-than-or-equal-bold.svg)
-  static const lessThanOrEqual = PhosphorFlatIconData(0xeda4, 'Bold');
+  static const lessThanOrEqual = IconData(0xeda4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![letter-circle-h-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/letter-circle-h-bold.svg)
-  static const letterCircleH = PhosphorFlatIconData(0xebf8, 'Bold');
+  static const letterCircleH = IconData(0xebf8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![letter-circle-p-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/letter-circle-p-bold.svg)
-  static const letterCircleP = PhosphorFlatIconData(0xec08, 'Bold');
+  static const letterCircleP = IconData(0xec08,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![letter-circle-v-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/letter-circle-v-bold.svg)
-  static const letterCircleV = PhosphorFlatIconData(0xec14, 'Bold');
+  static const letterCircleV = IconData(0xec14,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lifebuoy-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lifebuoy-bold.svg)
-  static const lifebuoy = PhosphorFlatIconData(0xe63a, 'Bold');
+  static const lifebuoy = IconData(0xe63a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lightbulb-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightbulb-bold.svg)
-  static const lightbulb = PhosphorFlatIconData(0xe2dc, 'Bold');
+  static const lightbulb = IconData(0xe2dc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lightbulb-filament-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightbulb-filament-bold.svg)
-  static const lightbulbFilament = PhosphorFlatIconData(0xe63c, 'Bold');
+  static const lightbulbFilament = IconData(0xe63c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lighthouse-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lighthouse-bold.svg)
-  static const lighthouse = PhosphorFlatIconData(0xe9f6, 'Bold');
+  static const lighthouse = IconData(0xe9f6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lightning-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightning-bold.svg)
-  static const lightning = PhosphorFlatIconData(0xe2de, 'Bold');
+  static const lightning = IconData(0xe2de,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lightning-a-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightning-a-bold.svg)
-  static const lightningA = PhosphorFlatIconData(0xea84, 'Bold');
+  static const lightningA = IconData(0xea84,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lightning-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightning-slash-bold.svg)
-  static const lightningSlash = PhosphorFlatIconData(0xe2e0, 'Bold');
+  static const lightningSlash = IconData(0xe2e0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![line-segment-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/line-segment-bold.svg)
-  static const lineSegment = PhosphorFlatIconData(0xe6d2, 'Bold');
+  static const lineSegment = IconData(0xe6d2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![line-segments-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/line-segments-bold.svg)
-  static const lineSegments = PhosphorFlatIconData(0xe6d4, 'Bold');
+  static const lineSegments = IconData(0xe6d4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![line-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/line-vertical-bold.svg)
-  static const lineVertical = PhosphorFlatIconData(0xed70, 'Bold');
+  static const lineVertical = IconData(0xed70,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![link-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-bold.svg)
-  static const link = PhosphorFlatIconData(0xe2e2, 'Bold');
+  static const link = IconData(0xe2e2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![link-break-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-break-bold.svg)
-  static const linkBreak = PhosphorFlatIconData(0xe2e4, 'Bold');
+  static const linkBreak = IconData(0xe2e4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![link-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple-bold.svg)
-  static const linkSimple = PhosphorFlatIconData(0xe2e6, 'Bold');
+  static const linkSimple = IconData(0xe2e6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![link-simple-break-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple-break-bold.svg)
-  static const linkSimpleBreak = PhosphorFlatIconData(0xe2e8, 'Bold');
+  static const linkSimpleBreak = IconData(0xe2e8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![link-simple-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple-horizontal-bold.svg)
-  static const linkSimpleHorizontal = PhosphorFlatIconData(0xe2ea, 'Bold');
+  static const linkSimpleHorizontal = IconData(0xe2ea,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![link-simple-horizontal-break-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple-horizontal-break-bold.svg)
-  static const linkSimpleHorizontalBreak = PhosphorFlatIconData(0xe2ec, 'Bold');
+  static const linkSimpleHorizontalBreak = IconData(0xe2ec,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![linkedin-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/linkedin-logo-bold.svg)
-  static const linkedinLogo = PhosphorFlatIconData(0xe2ee, 'Bold');
+  static const linkedinLogo = IconData(0xe2ee,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![linktree-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/linktree-logo-bold.svg)
-  static const linktreeLogo = PhosphorFlatIconData(0xedee, 'Bold');
+  static const linktreeLogo = IconData(0xedee,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![linux-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/linux-logo-bold.svg)
-  static const linuxLogo = PhosphorFlatIconData(0xeb02, 'Bold');
+  static const linuxLogo = IconData(0xeb02,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![list-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-bold.svg)
-  static const list = PhosphorFlatIconData(0xe2f0, 'Bold');
+  static const list = IconData(0xe2f0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![list-bullets-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-bullets-bold.svg)
-  static const listBullets = PhosphorFlatIconData(0xe2f2, 'Bold');
+  static const listBullets = IconData(0xe2f2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![list-checks-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-checks-bold.svg)
-  static const listChecks = PhosphorFlatIconData(0xeadc, 'Bold');
+  static const listChecks = IconData(0xeadc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![list-dashes-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-dashes-bold.svg)
-  static const listDashes = PhosphorFlatIconData(0xe2f4, 'Bold');
+  static const listDashes = IconData(0xe2f4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![list-heart-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-heart-bold.svg)
-  static const listHeart = PhosphorFlatIconData(0xebde, 'Bold');
+  static const listHeart = IconData(0xebde,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![list-magnifying-glass-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-magnifying-glass-bold.svg)
-  static const listMagnifyingGlass = PhosphorFlatIconData(0xebe0, 'Bold');
+  static const listMagnifyingGlass = IconData(0xebe0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![list-numbers-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-numbers-bold.svg)
-  static const listNumbers = PhosphorFlatIconData(0xe2f6, 'Bold');
+  static const listNumbers = IconData(0xe2f6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![list-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-plus-bold.svg)
-  static const listPlus = PhosphorFlatIconData(0xe2f8, 'Bold');
+  static const listPlus = IconData(0xe2f8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![list-star-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-star-bold.svg)
-  static const listStar = PhosphorFlatIconData(0xebdc, 'Bold');
+  static const listStar = IconData(0xebdc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lock-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-bold.svg)
-  static const lock = PhosphorFlatIconData(0xe2fa, 'Bold');
+  static const lock = IconData(0xe2fa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lock-key-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-key-bold.svg)
-  static const lockKey = PhosphorFlatIconData(0xe2fe, 'Bold');
+  static const lockKey = IconData(0xe2fe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lock-key-open-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-key-open-bold.svg)
-  static const lockKeyOpen = PhosphorFlatIconData(0xe300, 'Bold');
+  static const lockKeyOpen = IconData(0xe300,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lock-laminated-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-laminated-bold.svg)
-  static const lockLaminated = PhosphorFlatIconData(0xe302, 'Bold');
+  static const lockLaminated = IconData(0xe302,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lock-laminated-open-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-laminated-open-bold.svg)
-  static const lockLaminatedOpen = PhosphorFlatIconData(0xe304, 'Bold');
+  static const lockLaminatedOpen = IconData(0xe304,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lock-open-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-open-bold.svg)
-  static const lockOpen = PhosphorFlatIconData(0xe306, 'Bold');
+  static const lockOpen = IconData(0xe306,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lock-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-simple-bold.svg)
-  static const lockSimple = PhosphorFlatIconData(0xe308, 'Bold');
+  static const lockSimple = IconData(0xe308,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lock-simple-open-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-simple-open-bold.svg)
-  static const lockSimpleOpen = PhosphorFlatIconData(0xe30a, 'Bold');
+  static const lockSimpleOpen = IconData(0xe30a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![lockers-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lockers-bold.svg)
-  static const lockers = PhosphorFlatIconData(0xecb8, 'Bold');
+  static const lockers = IconData(0xecb8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![log-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/log-bold.svg)
-  static const log = PhosphorFlatIconData(0xed82, 'Bold');
+  static const log = IconData(0xed82,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![magic-wand-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magic-wand-bold.svg)
-  static const magicWand = PhosphorFlatIconData(0xe6b6, 'Bold');
+  static const magicWand = IconData(0xe6b6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![magnet-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnet-bold.svg)
-  static const magnet = PhosphorFlatIconData(0xe680, 'Bold');
+  static const magnet = IconData(0xe680,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![magnet-straight-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnet-straight-bold.svg)
-  static const magnetStraight = PhosphorFlatIconData(0xe682, 'Bold');
+  static const magnetStraight = IconData(0xe682,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![magnifying-glass-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnifying-glass-bold.svg)
-  static const magnifyingGlass = PhosphorFlatIconData(0xe30c, 'Bold');
+  static const magnifyingGlass = IconData(0xe30c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![magnifying-glass-minus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnifying-glass-minus-bold.svg)
-  static const magnifyingGlassMinus = PhosphorFlatIconData(0xe30e, 'Bold');
+  static const magnifyingGlassMinus = IconData(0xe30e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![magnifying-glass-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnifying-glass-plus-bold.svg)
-  static const magnifyingGlassPlus = PhosphorFlatIconData(0xe310, 'Bold');
+  static const magnifyingGlassPlus = IconData(0xe310,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![mailbox-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mailbox-bold.svg)
-  static const mailbox = PhosphorFlatIconData(0xec1e, 'Bold');
+  static const mailbox = IconData(0xec1e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![map-pin-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-bold.svg)
-  static const mapPin = PhosphorFlatIconData(0xe316, 'Bold');
+  static const mapPin = IconData(0xe316,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![map-pin-area-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-area-bold.svg)
-  static const mapPinArea = PhosphorFlatIconData(0xee3a, 'Bold');
+  static const mapPinArea = IconData(0xee3a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![map-pin-line-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-line-bold.svg)
-  static const mapPinLine = PhosphorFlatIconData(0xe318, 'Bold');
+  static const mapPinLine = IconData(0xe318,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![map-pin-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-plus-bold.svg)
-  static const mapPinPlus = PhosphorFlatIconData(0xe314, 'Bold');
+  static const mapPinPlus = IconData(0xe314,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![map-pin-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-simple-bold.svg)
-  static const mapPinSimple = PhosphorFlatIconData(0xee3e, 'Bold');
+  static const mapPinSimple = IconData(0xee3e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![map-pin-simple-area-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-simple-area-bold.svg)
-  static const mapPinSimpleArea = PhosphorFlatIconData(0xee3c, 'Bold');
+  static const mapPinSimpleArea = IconData(0xee3c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![map-pin-simple-line-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-simple-line-bold.svg)
-  static const mapPinSimpleLine = PhosphorFlatIconData(0xee38, 'Bold');
+  static const mapPinSimpleLine = IconData(0xee38,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![map-trifold-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-trifold-bold.svg)
-  static const mapTrifold = PhosphorFlatIconData(0xe31a, 'Bold');
+  static const mapTrifold = IconData(0xe31a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![markdown-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/markdown-logo-bold.svg)
-  static const markdownLogo = PhosphorFlatIconData(0xe508, 'Bold');
+  static const markdownLogo = IconData(0xe508,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![marker-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/marker-circle-bold.svg)
-  static const markerCircle = PhosphorFlatIconData(0xe640, 'Bold');
+  static const markerCircle = IconData(0xe640,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![martini-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/martini-bold.svg)
-  static const martini = PhosphorFlatIconData(0xe31c, 'Bold');
+  static const martini = IconData(0xe31c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![mask-happy-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mask-happy-bold.svg)
-  static const maskHappy = PhosphorFlatIconData(0xe9f4, 'Bold');
+  static const maskHappy = IconData(0xe9f4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![mask-sad-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mask-sad-bold.svg)
-  static const maskSad = PhosphorFlatIconData(0xeb9e, 'Bold');
+  static const maskSad = IconData(0xeb9e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![mastodon-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mastodon-logo-bold.svg)
-  static const mastodonLogo = PhosphorFlatIconData(0xed68, 'Bold');
+  static const mastodonLogo = IconData(0xed68,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![math-operations-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/math-operations-bold.svg)
-  static const mathOperations = PhosphorFlatIconData(0xe31e, 'Bold');
+  static const mathOperations = IconData(0xe31e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![matrix-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/matrix-logo-bold.svg)
-  static const matrixLogo = PhosphorFlatIconData(0xed64, 'Bold');
+  static const matrixLogo = IconData(0xed64,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![medal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/medal-bold.svg)
-  static const medal = PhosphorFlatIconData(0xe320, 'Bold');
+  static const medal = IconData(0xe320,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![medal-military-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/medal-military-bold.svg)
-  static const medalMilitary = PhosphorFlatIconData(0xecfc, 'Bold');
+  static const medalMilitary = IconData(0xecfc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![medium-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/medium-logo-bold.svg)
-  static const mediumLogo = PhosphorFlatIconData(0xe322, 'Bold');
+  static const mediumLogo = IconData(0xe322,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![megaphone-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/megaphone-bold.svg)
-  static const megaphone = PhosphorFlatIconData(0xe324, 'Bold');
+  static const megaphone = IconData(0xe324,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![megaphone-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/megaphone-simple-bold.svg)
-  static const megaphoneSimple = PhosphorFlatIconData(0xe642, 'Bold');
+  static const megaphoneSimple = IconData(0xe642,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![member-of-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/member-of-bold.svg)
-  static const memberOf = PhosphorFlatIconData(0xedc2, 'Bold');
+  static const memberOf = IconData(0xedc2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![memory-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/memory-bold.svg)
-  static const memory = PhosphorFlatIconData(0xe9c4, 'Bold');
+  static const memory = IconData(0xe9c4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![messenger-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/messenger-logo-bold.svg)
-  static const messengerLogo = PhosphorFlatIconData(0xe6d8, 'Bold');
+  static const messengerLogo = IconData(0xe6d8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![meta-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/meta-logo-bold.svg)
-  static const metaLogo = PhosphorFlatIconData(0xed02, 'Bold');
+  static const metaLogo = IconData(0xed02,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![meteor-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/meteor-bold.svg)
-  static const meteor = PhosphorFlatIconData(0xe9ba, 'Bold');
+  static const meteor = IconData(0xe9ba,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![metronome-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/metronome-bold.svg)
-  static const metronome = PhosphorFlatIconData(0xec8e, 'Bold');
+  static const metronome = IconData(0xec8e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![microphone-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microphone-bold.svg)
-  static const microphone = PhosphorFlatIconData(0xe326, 'Bold');
+  static const microphone = IconData(0xe326,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![microphone-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microphone-slash-bold.svg)
-  static const microphoneSlash = PhosphorFlatIconData(0xe328, 'Bold');
+  static const microphoneSlash = IconData(0xe328,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![microphone-stage-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microphone-stage-bold.svg)
-  static const microphoneStage = PhosphorFlatIconData(0xe75c, 'Bold');
+  static const microphoneStage = IconData(0xe75c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![microscope-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microscope-bold.svg)
-  static const microscope = PhosphorFlatIconData(0xec7a, 'Bold');
+  static const microscope = IconData(0xec7a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![microsoft-excel-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-excel-logo-bold.svg)
-  static const microsoftExcelLogo = PhosphorFlatIconData(0xeb6c, 'Bold');
+  static const microsoftExcelLogo = IconData(0xeb6c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![microsoft-outlook-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-outlook-logo-bold.svg)
-  static const microsoftOutlookLogo = PhosphorFlatIconData(0xeb70, 'Bold');
+  static const microsoftOutlookLogo = IconData(0xeb70,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![microsoft-powerpoint-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-powerpoint-logo-bold.svg)
-  static const microsoftPowerpointLogo = PhosphorFlatIconData(0xeace, 'Bold');
+  static const microsoftPowerpointLogo = IconData(0xeace,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![microsoft-teams-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-teams-logo-bold.svg)
-  static const microsoftTeamsLogo = PhosphorFlatIconData(0xeb66, 'Bold');
+  static const microsoftTeamsLogo = IconData(0xeb66,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![microsoft-word-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-word-logo-bold.svg)
-  static const microsoftWordLogo = PhosphorFlatIconData(0xeb6a, 'Bold');
+  static const microsoftWordLogo = IconData(0xeb6a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![minus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/minus-bold.svg)
-  static const minus = PhosphorFlatIconData(0xe32a, 'Bold');
+  static const minus = IconData(0xe32a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![minus-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/minus-circle-bold.svg)
-  static const minusCircle = PhosphorFlatIconData(0xe32c, 'Bold');
+  static const minusCircle = IconData(0xe32c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![minus-square-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/minus-square-bold.svg)
-  static const minusSquare = PhosphorFlatIconData(0xed4c, 'Bold');
+  static const minusSquare = IconData(0xed4c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![money-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/money-bold.svg)
-  static const money = PhosphorFlatIconData(0xe588, 'Bold');
+  static const money = IconData(0xe588,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![money-wavy-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/money-wavy-bold.svg)
-  static const moneyWavy = PhosphorFlatIconData(0xee68, 'Bold');
+  static const moneyWavy = IconData(0xee68,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![monitor-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/monitor-bold.svg)
-  static const monitor = PhosphorFlatIconData(0xe32e, 'Bold');
+  static const monitor = IconData(0xe32e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![monitor-arrow-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/monitor-arrow-up-bold.svg)
-  static const monitorArrowUp = PhosphorFlatIconData(0xe58a, 'Bold');
+  static const monitorArrowUp = IconData(0xe58a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![monitor-play-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/monitor-play-bold.svg)
-  static const monitorPlay = PhosphorFlatIconData(0xe58c, 'Bold');
+  static const monitorPlay = IconData(0xe58c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![moon-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moon-bold.svg)
-  static const moon = PhosphorFlatIconData(0xe330, 'Bold');
+  static const moon = IconData(0xe330,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![moon-stars-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moon-stars-bold.svg)
-  static const moonStars = PhosphorFlatIconData(0xe58e, 'Bold');
+  static const moonStars = IconData(0xe58e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![moped-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moped-bold.svg)
-  static const moped = PhosphorFlatIconData(0xe824, 'Bold');
+  static const moped = IconData(0xe824,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![moped-front-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moped-front-bold.svg)
-  static const mopedFront = PhosphorFlatIconData(0xe822, 'Bold');
+  static const mopedFront = IconData(0xe822,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![mosque-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mosque-bold.svg)
-  static const mosque = PhosphorFlatIconData(0xecee, 'Bold');
+  static const mosque = IconData(0xecee,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![motorcycle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/motorcycle-bold.svg)
-  static const motorcycle = PhosphorFlatIconData(0xe80a, 'Bold');
+  static const motorcycle = IconData(0xe80a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![mountains-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mountains-bold.svg)
-  static const mountains = PhosphorFlatIconData(0xe7ae, 'Bold');
+  static const mountains = IconData(0xe7ae,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![mouse-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-bold.svg)
-  static const mouse = PhosphorFlatIconData(0xe33a, 'Bold');
+  static const mouse = IconData(0xe33a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![mouse-left-click-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-left-click-bold.svg)
-  static const mouseLeftClick = PhosphorFlatIconData(0xe334, 'Bold');
+  static const mouseLeftClick = IconData(0xe334,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![mouse-middle-click-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-middle-click-bold.svg)
-  static const mouseMiddleClick = PhosphorFlatIconData(0xe338, 'Bold');
+  static const mouseMiddleClick = IconData(0xe338,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![mouse-right-click-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-right-click-bold.svg)
-  static const mouseRightClick = PhosphorFlatIconData(0xe336, 'Bold');
+  static const mouseRightClick = IconData(0xe336,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![mouse-scroll-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-scroll-bold.svg)
-  static const mouseScroll = PhosphorFlatIconData(0xe332, 'Bold');
+  static const mouseScroll = IconData(0xe332,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![mouse-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-simple-bold.svg)
-  static const mouseSimple = PhosphorFlatIconData(0xe644, 'Bold');
+  static const mouseSimple = IconData(0xe644,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![music-note-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-note-bold.svg)
-  static const musicNote = PhosphorFlatIconData(0xe33c, 'Bold');
+  static const musicNote = IconData(0xe33c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![music-note-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-note-simple-bold.svg)
-  static const musicNoteSimple = PhosphorFlatIconData(0xe33e, 'Bold');
+  static const musicNoteSimple = IconData(0xe33e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![music-notes-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes-bold.svg)
-  static const musicNotes = PhosphorFlatIconData(0xe340, 'Bold');
+  static const musicNotes = IconData(0xe340,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![music-notes-minus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes-minus-bold.svg)
-  static const musicNotesMinus = PhosphorFlatIconData(0xee0c, 'Bold');
+  static const musicNotesMinus = IconData(0xee0c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![music-notes-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes-plus-bold.svg)
-  static const musicNotesPlus = PhosphorFlatIconData(0xeb7c, 'Bold');
+  static const musicNotesPlus = IconData(0xeb7c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![music-notes-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes-simple-bold.svg)
-  static const musicNotesSimple = PhosphorFlatIconData(0xe342, 'Bold');
+  static const musicNotesSimple = IconData(0xe342,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![navigation-arrow-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/navigation-arrow-bold.svg)
-  static const navigationArrow = PhosphorFlatIconData(0xeade, 'Bold');
+  static const navigationArrow = IconData(0xeade,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![needle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/needle-bold.svg)
-  static const needle = PhosphorFlatIconData(0xe82e, 'Bold');
+  static const needle = IconData(0xe82e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![network-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/network-bold.svg)
-  static const network = PhosphorFlatIconData(0xedde, 'Bold');
+  static const network = IconData(0xedde,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![network-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/network-slash-bold.svg)
-  static const networkSlash = PhosphorFlatIconData(0xeddc, 'Bold');
+  static const networkSlash = IconData(0xeddc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![network-x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/network-x-bold.svg)
-  static const networkX = PhosphorFlatIconData(0xedda, 'Bold');
+  static const networkX = IconData(0xedda,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![newspaper-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/newspaper-bold.svg)
-  static const newspaper = PhosphorFlatIconData(0xe344, 'Bold');
+  static const newspaper = IconData(0xe344,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![newspaper-clipping-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/newspaper-clipping-bold.svg)
-  static const newspaperClipping = PhosphorFlatIconData(0xe346, 'Bold');
+  static const newspaperClipping = IconData(0xe346,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![not-equals-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-equals-bold.svg)
-  static const notEquals = PhosphorFlatIconData(0xeda6, 'Bold');
+  static const notEquals = IconData(0xeda6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![not-member-of-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-member-of-bold.svg)
-  static const notMemberOf = PhosphorFlatIconData(0xedae, 'Bold');
+  static const notMemberOf = IconData(0xedae,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![not-subset-of-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-subset-of-bold.svg)
-  static const notSubsetOf = PhosphorFlatIconData(0xedb0, 'Bold');
+  static const notSubsetOf = IconData(0xedb0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![not-superset-of-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-superset-of-bold.svg)
-  static const notSupersetOf = PhosphorFlatIconData(0xedb2, 'Bold');
+  static const notSupersetOf = IconData(0xedb2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![notches-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notches-bold.svg)
-  static const notches = PhosphorFlatIconData(0xed3a, 'Bold');
+  static const notches = IconData(0xed3a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![note-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/note-bold.svg)
-  static const note = PhosphorFlatIconData(0xe348, 'Bold');
+  static const note = IconData(0xe348,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![note-blank-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/note-blank-bold.svg)
-  static const noteBlank = PhosphorFlatIconData(0xe34a, 'Bold');
+  static const noteBlank = IconData(0xe34a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![note-pencil-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/note-pencil-bold.svg)
-  static const notePencil = PhosphorFlatIconData(0xe34c, 'Bold');
+  static const notePencil = IconData(0xe34c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![notebook-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notebook-bold.svg)
-  static const notebook = PhosphorFlatIconData(0xe34e, 'Bold');
+  static const notebook = IconData(0xe34e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![notepad-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notepad-bold.svg)
-  static const notepad = PhosphorFlatIconData(0xe63e, 'Bold');
+  static const notepad = IconData(0xe63e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![notification-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notification-bold.svg)
-  static const notification = PhosphorFlatIconData(0xe6fa, 'Bold');
+  static const notification = IconData(0xe6fa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![notion-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notion-logo-bold.svg)
-  static const notionLogo = PhosphorFlatIconData(0xe9a0, 'Bold');
+  static const notionLogo = IconData(0xe9a0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![nuclear-plant-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/nuclear-plant-bold.svg)
-  static const nuclearPlant = PhosphorFlatIconData(0xed7c, 'Bold');
+  static const nuclearPlant = IconData(0xed7c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-circle-eight-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-eight-bold.svg)
-  static const numberCircleEight = PhosphorFlatIconData(0xe352, 'Bold');
+  static const numberCircleEight = IconData(0xe352,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-circle-five-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-five-bold.svg)
-  static const numberCircleFive = PhosphorFlatIconData(0xe358, 'Bold');
+  static const numberCircleFive = IconData(0xe358,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-circle-four-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-four-bold.svg)
-  static const numberCircleFour = PhosphorFlatIconData(0xe35e, 'Bold');
+  static const numberCircleFour = IconData(0xe35e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-circle-nine-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-nine-bold.svg)
-  static const numberCircleNine = PhosphorFlatIconData(0xe364, 'Bold');
+  static const numberCircleNine = IconData(0xe364,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-circle-one-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-one-bold.svg)
-  static const numberCircleOne = PhosphorFlatIconData(0xe36a, 'Bold');
+  static const numberCircleOne = IconData(0xe36a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-circle-seven-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-seven-bold.svg)
-  static const numberCircleSeven = PhosphorFlatIconData(0xe370, 'Bold');
+  static const numberCircleSeven = IconData(0xe370,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-circle-six-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-six-bold.svg)
-  static const numberCircleSix = PhosphorFlatIconData(0xe376, 'Bold');
+  static const numberCircleSix = IconData(0xe376,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-circle-three-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-three-bold.svg)
-  static const numberCircleThree = PhosphorFlatIconData(0xe37c, 'Bold');
+  static const numberCircleThree = IconData(0xe37c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-circle-two-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-two-bold.svg)
-  static const numberCircleTwo = PhosphorFlatIconData(0xe382, 'Bold');
+  static const numberCircleTwo = IconData(0xe382,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-circle-zero-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-zero-bold.svg)
-  static const numberCircleZero = PhosphorFlatIconData(0xe388, 'Bold');
+  static const numberCircleZero = IconData(0xe388,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-eight-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-eight-bold.svg)
-  static const numberEight = PhosphorFlatIconData(0xe350, 'Bold');
+  static const numberEight = IconData(0xe350,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-five-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-five-bold.svg)
-  static const numberFive = PhosphorFlatIconData(0xe356, 'Bold');
+  static const numberFive = IconData(0xe356,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-four-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-four-bold.svg)
-  static const numberFour = PhosphorFlatIconData(0xe35c, 'Bold');
+  static const numberFour = IconData(0xe35c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-nine-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-nine-bold.svg)
-  static const numberNine = PhosphorFlatIconData(0xe362, 'Bold');
+  static const numberNine = IconData(0xe362,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-one-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-one-bold.svg)
-  static const numberOne = PhosphorFlatIconData(0xe368, 'Bold');
+  static const numberOne = IconData(0xe368,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-seven-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-seven-bold.svg)
-  static const numberSeven = PhosphorFlatIconData(0xe36e, 'Bold');
+  static const numberSeven = IconData(0xe36e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-six-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-six-bold.svg)
-  static const numberSix = PhosphorFlatIconData(0xe374, 'Bold');
+  static const numberSix = IconData(0xe374,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-square-eight-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-eight-bold.svg)
-  static const numberSquareEight = PhosphorFlatIconData(0xe354, 'Bold');
+  static const numberSquareEight = IconData(0xe354,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-square-five-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-five-bold.svg)
-  static const numberSquareFive = PhosphorFlatIconData(0xe35a, 'Bold');
+  static const numberSquareFive = IconData(0xe35a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-square-four-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-four-bold.svg)
-  static const numberSquareFour = PhosphorFlatIconData(0xe360, 'Bold');
+  static const numberSquareFour = IconData(0xe360,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-square-nine-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-nine-bold.svg)
-  static const numberSquareNine = PhosphorFlatIconData(0xe366, 'Bold');
+  static const numberSquareNine = IconData(0xe366,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-square-one-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-one-bold.svg)
-  static const numberSquareOne = PhosphorFlatIconData(0xe36c, 'Bold');
+  static const numberSquareOne = IconData(0xe36c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-square-seven-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-seven-bold.svg)
-  static const numberSquareSeven = PhosphorFlatIconData(0xe372, 'Bold');
+  static const numberSquareSeven = IconData(0xe372,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-square-six-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-six-bold.svg)
-  static const numberSquareSix = PhosphorFlatIconData(0xe378, 'Bold');
+  static const numberSquareSix = IconData(0xe378,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-square-three-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-three-bold.svg)
-  static const numberSquareThree = PhosphorFlatIconData(0xe37e, 'Bold');
+  static const numberSquareThree = IconData(0xe37e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-square-two-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-two-bold.svg)
-  static const numberSquareTwo = PhosphorFlatIconData(0xe384, 'Bold');
+  static const numberSquareTwo = IconData(0xe384,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-square-zero-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-zero-bold.svg)
-  static const numberSquareZero = PhosphorFlatIconData(0xe38a, 'Bold');
+  static const numberSquareZero = IconData(0xe38a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-three-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-three-bold.svg)
-  static const numberThree = PhosphorFlatIconData(0xe37a, 'Bold');
+  static const numberThree = IconData(0xe37a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-two-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-two-bold.svg)
-  static const numberTwo = PhosphorFlatIconData(0xe380, 'Bold');
+  static const numberTwo = IconData(0xe380,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![number-zero-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-zero-bold.svg)
-  static const numberZero = PhosphorFlatIconData(0xe386, 'Bold');
+  static const numberZero = IconData(0xe386,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![numpad-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/numpad-bold.svg)
-  static const numpad = PhosphorFlatIconData(0xe3c8, 'Bold');
+  static const numpad = IconData(0xe3c8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![nut-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/nut-bold.svg)
-  static const nut = PhosphorFlatIconData(0xe38c, 'Bold');
+  static const nut = IconData(0xe38c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![ny-times-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ny-times-logo-bold.svg)
-  static const nyTimesLogo = PhosphorFlatIconData(0xe646, 'Bold');
+  static const nyTimesLogo = IconData(0xe646,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![octagon-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/octagon-bold.svg)
-  static const octagon = PhosphorFlatIconData(0xe38e, 'Bold');
+  static const octagon = IconData(0xe38e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![office-chair-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/office-chair-bold.svg)
-  static const officeChair = PhosphorFlatIconData(0xea46, 'Bold');
+  static const officeChair = IconData(0xea46,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![onigiri-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/onigiri-bold.svg)
-  static const onigiri = PhosphorFlatIconData(0xee2c, 'Bold');
+  static const onigiri = IconData(0xee2c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![open-ai-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/open-ai-logo-bold.svg)
-  static const openAiLogo = PhosphorFlatIconData(0xe7d2, 'Bold');
+  static const openAiLogo = IconData(0xe7d2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![option-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/option-bold.svg)
-  static const option = PhosphorFlatIconData(0xe8a8, 'Bold');
+  static const option = IconData(0xe8a8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![orange-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/orange-bold.svg)
-  static const orange = PhosphorFlatIconData(0xee40, 'Bold');
+  static const orange = IconData(0xee40,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![orange-slice-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/orange-slice-bold.svg)
-  static const orangeSlice = PhosphorFlatIconData(0xed36, 'Bold');
+  static const orangeSlice = IconData(0xed36,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![oven-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/oven-bold.svg)
-  static const oven = PhosphorFlatIconData(0xed8c, 'Bold');
+  static const oven = IconData(0xed8c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![package-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/package-bold.svg)
-  static const package = PhosphorFlatIconData(0xe390, 'Bold');
+  static const package = IconData(0xe390,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![paint-brush-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-brush-bold.svg)
-  static const paintBrush = PhosphorFlatIconData(0xe6f0, 'Bold');
+  static const paintBrush = IconData(0xe6f0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![paint-brush-broad-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-brush-broad-bold.svg)
-  static const paintBrushBroad = PhosphorFlatIconData(0xe590, 'Bold');
+  static const paintBrushBroad = IconData(0xe590,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![paint-brush-household-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-brush-household-bold.svg)
-  static const paintBrushHousehold = PhosphorFlatIconData(0xe6f2, 'Bold');
+  static const paintBrushHousehold = IconData(0xe6f2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![paint-bucket-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-bucket-bold.svg)
-  static const paintBucket = PhosphorFlatIconData(0xe392, 'Bold');
+  static const paintBucket = IconData(0xe392,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![paint-roller-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-roller-bold.svg)
-  static const paintRoller = PhosphorFlatIconData(0xe6f4, 'Bold');
+  static const paintRoller = IconData(0xe6f4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![palette-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/palette-bold.svg)
-  static const palette = PhosphorFlatIconData(0xe6c8, 'Bold');
+  static const palette = IconData(0xe6c8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![panorama-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/panorama-bold.svg)
-  static const panorama = PhosphorFlatIconData(0xeaa2, 'Bold');
+  static const panorama = IconData(0xeaa2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pants-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pants-bold.svg)
-  static const pants = PhosphorFlatIconData(0xec88, 'Bold');
+  static const pants = IconData(0xec88,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![paper-plane-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paper-plane-bold.svg)
-  static const paperPlane = PhosphorFlatIconData(0xe394, 'Bold');
+  static const paperPlane = IconData(0xe394,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![paper-plane-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paper-plane-right-bold.svg)
-  static const paperPlaneRight = PhosphorFlatIconData(0xe396, 'Bold');
+  static const paperPlaneRight = IconData(0xe396,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![paper-plane-tilt-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paper-plane-tilt-bold.svg)
-  static const paperPlaneTilt = PhosphorFlatIconData(0xe398, 'Bold');
+  static const paperPlaneTilt = IconData(0xe398,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![paperclip-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paperclip-bold.svg)
-  static const paperclip = PhosphorFlatIconData(0xe39a, 'Bold');
+  static const paperclip = IconData(0xe39a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![paperclip-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paperclip-horizontal-bold.svg)
-  static const paperclipHorizontal = PhosphorFlatIconData(0xe592, 'Bold');
+  static const paperclipHorizontal = IconData(0xe592,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![parachute-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/parachute-bold.svg)
-  static const parachute = PhosphorFlatIconData(0xea7c, 'Bold');
+  static const parachute = IconData(0xea7c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![paragraph-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paragraph-bold.svg)
-  static const paragraph = PhosphorFlatIconData(0xe960, 'Bold');
+  static const paragraph = IconData(0xe960,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![parallelogram-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/parallelogram-bold.svg)
-  static const parallelogram = PhosphorFlatIconData(0xecc6, 'Bold');
+  static const parallelogram = IconData(0xecc6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![park-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/park-bold.svg)
-  static const park = PhosphorFlatIconData(0xecb2, 'Bold');
+  static const park = IconData(0xecb2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![password-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/password-bold.svg)
-  static const password = PhosphorFlatIconData(0xe752, 'Bold');
+  static const password = IconData(0xe752,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![path-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/path-bold.svg)
-  static const path = PhosphorFlatIconData(0xe39c, 'Bold');
+  static const path = IconData(0xe39c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![patreon-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/patreon-logo-bold.svg)
-  static const patreonLogo = PhosphorFlatIconData(0xe98a, 'Bold');
+  static const patreonLogo = IconData(0xe98a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pause-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pause-bold.svg)
-  static const pause = PhosphorFlatIconData(0xe39e, 'Bold');
+  static const pause = IconData(0xe39e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pause-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pause-circle-bold.svg)
-  static const pauseCircle = PhosphorFlatIconData(0xe3a0, 'Bold');
+  static const pauseCircle = IconData(0xe3a0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![paw-print-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paw-print-bold.svg)
-  static const pawPrint = PhosphorFlatIconData(0xe648, 'Bold');
+  static const pawPrint = IconData(0xe648,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![paypal-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paypal-logo-bold.svg)
-  static const paypalLogo = PhosphorFlatIconData(0xe98c, 'Bold');
+  static const paypalLogo = IconData(0xe98c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![peace-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/peace-bold.svg)
-  static const peace = PhosphorFlatIconData(0xe3a2, 'Bold');
+  static const peace = IconData(0xe3a2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pen-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pen-bold.svg)
-  static const pen = PhosphorFlatIconData(0xe3aa, 'Bold');
+  static const pen = IconData(0xe3aa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pen-nib-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pen-nib-bold.svg)
-  static const penNib = PhosphorFlatIconData(0xe3ac, 'Bold');
+  static const penNib = IconData(0xe3ac,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pen-nib-straight-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pen-nib-straight-bold.svg)
-  static const penNibStraight = PhosphorFlatIconData(0xe64a, 'Bold');
+  static const penNibStraight = IconData(0xe64a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pencil-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-bold.svg)
-  static const pencil = PhosphorFlatIconData(0xe3ae, 'Bold');
+  static const pencil = IconData(0xe3ae,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pencil-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-circle-bold.svg)
-  static const pencilCircle = PhosphorFlatIconData(0xe3b0, 'Bold');
+  static const pencilCircle = IconData(0xe3b0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pencil-line-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-line-bold.svg)
-  static const pencilLine = PhosphorFlatIconData(0xe3b2, 'Bold');
+  static const pencilLine = IconData(0xe3b2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pencil-ruler-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-ruler-bold.svg)
-  static const pencilRuler = PhosphorFlatIconData(0xe906, 'Bold');
+  static const pencilRuler = IconData(0xe906,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pencil-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-simple-bold.svg)
-  static const pencilSimple = PhosphorFlatIconData(0xe3b4, 'Bold');
+  static const pencilSimple = IconData(0xe3b4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pencil-simple-line-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-simple-line-bold.svg)
-  static const pencilSimpleLine = PhosphorFlatIconData(0xebc6, 'Bold');
+  static const pencilSimpleLine = IconData(0xebc6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pencil-simple-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-simple-slash-bold.svg)
-  static const pencilSimpleSlash = PhosphorFlatIconData(0xecf6, 'Bold');
+  static const pencilSimpleSlash = IconData(0xecf6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pencil-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-slash-bold.svg)
-  static const pencilSlash = PhosphorFlatIconData(0xecf8, 'Bold');
+  static const pencilSlash = IconData(0xecf8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pentagon-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pentagon-bold.svg)
-  static const pentagon = PhosphorFlatIconData(0xec7e, 'Bold');
+  static const pentagon = IconData(0xec7e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pentagram-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pentagram-bold.svg)
-  static const pentagram = PhosphorFlatIconData(0xec5c, 'Bold');
+  static const pentagram = IconData(0xec5c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pepper-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pepper-bold.svg)
-  static const pepper = PhosphorFlatIconData(0xe94a, 'Bold');
+  static const pepper = IconData(0xe94a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![percent-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/percent-bold.svg)
-  static const percent = PhosphorFlatIconData(0xe3b6, 'Bold');
+  static const percent = IconData(0xe3b6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![person-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-bold.svg)
-  static const person = PhosphorFlatIconData(0xe3a8, 'Bold');
+  static const person = IconData(0xe3a8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![person-arms-spread-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-arms-spread-bold.svg)
-  static const personArmsSpread = PhosphorFlatIconData(0xecfe, 'Bold');
+  static const personArmsSpread = IconData(0xecfe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![person-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-bold.svg)
-  static const personSimple = PhosphorFlatIconData(0xe72e, 'Bold');
+  static const personSimple = IconData(0xe72e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![person-simple-bike-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-bike-bold.svg)
-  static const personSimpleBike = PhosphorFlatIconData(0xe734, 'Bold');
+  static const personSimpleBike = IconData(0xe734,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![person-simple-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-circle-bold.svg)
-  static const personSimpleCircle = PhosphorFlatIconData(0xee58, 'Bold');
+  static const personSimpleCircle = IconData(0xee58,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![person-simple-hike-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-hike-bold.svg)
-  static const personSimpleHike = PhosphorFlatIconData(0xed54, 'Bold');
+  static const personSimpleHike = IconData(0xed54,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![person-simple-run-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-run-bold.svg)
-  static const personSimpleRun = PhosphorFlatIconData(0xe730, 'Bold');
+  static const personSimpleRun = IconData(0xe730,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![person-simple-ski-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-ski-bold.svg)
-  static const personSimpleSki = PhosphorFlatIconData(0xe71c, 'Bold');
+  static const personSimpleSki = IconData(0xe71c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![person-simple-snowboard-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-snowboard-bold.svg)
-  static const personSimpleSnowboard = PhosphorFlatIconData(0xe71e, 'Bold');
+  static const personSimpleSnowboard = IconData(0xe71e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![person-simple-swim-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-swim-bold.svg)
-  static const personSimpleSwim = PhosphorFlatIconData(0xe736, 'Bold');
+  static const personSimpleSwim = IconData(0xe736,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![person-simple-tai-chi-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-tai-chi-bold.svg)
-  static const personSimpleTaiChi = PhosphorFlatIconData(0xed5c, 'Bold');
+  static const personSimpleTaiChi = IconData(0xed5c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![person-simple-throw-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-throw-bold.svg)
-  static const personSimpleThrow = PhosphorFlatIconData(0xe732, 'Bold');
+  static const personSimpleThrow = IconData(0xe732,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![person-simple-walk-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-walk-bold.svg)
-  static const personSimpleWalk = PhosphorFlatIconData(0xe73a, 'Bold');
+  static const personSimpleWalk = IconData(0xe73a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![perspective-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/perspective-bold.svg)
-  static const perspective = PhosphorFlatIconData(0xebe6, 'Bold');
+  static const perspective = IconData(0xebe6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![phone-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-bold.svg)
-  static const phone = PhosphorFlatIconData(0xe3b8, 'Bold');
+  static const phone = IconData(0xe3b8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![phone-call-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-call-bold.svg)
-  static const phoneCall = PhosphorFlatIconData(0xe3ba, 'Bold');
+  static const phoneCall = IconData(0xe3ba,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![phone-disconnect-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-disconnect-bold.svg)
-  static const phoneDisconnect = PhosphorFlatIconData(0xe3bc, 'Bold');
+  static const phoneDisconnect = IconData(0xe3bc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![phone-incoming-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-incoming-bold.svg)
-  static const phoneIncoming = PhosphorFlatIconData(0xe3be, 'Bold');
+  static const phoneIncoming = IconData(0xe3be,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![phone-list-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-list-bold.svg)
-  static const phoneList = PhosphorFlatIconData(0xe3cc, 'Bold');
+  static const phoneList = IconData(0xe3cc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![phone-outgoing-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-outgoing-bold.svg)
-  static const phoneOutgoing = PhosphorFlatIconData(0xe3c0, 'Bold');
+  static const phoneOutgoing = IconData(0xe3c0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![phone-pause-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-pause-bold.svg)
-  static const phonePause = PhosphorFlatIconData(0xe3ca, 'Bold');
+  static const phonePause = IconData(0xe3ca,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![phone-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-plus-bold.svg)
-  static const phonePlus = PhosphorFlatIconData(0xec56, 'Bold');
+  static const phonePlus = IconData(0xec56,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![phone-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-slash-bold.svg)
-  static const phoneSlash = PhosphorFlatIconData(0xe3c2, 'Bold');
+  static const phoneSlash = IconData(0xe3c2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![phone-transfer-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-transfer-bold.svg)
-  static const phoneTransfer = PhosphorFlatIconData(0xe3c6, 'Bold');
+  static const phoneTransfer = IconData(0xe3c6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![phone-x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-x-bold.svg)
-  static const phoneX = PhosphorFlatIconData(0xe3c4, 'Bold');
+  static const phoneX = IconData(0xe3c4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![phosphor-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phosphor-logo-bold.svg)
-  static const phosphorLogo = PhosphorFlatIconData(0xe3ce, 'Bold');
+  static const phosphorLogo = IconData(0xe3ce,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pi-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pi-bold.svg)
-  static const pi = PhosphorFlatIconData(0xec80, 'Bold');
+  static const pi = IconData(0xec80,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![piano-keys-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/piano-keys-bold.svg)
-  static const pianoKeys = PhosphorFlatIconData(0xe9c8, 'Bold');
+  static const pianoKeys = IconData(0xe9c8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![picnic-table-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/picnic-table-bold.svg)
-  static const picnicTable = PhosphorFlatIconData(0xee26, 'Bold');
+  static const picnicTable = IconData(0xee26,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![picture-in-picture-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/picture-in-picture-bold.svg)
-  static const pictureInpicture = PhosphorFlatIconData(0xe64c, 'Bold');
+  static const pictureInpicture = IconData(0xe64c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![piggy-bank-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/piggy-bank-bold.svg)
-  static const piggyBank = PhosphorFlatIconData(0xea04, 'Bold');
+  static const piggyBank = IconData(0xea04,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pill-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pill-bold.svg)
-  static const pill = PhosphorFlatIconData(0xe700, 'Bold');
+  static const pill = IconData(0xe700,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![ping-pong-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ping-pong-bold.svg)
-  static const pingPong = PhosphorFlatIconData(0xea42, 'Bold');
+  static const pingPong = IconData(0xea42,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pint-glass-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pint-glass-bold.svg)
-  static const pintGlass = PhosphorFlatIconData(0xedd0, 'Bold');
+  static const pintGlass = IconData(0xedd0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pinterest-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pinterest-logo-bold.svg)
-  static const pinterestLogo = PhosphorFlatIconData(0xe64e, 'Bold');
+  static const pinterestLogo = IconData(0xe64e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pinwheel-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pinwheel-bold.svg)
-  static const pinwheel = PhosphorFlatIconData(0xeb9c, 'Bold');
+  static const pinwheel = IconData(0xeb9c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pipe-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pipe-bold.svg)
-  static const pipe = PhosphorFlatIconData(0xed86, 'Bold');
+  static const pipe = IconData(0xed86,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pipe-wrench-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pipe-wrench-bold.svg)
-  static const pipeWrench = PhosphorFlatIconData(0xed88, 'Bold');
+  static const pipeWrench = IconData(0xed88,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pix-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pix-logo-bold.svg)
-  static const pixLogo = PhosphorFlatIconData(0xecc2, 'Bold');
+  static const pixLogo = IconData(0xecc2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pizza-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pizza-bold.svg)
-  static const pizza = PhosphorFlatIconData(0xe796, 'Bold');
+  static const pizza = IconData(0xe796,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![placeholder-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/placeholder-bold.svg)
-  static const placeholder = PhosphorFlatIconData(0xe650, 'Bold');
+  static const placeholder = IconData(0xe650,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![planet-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/planet-bold.svg)
-  static const planet = PhosphorFlatIconData(0xe652, 'Bold');
+  static const planet = IconData(0xe652,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![plant-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plant-bold.svg)
-  static const plant = PhosphorFlatIconData(0xebae, 'Bold');
+  static const plant = IconData(0xebae,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![play-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/play-bold.svg)
-  static const play = PhosphorFlatIconData(0xe3d0, 'Bold');
+  static const play = IconData(0xe3d0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![play-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/play-circle-bold.svg)
-  static const playCircle = PhosphorFlatIconData(0xe3d2, 'Bold');
+  static const playCircle = IconData(0xe3d2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![play-pause-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/play-pause-bold.svg)
-  static const playPause = PhosphorFlatIconData(0xe8be, 'Bold');
+  static const playPause = IconData(0xe8be,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![playlist-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/playlist-bold.svg)
-  static const playlist = PhosphorFlatIconData(0xe6aa, 'Bold');
+  static const playlist = IconData(0xe6aa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![plug-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plug-bold.svg)
-  static const plug = PhosphorFlatIconData(0xe946, 'Bold');
+  static const plug = IconData(0xe946,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![plug-charging-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plug-charging-bold.svg)
-  static const plugCharging = PhosphorFlatIconData(0xeb5c, 'Bold');
+  static const plugCharging = IconData(0xeb5c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![plugs-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plugs-bold.svg)
-  static const plugs = PhosphorFlatIconData(0xeb56, 'Bold');
+  static const plugs = IconData(0xeb56,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![plugs-connected-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plugs-connected-bold.svg)
-  static const plugsConnected = PhosphorFlatIconData(0xeb5a, 'Bold');
+  static const plugsConnected = IconData(0xeb5a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus-bold.svg)
-  static const plus = PhosphorFlatIconData(0xe3d4, 'Bold');
+  static const plus = IconData(0xe3d4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![plus-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus-circle-bold.svg)
-  static const plusCircle = PhosphorFlatIconData(0xe3d6, 'Bold');
+  static const plusCircle = IconData(0xe3d6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![plus-minus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus-minus-bold.svg)
-  static const plusMinus = PhosphorFlatIconData(0xe3d8, 'Bold');
+  static const plusMinus = IconData(0xe3d8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![plus-square-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus-square-bold.svg)
-  static const plusSquare = PhosphorFlatIconData(0xed4a, 'Bold');
+  static const plusSquare = IconData(0xed4a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![poker-chip-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/poker-chip-bold.svg)
-  static const pokerChip = PhosphorFlatIconData(0xe594, 'Bold');
+  static const pokerChip = IconData(0xe594,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![police-car-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/police-car-bold.svg)
-  static const policeCar = PhosphorFlatIconData(0xec4a, 'Bold');
+  static const policeCar = IconData(0xec4a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![polygon-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/polygon-bold.svg)
-  static const polygon = PhosphorFlatIconData(0xe6d0, 'Bold');
+  static const polygon = IconData(0xe6d0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![popcorn-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/popcorn-bold.svg)
-  static const popcorn = PhosphorFlatIconData(0xeb4e, 'Bold');
+  static const popcorn = IconData(0xeb4e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![popsicle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/popsicle-bold.svg)
-  static const popsicle = PhosphorFlatIconData(0xebbe, 'Bold');
+  static const popsicle = IconData(0xebbe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![potted-plant-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/potted-plant-bold.svg)
-  static const pottedPlant = PhosphorFlatIconData(0xec22, 'Bold');
+  static const pottedPlant = IconData(0xec22,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![power-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/power-bold.svg)
-  static const power = PhosphorFlatIconData(0xe3da, 'Bold');
+  static const power = IconData(0xe3da,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![prescription-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/prescription-bold.svg)
-  static const prescription = PhosphorFlatIconData(0xe7a2, 'Bold');
+  static const prescription = IconData(0xe7a2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![presentation-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/presentation-bold.svg)
-  static const presentation = PhosphorFlatIconData(0xe654, 'Bold');
+  static const presentation = IconData(0xe654,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![presentation-chart-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/presentation-chart-bold.svg)
-  static const presentationChart = PhosphorFlatIconData(0xe656, 'Bold');
+  static const presentationChart = IconData(0xe656,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![printer-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/printer-bold.svg)
-  static const printer = PhosphorFlatIconData(0xe3dc, 'Bold');
+  static const printer = IconData(0xe3dc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![prohibit-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/prohibit-bold.svg)
-  static const prohibit = PhosphorFlatIconData(0xe3de, 'Bold');
+  static const prohibit = IconData(0xe3de,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![prohibit-inset-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/prohibit-inset-bold.svg)
-  static const prohibitInset = PhosphorFlatIconData(0xe3e0, 'Bold');
+  static const prohibitInset = IconData(0xe3e0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![projector-screen-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/projector-screen-bold.svg)
-  static const projectorScreen = PhosphorFlatIconData(0xe658, 'Bold');
+  static const projectorScreen = IconData(0xe658,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![projector-screen-chart-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/projector-screen-chart-bold.svg)
-  static const projectorScreenChart = PhosphorFlatIconData(0xe65a, 'Bold');
+  static const projectorScreenChart = IconData(0xe65a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![pulse-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pulse-bold.svg)
-  static const pulse = PhosphorFlatIconData(0xe000, 'Bold');
+  static const pulse = IconData(0xe000,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![push-pin-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin-bold.svg)
-  static const pushPin = PhosphorFlatIconData(0xe3e2, 'Bold');
+  static const pushPin = IconData(0xe3e2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![push-pin-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin-simple-bold.svg)
-  static const pushPinSimple = PhosphorFlatIconData(0xe65c, 'Bold');
+  static const pushPinSimple = IconData(0xe65c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![push-pin-simple-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin-simple-slash-bold.svg)
-  static const pushPinSimpleSlash = PhosphorFlatIconData(0xe65e, 'Bold');
+  static const pushPinSimpleSlash = IconData(0xe65e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![push-pin-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin-slash-bold.svg)
-  static const pushPinSlash = PhosphorFlatIconData(0xe3e4, 'Bold');
+  static const pushPinSlash = IconData(0xe3e4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![puzzle-piece-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/puzzle-piece-bold.svg)
-  static const puzzlePiece = PhosphorFlatIconData(0xe596, 'Bold');
+  static const puzzlePiece = IconData(0xe596,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![qr-code-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/qr-code-bold.svg)
-  static const qrCode = PhosphorFlatIconData(0xe3e6, 'Bold');
+  static const qrCode = IconData(0xe3e6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![question-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/question-bold.svg)
-  static const question = PhosphorFlatIconData(0xe3e8, 'Bold');
+  static const question = IconData(0xe3e8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![question-mark-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/question-mark-bold.svg)
-  static const questionMark = PhosphorFlatIconData(0xe3e9, 'Bold');
+  static const questionMark = IconData(0xe3e9,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![queue-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/queue-bold.svg)
-  static const queue = PhosphorFlatIconData(0xe6ac, 'Bold');
+  static const queue = IconData(0xe6ac,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![quotes-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/quotes-bold.svg)
-  static const quotes = PhosphorFlatIconData(0xe660, 'Bold');
+  static const quotes = IconData(0xe660,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![rabbit-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rabbit-bold.svg)
-  static const rabbit = PhosphorFlatIconData(0xeac2, 'Bold');
+  static const rabbit = IconData(0xeac2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![racquet-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/racquet-bold.svg)
-  static const racquet = PhosphorFlatIconData(0xee02, 'Bold');
+  static const racquet = IconData(0xee02,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![radical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radical-bold.svg)
-  static const radical = PhosphorFlatIconData(0xe3ea, 'Bold');
+  static const radical = IconData(0xe3ea,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![radio-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radio-bold.svg)
-  static const radio = PhosphorFlatIconData(0xe77e, 'Bold');
+  static const radio = IconData(0xe77e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![radio-button-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radio-button-bold.svg)
-  static const radioButton = PhosphorFlatIconData(0xeb08, 'Bold');
+  static const radioButton = IconData(0xeb08,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![radioactive-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radioactive-bold.svg)
-  static const radioactive = PhosphorFlatIconData(0xe9dc, 'Bold');
+  static const radioactive = IconData(0xe9dc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![rainbow-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rainbow-bold.svg)
-  static const rainbow = PhosphorFlatIconData(0xe598, 'Bold');
+  static const rainbow = IconData(0xe598,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![rainbow-cloud-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rainbow-cloud-bold.svg)
-  static const rainbowCloud = PhosphorFlatIconData(0xe59a, 'Bold');
+  static const rainbowCloud = IconData(0xe59a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![ranking-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ranking-bold.svg)
-  static const ranking = PhosphorFlatIconData(0xed62, 'Bold');
+  static const ranking = IconData(0xed62,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![read-cv-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/read-cv-logo-bold.svg)
-  static const readCvLogo = PhosphorFlatIconData(0xed0c, 'Bold');
+  static const readCvLogo = IconData(0xed0c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![receipt-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/receipt-bold.svg)
-  static const receipt = PhosphorFlatIconData(0xe3ec, 'Bold');
+  static const receipt = IconData(0xe3ec,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![receipt-x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/receipt-x-bold.svg)
-  static const receiptX = PhosphorFlatIconData(0xed40, 'Bold');
+  static const receiptX = IconData(0xed40,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![record-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/record-bold.svg)
-  static const record = PhosphorFlatIconData(0xe3ee, 'Bold');
+  static const record = IconData(0xe3ee,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![rectangle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rectangle-bold.svg)
-  static const rectangle = PhosphorFlatIconData(0xe3f0, 'Bold');
+  static const rectangle = IconData(0xe3f0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![rectangle-dashed-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rectangle-dashed-bold.svg)
-  static const rectangleDashed = PhosphorFlatIconData(0xe3f2, 'Bold');
+  static const rectangleDashed = IconData(0xe3f2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![recycle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/recycle-bold.svg)
-  static const recycle = PhosphorFlatIconData(0xe75a, 'Bold');
+  static const recycle = IconData(0xe75a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![reddit-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/reddit-logo-bold.svg)
-  static const redditLogo = PhosphorFlatIconData(0xe59c, 'Bold');
+  static const redditLogo = IconData(0xe59c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![repeat-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/repeat-bold.svg)
-  static const repeat = PhosphorFlatIconData(0xe3f6, 'Bold');
+  static const repeat = IconData(0xe3f6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![repeat-once-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/repeat-once-bold.svg)
-  static const repeatOnce = PhosphorFlatIconData(0xe3f8, 'Bold');
+  static const repeatOnce = IconData(0xe3f8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![replit-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/replit-logo-bold.svg)
-  static const replitLogo = PhosphorFlatIconData(0xeb8a, 'Bold');
+  static const replitLogo = IconData(0xeb8a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![resize-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/resize-bold.svg)
-  static const resize = PhosphorFlatIconData(0xed6e, 'Bold');
+  static const resize = IconData(0xed6e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![rewind-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rewind-bold.svg)
-  static const rewind = PhosphorFlatIconData(0xe6a8, 'Bold');
+  static const rewind = IconData(0xe6a8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![rewind-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rewind-circle-bold.svg)
-  static const rewindCircle = PhosphorFlatIconData(0xe3fa, 'Bold');
+  static const rewindCircle = IconData(0xe3fa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![road-horizon-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/road-horizon-bold.svg)
-  static const roadHorizon = PhosphorFlatIconData(0xe838, 'Bold');
+  static const roadHorizon = IconData(0xe838,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![robot-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/robot-bold.svg)
-  static const robot = PhosphorFlatIconData(0xe762, 'Bold');
+  static const robot = IconData(0xe762,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![rocket-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rocket-bold.svg)
-  static const rocket = PhosphorFlatIconData(0xe3fc, 'Bold');
+  static const rocket = IconData(0xe3fc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![rocket-launch-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rocket-launch-bold.svg)
-  static const rocketLaunch = PhosphorFlatIconData(0xe3fe, 'Bold');
+  static const rocketLaunch = IconData(0xe3fe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![rows-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rows-bold.svg)
-  static const rows = PhosphorFlatIconData(0xe5a2, 'Bold');
+  static const rows = IconData(0xe5a2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![rows-plus-bottom-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rows-plus-bottom-bold.svg)
-  static const rowsPlusBottom = PhosphorFlatIconData(0xe59e, 'Bold');
+  static const rowsPlusBottom = IconData(0xe59e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![rows-plus-top-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rows-plus-top-bold.svg)
-  static const rowsPlusTop = PhosphorFlatIconData(0xe5a0, 'Bold');
+  static const rowsPlusTop = IconData(0xe5a0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![rss-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rss-bold.svg)
-  static const rss = PhosphorFlatIconData(0xe400, 'Bold');
+  static const rss = IconData(0xe400,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![rss-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rss-simple-bold.svg)
-  static const rssSimple = PhosphorFlatIconData(0xe402, 'Bold');
+  static const rssSimple = IconData(0xe402,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![rug-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rug-bold.svg)
-  static const rug = PhosphorFlatIconData(0xea1a, 'Bold');
+  static const rug = IconData(0xea1a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![ruler-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ruler-bold.svg)
-  static const ruler = PhosphorFlatIconData(0xe6b8, 'Bold');
+  static const ruler = IconData(0xe6b8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sailboat-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sailboat-bold.svg)
-  static const sailboat = PhosphorFlatIconData(0xe78a, 'Bold');
+  static const sailboat = IconData(0xe78a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![scales-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scales-bold.svg)
-  static const scales = PhosphorFlatIconData(0xe750, 'Bold');
+  static const scales = IconData(0xe750,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![scan-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scan-bold.svg)
-  static const scan = PhosphorFlatIconData(0xebb6, 'Bold');
+  static const scan = IconData(0xebb6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![scan-smiley-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scan-smiley-bold.svg)
-  static const scanSmiley = PhosphorFlatIconData(0xebb4, 'Bold');
+  static const scanSmiley = IconData(0xebb4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![scissors-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scissors-bold.svg)
-  static const scissors = PhosphorFlatIconData(0xeae0, 'Bold');
+  static const scissors = IconData(0xeae0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![scooter-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scooter-bold.svg)
-  static const scooter = PhosphorFlatIconData(0xe820, 'Bold');
+  static const scooter = IconData(0xe820,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![screencast-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/screencast-bold.svg)
-  static const screencast = PhosphorFlatIconData(0xe404, 'Bold');
+  static const screencast = IconData(0xe404,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![screwdriver-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/screwdriver-bold.svg)
-  static const screwdriver = PhosphorFlatIconData(0xe86e, 'Bold');
+  static const screwdriver = IconData(0xe86e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![scribble-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scribble-bold.svg)
-  static const scribble = PhosphorFlatIconData(0xe806, 'Bold');
+  static const scribble = IconData(0xe806,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![scribble-loop-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scribble-loop-bold.svg)
-  static const scribbleLoop = PhosphorFlatIconData(0xe662, 'Bold');
+  static const scribbleLoop = IconData(0xe662,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![scroll-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scroll-bold.svg)
-  static const scroll = PhosphorFlatIconData(0xeb7a, 'Bold');
+  static const scroll = IconData(0xeb7a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![seal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-bold.svg)
-  static const seal = PhosphorFlatIconData(0xe604, 'Bold');
+  static const seal = IconData(0xe604,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![seal-check-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-check-bold.svg)
-  static const sealCheck = PhosphorFlatIconData(0xe606, 'Bold');
+  static const sealCheck = IconData(0xe606,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![seal-percent-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-percent-bold.svg)
-  static const sealPercent = PhosphorFlatIconData(0xe60a, 'Bold');
+  static const sealPercent = IconData(0xe60a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![seal-question-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-question-bold.svg)
-  static const sealQuestion = PhosphorFlatIconData(0xe608, 'Bold');
+  static const sealQuestion = IconData(0xe608,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![seal-warning-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-warning-bold.svg)
-  static const sealWarning = PhosphorFlatIconData(0xe60c, 'Bold');
+  static const sealWarning = IconData(0xe60c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![seat-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seat-bold.svg)
-  static const seat = PhosphorFlatIconData(0xeb8e, 'Bold');
+  static const seat = IconData(0xeb8e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![seatbelt-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seatbelt-bold.svg)
-  static const seatbelt = PhosphorFlatIconData(0xedfe, 'Bold');
+  static const seatbelt = IconData(0xedfe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![security-camera-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/security-camera-bold.svg)
-  static const securityCamera = PhosphorFlatIconData(0xeca4, 'Bold');
+  static const securityCamera = IconData(0xeca4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![selection-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-bold.svg)
-  static const selection = PhosphorFlatIconData(0xe69a, 'Bold');
+  static const selection = IconData(0xe69a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![selection-all-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-all-bold.svg)
-  static const selectionAll = PhosphorFlatIconData(0xe746, 'Bold');
+  static const selectionAll = IconData(0xe746,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![selection-background-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-background-bold.svg)
-  static const selectionBackground = PhosphorFlatIconData(0xeaf8, 'Bold');
+  static const selectionBackground = IconData(0xeaf8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![selection-foreground-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-foreground-bold.svg)
-  static const selectionForeground = PhosphorFlatIconData(0xeaf6, 'Bold');
+  static const selectionForeground = IconData(0xeaf6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![selection-inverse-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-inverse-bold.svg)
-  static const selectionInverse = PhosphorFlatIconData(0xe744, 'Bold');
+  static const selectionInverse = IconData(0xe744,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![selection-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-plus-bold.svg)
-  static const selectionPlus = PhosphorFlatIconData(0xe69c, 'Bold');
+  static const selectionPlus = IconData(0xe69c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![selection-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-slash-bold.svg)
-  static const selectionSlash = PhosphorFlatIconData(0xe69e, 'Bold');
+  static const selectionSlash = IconData(0xe69e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shapes-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shapes-bold.svg)
-  static const shapes = PhosphorFlatIconData(0xec5e, 'Bold');
+  static const shapes = IconData(0xec5e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![share-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/share-bold.svg)
-  static const share = PhosphorFlatIconData(0xe406, 'Bold');
+  static const share = IconData(0xe406,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![share-fat-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/share-fat-bold.svg)
-  static const shareFat = PhosphorFlatIconData(0xed52, 'Bold');
+  static const shareFat = IconData(0xed52,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![share-network-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/share-network-bold.svg)
-  static const shareNetwork = PhosphorFlatIconData(0xe408, 'Bold');
+  static const shareNetwork = IconData(0xe408,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shield-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-bold.svg)
-  static const shield = PhosphorFlatIconData(0xe40a, 'Bold');
+  static const shield = IconData(0xe40a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shield-check-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-check-bold.svg)
-  static const shieldCheck = PhosphorFlatIconData(0xe40c, 'Bold');
+  static const shieldCheck = IconData(0xe40c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shield-checkered-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-checkered-bold.svg)
-  static const shieldCheckered = PhosphorFlatIconData(0xe708, 'Bold');
+  static const shieldCheckered = IconData(0xe708,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shield-chevron-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-chevron-bold.svg)
-  static const shieldChevron = PhosphorFlatIconData(0xe40e, 'Bold');
+  static const shieldChevron = IconData(0xe40e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shield-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-plus-bold.svg)
-  static const shieldPlus = PhosphorFlatIconData(0xe706, 'Bold');
+  static const shieldPlus = IconData(0xe706,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shield-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-slash-bold.svg)
-  static const shieldSlash = PhosphorFlatIconData(0xe410, 'Bold');
+  static const shieldSlash = IconData(0xe410,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shield-star-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-star-bold.svg)
-  static const shieldStar = PhosphorFlatIconData(0xec34, 'Bold');
+  static const shieldStar = IconData(0xec34,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shield-warning-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-warning-bold.svg)
-  static const shieldWarning = PhosphorFlatIconData(0xe412, 'Bold');
+  static const shieldWarning = IconData(0xe412,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shipping-container-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shipping-container-bold.svg)
-  static const shippingContainer = PhosphorFlatIconData(0xe78c, 'Bold');
+  static const shippingContainer = IconData(0xe78c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shirt-folded-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shirt-folded-bold.svg)
-  static const shirtFolded = PhosphorFlatIconData(0xea92, 'Bold');
+  static const shirtFolded = IconData(0xea92,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shooting-star-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shooting-star-bold.svg)
-  static const shootingStar = PhosphorFlatIconData(0xecfa, 'Bold');
+  static const shootingStar = IconData(0xecfa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shopping-bag-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-bag-bold.svg)
-  static const shoppingBag = PhosphorFlatIconData(0xe416, 'Bold');
+  static const shoppingBag = IconData(0xe416,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shopping-bag-open-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-bag-open-bold.svg)
-  static const shoppingBagOpen = PhosphorFlatIconData(0xe418, 'Bold');
+  static const shoppingBagOpen = IconData(0xe418,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shopping-cart-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-cart-bold.svg)
-  static const shoppingCart = PhosphorFlatIconData(0xe41e, 'Bold');
+  static const shoppingCart = IconData(0xe41e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shopping-cart-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-cart-simple-bold.svg)
-  static const shoppingCartSimple = PhosphorFlatIconData(0xe420, 'Bold');
+  static const shoppingCartSimple = IconData(0xe420,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shovel-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shovel-bold.svg)
-  static const shovel = PhosphorFlatIconData(0xe9e6, 'Bold');
+  static const shovel = IconData(0xe9e6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shower-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shower-bold.svg)
-  static const shower = PhosphorFlatIconData(0xe776, 'Bold');
+  static const shower = IconData(0xe776,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shrimp-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shrimp-bold.svg)
-  static const shrimp = PhosphorFlatIconData(0xeab4, 'Bold');
+  static const shrimp = IconData(0xeab4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shuffle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shuffle-bold.svg)
-  static const shuffle = PhosphorFlatIconData(0xe422, 'Bold');
+  static const shuffle = IconData(0xe422,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shuffle-angular-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shuffle-angular-bold.svg)
-  static const shuffleAngular = PhosphorFlatIconData(0xe424, 'Bold');
+  static const shuffleAngular = IconData(0xe424,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![shuffle-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shuffle-simple-bold.svg)
-  static const shuffleSimple = PhosphorFlatIconData(0xe426, 'Bold');
+  static const shuffleSimple = IconData(0xe426,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sidebar-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sidebar-bold.svg)
-  static const sidebar = PhosphorFlatIconData(0xeab6, 'Bold');
+  static const sidebar = IconData(0xeab6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sidebar-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sidebar-simple-bold.svg)
-  static const sidebarSimple = PhosphorFlatIconData(0xec24, 'Bold');
+  static const sidebarSimple = IconData(0xec24,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sigma-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sigma-bold.svg)
-  static const sigma = PhosphorFlatIconData(0xeab8, 'Bold');
+  static const sigma = IconData(0xeab8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sign-in-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sign-in-bold.svg)
-  static const signIn = PhosphorFlatIconData(0xe428, 'Bold');
+  static const signIn = IconData(0xe428,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sign-out-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sign-out-bold.svg)
-  static const signOut = PhosphorFlatIconData(0xe42a, 'Bold');
+  static const signOut = IconData(0xe42a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![signature-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/signature-bold.svg)
-  static const signature = PhosphorFlatIconData(0xebac, 'Bold');
+  static const signature = IconData(0xebac,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![signpost-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/signpost-bold.svg)
-  static const signpost = PhosphorFlatIconData(0xe89c, 'Bold');
+  static const signpost = IconData(0xe89c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sim-card-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sim-card-bold.svg)
-  static const simCard = PhosphorFlatIconData(0xe664, 'Bold');
+  static const simCard = IconData(0xe664,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![siren-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/siren-bold.svg)
-  static const siren = PhosphorFlatIconData(0xe9b8, 'Bold');
+  static const siren = IconData(0xe9b8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sketch-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sketch-logo-bold.svg)
-  static const sketchLogo = PhosphorFlatIconData(0xe42c, 'Bold');
+  static const sketchLogo = IconData(0xe42c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![skip-back-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-back-bold.svg)
-  static const skipBack = PhosphorFlatIconData(0xe5a4, 'Bold');
+  static const skipBack = IconData(0xe5a4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![skip-back-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-back-circle-bold.svg)
-  static const skipBackCircle = PhosphorFlatIconData(0xe42e, 'Bold');
+  static const skipBackCircle = IconData(0xe42e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![skip-forward-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-forward-bold.svg)
-  static const skipForward = PhosphorFlatIconData(0xe5a6, 'Bold');
+  static const skipForward = IconData(0xe5a6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![skip-forward-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-forward-circle-bold.svg)
-  static const skipForwardCircle = PhosphorFlatIconData(0xe430, 'Bold');
+  static const skipForwardCircle = IconData(0xe430,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![skull-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skull-bold.svg)
-  static const skull = PhosphorFlatIconData(0xe916, 'Bold');
+  static const skull = IconData(0xe916,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![skype-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skype-logo-bold.svg)
-  static const skypeLogo = PhosphorFlatIconData(0xe8dc, 'Bold');
+  static const skypeLogo = IconData(0xe8dc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![slack-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/slack-logo-bold.svg)
-  static const slackLogo = PhosphorFlatIconData(0xe5a8, 'Bold');
+  static const slackLogo = IconData(0xe5a8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sliders-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sliders-bold.svg)
-  static const sliders = PhosphorFlatIconData(0xe432, 'Bold');
+  static const sliders = IconData(0xe432,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sliders-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sliders-horizontal-bold.svg)
-  static const slidersHorizontal = PhosphorFlatIconData(0xe434, 'Bold');
+  static const slidersHorizontal = IconData(0xe434,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![slideshow-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/slideshow-bold.svg)
-  static const slideshow = PhosphorFlatIconData(0xed32, 'Bold');
+  static const slideshow = IconData(0xed32,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![smiley-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-bold.svg)
-  static const smiley = PhosphorFlatIconData(0xe436, 'Bold');
+  static const smiley = IconData(0xe436,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![smiley-angry-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-angry-bold.svg)
-  static const smileyAngry = PhosphorFlatIconData(0xec62, 'Bold');
+  static const smileyAngry = IconData(0xec62,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![smiley-blank-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-blank-bold.svg)
-  static const smileyBlank = PhosphorFlatIconData(0xe438, 'Bold');
+  static const smileyBlank = IconData(0xe438,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![smiley-meh-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-meh-bold.svg)
-  static const smileyMeh = PhosphorFlatIconData(0xe43a, 'Bold');
+  static const smileyMeh = IconData(0xe43a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![smiley-melting-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-melting-bold.svg)
-  static const smileyMelting = PhosphorFlatIconData(0xee56, 'Bold');
+  static const smileyMelting = IconData(0xee56,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![smiley-nervous-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-nervous-bold.svg)
-  static const smileyNervous = PhosphorFlatIconData(0xe43c, 'Bold');
+  static const smileyNervous = IconData(0xe43c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![smiley-sad-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-sad-bold.svg)
-  static const smileySad = PhosphorFlatIconData(0xe43e, 'Bold');
+  static const smileySad = IconData(0xe43e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![smiley-sticker-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-sticker-bold.svg)
-  static const smileySticker = PhosphorFlatIconData(0xe440, 'Bold');
+  static const smileySticker = IconData(0xe440,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![smiley-wink-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-wink-bold.svg)
-  static const smileyWink = PhosphorFlatIconData(0xe666, 'Bold');
+  static const smileyWink = IconData(0xe666,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![smiley-x-eyes-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-x-eyes-bold.svg)
-  static const smileyXEyes = PhosphorFlatIconData(0xe442, 'Bold');
+  static const smileyXEyes = IconData(0xe442,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![snapchat-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/snapchat-logo-bold.svg)
-  static const snapchatLogo = PhosphorFlatIconData(0xe668, 'Bold');
+  static const snapchatLogo = IconData(0xe668,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sneaker-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sneaker-bold.svg)
-  static const sneaker = PhosphorFlatIconData(0xe80c, 'Bold');
+  static const sneaker = IconData(0xe80c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sneaker-move-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sneaker-move-bold.svg)
-  static const sneakerMove = PhosphorFlatIconData(0xed60, 'Bold');
+  static const sneakerMove = IconData(0xed60,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![snowflake-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/snowflake-bold.svg)
-  static const snowflake = PhosphorFlatIconData(0xe5aa, 'Bold');
+  static const snowflake = IconData(0xe5aa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![soccer-ball-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/soccer-ball-bold.svg)
-  static const soccerBall = PhosphorFlatIconData(0xe716, 'Bold');
+  static const soccerBall = IconData(0xe716,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sock-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sock-bold.svg)
-  static const sock = PhosphorFlatIconData(0xecce, 'Bold');
+  static const sock = IconData(0xecce,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![solar-panel-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/solar-panel-bold.svg)
-  static const solarPanel = PhosphorFlatIconData(0xed7a, 'Bold');
+  static const solarPanel = IconData(0xed7a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![solar-roof-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/solar-roof-bold.svg)
-  static const solarRoof = PhosphorFlatIconData(0xed7b, 'Bold');
+  static const solarRoof = IconData(0xed7b,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sort-ascending-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sort-ascending-bold.svg)
-  static const sortAscending = PhosphorFlatIconData(0xe444, 'Bold');
+  static const sortAscending = IconData(0xe444,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sort-descending-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sort-descending-bold.svg)
-  static const sortDescending = PhosphorFlatIconData(0xe446, 'Bold');
+  static const sortDescending = IconData(0xe446,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![soundcloud-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/soundcloud-logo-bold.svg)
-  static const soundcloudLogo = PhosphorFlatIconData(0xe8de, 'Bold');
+  static const soundcloudLogo = IconData(0xe8de,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![spade-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spade-bold.svg)
-  static const spade = PhosphorFlatIconData(0xe448, 'Bold');
+  static const spade = IconData(0xe448,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sparkle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sparkle-bold.svg)
-  static const sparkle = PhosphorFlatIconData(0xe6a2, 'Bold');
+  static const sparkle = IconData(0xe6a2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![speaker-hifi-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-hifi-bold.svg)
-  static const speakerHifi = PhosphorFlatIconData(0xea08, 'Bold');
+  static const speakerHifi = IconData(0xea08,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![speaker-high-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-high-bold.svg)
-  static const speakerHigh = PhosphorFlatIconData(0xe44a, 'Bold');
+  static const speakerHigh = IconData(0xe44a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![speaker-low-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-low-bold.svg)
-  static const speakerLow = PhosphorFlatIconData(0xe44c, 'Bold');
+  static const speakerLow = IconData(0xe44c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![speaker-none-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-none-bold.svg)
-  static const speakerNone = PhosphorFlatIconData(0xe44e, 'Bold');
+  static const speakerNone = IconData(0xe44e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![speaker-simple-high-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-high-bold.svg)
-  static const speakerSimpleHigh = PhosphorFlatIconData(0xe450, 'Bold');
+  static const speakerSimpleHigh = IconData(0xe450,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![speaker-simple-low-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-low-bold.svg)
-  static const speakerSimpleLow = PhosphorFlatIconData(0xe452, 'Bold');
+  static const speakerSimpleLow = IconData(0xe452,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![speaker-simple-none-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-none-bold.svg)
-  static const speakerSimpleNone = PhosphorFlatIconData(0xe454, 'Bold');
+  static const speakerSimpleNone = IconData(0xe454,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![speaker-simple-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-slash-bold.svg)
-  static const speakerSimpleSlash = PhosphorFlatIconData(0xe456, 'Bold');
+  static const speakerSimpleSlash = IconData(0xe456,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![speaker-simple-x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-x-bold.svg)
-  static const speakerSimpleX = PhosphorFlatIconData(0xe458, 'Bold');
+  static const speakerSimpleX = IconData(0xe458,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![speaker-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-slash-bold.svg)
-  static const speakerSlash = PhosphorFlatIconData(0xe45a, 'Bold');
+  static const speakerSlash = IconData(0xe45a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![speaker-x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-x-bold.svg)
-  static const speakerX = PhosphorFlatIconData(0xe45c, 'Bold');
+  static const speakerX = IconData(0xe45c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![speedometer-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speedometer-bold.svg)
-  static const speedometer = PhosphorFlatIconData(0xee74, 'Bold');
+  static const speedometer = IconData(0xee74,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sphere-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sphere-bold.svg)
-  static const sphere = PhosphorFlatIconData(0xee66, 'Bold');
+  static const sphere = IconData(0xee66,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![spinner-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spinner-bold.svg)
-  static const spinner = PhosphorFlatIconData(0xe66a, 'Bold');
+  static const spinner = IconData(0xe66a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![spinner-ball-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spinner-ball-bold.svg)
-  static const spinnerBall = PhosphorFlatIconData(0xee28, 'Bold');
+  static const spinnerBall = IconData(0xee28,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![spinner-gap-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spinner-gap-bold.svg)
-  static const spinnerGap = PhosphorFlatIconData(0xe66c, 'Bold');
+  static const spinnerGap = IconData(0xe66c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![spiral-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spiral-bold.svg)
-  static const spiral = PhosphorFlatIconData(0xe9fa, 'Bold');
+  static const spiral = IconData(0xe9fa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![split-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/split-horizontal-bold.svg)
-  static const splitHorizontal = PhosphorFlatIconData(0xe872, 'Bold');
+  static const splitHorizontal = IconData(0xe872,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![split-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/split-vertical-bold.svg)
-  static const splitVertical = PhosphorFlatIconData(0xe876, 'Bold');
+  static const splitVertical = IconData(0xe876,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![spotify-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spotify-logo-bold.svg)
-  static const spotifyLogo = PhosphorFlatIconData(0xe66e, 'Bold');
+  static const spotifyLogo = IconData(0xe66e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![spray-bottle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spray-bottle-bold.svg)
-  static const sprayBottle = PhosphorFlatIconData(0xe7e4, 'Bold');
+  static const sprayBottle = IconData(0xe7e4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![square-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-bold.svg)
-  static const square = PhosphorFlatIconData(0xe45e, 'Bold');
+  static const square = IconData(0xe45e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![square-half-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-half-bold.svg)
-  static const squareHalf = PhosphorFlatIconData(0xe462, 'Bold');
+  static const squareHalf = IconData(0xe462,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![square-half-bottom-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-half-bottom-bold.svg)
-  static const squareHalfBottom = PhosphorFlatIconData(0xeb16, 'Bold');
+  static const squareHalfBottom = IconData(0xeb16,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![square-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-logo-bold.svg)
-  static const squareLogo = PhosphorFlatIconData(0xe690, 'Bold');
+  static const squareLogo = IconData(0xe690,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![square-split-horizontal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-split-horizontal-bold.svg)
-  static const squareSplitHorizontal = PhosphorFlatIconData(0xe870, 'Bold');
+  static const squareSplitHorizontal = IconData(0xe870,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![square-split-vertical-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-split-vertical-bold.svg)
-  static const squareSplitVertical = PhosphorFlatIconData(0xe874, 'Bold');
+  static const squareSplitVertical = IconData(0xe874,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![squares-four-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/squares-four-bold.svg)
-  static const squaresFour = PhosphorFlatIconData(0xe464, 'Bold');
+  static const squaresFour = IconData(0xe464,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![stack-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-bold.svg)
-  static const stack = PhosphorFlatIconData(0xe466, 'Bold');
+  static const stack = IconData(0xe466,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![stack-minus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-minus-bold.svg)
-  static const stackMinus = PhosphorFlatIconData(0xedf4, 'Bold');
+  static const stackMinus = IconData(0xedf4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![stack-overflow-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-overflow-logo-bold.svg)
-  static const stackOverflowLogo = PhosphorFlatIconData(0xeb78, 'Bold');
+  static const stackOverflowLogo = IconData(0xeb78,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![stack-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-plus-bold.svg)
-  static const stackPlus = PhosphorFlatIconData(0xedf6, 'Bold');
+  static const stackPlus = IconData(0xedf6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![stack-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-simple-bold.svg)
-  static const stackSimple = PhosphorFlatIconData(0xe468, 'Bold');
+  static const stackSimple = IconData(0xe468,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![stairs-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stairs-bold.svg)
-  static const stairs = PhosphorFlatIconData(0xe8ec, 'Bold');
+  static const stairs = IconData(0xe8ec,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![stamp-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stamp-bold.svg)
-  static const stamp = PhosphorFlatIconData(0xea48, 'Bold');
+  static const stamp = IconData(0xea48,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![standard-definition-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/standard-definition-bold.svg)
-  static const standardDefinition = PhosphorFlatIconData(0xea90, 'Bold');
+  static const standardDefinition = IconData(0xea90,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![star-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-bold.svg)
-  static const star = PhosphorFlatIconData(0xe46a, 'Bold');
+  static const star = IconData(0xe46a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![star-and-crescent-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-and-crescent-bold.svg)
-  static const starAndCrescent = PhosphorFlatIconData(0xecf4, 'Bold');
+  static const starAndCrescent = IconData(0xecf4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![star-four-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-four-bold.svg)
-  static const starFour = PhosphorFlatIconData(0xe6a4, 'Bold');
+  static const starFour = IconData(0xe6a4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![star-half-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-half-bold.svg)
-  static const starHalf = PhosphorFlatIconData(0xe70a, 'Bold');
+  static const starHalf = IconData(0xe70a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![star-of-david-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-of-david-bold.svg)
-  static const starOfDavid = PhosphorFlatIconData(0xe89e, 'Bold');
+  static const starOfDavid = IconData(0xe89e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![steam-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/steam-logo-bold.svg)
-  static const steamLogo = PhosphorFlatIconData(0xead4, 'Bold');
+  static const steamLogo = IconData(0xead4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![steering-wheel-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/steering-wheel-bold.svg)
-  static const steeringWheel = PhosphorFlatIconData(0xe9ac, 'Bold');
+  static const steeringWheel = IconData(0xe9ac,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![steps-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/steps-bold.svg)
-  static const steps = PhosphorFlatIconData(0xecbe, 'Bold');
+  static const steps = IconData(0xecbe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![stethoscope-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stethoscope-bold.svg)
-  static const stethoscope = PhosphorFlatIconData(0xe7ea, 'Bold');
+  static const stethoscope = IconData(0xe7ea,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sticker-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sticker-bold.svg)
-  static const sticker = PhosphorFlatIconData(0xe5ac, 'Bold');
+  static const sticker = IconData(0xe5ac,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![stool-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stool-bold.svg)
-  static const stool = PhosphorFlatIconData(0xea44, 'Bold');
+  static const stool = IconData(0xea44,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![stop-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stop-bold.svg)
-  static const stop = PhosphorFlatIconData(0xe46c, 'Bold');
+  static const stop = IconData(0xe46c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![stop-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stop-circle-bold.svg)
-  static const stopCircle = PhosphorFlatIconData(0xe46e, 'Bold');
+  static const stopCircle = IconData(0xe46e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![storefront-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/storefront-bold.svg)
-  static const storefront = PhosphorFlatIconData(0xe470, 'Bold');
+  static const storefront = IconData(0xe470,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![strategy-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/strategy-bold.svg)
-  static const strategy = PhosphorFlatIconData(0xea3a, 'Bold');
+  static const strategy = IconData(0xea3a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![stripe-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stripe-logo-bold.svg)
-  static const stripeLogo = PhosphorFlatIconData(0xe698, 'Bold');
+  static const stripeLogo = IconData(0xe698,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![student-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/student-bold.svg)
-  static const student = PhosphorFlatIconData(0xe73e, 'Bold');
+  static const student = IconData(0xe73e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![subset-of-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subset-of-bold.svg)
-  static const subsetOf = PhosphorFlatIconData(0xedc0, 'Bold');
+  static const subsetOf = IconData(0xedc0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![subset-proper-of-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subset-proper-of-bold.svg)
-  static const subsetProperOf = PhosphorFlatIconData(0xedb6, 'Bold');
+  static const subsetProperOf = IconData(0xedb6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![subtitles-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtitles-bold.svg)
-  static const subtitles = PhosphorFlatIconData(0xe1a8, 'Bold');
+  static const subtitles = IconData(0xe1a8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![subtitles-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtitles-slash-bold.svg)
-  static const subtitlesSlash = PhosphorFlatIconData(0xe1a6, 'Bold');
+  static const subtitlesSlash = IconData(0xe1a6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![subtract-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtract-bold.svg)
-  static const subtract = PhosphorFlatIconData(0xebd6, 'Bold');
+  static const subtract = IconData(0xebd6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![subtract-square-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtract-square-bold.svg)
-  static const subtractSquare = PhosphorFlatIconData(0xebd4, 'Bold');
+  static const subtractSquare = IconData(0xebd4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![subway-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subway-bold.svg)
-  static const subway = PhosphorFlatIconData(0xe498, 'Bold');
+  static const subway = IconData(0xe498,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![suitcase-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/suitcase-bold.svg)
-  static const suitcase = PhosphorFlatIconData(0xe5ae, 'Bold');
+  static const suitcase = IconData(0xe5ae,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![suitcase-rolling-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/suitcase-rolling-bold.svg)
-  static const suitcaseRolling = PhosphorFlatIconData(0xe9b0, 'Bold');
+  static const suitcaseRolling = IconData(0xe9b0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![suitcase-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/suitcase-simple-bold.svg)
-  static const suitcaseSimple = PhosphorFlatIconData(0xe5b0, 'Bold');
+  static const suitcaseSimple = IconData(0xe5b0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sun-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sun-bold.svg)
-  static const sun = PhosphorFlatIconData(0xe472, 'Bold');
+  static const sun = IconData(0xe472,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sun-dim-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sun-dim-bold.svg)
-  static const sunDim = PhosphorFlatIconData(0xe474, 'Bold');
+  static const sunDim = IconData(0xe474,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sun-horizon-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sun-horizon-bold.svg)
-  static const sunHorizon = PhosphorFlatIconData(0xe5b6, 'Bold');
+  static const sunHorizon = IconData(0xe5b6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sunglasses-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sunglasses-bold.svg)
-  static const sunglasses = PhosphorFlatIconData(0xe816, 'Bold');
+  static const sunglasses = IconData(0xe816,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![superset-of-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/superset-of-bold.svg)
-  static const supersetOf = PhosphorFlatIconData(0xedb8, 'Bold');
+  static const supersetOf = IconData(0xedb8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![superset-proper-of-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/superset-proper-of-bold.svg)
-  static const supersetProperOf = PhosphorFlatIconData(0xedb4, 'Bold');
+  static const supersetProperOf = IconData(0xedb4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![swap-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/swap-bold.svg)
-  static const swap = PhosphorFlatIconData(0xe83c, 'Bold');
+  static const swap = IconData(0xe83c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![swatches-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/swatches-bold.svg)
-  static const swatches = PhosphorFlatIconData(0xe5b8, 'Bold');
+  static const swatches = IconData(0xe5b8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![swimming-pool-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/swimming-pool-bold.svg)
-  static const swimmingPool = PhosphorFlatIconData(0xecb6, 'Bold');
+  static const swimmingPool = IconData(0xecb6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![sword-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sword-bold.svg)
-  static const sword = PhosphorFlatIconData(0xe5ba, 'Bold');
+  static const sword = IconData(0xe5ba,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![synagogue-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/synagogue-bold.svg)
-  static const synagogue = PhosphorFlatIconData(0xecec, 'Bold');
+  static const synagogue = IconData(0xecec,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![syringe-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/syringe-bold.svg)
-  static const syringe = PhosphorFlatIconData(0xe968, 'Bold');
+  static const syringe = IconData(0xe968,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![t-shirt-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/t-shirt-bold.svg)
-  static const tShirt = PhosphorFlatIconData(0xe670, 'Bold');
+  static const tShirt = IconData(0xe670,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![table-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/table-bold.svg)
-  static const table = PhosphorFlatIconData(0xe476, 'Bold');
+  static const table = IconData(0xe476,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tabs-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tabs-bold.svg)
-  static const tabs = PhosphorFlatIconData(0xe778, 'Bold');
+  static const tabs = IconData(0xe778,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tag-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tag-bold.svg)
-  static const tag = PhosphorFlatIconData(0xe478, 'Bold');
+  static const tag = IconData(0xe478,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tag-chevron-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tag-chevron-bold.svg)
-  static const tagChevron = PhosphorFlatIconData(0xe672, 'Bold');
+  static const tagChevron = IconData(0xe672,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tag-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tag-simple-bold.svg)
-  static const tagSimple = PhosphorFlatIconData(0xe47a, 'Bold');
+  static const tagSimple = IconData(0xe47a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![target-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/target-bold.svg)
-  static const target = PhosphorFlatIconData(0xe47c, 'Bold');
+  static const target = IconData(0xe47c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![taxi-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/taxi-bold.svg)
-  static const taxi = PhosphorFlatIconData(0xe902, 'Bold');
+  static const taxi = IconData(0xe902,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tea-bag-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tea-bag-bold.svg)
-  static const teaBag = PhosphorFlatIconData(0xe8e6, 'Bold');
+  static const teaBag = IconData(0xe8e6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![telegram-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/telegram-logo-bold.svg)
-  static const telegramLogo = PhosphorFlatIconData(0xe5bc, 'Bold');
+  static const telegramLogo = IconData(0xe5bc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![television-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/television-bold.svg)
-  static const television = PhosphorFlatIconData(0xe754, 'Bold');
+  static const television = IconData(0xe754,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![television-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/television-simple-bold.svg)
-  static const televisionSimple = PhosphorFlatIconData(0xeae6, 'Bold');
+  static const televisionSimple = IconData(0xeae6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tennis-ball-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tennis-ball-bold.svg)
-  static const tennisBall = PhosphorFlatIconData(0xe720, 'Bold');
+  static const tennisBall = IconData(0xe720,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tent-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tent-bold.svg)
-  static const tent = PhosphorFlatIconData(0xe8ba, 'Bold');
+  static const tent = IconData(0xe8ba,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![terminal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/terminal-bold.svg)
-  static const terminal = PhosphorFlatIconData(0xe47e, 'Bold');
+  static const terminal = IconData(0xe47e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![terminal-window-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/terminal-window-bold.svg)
-  static const terminalWindow = PhosphorFlatIconData(0xeae8, 'Bold');
+  static const terminalWindow = IconData(0xeae8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![test-tube-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/test-tube-bold.svg)
-  static const testTube = PhosphorFlatIconData(0xe7a0, 'Bold');
+  static const testTube = IconData(0xe7a0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-a-underline-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-a-underline-bold.svg)
-  static const textAUnderline = PhosphorFlatIconData(0xed34, 'Bold');
+  static const textAUnderline = IconData(0xed34,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-aa-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-aa-bold.svg)
-  static const textAa = PhosphorFlatIconData(0xe6ee, 'Bold');
+  static const textAa = IconData(0xe6ee,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-align-center-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-center-bold.svg)
-  static const textAlignCenter = PhosphorFlatIconData(0xe480, 'Bold');
+  static const textAlignCenter = IconData(0xe480,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-align-justify-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-justify-bold.svg)
-  static const textAlignJustify = PhosphorFlatIconData(0xe482, 'Bold');
+  static const textAlignJustify = IconData(0xe482,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-align-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-left-bold.svg)
-  static const textAlignLeft = PhosphorFlatIconData(0xe484, 'Bold');
+  static const textAlignLeft = IconData(0xe484,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-align-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-right-bold.svg)
-  static const textAlignRight = PhosphorFlatIconData(0xe486, 'Bold');
+  static const textAlignRight = IconData(0xe486,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-b-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-b-bold.svg)
-  static const textB = PhosphorFlatIconData(0xe5be, 'Bold');
+  static const textB = IconData(0xe5be,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-columns-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-columns-bold.svg)
-  static const textColumns = PhosphorFlatIconData(0xec96, 'Bold');
+  static const textColumns = IconData(0xec96,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-h-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-bold.svg)
-  static const textH = PhosphorFlatIconData(0xe6ba, 'Bold');
+  static const textH = IconData(0xe6ba,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-h-five-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-five-bold.svg)
-  static const textHFive = PhosphorFlatIconData(0xe6c4, 'Bold');
+  static const textHFive = IconData(0xe6c4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-h-four-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-four-bold.svg)
-  static const textHFour = PhosphorFlatIconData(0xe6c2, 'Bold');
+  static const textHFour = IconData(0xe6c2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-h-one-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-one-bold.svg)
-  static const textHOne = PhosphorFlatIconData(0xe6bc, 'Bold');
+  static const textHOne = IconData(0xe6bc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-h-six-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-six-bold.svg)
-  static const textHSix = PhosphorFlatIconData(0xe6c6, 'Bold');
+  static const textHSix = IconData(0xe6c6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-h-three-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-three-bold.svg)
-  static const textHThree = PhosphorFlatIconData(0xe6c0, 'Bold');
+  static const textHThree = IconData(0xe6c0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-h-two-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-two-bold.svg)
-  static const textHTwo = PhosphorFlatIconData(0xe6be, 'Bold');
+  static const textHTwo = IconData(0xe6be,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-indent-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-indent-bold.svg)
-  static const textIndent = PhosphorFlatIconData(0xea1e, 'Bold');
+  static const textIndent = IconData(0xea1e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-italic-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-italic-bold.svg)
-  static const textItalic = PhosphorFlatIconData(0xe5c0, 'Bold');
+  static const textItalic = IconData(0xe5c0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-outdent-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-outdent-bold.svg)
-  static const textOutdent = PhosphorFlatIconData(0xea1c, 'Bold');
+  static const textOutdent = IconData(0xea1c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-strikethrough-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-strikethrough-bold.svg)
-  static const textStrikethrough = PhosphorFlatIconData(0xe5c2, 'Bold');
+  static const textStrikethrough = IconData(0xe5c2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-subscript-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-subscript-bold.svg)
-  static const textSubscript = PhosphorFlatIconData(0xec98, 'Bold');
+  static const textSubscript = IconData(0xec98,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-superscript-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-superscript-bold.svg)
-  static const textSuperscript = PhosphorFlatIconData(0xec9a, 'Bold');
+  static const textSuperscript = IconData(0xec9a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-t-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-t-bold.svg)
-  static const textT = PhosphorFlatIconData(0xe48a, 'Bold');
+  static const textT = IconData(0xe48a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-t-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-t-slash-bold.svg)
-  static const textTSlash = PhosphorFlatIconData(0xe488, 'Bold');
+  static const textTSlash = IconData(0xe488,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![text-underline-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-underline-bold.svg)
-  static const textUnderline = PhosphorFlatIconData(0xe5c4, 'Bold');
+  static const textUnderline = IconData(0xe5c4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![textbox-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/textbox-bold.svg)
-  static const textbox = PhosphorFlatIconData(0xeb0a, 'Bold');
+  static const textbox = IconData(0xeb0a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![thermometer-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer-bold.svg)
-  static const thermometer = PhosphorFlatIconData(0xe5c6, 'Bold');
+  static const thermometer = IconData(0xe5c6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![thermometer-cold-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer-cold-bold.svg)
-  static const thermometerCold = PhosphorFlatIconData(0xe5c8, 'Bold');
+  static const thermometerCold = IconData(0xe5c8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![thermometer-hot-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer-hot-bold.svg)
-  static const thermometerHot = PhosphorFlatIconData(0xe5ca, 'Bold');
+  static const thermometerHot = IconData(0xe5ca,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![thermometer-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer-simple-bold.svg)
-  static const thermometerSimple = PhosphorFlatIconData(0xe5cc, 'Bold');
+  static const thermometerSimple = IconData(0xe5cc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![threads-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/threads-logo-bold.svg)
-  static const threadsLogo = PhosphorFlatIconData(0xed9e, 'Bold');
+  static const threadsLogo = IconData(0xed9e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![three-d-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/three-d-bold.svg)
-  static const threeD = PhosphorFlatIconData(0xea5a, 'Bold');
+  static const threeD = IconData(0xea5a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![thumbs-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thumbs-down-bold.svg)
-  static const thumbsDown = PhosphorFlatIconData(0xe48c, 'Bold');
+  static const thumbsDown = IconData(0xe48c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![thumbs-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thumbs-up-bold.svg)
-  static const thumbsUp = PhosphorFlatIconData(0xe48e, 'Bold');
+  static const thumbsUp = IconData(0xe48e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![ticket-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ticket-bold.svg)
-  static const ticket = PhosphorFlatIconData(0xe490, 'Bold');
+  static const ticket = IconData(0xe490,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tidal-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tidal-logo-bold.svg)
-  static const tidalLogo = PhosphorFlatIconData(0xed1c, 'Bold');
+  static const tidalLogo = IconData(0xed1c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tiktok-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tiktok-logo-bold.svg)
-  static const tiktokLogo = PhosphorFlatIconData(0xeaf2, 'Bold');
+  static const tiktokLogo = IconData(0xeaf2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tilde-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tilde-bold.svg)
-  static const tilde = PhosphorFlatIconData(0xeda8, 'Bold');
+  static const tilde = IconData(0xeda8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![timer-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/timer-bold.svg)
-  static const timer = PhosphorFlatIconData(0xe492, 'Bold');
+  static const timer = IconData(0xe492,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tip-jar-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tip-jar-bold.svg)
-  static const tipJar = PhosphorFlatIconData(0xe7e2, 'Bold');
+  static const tipJar = IconData(0xe7e2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tipi-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tipi-bold.svg)
-  static const tipi = PhosphorFlatIconData(0xed30, 'Bold');
+  static const tipi = IconData(0xed30,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tire-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tire-bold.svg)
-  static const tire = PhosphorFlatIconData(0xedd2, 'Bold');
+  static const tire = IconData(0xedd2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![toggle-left-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toggle-left-bold.svg)
-  static const toggleLeft = PhosphorFlatIconData(0xe674, 'Bold');
+  static const toggleLeft = IconData(0xe674,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![toggle-right-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toggle-right-bold.svg)
-  static const toggleRight = PhosphorFlatIconData(0xe676, 'Bold');
+  static const toggleRight = IconData(0xe676,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![toilet-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toilet-bold.svg)
-  static const toilet = PhosphorFlatIconData(0xe79a, 'Bold');
+  static const toilet = IconData(0xe79a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![toilet-paper-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toilet-paper-bold.svg)
-  static const toiletPaper = PhosphorFlatIconData(0xe79c, 'Bold');
+  static const toiletPaper = IconData(0xe79c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![toolbox-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toolbox-bold.svg)
-  static const toolbox = PhosphorFlatIconData(0xeca0, 'Bold');
+  static const toolbox = IconData(0xeca0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tooth-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tooth-bold.svg)
-  static const tooth = PhosphorFlatIconData(0xe9cc, 'Bold');
+  static const tooth = IconData(0xe9cc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tornado-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tornado-bold.svg)
-  static const tornado = PhosphorFlatIconData(0xe88c, 'Bold');
+  static const tornado = IconData(0xe88c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tote-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tote-bold.svg)
-  static const tote = PhosphorFlatIconData(0xe494, 'Bold');
+  static const tote = IconData(0xe494,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tote-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tote-simple-bold.svg)
-  static const toteSimple = PhosphorFlatIconData(0xe678, 'Bold');
+  static const toteSimple = IconData(0xe678,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![towel-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/towel-bold.svg)
-  static const towel = PhosphorFlatIconData(0xede6, 'Bold');
+  static const towel = IconData(0xede6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tractor-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tractor-bold.svg)
-  static const tractor = PhosphorFlatIconData(0xec6e, 'Bold');
+  static const tractor = IconData(0xec6e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![trademark-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trademark-bold.svg)
-  static const trademark = PhosphorFlatIconData(0xe9f0, 'Bold');
+  static const trademark = IconData(0xe9f0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![trademark-registered-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trademark-registered-bold.svg)
-  static const trademarkRegistered = PhosphorFlatIconData(0xe3f4, 'Bold');
+  static const trademarkRegistered = IconData(0xe3f4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![traffic-cone-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/traffic-cone-bold.svg)
-  static const trafficCone = PhosphorFlatIconData(0xe9a8, 'Bold');
+  static const trafficCone = IconData(0xe9a8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![traffic-sign-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/traffic-sign-bold.svg)
-  static const trafficSign = PhosphorFlatIconData(0xe67a, 'Bold');
+  static const trafficSign = IconData(0xe67a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![traffic-signal-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/traffic-signal-bold.svg)
-  static const trafficSignal = PhosphorFlatIconData(0xe9aa, 'Bold');
+  static const trafficSignal = IconData(0xe9aa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![train-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/train-bold.svg)
-  static const train = PhosphorFlatIconData(0xe496, 'Bold');
+  static const train = IconData(0xe496,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![train-regional-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/train-regional-bold.svg)
-  static const trainRegional = PhosphorFlatIconData(0xe49e, 'Bold');
+  static const trainRegional = IconData(0xe49e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![train-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/train-simple-bold.svg)
-  static const trainSimple = PhosphorFlatIconData(0xe4a0, 'Bold');
+  static const trainSimple = IconData(0xe4a0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tram-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tram-bold.svg)
-  static const tram = PhosphorFlatIconData(0xe9ec, 'Bold');
+  static const tram = IconData(0xe9ec,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![translate-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/translate-bold.svg)
-  static const translate = PhosphorFlatIconData(0xe4a2, 'Bold');
+  static const translate = IconData(0xe4a2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![trash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trash-bold.svg)
-  static const trash = PhosphorFlatIconData(0xe4a6, 'Bold');
+  static const trash = IconData(0xe4a6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![trash-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trash-simple-bold.svg)
-  static const trashSimple = PhosphorFlatIconData(0xe4a8, 'Bold');
+  static const trashSimple = IconData(0xe4a8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tray-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tray-bold.svg)
-  static const tray = PhosphorFlatIconData(0xe4aa, 'Bold');
+  static const tray = IconData(0xe4aa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tray-arrow-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tray-arrow-down-bold.svg)
-  static const trayArrowDown = PhosphorFlatIconData(0xe010, 'Bold');
+  static const trayArrowDown = IconData(0xe010,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tray-arrow-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tray-arrow-up-bold.svg)
-  static const trayArrowUp = PhosphorFlatIconData(0xee52, 'Bold');
+  static const trayArrowUp = IconData(0xee52,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![treasure-chest-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/treasure-chest-bold.svg)
-  static const treasureChest = PhosphorFlatIconData(0xede2, 'Bold');
+  static const treasureChest = IconData(0xede2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tree-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-bold.svg)
-  static const tree = PhosphorFlatIconData(0xe6da, 'Bold');
+  static const tree = IconData(0xe6da,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tree-evergreen-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-evergreen-bold.svg)
-  static const treeEvergreen = PhosphorFlatIconData(0xe6dc, 'Bold');
+  static const treeEvergreen = IconData(0xe6dc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tree-palm-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-palm-bold.svg)
-  static const treePalm = PhosphorFlatIconData(0xe91a, 'Bold');
+  static const treePalm = IconData(0xe91a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tree-structure-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-structure-bold.svg)
-  static const treeStructure = PhosphorFlatIconData(0xe67c, 'Bold');
+  static const treeStructure = IconData(0xe67c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tree-view-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-view-bold.svg)
-  static const treeView = PhosphorFlatIconData(0xee48, 'Bold');
+  static const treeView = IconData(0xee48,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![trend-down-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trend-down-bold.svg)
-  static const trendDown = PhosphorFlatIconData(0xe4ac, 'Bold');
+  static const trendDown = IconData(0xe4ac,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![trend-up-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trend-up-bold.svg)
-  static const trendUp = PhosphorFlatIconData(0xe4ae, 'Bold');
+  static const trendUp = IconData(0xe4ae,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![triangle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/triangle-bold.svg)
-  static const triangle = PhosphorFlatIconData(0xe4b0, 'Bold');
+  static const triangle = IconData(0xe4b0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![triangle-dashed-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/triangle-dashed-bold.svg)
-  static const triangleDashed = PhosphorFlatIconData(0xe4b2, 'Bold');
+  static const triangleDashed = IconData(0xe4b2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![trolley-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trolley-bold.svg)
-  static const trolley = PhosphorFlatIconData(0xe5b2, 'Bold');
+  static const trolley = IconData(0xe5b2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![trolley-suitcase-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trolley-suitcase-bold.svg)
-  static const trolleySuitcase = PhosphorFlatIconData(0xe5b4, 'Bold');
+  static const trolleySuitcase = IconData(0xe5b4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![trophy-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trophy-bold.svg)
-  static const trophy = PhosphorFlatIconData(0xe67e, 'Bold');
+  static const trophy = IconData(0xe67e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![truck-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/truck-bold.svg)
-  static const truck = PhosphorFlatIconData(0xe4b4, 'Bold');
+  static const truck = IconData(0xe4b4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![truck-trailer-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/truck-trailer-bold.svg)
-  static const truckTrailer = PhosphorFlatIconData(0xe4b6, 'Bold');
+  static const truckTrailer = IconData(0xe4b6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![tumblr-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tumblr-logo-bold.svg)
-  static const tumblrLogo = PhosphorFlatIconData(0xe8d4, 'Bold');
+  static const tumblrLogo = IconData(0xe8d4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![twitch-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/twitch-logo-bold.svg)
-  static const twitchLogo = PhosphorFlatIconData(0xe5ce, 'Bold');
+  static const twitchLogo = IconData(0xe5ce,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![twitter-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/twitter-logo-bold.svg)
-  static const twitterLogo = PhosphorFlatIconData(0xe4ba, 'Bold');
+  static const twitterLogo = IconData(0xe4ba,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![umbrella-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/umbrella-bold.svg)
-  static const umbrella = PhosphorFlatIconData(0xe684, 'Bold');
+  static const umbrella = IconData(0xe684,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![umbrella-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/umbrella-simple-bold.svg)
-  static const umbrellaSimple = PhosphorFlatIconData(0xe686, 'Bold');
+  static const umbrellaSimple = IconData(0xe686,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![union-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/union-bold.svg)
-  static const union = PhosphorFlatIconData(0xedbe, 'Bold');
+  static const union = IconData(0xedbe,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![unite-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/unite-bold.svg)
-  static const unite = PhosphorFlatIconData(0xe87e, 'Bold');
+  static const unite = IconData(0xe87e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![unite-square-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/unite-square-bold.svg)
-  static const uniteSquare = PhosphorFlatIconData(0xe878, 'Bold');
+  static const uniteSquare = IconData(0xe878,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![upload-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/upload-bold.svg)
-  static const upload = PhosphorFlatIconData(0xe4be, 'Bold');
+  static const upload = IconData(0xe4be,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![upload-simple-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/upload-simple-bold.svg)
-  static const uploadSimple = PhosphorFlatIconData(0xe4c0, 'Bold');
+  static const uploadSimple = IconData(0xe4c0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![usb-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/usb-bold.svg)
-  static const usb = PhosphorFlatIconData(0xe956, 'Bold');
+  static const usb = IconData(0xe956,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-bold.svg)
-  static const user = PhosphorFlatIconData(0xe4c2, 'Bold');
+  static const user = IconData(0xe4c2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-check-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-check-bold.svg)
-  static const userCheck = PhosphorFlatIconData(0xeafa, 'Bold');
+  static const userCheck = IconData(0xeafa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-bold.svg)
-  static const userCircle = PhosphorFlatIconData(0xe4c4, 'Bold');
+  static const userCircle = IconData(0xe4c4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-circle-check-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-check-bold.svg)
-  static const userCircleCheck = PhosphorFlatIconData(0xec38, 'Bold');
+  static const userCircleCheck = IconData(0xec38,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-circle-dashed-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-dashed-bold.svg)
-  static const userCircleDashed = PhosphorFlatIconData(0xec36, 'Bold');
+  static const userCircleDashed = IconData(0xec36,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-circle-gear-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-gear-bold.svg)
-  static const userCircleGear = PhosphorFlatIconData(0xe4c6, 'Bold');
+  static const userCircleGear = IconData(0xe4c6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-circle-minus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-minus-bold.svg)
-  static const userCircleMinus = PhosphorFlatIconData(0xe4c8, 'Bold');
+  static const userCircleMinus = IconData(0xe4c8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-circle-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-plus-bold.svg)
-  static const userCirclePlus = PhosphorFlatIconData(0xe4ca, 'Bold');
+  static const userCirclePlus = IconData(0xe4ca,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-focus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-focus-bold.svg)
-  static const userFocus = PhosphorFlatIconData(0xe6fc, 'Bold');
+  static const userFocus = IconData(0xe6fc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-gear-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-gear-bold.svg)
-  static const userGear = PhosphorFlatIconData(0xe4cc, 'Bold');
+  static const userGear = IconData(0xe4cc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-list-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-list-bold.svg)
-  static const userList = PhosphorFlatIconData(0xe73c, 'Bold');
+  static const userList = IconData(0xe73c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-minus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-minus-bold.svg)
-  static const userMinus = PhosphorFlatIconData(0xe4ce, 'Bold');
+  static const userMinus = IconData(0xe4ce,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-plus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-plus-bold.svg)
-  static const userPlus = PhosphorFlatIconData(0xe4d0, 'Bold');
+  static const userPlus = IconData(0xe4d0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-rectangle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-rectangle-bold.svg)
-  static const userRectangle = PhosphorFlatIconData(0xe4d2, 'Bold');
+  static const userRectangle = IconData(0xe4d2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-sound-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-sound-bold.svg)
-  static const userSound = PhosphorFlatIconData(0xeca8, 'Bold');
+  static const userSound = IconData(0xeca8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-square-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-square-bold.svg)
-  static const userSquare = PhosphorFlatIconData(0xe4d4, 'Bold');
+  static const userSquare = IconData(0xe4d4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![user-switch-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-switch-bold.svg)
-  static const userSwitch = PhosphorFlatIconData(0xe756, 'Bold');
+  static const userSwitch = IconData(0xe756,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![users-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/users-bold.svg)
-  static const users = PhosphorFlatIconData(0xe4d6, 'Bold');
+  static const users = IconData(0xe4d6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![users-four-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/users-four-bold.svg)
-  static const usersFour = PhosphorFlatIconData(0xe68c, 'Bold');
+  static const usersFour = IconData(0xe68c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![users-three-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/users-three-bold.svg)
-  static const usersThree = PhosphorFlatIconData(0xe68e, 'Bold');
+  static const usersThree = IconData(0xe68e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![van-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/van-bold.svg)
-  static const van = PhosphorFlatIconData(0xe826, 'Bold');
+  static const van = IconData(0xe826,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![vault-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vault-bold.svg)
-  static const vault = PhosphorFlatIconData(0xe76e, 'Bold');
+  static const vault = IconData(0xe76e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![vector-three-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vector-three-bold.svg)
-  static const vectorThree = PhosphorFlatIconData(0xee62, 'Bold');
+  static const vectorThree = IconData(0xee62,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![vector-two-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vector-two-bold.svg)
-  static const vectorTwo = PhosphorFlatIconData(0xee64, 'Bold');
+  static const vectorTwo = IconData(0xee64,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![vibrate-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vibrate-bold.svg)
-  static const vibrate = PhosphorFlatIconData(0xe4d8, 'Bold');
+  static const vibrate = IconData(0xe4d8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![video-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video-bold.svg)
-  static const video = PhosphorFlatIconData(0xe740, 'Bold');
+  static const video = IconData(0xe740,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![video-camera-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video-camera-bold.svg)
-  static const videoCamera = PhosphorFlatIconData(0xe4da, 'Bold');
+  static const videoCamera = IconData(0xe4da,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![video-camera-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video-camera-slash-bold.svg)
-  static const videoCameraSlash = PhosphorFlatIconData(0xe4dc, 'Bold');
+  static const videoCameraSlash = IconData(0xe4dc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![video-conference-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video-conference-bold.svg)
-  static const videoConference = PhosphorFlatIconData(0xedce, 'Bold');
+  static const videoConference = IconData(0xedce,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![vignette-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vignette-bold.svg)
-  static const vignette = PhosphorFlatIconData(0xeba2, 'Bold');
+  static const vignette = IconData(0xeba2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![vinyl-record-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vinyl-record-bold.svg)
-  static const vinylRecord = PhosphorFlatIconData(0xecac, 'Bold');
+  static const vinylRecord = IconData(0xecac,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![virtual-reality-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/virtual-reality-bold.svg)
-  static const virtualReality = PhosphorFlatIconData(0xe7b8, 'Bold');
+  static const virtualReality = IconData(0xe7b8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![virus-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/virus-bold.svg)
-  static const virus = PhosphorFlatIconData(0xe7d6, 'Bold');
+  static const virus = IconData(0xe7d6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![visor-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/visor-bold.svg)
-  static const visor = PhosphorFlatIconData(0xee2a, 'Bold');
+  static const visor = IconData(0xee2a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![voicemail-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/voicemail-bold.svg)
-  static const voicemail = PhosphorFlatIconData(0xe4de, 'Bold');
+  static const voicemail = IconData(0xe4de,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![volleyball-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/volleyball-bold.svg)
-  static const volleyball = PhosphorFlatIconData(0xe726, 'Bold');
+  static const volleyball = IconData(0xe726,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wall-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wall-bold.svg)
-  static const wall = PhosphorFlatIconData(0xe688, 'Bold');
+  static const wall = IconData(0xe688,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wallet-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wallet-bold.svg)
-  static const wallet = PhosphorFlatIconData(0xe68a, 'Bold');
+  static const wallet = IconData(0xe68a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![warehouse-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warehouse-bold.svg)
-  static const warehouse = PhosphorFlatIconData(0xecd4, 'Bold');
+  static const warehouse = IconData(0xecd4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![warning-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning-bold.svg)
-  static const warning = PhosphorFlatIconData(0xe4e0, 'Bold');
+  static const warning = IconData(0xe4e0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![warning-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning-circle-bold.svg)
-  static const warningCircle = PhosphorFlatIconData(0xe4e2, 'Bold');
+  static const warningCircle = IconData(0xe4e2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![warning-diamond-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning-diamond-bold.svg)
-  static const warningDiamond = PhosphorFlatIconData(0xe7fc, 'Bold');
+  static const warningDiamond = IconData(0xe7fc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![warning-octagon-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning-octagon-bold.svg)
-  static const warningOctagon = PhosphorFlatIconData(0xe4e4, 'Bold');
+  static const warningOctagon = IconData(0xe4e4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![washing-machine-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/washing-machine-bold.svg)
-  static const washingMachine = PhosphorFlatIconData(0xede8, 'Bold');
+  static const washingMachine = IconData(0xede8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![watch-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/watch-bold.svg)
-  static const watch = PhosphorFlatIconData(0xe4e6, 'Bold');
+  static const watch = IconData(0xe4e6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wave-sawtooth-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-sawtooth-bold.svg)
-  static const waveSawtooth = PhosphorFlatIconData(0xea9c, 'Bold');
+  static const waveSawtooth = IconData(0xea9c,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wave-sine-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-sine-bold.svg)
-  static const waveSine = PhosphorFlatIconData(0xea9a, 'Bold');
+  static const waveSine = IconData(0xea9a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wave-square-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-square-bold.svg)
-  static const waveSquare = PhosphorFlatIconData(0xea9e, 'Bold');
+  static const waveSquare = IconData(0xea9e,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wave-triangle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-triangle-bold.svg)
-  static const waveTriangle = PhosphorFlatIconData(0xeaa0, 'Bold');
+  static const waveTriangle = IconData(0xeaa0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![waveform-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/waveform-bold.svg)
-  static const waveform = PhosphorFlatIconData(0xe802, 'Bold');
+  static const waveform = IconData(0xe802,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![waveform-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/waveform-slash-bold.svg)
-  static const waveformSlash = PhosphorFlatIconData(0xe800, 'Bold');
+  static const waveformSlash = IconData(0xe800,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![waves-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/waves-bold.svg)
-  static const waves = PhosphorFlatIconData(0xe6de, 'Bold');
+  static const waves = IconData(0xe6de,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![webcam-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/webcam-bold.svg)
-  static const webcam = PhosphorFlatIconData(0xe9b2, 'Bold');
+  static const webcam = IconData(0xe9b2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![webcam-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/webcam-slash-bold.svg)
-  static const webcamSlash = PhosphorFlatIconData(0xecdc, 'Bold');
+  static const webcamSlash = IconData(0xecdc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![webhooks-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/webhooks-logo-bold.svg)
-  static const webhooksLogo = PhosphorFlatIconData(0xecae, 'Bold');
+  static const webhooksLogo = IconData(0xecae,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wechat-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wechat-logo-bold.svg)
-  static const wechatLogo = PhosphorFlatIconData(0xe8d2, 'Bold');
+  static const wechatLogo = IconData(0xe8d2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![whatsapp-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/whatsapp-logo-bold.svg)
-  static const whatsappLogo = PhosphorFlatIconData(0xe5d0, 'Bold');
+  static const whatsappLogo = IconData(0xe5d0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wheelchair-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wheelchair-bold.svg)
-  static const wheelchair = PhosphorFlatIconData(0xe4e8, 'Bold');
+  static const wheelchair = IconData(0xe4e8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wheelchair-motion-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wheelchair-motion-bold.svg)
-  static const wheelchairMotion = PhosphorFlatIconData(0xe89a, 'Bold');
+  static const wheelchairMotion = IconData(0xe89a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wifi-high-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-high-bold.svg)
-  static const wifiHigh = PhosphorFlatIconData(0xe4ea, 'Bold');
+  static const wifiHigh = IconData(0xe4ea,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wifi-low-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-low-bold.svg)
-  static const wifiLow = PhosphorFlatIconData(0xe4ec, 'Bold');
+  static const wifiLow = IconData(0xe4ec,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wifi-medium-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-medium-bold.svg)
-  static const wifiMedium = PhosphorFlatIconData(0xe4ee, 'Bold');
+  static const wifiMedium = IconData(0xe4ee,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wifi-none-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-none-bold.svg)
-  static const wifiNone = PhosphorFlatIconData(0xe4f0, 'Bold');
+  static const wifiNone = IconData(0xe4f0,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wifi-slash-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-slash-bold.svg)
-  static const wifiSlash = PhosphorFlatIconData(0xe4f2, 'Bold');
+  static const wifiSlash = IconData(0xe4f2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wifi-x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-x-bold.svg)
-  static const wifiX = PhosphorFlatIconData(0xe4f4, 'Bold');
+  static const wifiX = IconData(0xe4f4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wind-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wind-bold.svg)
-  static const wind = PhosphorFlatIconData(0xe5d2, 'Bold');
+  static const wind = IconData(0xe5d2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![windmill-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/windmill-bold.svg)
-  static const windmill = PhosphorFlatIconData(0xe9f8, 'Bold');
+  static const windmill = IconData(0xe9f8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![windows-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/windows-logo-bold.svg)
-  static const windowsLogo = PhosphorFlatIconData(0xe692, 'Bold');
+  static const windowsLogo = IconData(0xe692,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wine-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wine-bold.svg)
-  static const wine = PhosphorFlatIconData(0xe6b2, 'Bold');
+  static const wine = IconData(0xe6b2,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![wrench-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wrench-bold.svg)
-  static const wrench = PhosphorFlatIconData(0xe5d4, 'Bold');
+  static const wrench = IconData(0xe5d4,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![x-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x-bold.svg)
-  static const x = PhosphorFlatIconData(0xe4f6, 'Bold');
+  static const x = IconData(0xe4f6,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![x-circle-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x-circle-bold.svg)
-  static const xCircle = PhosphorFlatIconData(0xe4f8, 'Bold');
+  static const xCircle = IconData(0xe4f8,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![x-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x-logo-bold.svg)
-  static const xLogo = PhosphorFlatIconData(0xe4bc, 'Bold');
+  static const xLogo = IconData(0xe4bc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![x-square-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x-square-bold.svg)
-  static const xSquare = PhosphorFlatIconData(0xe4fa, 'Bold');
+  static const xSquare = IconData(0xe4fa,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![yarn-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/yarn-bold.svg)
-  static const yarn = PhosphorFlatIconData(0xed9a, 'Bold');
+  static const yarn = IconData(0xed9a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![yin-yang-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/yin-yang-bold.svg)
-  static const yinYang = PhosphorFlatIconData(0xe92a, 'Bold');
+  static const yinYang = IconData(0xe92a,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 
   /// ![youtube-logo-bold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/youtube-logo-bold.svg)
-  static const youtubeLogo = PhosphorFlatIconData(0xe4fc, 'Bold');
+  static const youtubeLogo = IconData(0xe4fc,
+      fontFamily: _f, fontPackage: _p, matchTextDirection: true);
 }
