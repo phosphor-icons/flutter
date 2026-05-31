@@ -107,7 +107,7 @@ case PhosphorIconsStyle.${style.styleName}:
       ..defaultTo = Code('PhosphorIconsStyle.regular')
       ..type = Reference('PhosphorIconsStyle')))
     ..body = Code(code)
-    ..returns = Reference('PhosphorIconData'));
+    ..returns = Reference('IconData'));
 }
 
 /// reads the phosphor json  of one style and generates a dart class
@@ -172,16 +172,16 @@ Field buildFieldIconByStyle(dynamic icon, {required StyleFileData style}) {
 
   if (style == StyleFileData.duotone && properties['codes'] != null) {
     final graphCodes = (properties['codes'] as List).cast<int>();
-    final backgroundHexCode = '0x' + graphCodes.first.toRadixString(16);
     final foregroundHexCode = '0x' + graphCodes.last.toRadixString(16);
     codeStatement = Code(
-      "PhosphorDuotoneIconData($foregroundHexCode, PhosphorIconData($backgroundHexCode, 'Duotone'),)",
+      "IconData($foregroundHexCode, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true)",
     );
   } else {
     final graphCode = properties['code'] as int;
     final hexCode = '0x' + graphCode.toRadixString(16);
+    final fontFamily = 'Phosphor${style.styleName.capitalize()}';
     codeStatement = Code(
-      "PhosphorFlatIconData($hexCode, '${style.styleName.capitalize()}')",
+      "IconData($hexCode, fontFamily: '$fontFamily', fontPackage: 'phosphor_flutter', matchTextDirection: true)",
     );
   }
 
