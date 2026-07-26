@@ -1,8 +1,14 @@
 library phosphor_flutter;
 
 import 'package:flutter/material.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
 
+/// A thin wrapper over [Icon] for Phosphor icons.
+///
+/// Duotone icons previously rendered as two stacked layers via a dedicated
+/// [IconData] subclass. Flutter 3.44 made [IconData] `final`, so duotone icons
+/// are now single-layer [IconData] (their foreground glyph). The
+/// `duotoneSecondary*` parameters are retained for source compatibility but no
+/// longer affect rendering.
 class PhosphorIcon extends Icon {
   const PhosphorIcon(
     IconData icon, {
@@ -34,34 +40,4 @@ class PhosphorIcon extends Icon {
 
   final double duotoneSecondaryOpacity;
   final Color? duotoneSecondaryColor;
-
-  @override
-  Widget build(BuildContext context) {
-    if (icon is PhosphorDuotoneIconData) {
-      final duotoneIcon = icon as PhosphorDuotoneIconData;
-      return Stack(
-        alignment: Alignment.center,
-        children: [
-          Opacity(
-            opacity: duotoneSecondaryOpacity,
-            child: Icon(
-              duotoneIcon.secondary,
-              key: key,
-              size: size,
-              fill: fill,
-              weight: weight,
-              grade: grade,
-              opticalSize: opticalSize,
-              color: duotoneSecondaryColor ?? color,
-              shadows: shadows,
-              semanticLabel: semanticLabel,
-              textDirection: textDirection,
-            ),
-          ),
-          super.build(context),
-        ],
-      );
-    }
-    return super.build(context);
-  }
 }
