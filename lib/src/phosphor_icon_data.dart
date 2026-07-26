@@ -2,24 +2,14 @@ library phosphor_flutter;
 
 import 'package:flutter/widgets.dart';
 
-class PhosphorIconData extends IconData {
-  const PhosphorIconData(int codePoint, String style)
-      : super(
-          codePoint,
-          fontFamily: 'Phosphor$style',
-          fontPackage: 'phosphor_flutter',
-          matchTextDirection: true,
-        );
-}
-
-class PhosphorFlatIconData extends PhosphorIconData {
-  const PhosphorFlatIconData(int codePoint, String style)
-      : super(codePoint, style);
-}
-
-class PhosphorDuotoneIconData extends PhosphorIconData {
-  const PhosphorDuotoneIconData(int codePoint, this.secondary)
-      : super(codePoint, 'Duotone');
-
-  final PhosphorIconData secondary;
-}
+/// Phosphor icons are plain [IconData] instances.
+///
+/// Historically this package subclassed [IconData] (`PhosphorIconData extends
+/// IconData`), but Flutter 3.44 marked [IconData] a `final class`
+/// (https://github.com/flutter/flutter/issues/181342), so subclassing is no
+/// longer permitted. The generated style classes now emit `IconData(...)`
+/// directly; these typedefs preserve the public type names for backward
+/// compatibility (e.g. the `PhosphorIcons.foo(style)` return type).
+typedef PhosphorIconData = IconData;
+typedef PhosphorFlatIconData = IconData;
+typedef PhosphorDuotoneIconData = IconData;
