@@ -25,7 +25,7 @@ class IconsCatalog extends StatefulWidget {
 }
 
 class _IconsCatalogState extends State<IconsCatalog> {
-  late List<PhosphorIconData> _icons;
+  late List<IconData> _icons;
   late List<String> _iconsNames;
   String _title = 'Icons Catalog - regular';
 

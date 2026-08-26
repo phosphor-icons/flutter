@@ -1,7 +1,7 @@
 // Auto generated File
 // DON'T EDIT BY HAND
 
-import 'package:phosphor_flutter/src/phosphor_icon_data.dart';
+import 'package:flutter/widgets.dart';
 import 'package:phosphor_flutter/src/phosphor_icons_regular.dart';
 import 'package:phosphor_flutter/src/phosphor_icons_thin.dart';
 import 'package:phosphor_flutter/src/phosphor_icons_light.dart';
@@ -23,7 +23,7 @@ class PhosphorIcons {
   /// bold: ![acorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/acorn.svg)
   /// fill: ![acorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/acorn.svg)
   /// duotone: ![acorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/acorn.svg)
-  static PhosphorIconData acorn(
+  static IconData acorn(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -47,7 +47,7 @@ class PhosphorIcons {
   /// bold: ![address-book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/address-book.svg)
   /// fill: ![address-book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/address-book.svg)
   /// duotone: ![address-book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/address-book.svg)
-  static PhosphorIconData addressBook(
+  static IconData addressBook(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -71,7 +71,7 @@ class PhosphorIcons {
   /// bold: ![address-book-tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/address-book-tabs.svg)
   /// fill: ![address-book-tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/address-book-tabs.svg)
   /// duotone: ![address-book-tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/address-book-tabs.svg)
-  static PhosphorIconData addressBookTabs(
+  static IconData addressBookTabs(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -95,7 +95,7 @@ class PhosphorIcons {
   /// bold: ![air-traffic-control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/air-traffic-control.svg)
   /// fill: ![air-traffic-control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/air-traffic-control.svg)
   /// duotone: ![air-traffic-control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/air-traffic-control.svg)
-  static PhosphorIconData airTrafficControl(
+  static IconData airTrafficControl(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -119,7 +119,7 @@ class PhosphorIcons {
   /// bold: ![airplane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane.svg)
   /// fill: ![airplane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane.svg)
   /// duotone: ![airplane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane.svg)
-  static PhosphorIconData airplane(
+  static IconData airplane(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -143,7 +143,7 @@ class PhosphorIcons {
   /// bold: ![airplane-in-flight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-in-flight.svg)
   /// fill: ![airplane-in-flight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane-in-flight.svg)
   /// duotone: ![airplane-in-flight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-in-flight.svg)
-  static PhosphorIconData airplaneInFlight(
+  static IconData airplaneInFlight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -167,7 +167,7 @@ class PhosphorIcons {
   /// bold: ![airplane-landing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-landing.svg)
   /// fill: ![airplane-landing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane-landing.svg)
   /// duotone: ![airplane-landing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-landing.svg)
-  static PhosphorIconData airplaneLanding(
+  static IconData airplaneLanding(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -191,7 +191,7 @@ class PhosphorIcons {
   /// bold: ![airplane-takeoff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-takeoff.svg)
   /// fill: ![airplane-takeoff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane-takeoff.svg)
   /// duotone: ![airplane-takeoff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-takeoff.svg)
-  static PhosphorIconData airplaneTakeoff(
+  static IconData airplaneTakeoff(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -215,7 +215,7 @@ class PhosphorIcons {
   /// bold: ![airplane-taxiing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-taxiing.svg)
   /// fill: ![airplane-taxiing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane-taxiing.svg)
   /// duotone: ![airplane-taxiing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-taxiing.svg)
-  static PhosphorIconData airplaneTaxiing(
+  static IconData airplaneTaxiing(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -239,7 +239,7 @@ class PhosphorIcons {
   /// bold: ![airplane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-tilt.svg)
   /// fill: ![airplane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane-tilt.svg)
   /// duotone: ![airplane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-tilt.svg)
-  static PhosphorIconData airplaneTilt(
+  static IconData airplaneTilt(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -263,7 +263,7 @@ class PhosphorIcons {
   /// bold: ![airplay](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplay.svg)
   /// fill: ![airplay](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplay.svg)
   /// duotone: ![airplay](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplay.svg)
-  static PhosphorIconData airplay(
+  static IconData airplay(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -287,7 +287,7 @@ class PhosphorIcons {
   /// bold: ![alarm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/alarm.svg)
   /// fill: ![alarm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/alarm.svg)
   /// duotone: ![alarm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/alarm.svg)
-  static PhosphorIconData alarm(
+  static IconData alarm(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -311,7 +311,7 @@ class PhosphorIcons {
   /// bold: ![alien](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/alien.svg)
   /// fill: ![alien](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/alien.svg)
   /// duotone: ![alien](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/alien.svg)
-  static PhosphorIconData alien(
+  static IconData alien(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -335,7 +335,7 @@ class PhosphorIcons {
   /// bold: ![align-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-bottom.svg)
   /// fill: ![align-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-bottom.svg)
   /// duotone: ![align-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-bottom.svg)
-  static PhosphorIconData alignBottom(
+  static IconData alignBottom(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -359,7 +359,7 @@ class PhosphorIcons {
   /// bold: ![align-bottom-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-bottom-simple.svg)
   /// fill: ![align-bottom-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-bottom-simple.svg)
   /// duotone: ![align-bottom-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-bottom-simple.svg)
-  static PhosphorIconData alignBottomSimple(
+  static IconData alignBottomSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -383,7 +383,7 @@ class PhosphorIcons {
   /// bold: ![align-center-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-horizontal.svg)
   /// fill: ![align-center-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-center-horizontal.svg)
   /// duotone: ![align-center-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-horizontal.svg)
-  static PhosphorIconData alignCenterHorizontal(
+  static IconData alignCenterHorizontal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -407,7 +407,7 @@ class PhosphorIcons {
   /// bold: ![align-center-horizontal-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-horizontal-simple.svg)
   /// fill: ![align-center-horizontal-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-center-horizontal-simple.svg)
   /// duotone: ![align-center-horizontal-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-horizontal-simple.svg)
-  static PhosphorIconData alignCenterHorizontalSimple(
+  static IconData alignCenterHorizontalSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -431,7 +431,7 @@ class PhosphorIcons {
   /// bold: ![align-center-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-vertical.svg)
   /// fill: ![align-center-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-center-vertical.svg)
   /// duotone: ![align-center-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-vertical.svg)
-  static PhosphorIconData alignCenterVertical(
+  static IconData alignCenterVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -455,7 +455,7 @@ class PhosphorIcons {
   /// bold: ![align-center-vertical-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-vertical-simple.svg)
   /// fill: ![align-center-vertical-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-center-vertical-simple.svg)
   /// duotone: ![align-center-vertical-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-vertical-simple.svg)
-  static PhosphorIconData alignCenterVerticalSimple(
+  static IconData alignCenterVerticalSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -479,7 +479,7 @@ class PhosphorIcons {
   /// bold: ![align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-left.svg)
   /// fill: ![align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-left.svg)
   /// duotone: ![align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-left.svg)
-  static PhosphorIconData alignLeft(
+  static IconData alignLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -503,7 +503,7 @@ class PhosphorIcons {
   /// bold: ![align-left-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-left-simple.svg)
   /// fill: ![align-left-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-left-simple.svg)
   /// duotone: ![align-left-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-left-simple.svg)
-  static PhosphorIconData alignLeftSimple(
+  static IconData alignLeftSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -527,7 +527,7 @@ class PhosphorIcons {
   /// bold: ![align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-right.svg)
   /// fill: ![align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-right.svg)
   /// duotone: ![align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-right.svg)
-  static PhosphorIconData alignRight(
+  static IconData alignRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -551,7 +551,7 @@ class PhosphorIcons {
   /// bold: ![align-right-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-right-simple.svg)
   /// fill: ![align-right-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-right-simple.svg)
   /// duotone: ![align-right-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-right-simple.svg)
-  static PhosphorIconData alignRightSimple(
+  static IconData alignRightSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -575,7 +575,7 @@ class PhosphorIcons {
   /// bold: ![align-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-top.svg)
   /// fill: ![align-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-top.svg)
   /// duotone: ![align-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-top.svg)
-  static PhosphorIconData alignTop(
+  static IconData alignTop(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -599,7 +599,7 @@ class PhosphorIcons {
   /// bold: ![align-top-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-top-simple.svg)
   /// fill: ![align-top-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-top-simple.svg)
   /// duotone: ![align-top-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-top-simple.svg)
-  static PhosphorIconData alignTopSimple(
+  static IconData alignTopSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -623,7 +623,7 @@ class PhosphorIcons {
   /// bold: ![amazon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/amazon-logo.svg)
   /// fill: ![amazon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/amazon-logo.svg)
   /// duotone: ![amazon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/amazon-logo.svg)
-  static PhosphorIconData amazonLogo(
+  static IconData amazonLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -647,7 +647,7 @@ class PhosphorIcons {
   /// bold: ![ambulance](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ambulance.svg)
   /// fill: ![ambulance](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ambulance.svg)
   /// duotone: ![ambulance](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ambulance.svg)
-  static PhosphorIconData ambulance(
+  static IconData ambulance(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -671,7 +671,7 @@ class PhosphorIcons {
   /// bold: ![anchor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/anchor.svg)
   /// fill: ![anchor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/anchor.svg)
   /// duotone: ![anchor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/anchor.svg)
-  static PhosphorIconData anchor(
+  static IconData anchor(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -695,7 +695,7 @@ class PhosphorIcons {
   /// bold: ![anchor-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/anchor-simple.svg)
   /// fill: ![anchor-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/anchor-simple.svg)
   /// duotone: ![anchor-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/anchor-simple.svg)
-  static PhosphorIconData anchorSimple(
+  static IconData anchorSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -719,7 +719,7 @@ class PhosphorIcons {
   /// bold: ![android-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/android-logo.svg)
   /// fill: ![android-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/android-logo.svg)
   /// duotone: ![android-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/android-logo.svg)
-  static PhosphorIconData androidLogo(
+  static IconData androidLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -743,7 +743,7 @@ class PhosphorIcons {
   /// bold: ![angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/angle.svg)
   /// fill: ![angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/angle.svg)
   /// duotone: ![angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/angle.svg)
-  static PhosphorIconData angle(
+  static IconData angle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -767,7 +767,7 @@ class PhosphorIcons {
   /// bold: ![angular-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/angular-logo.svg)
   /// fill: ![angular-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/angular-logo.svg)
   /// duotone: ![angular-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/angular-logo.svg)
-  static PhosphorIconData angularLogo(
+  static IconData angularLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -791,7 +791,7 @@ class PhosphorIcons {
   /// bold: ![aperture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/aperture.svg)
   /// fill: ![aperture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/aperture.svg)
   /// duotone: ![aperture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/aperture.svg)
-  static PhosphorIconData aperture(
+  static IconData aperture(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -815,7 +815,7 @@ class PhosphorIcons {
   /// bold: ![app-store-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/app-store-logo.svg)
   /// fill: ![app-store-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/app-store-logo.svg)
   /// duotone: ![app-store-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/app-store-logo.svg)
-  static PhosphorIconData appStoreLogo(
+  static IconData appStoreLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -839,7 +839,7 @@ class PhosphorIcons {
   /// bold: ![app-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/app-window.svg)
   /// fill: ![app-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/app-window.svg)
   /// duotone: ![app-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/app-window.svg)
-  static PhosphorIconData appWindow(
+  static IconData appWindow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -863,7 +863,7 @@ class PhosphorIcons {
   /// bold: ![apple-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/apple-logo.svg)
   /// fill: ![apple-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/apple-logo.svg)
   /// duotone: ![apple-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/apple-logo.svg)
-  static PhosphorIconData appleLogo(
+  static IconData appleLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -887,7 +887,7 @@ class PhosphorIcons {
   /// bold: ![apple-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/apple-podcasts-logo.svg)
   /// fill: ![apple-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/apple-podcasts-logo.svg)
   /// duotone: ![apple-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/apple-podcasts-logo.svg)
-  static PhosphorIconData applePodcastsLogo(
+  static IconData applePodcastsLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -911,7 +911,7 @@ class PhosphorIcons {
   /// bold: ![approximate-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/approximate-equals.svg)
   /// fill: ![approximate-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/approximate-equals.svg)
   /// duotone: ![approximate-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/approximate-equals.svg)
-  static PhosphorIconData approximateEquals(
+  static IconData approximateEquals(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -935,7 +935,7 @@ class PhosphorIcons {
   /// bold: ![archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/archive.svg)
   /// fill: ![archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/archive.svg)
   /// duotone: ![archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/archive.svg)
-  static PhosphorIconData archive(
+  static IconData archive(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -959,7 +959,7 @@ class PhosphorIcons {
   /// bold: ![armchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/armchair.svg)
   /// fill: ![armchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/armchair.svg)
   /// duotone: ![armchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/armchair.svg)
-  static PhosphorIconData armchair(
+  static IconData armchair(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -983,7 +983,7 @@ class PhosphorIcons {
   /// bold: ![arrow-arc-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-arc-left.svg)
   /// fill: ![arrow-arc-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-arc-left.svg)
   /// duotone: ![arrow-arc-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-arc-left.svg)
-  static PhosphorIconData arrowArcLeft(
+  static IconData arrowArcLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1007,7 +1007,7 @@ class PhosphorIcons {
   /// bold: ![arrow-arc-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-arc-right.svg)
   /// fill: ![arrow-arc-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-arc-right.svg)
   /// duotone: ![arrow-arc-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-arc-right.svg)
-  static PhosphorIconData arrowArcRight(
+  static IconData arrowArcRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1031,7 +1031,7 @@ class PhosphorIcons {
   /// bold: ![arrow-bend-double-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-double-up-left.svg)
   /// fill: ![arrow-bend-double-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-double-up-left.svg)
   /// duotone: ![arrow-bend-double-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-double-up-left.svg)
-  static PhosphorIconData arrowBendDoubleUpLeft(
+  static IconData arrowBendDoubleUpLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1055,7 +1055,7 @@ class PhosphorIcons {
   /// bold: ![arrow-bend-double-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-double-up-right.svg)
   /// fill: ![arrow-bend-double-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-double-up-right.svg)
   /// duotone: ![arrow-bend-double-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-double-up-right.svg)
-  static PhosphorIconData arrowBendDoubleUpRight(
+  static IconData arrowBendDoubleUpRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1079,7 +1079,7 @@ class PhosphorIcons {
   /// bold: ![arrow-bend-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-down-left.svg)
   /// fill: ![arrow-bend-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-down-left.svg)
   /// duotone: ![arrow-bend-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-down-left.svg)
-  static PhosphorIconData arrowBendDownLeft(
+  static IconData arrowBendDownLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1103,7 +1103,7 @@ class PhosphorIcons {
   /// bold: ![arrow-bend-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-down-right.svg)
   /// fill: ![arrow-bend-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-down-right.svg)
   /// duotone: ![arrow-bend-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-down-right.svg)
-  static PhosphorIconData arrowBendDownRight(
+  static IconData arrowBendDownRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1127,7 +1127,7 @@ class PhosphorIcons {
   /// bold: ![arrow-bend-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-left-down.svg)
   /// fill: ![arrow-bend-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-left-down.svg)
   /// duotone: ![arrow-bend-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-left-down.svg)
-  static PhosphorIconData arrowBendLeftDown(
+  static IconData arrowBendLeftDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1151,7 +1151,7 @@ class PhosphorIcons {
   /// bold: ![arrow-bend-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-left-up.svg)
   /// fill: ![arrow-bend-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-left-up.svg)
   /// duotone: ![arrow-bend-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-left-up.svg)
-  static PhosphorIconData arrowBendLeftUp(
+  static IconData arrowBendLeftUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1175,7 +1175,7 @@ class PhosphorIcons {
   /// bold: ![arrow-bend-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-right-down.svg)
   /// fill: ![arrow-bend-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-right-down.svg)
   /// duotone: ![arrow-bend-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-right-down.svg)
-  static PhosphorIconData arrowBendRightDown(
+  static IconData arrowBendRightDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1199,7 +1199,7 @@ class PhosphorIcons {
   /// bold: ![arrow-bend-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-right-up.svg)
   /// fill: ![arrow-bend-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-right-up.svg)
   /// duotone: ![arrow-bend-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-right-up.svg)
-  static PhosphorIconData arrowBendRightUp(
+  static IconData arrowBendRightUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1223,7 +1223,7 @@ class PhosphorIcons {
   /// bold: ![arrow-bend-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-up-left.svg)
   /// fill: ![arrow-bend-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-up-left.svg)
   /// duotone: ![arrow-bend-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-up-left.svg)
-  static PhosphorIconData arrowBendUpLeft(
+  static IconData arrowBendUpLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1247,7 +1247,7 @@ class PhosphorIcons {
   /// bold: ![arrow-bend-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-up-right.svg)
   /// fill: ![arrow-bend-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-up-right.svg)
   /// duotone: ![arrow-bend-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-up-right.svg)
-  static PhosphorIconData arrowBendUpRight(
+  static IconData arrowBendUpRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1271,7 +1271,7 @@ class PhosphorIcons {
   /// bold: ![arrow-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-down.svg)
   /// fill: ![arrow-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-down.svg)
   /// duotone: ![arrow-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down.svg)
-  static PhosphorIconData arrowCircleDown(
+  static IconData arrowCircleDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1295,7 +1295,7 @@ class PhosphorIcons {
   /// bold: ![arrow-circle-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-down-left.svg)
   /// fill: ![arrow-circle-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-down-left.svg)
   /// duotone: ![arrow-circle-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-left.svg)
-  static PhosphorIconData arrowCircleDownLeft(
+  static IconData arrowCircleDownLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1319,7 +1319,7 @@ class PhosphorIcons {
   /// bold: ![arrow-circle-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-down-right.svg)
   /// fill: ![arrow-circle-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-down-right.svg)
   /// duotone: ![arrow-circle-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-right.svg)
-  static PhosphorIconData arrowCircleDownRight(
+  static IconData arrowCircleDownRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1343,7 +1343,7 @@ class PhosphorIcons {
   /// bold: ![arrow-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-left.svg)
   /// fill: ![arrow-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-left.svg)
   /// duotone: ![arrow-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-left.svg)
-  static PhosphorIconData arrowCircleLeft(
+  static IconData arrowCircleLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1367,7 +1367,7 @@ class PhosphorIcons {
   /// bold: ![arrow-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-right.svg)
   /// fill: ![arrow-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-right.svg)
   /// duotone: ![arrow-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-right.svg)
-  static PhosphorIconData arrowCircleRight(
+  static IconData arrowCircleRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1391,7 +1391,7 @@ class PhosphorIcons {
   /// bold: ![arrow-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-up.svg)
   /// fill: ![arrow-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-up.svg)
   /// duotone: ![arrow-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up.svg)
-  static PhosphorIconData arrowCircleUp(
+  static IconData arrowCircleUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1415,7 +1415,7 @@ class PhosphorIcons {
   /// bold: ![arrow-circle-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-up-left.svg)
   /// fill: ![arrow-circle-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-up-left.svg)
   /// duotone: ![arrow-circle-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-left.svg)
-  static PhosphorIconData arrowCircleUpLeft(
+  static IconData arrowCircleUpLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1439,7 +1439,7 @@ class PhosphorIcons {
   /// bold: ![arrow-circle-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-up-right.svg)
   /// fill: ![arrow-circle-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-up-right.svg)
   /// duotone: ![arrow-circle-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-right.svg)
-  static PhosphorIconData arrowCircleUpRight(
+  static IconData arrowCircleUpRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1463,7 +1463,7 @@ class PhosphorIcons {
   /// bold: ![arrow-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-clockwise.svg)
   /// fill: ![arrow-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-clockwise.svg)
   /// duotone: ![arrow-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-clockwise.svg)
-  static PhosphorIconData arrowClockwise(
+  static IconData arrowClockwise(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1487,7 +1487,7 @@ class PhosphorIcons {
   /// bold: ![arrow-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-counter-clockwise.svg)
   /// fill: ![arrow-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-counter-clockwise.svg)
   /// duotone: ![arrow-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-counter-clockwise.svg)
-  static PhosphorIconData arrowCounterClockwise(
+  static IconData arrowCounterClockwise(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1511,7 +1511,7 @@ class PhosphorIcons {
   /// bold: ![arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-down.svg)
   /// fill: ![arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-down.svg)
   /// duotone: ![arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down.svg)
-  static PhosphorIconData arrowDown(
+  static IconData arrowDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1535,7 +1535,7 @@ class PhosphorIcons {
   /// bold: ![arrow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-down-left.svg)
   /// fill: ![arrow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-down-left.svg)
   /// duotone: ![arrow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-left.svg)
-  static PhosphorIconData arrowDownLeft(
+  static IconData arrowDownLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1559,7 +1559,7 @@ class PhosphorIcons {
   /// bold: ![arrow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-down-right.svg)
   /// fill: ![arrow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-down-right.svg)
   /// duotone: ![arrow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-right.svg)
-  static PhosphorIconData arrowDownRight(
+  static IconData arrowDownRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1583,7 +1583,7 @@ class PhosphorIcons {
   /// bold: ![arrow-elbow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-down-left.svg)
   /// fill: ![arrow-elbow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-down-left.svg)
   /// duotone: ![arrow-elbow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-down-left.svg)
-  static PhosphorIconData arrowElbowDownLeft(
+  static IconData arrowElbowDownLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1607,7 +1607,7 @@ class PhosphorIcons {
   /// bold: ![arrow-elbow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-down-right.svg)
   /// fill: ![arrow-elbow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-down-right.svg)
   /// duotone: ![arrow-elbow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-down-right.svg)
-  static PhosphorIconData arrowElbowDownRight(
+  static IconData arrowElbowDownRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1631,7 +1631,7 @@ class PhosphorIcons {
   /// bold: ![arrow-elbow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-left.svg)
   /// fill: ![arrow-elbow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-left.svg)
   /// duotone: ![arrow-elbow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left.svg)
-  static PhosphorIconData arrowElbowLeft(
+  static IconData arrowElbowLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1655,7 +1655,7 @@ class PhosphorIcons {
   /// bold: ![arrow-elbow-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-left-down.svg)
   /// fill: ![arrow-elbow-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-left-down.svg)
   /// duotone: ![arrow-elbow-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-down.svg)
-  static PhosphorIconData arrowElbowLeftDown(
+  static IconData arrowElbowLeftDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1679,7 +1679,7 @@ class PhosphorIcons {
   /// bold: ![arrow-elbow-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-left-up.svg)
   /// fill: ![arrow-elbow-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-left-up.svg)
   /// duotone: ![arrow-elbow-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-up.svg)
-  static PhosphorIconData arrowElbowLeftUp(
+  static IconData arrowElbowLeftUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1703,7 +1703,7 @@ class PhosphorIcons {
   /// bold: ![arrow-elbow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-right.svg)
   /// fill: ![arrow-elbow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-right.svg)
   /// duotone: ![arrow-elbow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right.svg)
-  static PhosphorIconData arrowElbowRight(
+  static IconData arrowElbowRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1727,7 +1727,7 @@ class PhosphorIcons {
   /// bold: ![arrow-elbow-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-right-down.svg)
   /// fill: ![arrow-elbow-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-right-down.svg)
   /// duotone: ![arrow-elbow-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-down.svg)
-  static PhosphorIconData arrowElbowRightDown(
+  static IconData arrowElbowRightDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1751,7 +1751,7 @@ class PhosphorIcons {
   /// bold: ![arrow-elbow-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-right-up.svg)
   /// fill: ![arrow-elbow-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-right-up.svg)
   /// duotone: ![arrow-elbow-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-up.svg)
-  static PhosphorIconData arrowElbowRightUp(
+  static IconData arrowElbowRightUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1775,7 +1775,7 @@ class PhosphorIcons {
   /// bold: ![arrow-elbow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-up-left.svg)
   /// fill: ![arrow-elbow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-up-left.svg)
   /// duotone: ![arrow-elbow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-up-left.svg)
-  static PhosphorIconData arrowElbowUpLeft(
+  static IconData arrowElbowUpLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1799,7 +1799,7 @@ class PhosphorIcons {
   /// bold: ![arrow-elbow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-up-right.svg)
   /// fill: ![arrow-elbow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-up-right.svg)
   /// duotone: ![arrow-elbow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-up-right.svg)
-  static PhosphorIconData arrowElbowUpRight(
+  static IconData arrowElbowUpRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1823,7 +1823,7 @@ class PhosphorIcons {
   /// bold: ![arrow-fat-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-down.svg)
   /// fill: ![arrow-fat-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-down.svg)
   /// duotone: ![arrow-fat-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-down.svg)
-  static PhosphorIconData arrowFatDown(
+  static IconData arrowFatDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1847,7 +1847,7 @@ class PhosphorIcons {
   /// bold: ![arrow-fat-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-left.svg)
   /// fill: ![arrow-fat-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-left.svg)
   /// duotone: ![arrow-fat-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-left.svg)
-  static PhosphorIconData arrowFatLeft(
+  static IconData arrowFatLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1871,7 +1871,7 @@ class PhosphorIcons {
   /// bold: ![arrow-fat-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-down.svg)
   /// fill: ![arrow-fat-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-line-down.svg)
   /// duotone: ![arrow-fat-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-down.svg)
-  static PhosphorIconData arrowFatLineDown(
+  static IconData arrowFatLineDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1895,7 +1895,7 @@ class PhosphorIcons {
   /// bold: ![arrow-fat-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-left.svg)
   /// fill: ![arrow-fat-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-line-left.svg)
   /// duotone: ![arrow-fat-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-left.svg)
-  static PhosphorIconData arrowFatLineLeft(
+  static IconData arrowFatLineLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1919,7 +1919,7 @@ class PhosphorIcons {
   /// bold: ![arrow-fat-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-right.svg)
   /// fill: ![arrow-fat-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-line-right.svg)
   /// duotone: ![arrow-fat-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-right.svg)
-  static PhosphorIconData arrowFatLineRight(
+  static IconData arrowFatLineRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1943,7 +1943,7 @@ class PhosphorIcons {
   /// bold: ![arrow-fat-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-up.svg)
   /// fill: ![arrow-fat-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-line-up.svg)
   /// duotone: ![arrow-fat-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-up.svg)
-  static PhosphorIconData arrowFatLineUp(
+  static IconData arrowFatLineUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1967,7 +1967,7 @@ class PhosphorIcons {
   /// bold: ![arrow-fat-lines-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-down.svg)
   /// fill: ![arrow-fat-lines-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-lines-down.svg)
   /// duotone: ![arrow-fat-lines-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-down.svg)
-  static PhosphorIconData arrowFatLinesDown(
+  static IconData arrowFatLinesDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -1991,7 +1991,7 @@ class PhosphorIcons {
   /// bold: ![arrow-fat-lines-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-left.svg)
   /// fill: ![arrow-fat-lines-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-lines-left.svg)
   /// duotone: ![arrow-fat-lines-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-left.svg)
-  static PhosphorIconData arrowFatLinesLeft(
+  static IconData arrowFatLinesLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2015,7 +2015,7 @@ class PhosphorIcons {
   /// bold: ![arrow-fat-lines-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-right.svg)
   /// fill: ![arrow-fat-lines-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-lines-right.svg)
   /// duotone: ![arrow-fat-lines-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-right.svg)
-  static PhosphorIconData arrowFatLinesRight(
+  static IconData arrowFatLinesRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2039,7 +2039,7 @@ class PhosphorIcons {
   /// bold: ![arrow-fat-lines-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-up.svg)
   /// fill: ![arrow-fat-lines-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-lines-up.svg)
   /// duotone: ![arrow-fat-lines-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-up.svg)
-  static PhosphorIconData arrowFatLinesUp(
+  static IconData arrowFatLinesUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2063,7 +2063,7 @@ class PhosphorIcons {
   /// bold: ![arrow-fat-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-right.svg)
   /// fill: ![arrow-fat-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-right.svg)
   /// duotone: ![arrow-fat-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-right.svg)
-  static PhosphorIconData arrowFatRight(
+  static IconData arrowFatRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2087,7 +2087,7 @@ class PhosphorIcons {
   /// bold: ![arrow-fat-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-up.svg)
   /// fill: ![arrow-fat-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-up.svg)
   /// duotone: ![arrow-fat-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-up.svg)
-  static PhosphorIconData arrowFatUp(
+  static IconData arrowFatUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2111,7 +2111,7 @@ class PhosphorIcons {
   /// bold: ![arrow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-left.svg)
   /// fill: ![arrow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-left.svg)
   /// duotone: ![arrow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-left.svg)
-  static PhosphorIconData arrowLeft(
+  static IconData arrowLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2135,7 +2135,7 @@ class PhosphorIcons {
   /// bold: ![arrow-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-down.svg)
   /// fill: ![arrow-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-down.svg)
   /// duotone: ![arrow-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down.svg)
-  static PhosphorIconData arrowLineDown(
+  static IconData arrowLineDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2159,7 +2159,7 @@ class PhosphorIcons {
   /// bold: ![arrow-line-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-down-left.svg)
   /// fill: ![arrow-line-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-down-left.svg)
   /// duotone: ![arrow-line-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-left.svg)
-  static PhosphorIconData arrowLineDownLeft(
+  static IconData arrowLineDownLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2183,7 +2183,7 @@ class PhosphorIcons {
   /// bold: ![arrow-line-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-down-right.svg)
   /// fill: ![arrow-line-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-down-right.svg)
   /// duotone: ![arrow-line-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-right.svg)
-  static PhosphorIconData arrowLineDownRight(
+  static IconData arrowLineDownRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2207,7 +2207,7 @@ class PhosphorIcons {
   /// bold: ![arrow-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-left.svg)
   /// fill: ![arrow-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-left.svg)
   /// duotone: ![arrow-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-left.svg)
-  static PhosphorIconData arrowLineLeft(
+  static IconData arrowLineLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2231,7 +2231,7 @@ class PhosphorIcons {
   /// bold: ![arrow-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-right.svg)
   /// fill: ![arrow-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-right.svg)
   /// duotone: ![arrow-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-right.svg)
-  static PhosphorIconData arrowLineRight(
+  static IconData arrowLineRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2255,7 +2255,7 @@ class PhosphorIcons {
   /// bold: ![arrow-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-up.svg)
   /// fill: ![arrow-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-up.svg)
   /// duotone: ![arrow-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up.svg)
-  static PhosphorIconData arrowLineUp(
+  static IconData arrowLineUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2279,7 +2279,7 @@ class PhosphorIcons {
   /// bold: ![arrow-line-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-up-left.svg)
   /// fill: ![arrow-line-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-up-left.svg)
   /// duotone: ![arrow-line-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-left.svg)
-  static PhosphorIconData arrowLineUpLeft(
+  static IconData arrowLineUpLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2303,7 +2303,7 @@ class PhosphorIcons {
   /// bold: ![arrow-line-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-up-right.svg)
   /// fill: ![arrow-line-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-up-right.svg)
   /// duotone: ![arrow-line-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-right.svg)
-  static PhosphorIconData arrowLineUpRight(
+  static IconData arrowLineUpRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2327,7 +2327,7 @@ class PhosphorIcons {
   /// bold: ![arrow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-right.svg)
   /// fill: ![arrow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-right.svg)
   /// duotone: ![arrow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-right.svg)
-  static PhosphorIconData arrowRight(
+  static IconData arrowRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2351,7 +2351,7 @@ class PhosphorIcons {
   /// bold: ![arrow-square-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-down.svg)
   /// fill: ![arrow-square-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-down.svg)
   /// duotone: ![arrow-square-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down.svg)
-  static PhosphorIconData arrowSquareDown(
+  static IconData arrowSquareDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2375,7 +2375,7 @@ class PhosphorIcons {
   /// bold: ![arrow-square-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-down-left.svg)
   /// fill: ![arrow-square-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-down-left.svg)
   /// duotone: ![arrow-square-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-left.svg)
-  static PhosphorIconData arrowSquareDownLeft(
+  static IconData arrowSquareDownLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2399,7 +2399,7 @@ class PhosphorIcons {
   /// bold: ![arrow-square-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-down-right.svg)
   /// fill: ![arrow-square-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-down-right.svg)
   /// duotone: ![arrow-square-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-right.svg)
-  static PhosphorIconData arrowSquareDownRight(
+  static IconData arrowSquareDownRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2423,7 +2423,7 @@ class PhosphorIcons {
   /// bold: ![arrow-square-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-in.svg)
   /// fill: ![arrow-square-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-in.svg)
   /// duotone: ![arrow-square-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-in.svg)
-  static PhosphorIconData arrowSquareIn(
+  static IconData arrowSquareIn(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2447,7 +2447,7 @@ class PhosphorIcons {
   /// bold: ![arrow-square-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-left.svg)
   /// fill: ![arrow-square-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-left.svg)
   /// duotone: ![arrow-square-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-left.svg)
-  static PhosphorIconData arrowSquareLeft(
+  static IconData arrowSquareLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2471,7 +2471,7 @@ class PhosphorIcons {
   /// bold: ![arrow-square-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-out.svg)
   /// fill: ![arrow-square-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-out.svg)
   /// duotone: ![arrow-square-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-out.svg)
-  static PhosphorIconData arrowSquareOut(
+  static IconData arrowSquareOut(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2495,7 +2495,7 @@ class PhosphorIcons {
   /// bold: ![arrow-square-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-right.svg)
   /// fill: ![arrow-square-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-right.svg)
   /// duotone: ![arrow-square-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-right.svg)
-  static PhosphorIconData arrowSquareRight(
+  static IconData arrowSquareRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2519,7 +2519,7 @@ class PhosphorIcons {
   /// bold: ![arrow-square-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-up.svg)
   /// fill: ![arrow-square-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-up.svg)
   /// duotone: ![arrow-square-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up.svg)
-  static PhosphorIconData arrowSquareUp(
+  static IconData arrowSquareUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2543,7 +2543,7 @@ class PhosphorIcons {
   /// bold: ![arrow-square-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-up-left.svg)
   /// fill: ![arrow-square-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-up-left.svg)
   /// duotone: ![arrow-square-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-left.svg)
-  static PhosphorIconData arrowSquareUpLeft(
+  static IconData arrowSquareUpLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2567,7 +2567,7 @@ class PhosphorIcons {
   /// bold: ![arrow-square-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-up-right.svg)
   /// fill: ![arrow-square-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-up-right.svg)
   /// duotone: ![arrow-square-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-right.svg)
-  static PhosphorIconData arrowSquareUpRight(
+  static IconData arrowSquareUpRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2591,7 +2591,7 @@ class PhosphorIcons {
   /// bold: ![arrow-u-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-down-left.svg)
   /// fill: ![arrow-u-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-down-left.svg)
   /// duotone: ![arrow-u-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-down-left.svg)
-  static PhosphorIconData arrowUDownLeft(
+  static IconData arrowUDownLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2615,7 +2615,7 @@ class PhosphorIcons {
   /// bold: ![arrow-u-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-down-right.svg)
   /// fill: ![arrow-u-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-down-right.svg)
   /// duotone: ![arrow-u-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-down-right.svg)
-  static PhosphorIconData arrowUDownRight(
+  static IconData arrowUDownRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2639,7 +2639,7 @@ class PhosphorIcons {
   /// bold: ![arrow-u-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-left-down.svg)
   /// fill: ![arrow-u-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-left-down.svg)
   /// duotone: ![arrow-u-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-left-down.svg)
-  static PhosphorIconData arrowULeftDown(
+  static IconData arrowULeftDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2663,7 +2663,7 @@ class PhosphorIcons {
   /// bold: ![arrow-u-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-left-up.svg)
   /// fill: ![arrow-u-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-left-up.svg)
   /// duotone: ![arrow-u-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-left-up.svg)
-  static PhosphorIconData arrowULeftUp(
+  static IconData arrowULeftUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2687,7 +2687,7 @@ class PhosphorIcons {
   /// bold: ![arrow-u-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-right-down.svg)
   /// fill: ![arrow-u-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-right-down.svg)
   /// duotone: ![arrow-u-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-right-down.svg)
-  static PhosphorIconData arrowURightDown(
+  static IconData arrowURightDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2711,7 +2711,7 @@ class PhosphorIcons {
   /// bold: ![arrow-u-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-right-up.svg)
   /// fill: ![arrow-u-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-right-up.svg)
   /// duotone: ![arrow-u-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-right-up.svg)
-  static PhosphorIconData arrowURightUp(
+  static IconData arrowURightUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2735,7 +2735,7 @@ class PhosphorIcons {
   /// bold: ![arrow-u-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-up-left.svg)
   /// fill: ![arrow-u-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-up-left.svg)
   /// duotone: ![arrow-u-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-up-left.svg)
-  static PhosphorIconData arrowUUpLeft(
+  static IconData arrowUUpLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2759,7 +2759,7 @@ class PhosphorIcons {
   /// bold: ![arrow-u-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-up-right.svg)
   /// fill: ![arrow-u-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-up-right.svg)
   /// duotone: ![arrow-u-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-up-right.svg)
-  static PhosphorIconData arrowUUpRight(
+  static IconData arrowUUpRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2783,7 +2783,7 @@ class PhosphorIcons {
   /// bold: ![arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-up.svg)
   /// fill: ![arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-up.svg)
   /// duotone: ![arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up.svg)
-  static PhosphorIconData arrowUp(
+  static IconData arrowUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2807,7 +2807,7 @@ class PhosphorIcons {
   /// bold: ![arrow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-up-left.svg)
   /// fill: ![arrow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-up-left.svg)
   /// duotone: ![arrow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-left.svg)
-  static PhosphorIconData arrowUpLeft(
+  static IconData arrowUpLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2831,7 +2831,7 @@ class PhosphorIcons {
   /// bold: ![arrow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-up-right.svg)
   /// fill: ![arrow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-up-right.svg)
   /// duotone: ![arrow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-right.svg)
-  static PhosphorIconData arrowUpRight(
+  static IconData arrowUpRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2855,7 +2855,7 @@ class PhosphorIcons {
   /// bold: ![arrows-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-clockwise.svg)
   /// fill: ![arrows-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-clockwise.svg)
   /// duotone: ![arrows-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-clockwise.svg)
-  static PhosphorIconData arrowsClockwise(
+  static IconData arrowsClockwise(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2879,7 +2879,7 @@ class PhosphorIcons {
   /// bold: ![arrows-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-counter-clockwise.svg)
   /// fill: ![arrows-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-counter-clockwise.svg)
   /// duotone: ![arrows-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-counter-clockwise.svg)
-  static PhosphorIconData arrowsCounterClockwise(
+  static IconData arrowsCounterClockwise(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2903,7 +2903,7 @@ class PhosphorIcons {
   /// bold: ![arrows-down-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-down-up.svg)
   /// fill: ![arrows-down-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-down-up.svg)
   /// duotone: ![arrows-down-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-down-up.svg)
-  static PhosphorIconData arrowsDownUp(
+  static IconData arrowsDownUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2927,7 +2927,7 @@ class PhosphorIcons {
   /// bold: ![arrows-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-horizontal.svg)
   /// fill: ![arrows-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-horizontal.svg)
   /// duotone: ![arrows-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-horizontal.svg)
-  static PhosphorIconData arrowsHorizontal(
+  static IconData arrowsHorizontal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2951,7 +2951,7 @@ class PhosphorIcons {
   /// bold: ![arrows-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in.svg)
   /// fill: ![arrows-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-in.svg)
   /// duotone: ![arrows-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in.svg)
-  static PhosphorIconData arrowsIn(
+  static IconData arrowsIn(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2975,7 +2975,7 @@ class PhosphorIcons {
   /// bold: ![arrows-in-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-cardinal.svg)
   /// fill: ![arrows-in-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-in-cardinal.svg)
   /// duotone: ![arrows-in-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-cardinal.svg)
-  static PhosphorIconData arrowsInCardinal(
+  static IconData arrowsInCardinal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -2999,7 +2999,7 @@ class PhosphorIcons {
   /// bold: ![arrows-in-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-line-horizontal.svg)
   /// fill: ![arrows-in-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-in-line-horizontal.svg)
   /// duotone: ![arrows-in-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-line-horizontal.svg)
-  static PhosphorIconData arrowsInLineHorizontal(
+  static IconData arrowsInLineHorizontal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3023,7 +3023,7 @@ class PhosphorIcons {
   /// bold: ![arrows-in-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-line-vertical.svg)
   /// fill: ![arrows-in-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-in-line-vertical.svg)
   /// duotone: ![arrows-in-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-line-vertical.svg)
-  static PhosphorIconData arrowsInLineVertical(
+  static IconData arrowsInLineVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3047,7 +3047,7 @@ class PhosphorIcons {
   /// bold: ![arrows-in-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-simple.svg)
   /// fill: ![arrows-in-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-in-simple.svg)
   /// duotone: ![arrows-in-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-simple.svg)
-  static PhosphorIconData arrowsInSimple(
+  static IconData arrowsInSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3071,7 +3071,7 @@ class PhosphorIcons {
   /// bold: ![arrows-left-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-left-right.svg)
   /// fill: ![arrows-left-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-left-right.svg)
   /// duotone: ![arrows-left-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-left-right.svg)
-  static PhosphorIconData arrowsLeftRight(
+  static IconData arrowsLeftRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3095,7 +3095,7 @@ class PhosphorIcons {
   /// bold: ![arrows-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-merge.svg)
   /// fill: ![arrows-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-merge.svg)
   /// duotone: ![arrows-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-merge.svg)
-  static PhosphorIconData arrowsMerge(
+  static IconData arrowsMerge(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3119,7 +3119,7 @@ class PhosphorIcons {
   /// bold: ![arrows-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out.svg)
   /// fill: ![arrows-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-out.svg)
   /// duotone: ![arrows-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out.svg)
-  static PhosphorIconData arrowsOut(
+  static IconData arrowsOut(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3143,7 +3143,7 @@ class PhosphorIcons {
   /// bold: ![arrows-out-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-cardinal.svg)
   /// fill: ![arrows-out-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-out-cardinal.svg)
   /// duotone: ![arrows-out-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-cardinal.svg)
-  static PhosphorIconData arrowsOutCardinal(
+  static IconData arrowsOutCardinal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3167,7 +3167,7 @@ class PhosphorIcons {
   /// bold: ![arrows-out-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-line-horizontal.svg)
   /// fill: ![arrows-out-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-out-line-horizontal.svg)
   /// duotone: ![arrows-out-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-line-horizontal.svg)
-  static PhosphorIconData arrowsOutLineHorizontal(
+  static IconData arrowsOutLineHorizontal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3191,7 +3191,7 @@ class PhosphorIcons {
   /// bold: ![arrows-out-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-line-vertical.svg)
   /// fill: ![arrows-out-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-out-line-vertical.svg)
   /// duotone: ![arrows-out-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-line-vertical.svg)
-  static PhosphorIconData arrowsOutLineVertical(
+  static IconData arrowsOutLineVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3215,7 +3215,7 @@ class PhosphorIcons {
   /// bold: ![arrows-out-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-simple.svg)
   /// fill: ![arrows-out-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-out-simple.svg)
   /// duotone: ![arrows-out-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-simple.svg)
-  static PhosphorIconData arrowsOutSimple(
+  static IconData arrowsOutSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3239,7 +3239,7 @@ class PhosphorIcons {
   /// bold: ![arrows-split](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-split.svg)
   /// fill: ![arrows-split](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-split.svg)
   /// duotone: ![arrows-split](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-split.svg)
-  static PhosphorIconData arrowsSplit(
+  static IconData arrowsSplit(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3263,7 +3263,7 @@ class PhosphorIcons {
   /// bold: ![arrows-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-vertical.svg)
   /// fill: ![arrows-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-vertical.svg)
   /// duotone: ![arrows-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-vertical.svg)
-  static PhosphorIconData arrowsVertical(
+  static IconData arrowsVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3287,7 +3287,7 @@ class PhosphorIcons {
   /// bold: ![article](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/article.svg)
   /// fill: ![article](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/article.svg)
   /// duotone: ![article](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article.svg)
-  static PhosphorIconData article(
+  static IconData article(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3311,7 +3311,7 @@ class PhosphorIcons {
   /// bold: ![article-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/article-medium.svg)
   /// fill: ![article-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/article-medium.svg)
   /// duotone: ![article-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-medium.svg)
-  static PhosphorIconData articleMedium(
+  static IconData articleMedium(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3335,7 +3335,7 @@ class PhosphorIcons {
   /// bold: ![article-ny-times](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/article-ny-times.svg)
   /// fill: ![article-ny-times](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/article-ny-times.svg)
   /// duotone: ![article-ny-times](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-ny-times.svg)
-  static PhosphorIconData articleNyTimes(
+  static IconData articleNyTimes(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3359,7 +3359,7 @@ class PhosphorIcons {
   /// bold: ![asclepius](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/asclepius.svg)
   /// fill: ![asclepius](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/asclepius.svg)
   /// duotone: ![asclepius](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asclepius.svg)
-  static PhosphorIconData asclepius(
+  static IconData asclepius(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3383,7 +3383,7 @@ class PhosphorIcons {
   /// bold: ![asterisk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/asterisk.svg)
   /// fill: ![asterisk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/asterisk.svg)
   /// duotone: ![asterisk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asterisk.svg)
-  static PhosphorIconData asterisk(
+  static IconData asterisk(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3407,7 +3407,7 @@ class PhosphorIcons {
   /// bold: ![asterisk-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/asterisk-simple.svg)
   /// fill: ![asterisk-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/asterisk-simple.svg)
   /// duotone: ![asterisk-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asterisk-simple.svg)
-  static PhosphorIconData asteriskSimple(
+  static IconData asteriskSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3431,8 +3431,7 @@ class PhosphorIcons {
   /// bold: ![at](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/at.svg)
   /// fill: ![at](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/at.svg)
   /// duotone: ![at](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/at.svg)
-  static PhosphorIconData at(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData at([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.at;
@@ -3455,7 +3454,7 @@ class PhosphorIcons {
   /// bold: ![atom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/atom.svg)
   /// fill: ![atom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/atom.svg)
   /// duotone: ![atom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/atom.svg)
-  static PhosphorIconData atom(
+  static IconData atom(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3479,7 +3478,7 @@ class PhosphorIcons {
   /// bold: ![avocado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/avocado.svg)
   /// fill: ![avocado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/avocado.svg)
   /// duotone: ![avocado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/avocado.svg)
-  static PhosphorIconData avocado(
+  static IconData avocado(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3503,8 +3502,7 @@ class PhosphorIcons {
   /// bold: ![axe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/axe.svg)
   /// fill: ![axe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/axe.svg)
   /// duotone: ![axe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/axe.svg)
-  static PhosphorIconData axe(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData axe([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.axe;
@@ -3527,7 +3525,7 @@ class PhosphorIcons {
   /// bold: ![baby](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baby.svg)
   /// fill: ![baby](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/baby.svg)
   /// duotone: ![baby](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baby.svg)
-  static PhosphorIconData baby(
+  static IconData baby(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3551,7 +3549,7 @@ class PhosphorIcons {
   /// bold: ![baby-carriage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baby-carriage.svg)
   /// fill: ![baby-carriage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/baby-carriage.svg)
   /// duotone: ![baby-carriage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baby-carriage.svg)
-  static PhosphorIconData babyCarriage(
+  static IconData babyCarriage(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3575,7 +3573,7 @@ class PhosphorIcons {
   /// bold: ![backpack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/backpack.svg)
   /// fill: ![backpack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/backpack.svg)
   /// duotone: ![backpack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/backpack.svg)
-  static PhosphorIconData backpack(
+  static IconData backpack(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3599,7 +3597,7 @@ class PhosphorIcons {
   /// bold: ![backspace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/backspace.svg)
   /// fill: ![backspace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/backspace.svg)
   /// duotone: ![backspace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/backspace.svg)
-  static PhosphorIconData backspace(
+  static IconData backspace(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3623,8 +3621,7 @@ class PhosphorIcons {
   /// bold: ![bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bag.svg)
   /// fill: ![bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bag.svg)
   /// duotone: ![bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bag.svg)
-  static PhosphorIconData bag(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData bag([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.bag;
@@ -3647,7 +3644,7 @@ class PhosphorIcons {
   /// bold: ![bag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bag-simple.svg)
   /// fill: ![bag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bag-simple.svg)
   /// duotone: ![bag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bag-simple.svg)
-  static PhosphorIconData bagSimple(
+  static IconData bagSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3671,7 +3668,7 @@ class PhosphorIcons {
   /// bold: ![balloon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/balloon.svg)
   /// fill: ![balloon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/balloon.svg)
   /// duotone: ![balloon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/balloon.svg)
-  static PhosphorIconData balloon(
+  static IconData balloon(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3695,7 +3692,7 @@ class PhosphorIcons {
   /// bold: ![bandaids](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bandaids.svg)
   /// fill: ![bandaids](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bandaids.svg)
   /// duotone: ![bandaids](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bandaids.svg)
-  static PhosphorIconData bandaids(
+  static IconData bandaids(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3719,7 +3716,7 @@ class PhosphorIcons {
   /// bold: ![bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bank.svg)
   /// fill: ![bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bank.svg)
   /// duotone: ![bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bank.svg)
-  static PhosphorIconData bank(
+  static IconData bank(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3743,7 +3740,7 @@ class PhosphorIcons {
   /// bold: ![barbell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barbell.svg)
   /// fill: ![barbell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/barbell.svg)
   /// duotone: ![barbell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barbell.svg)
-  static PhosphorIconData barbell(
+  static IconData barbell(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3767,7 +3764,7 @@ class PhosphorIcons {
   /// bold: ![barcode](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barcode.svg)
   /// fill: ![barcode](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/barcode.svg)
   /// duotone: ![barcode](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barcode.svg)
-  static PhosphorIconData barcode(
+  static IconData barcode(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3791,7 +3788,7 @@ class PhosphorIcons {
   /// bold: ![barn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barn.svg)
   /// fill: ![barn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/barn.svg)
   /// duotone: ![barn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barn.svg)
-  static PhosphorIconData barn(
+  static IconData barn(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3815,7 +3812,7 @@ class PhosphorIcons {
   /// bold: ![barricade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barricade.svg)
   /// fill: ![barricade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/barricade.svg)
   /// duotone: ![barricade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barricade.svg)
-  static PhosphorIconData barricade(
+  static IconData barricade(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3839,7 +3836,7 @@ class PhosphorIcons {
   /// bold: ![baseball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baseball.svg)
   /// fill: ![baseball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/baseball.svg)
   /// duotone: ![baseball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball.svg)
-  static PhosphorIconData baseball(
+  static IconData baseball(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3863,7 +3860,7 @@ class PhosphorIcons {
   /// bold: ![baseball-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baseball-cap.svg)
   /// fill: ![baseball-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/baseball-cap.svg)
   /// duotone: ![baseball-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-cap.svg)
-  static PhosphorIconData baseballCap(
+  static IconData baseballCap(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3887,7 +3884,7 @@ class PhosphorIcons {
   /// bold: ![baseball-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baseball-helmet.svg)
   /// fill: ![baseball-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/baseball-helmet.svg)
   /// duotone: ![baseball-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-helmet.svg)
-  static PhosphorIconData baseballHelmet(
+  static IconData baseballHelmet(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3911,7 +3908,7 @@ class PhosphorIcons {
   /// bold: ![basket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/basket.svg)
   /// fill: ![basket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/basket.svg)
   /// duotone: ![basket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/basket.svg)
-  static PhosphorIconData basket(
+  static IconData basket(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3935,7 +3932,7 @@ class PhosphorIcons {
   /// bold: ![basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/basketball.svg)
   /// fill: ![basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/basketball.svg)
   /// duotone: ![basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/basketball.svg)
-  static PhosphorIconData basketball(
+  static IconData basketball(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3959,7 +3956,7 @@ class PhosphorIcons {
   /// bold: ![bathtub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bathtub.svg)
   /// fill: ![bathtub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bathtub.svg)
   /// duotone: ![bathtub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bathtub.svg)
-  static PhosphorIconData bathtub(
+  static IconData bathtub(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -3983,7 +3980,7 @@ class PhosphorIcons {
   /// bold: ![battery-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-charging.svg)
   /// fill: ![battery-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-charging.svg)
   /// duotone: ![battery-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-charging.svg)
-  static PhosphorIconData batteryCharging(
+  static IconData batteryCharging(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4007,7 +4004,7 @@ class PhosphorIcons {
   /// bold: ![battery-charging-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-charging-vertical.svg)
   /// fill: ![battery-charging-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-charging-vertical.svg)
   /// duotone: ![battery-charging-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-charging-vertical.svg)
-  static PhosphorIconData batteryChargingVertical(
+  static IconData batteryChargingVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4031,7 +4028,7 @@ class PhosphorIcons {
   /// bold: ![battery-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-empty.svg)
   /// fill: ![battery-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-empty.svg)
   /// duotone: ![battery-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-empty.svg)
-  static PhosphorIconData batteryEmpty(
+  static IconData batteryEmpty(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4055,7 +4052,7 @@ class PhosphorIcons {
   /// bold: ![battery-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-full.svg)
   /// fill: ![battery-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-full.svg)
   /// duotone: ![battery-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-full.svg)
-  static PhosphorIconData batteryFull(
+  static IconData batteryFull(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4079,7 +4076,7 @@ class PhosphorIcons {
   /// bold: ![battery-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-high.svg)
   /// fill: ![battery-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-high.svg)
   /// duotone: ![battery-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-high.svg)
-  static PhosphorIconData batteryHigh(
+  static IconData batteryHigh(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4103,7 +4100,7 @@ class PhosphorIcons {
   /// bold: ![battery-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-low.svg)
   /// fill: ![battery-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-low.svg)
   /// duotone: ![battery-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-low.svg)
-  static PhosphorIconData batteryLow(
+  static IconData batteryLow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4127,7 +4124,7 @@ class PhosphorIcons {
   /// bold: ![battery-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-medium.svg)
   /// fill: ![battery-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-medium.svg)
   /// duotone: ![battery-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-medium.svg)
-  static PhosphorIconData batteryMedium(
+  static IconData batteryMedium(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4151,7 +4148,7 @@ class PhosphorIcons {
   /// bold: ![battery-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-plus.svg)
   /// fill: ![battery-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-plus.svg)
   /// duotone: ![battery-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-plus.svg)
-  static PhosphorIconData batteryPlus(
+  static IconData batteryPlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4175,7 +4172,7 @@ class PhosphorIcons {
   /// bold: ![battery-plus-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-plus-vertical.svg)
   /// fill: ![battery-plus-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-plus-vertical.svg)
   /// duotone: ![battery-plus-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-plus-vertical.svg)
-  static PhosphorIconData batteryPlusVertical(
+  static IconData batteryPlusVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4199,7 +4196,7 @@ class PhosphorIcons {
   /// bold: ![battery-vertical-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-empty.svg)
   /// fill: ![battery-vertical-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-vertical-empty.svg)
   /// duotone: ![battery-vertical-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-empty.svg)
-  static PhosphorIconData batteryVerticalEmpty(
+  static IconData batteryVerticalEmpty(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4223,7 +4220,7 @@ class PhosphorIcons {
   /// bold: ![battery-vertical-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-full.svg)
   /// fill: ![battery-vertical-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-vertical-full.svg)
   /// duotone: ![battery-vertical-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-full.svg)
-  static PhosphorIconData batteryVerticalFull(
+  static IconData batteryVerticalFull(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4247,7 +4244,7 @@ class PhosphorIcons {
   /// bold: ![battery-vertical-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-high.svg)
   /// fill: ![battery-vertical-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-vertical-high.svg)
   /// duotone: ![battery-vertical-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-high.svg)
-  static PhosphorIconData batteryVerticalHigh(
+  static IconData batteryVerticalHigh(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4271,7 +4268,7 @@ class PhosphorIcons {
   /// bold: ![battery-vertical-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-low.svg)
   /// fill: ![battery-vertical-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-vertical-low.svg)
   /// duotone: ![battery-vertical-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-low.svg)
-  static PhosphorIconData batteryVerticalLow(
+  static IconData batteryVerticalLow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4295,7 +4292,7 @@ class PhosphorIcons {
   /// bold: ![battery-vertical-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-medium.svg)
   /// fill: ![battery-vertical-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-vertical-medium.svg)
   /// duotone: ![battery-vertical-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-medium.svg)
-  static PhosphorIconData batteryVerticalMedium(
+  static IconData batteryVerticalMedium(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4319,7 +4316,7 @@ class PhosphorIcons {
   /// bold: ![battery-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-warning.svg)
   /// fill: ![battery-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-warning.svg)
   /// duotone: ![battery-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-warning.svg)
-  static PhosphorIconData batteryWarning(
+  static IconData batteryWarning(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4343,7 +4340,7 @@ class PhosphorIcons {
   /// bold: ![battery-warning-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-warning-vertical.svg)
   /// fill: ![battery-warning-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-warning-vertical.svg)
   /// duotone: ![battery-warning-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-warning-vertical.svg)
-  static PhosphorIconData batteryWarningVertical(
+  static IconData batteryWarningVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4367,7 +4364,7 @@ class PhosphorIcons {
   /// bold: ![beach-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beach-ball.svg)
   /// fill: ![beach-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/beach-ball.svg)
   /// duotone: ![beach-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beach-ball.svg)
-  static PhosphorIconData beachBall(
+  static IconData beachBall(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4391,7 +4388,7 @@ class PhosphorIcons {
   /// bold: ![beanie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beanie.svg)
   /// fill: ![beanie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/beanie.svg)
   /// duotone: ![beanie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beanie.svg)
-  static PhosphorIconData beanie(
+  static IconData beanie(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4415,8 +4412,7 @@ class PhosphorIcons {
   /// bold: ![bed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bed.svg)
   /// fill: ![bed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bed.svg)
   /// duotone: ![bed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bed.svg)
-  static PhosphorIconData bed(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData bed([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.bed;
@@ -4439,7 +4435,7 @@ class PhosphorIcons {
   /// bold: ![beer-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beer-bottle.svg)
   /// fill: ![beer-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/beer-bottle.svg)
   /// duotone: ![beer-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beer-bottle.svg)
-  static PhosphorIconData beerBottle(
+  static IconData beerBottle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4463,7 +4459,7 @@ class PhosphorIcons {
   /// bold: ![beer-stein](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beer-stein.svg)
   /// fill: ![beer-stein](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/beer-stein.svg)
   /// duotone: ![beer-stein](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beer-stein.svg)
-  static PhosphorIconData beerStein(
+  static IconData beerStein(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4487,7 +4483,7 @@ class PhosphorIcons {
   /// bold: ![behance-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/behance-logo.svg)
   /// fill: ![behance-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/behance-logo.svg)
   /// duotone: ![behance-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/behance-logo.svg)
-  static PhosphorIconData behanceLogo(
+  static IconData behanceLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4511,7 +4507,7 @@ class PhosphorIcons {
   /// bold: ![bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell.svg)
   /// fill: ![bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell.svg)
   /// duotone: ![bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell.svg)
-  static PhosphorIconData bell(
+  static IconData bell(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4535,7 +4531,7 @@ class PhosphorIcons {
   /// bold: ![bell-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-ringing.svg)
   /// fill: ![bell-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-ringing.svg)
   /// duotone: ![bell-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-ringing.svg)
-  static PhosphorIconData bellRinging(
+  static IconData bellRinging(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4559,7 +4555,7 @@ class PhosphorIcons {
   /// bold: ![bell-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple.svg)
   /// fill: ![bell-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-simple.svg)
   /// duotone: ![bell-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple.svg)
-  static PhosphorIconData bellSimple(
+  static IconData bellSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4583,7 +4579,7 @@ class PhosphorIcons {
   /// bold: ![bell-simple-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple-ringing.svg)
   /// fill: ![bell-simple-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-simple-ringing.svg)
   /// duotone: ![bell-simple-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-ringing.svg)
-  static PhosphorIconData bellSimpleRinging(
+  static IconData bellSimpleRinging(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4607,7 +4603,7 @@ class PhosphorIcons {
   /// bold: ![bell-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple-slash.svg)
   /// fill: ![bell-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-simple-slash.svg)
   /// duotone: ![bell-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-slash.svg)
-  static PhosphorIconData bellSimpleSlash(
+  static IconData bellSimpleSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4631,7 +4627,7 @@ class PhosphorIcons {
   /// bold: ![bell-simple-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple-z.svg)
   /// fill: ![bell-simple-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-simple-z.svg)
   /// duotone: ![bell-simple-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-z.svg)
-  static PhosphorIconData bellSimpleZ(
+  static IconData bellSimpleZ(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4655,7 +4651,7 @@ class PhosphorIcons {
   /// bold: ![bell-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-slash.svg)
   /// fill: ![bell-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-slash.svg)
   /// duotone: ![bell-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-slash.svg)
-  static PhosphorIconData bellSlash(
+  static IconData bellSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4679,7 +4675,7 @@ class PhosphorIcons {
   /// bold: ![bell-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-z.svg)
   /// fill: ![bell-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-z.svg)
   /// duotone: ![bell-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-z.svg)
-  static PhosphorIconData bellZ(
+  static IconData bellZ(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4703,7 +4699,7 @@ class PhosphorIcons {
   /// bold: ![belt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/belt.svg)
   /// fill: ![belt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/belt.svg)
   /// duotone: ![belt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/belt.svg)
-  static PhosphorIconData belt(
+  static IconData belt(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4727,7 +4723,7 @@ class PhosphorIcons {
   /// bold: ![bezier-curve](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bezier-curve.svg)
   /// fill: ![bezier-curve](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bezier-curve.svg)
   /// duotone: ![bezier-curve](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bezier-curve.svg)
-  static PhosphorIconData bezierCurve(
+  static IconData bezierCurve(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4751,7 +4747,7 @@ class PhosphorIcons {
   /// bold: ![bicycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bicycle.svg)
   /// fill: ![bicycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bicycle.svg)
   /// duotone: ![bicycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bicycle.svg)
-  static PhosphorIconData bicycle(
+  static IconData bicycle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4775,7 +4771,7 @@ class PhosphorIcons {
   /// bold: ![binary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/binary.svg)
   /// fill: ![binary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/binary.svg)
   /// duotone: ![binary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/binary.svg)
-  static PhosphorIconData binary(
+  static IconData binary(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4799,7 +4795,7 @@ class PhosphorIcons {
   /// bold: ![binoculars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/binoculars.svg)
   /// fill: ![binoculars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/binoculars.svg)
   /// duotone: ![binoculars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/binoculars.svg)
-  static PhosphorIconData binoculars(
+  static IconData binoculars(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4823,7 +4819,7 @@ class PhosphorIcons {
   /// bold: ![biohazard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/biohazard.svg)
   /// fill: ![biohazard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/biohazard.svg)
   /// duotone: ![biohazard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/biohazard.svg)
-  static PhosphorIconData biohazard(
+  static IconData biohazard(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4847,7 +4843,7 @@ class PhosphorIcons {
   /// bold: ![bird](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bird.svg)
   /// fill: ![bird](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bird.svg)
   /// duotone: ![bird](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bird.svg)
-  static PhosphorIconData bird(
+  static IconData bird(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4871,7 +4867,7 @@ class PhosphorIcons {
   /// bold: ![blueprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/blueprint.svg)
   /// fill: ![blueprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/blueprint.svg)
   /// duotone: ![blueprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/blueprint.svg)
-  static PhosphorIconData blueprint(
+  static IconData blueprint(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4895,7 +4891,7 @@ class PhosphorIcons {
   /// bold: ![bluetooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth.svg)
   /// fill: ![bluetooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bluetooth.svg)
   /// duotone: ![bluetooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth.svg)
-  static PhosphorIconData bluetooth(
+  static IconData bluetooth(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4919,7 +4915,7 @@ class PhosphorIcons {
   /// bold: ![bluetooth-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth-connected.svg)
   /// fill: ![bluetooth-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bluetooth-connected.svg)
   /// duotone: ![bluetooth-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-connected.svg)
-  static PhosphorIconData bluetoothConnected(
+  static IconData bluetoothConnected(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4943,7 +4939,7 @@ class PhosphorIcons {
   /// bold: ![bluetooth-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth-slash.svg)
   /// fill: ![bluetooth-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bluetooth-slash.svg)
   /// duotone: ![bluetooth-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-slash.svg)
-  static PhosphorIconData bluetoothSlash(
+  static IconData bluetoothSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4967,7 +4963,7 @@ class PhosphorIcons {
   /// bold: ![bluetooth-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth-x.svg)
   /// fill: ![bluetooth-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bluetooth-x.svg)
   /// duotone: ![bluetooth-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-x.svg)
-  static PhosphorIconData bluetoothX(
+  static IconData bluetoothX(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -4991,7 +4987,7 @@ class PhosphorIcons {
   /// bold: ![boat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boat.svg)
   /// fill: ![boat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/boat.svg)
   /// duotone: ![boat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boat.svg)
-  static PhosphorIconData boat(
+  static IconData boat(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5015,7 +5011,7 @@ class PhosphorIcons {
   /// bold: ![bomb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bomb.svg)
   /// fill: ![bomb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bomb.svg)
   /// duotone: ![bomb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bomb.svg)
-  static PhosphorIconData bomb(
+  static IconData bomb(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5039,7 +5035,7 @@ class PhosphorIcons {
   /// bold: ![bone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bone.svg)
   /// fill: ![bone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bone.svg)
   /// duotone: ![bone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bone.svg)
-  static PhosphorIconData bone(
+  static IconData bone(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5063,7 +5059,7 @@ class PhosphorIcons {
   /// bold: ![book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book.svg)
   /// fill: ![book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/book.svg)
   /// duotone: ![book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book.svg)
-  static PhosphorIconData book(
+  static IconData book(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5087,7 +5083,7 @@ class PhosphorIcons {
   /// bold: ![book-bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-bookmark.svg)
   /// fill: ![book-bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/book-bookmark.svg)
   /// duotone: ![book-bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-bookmark.svg)
-  static PhosphorIconData bookBookmark(
+  static IconData bookBookmark(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5111,7 +5107,7 @@ class PhosphorIcons {
   /// bold: ![book-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-open.svg)
   /// fill: ![book-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/book-open.svg)
   /// duotone: ![book-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open.svg)
-  static PhosphorIconData bookOpen(
+  static IconData bookOpen(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5135,7 +5131,7 @@ class PhosphorIcons {
   /// bold: ![book-open-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-open-text.svg)
   /// fill: ![book-open-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/book-open-text.svg)
   /// duotone: ![book-open-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-text.svg)
-  static PhosphorIconData bookOpenText(
+  static IconData bookOpenText(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5159,7 +5155,7 @@ class PhosphorIcons {
   /// bold: ![book-open-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-open-user.svg)
   /// fill: ![book-open-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/book-open-user.svg)
   /// duotone: ![book-open-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-user.svg)
-  static PhosphorIconData bookOpenUser(
+  static IconData bookOpenUser(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5183,7 +5179,7 @@ class PhosphorIcons {
   /// bold: ![bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmark.svg)
   /// fill: ![bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bookmark.svg)
   /// duotone: ![bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmark.svg)
-  static PhosphorIconData bookmark(
+  static IconData bookmark(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5207,7 +5203,7 @@ class PhosphorIcons {
   /// bold: ![bookmark-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmark-simple.svg)
   /// fill: ![bookmark-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bookmark-simple.svg)
   /// duotone: ![bookmark-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmark-simple.svg)
-  static PhosphorIconData bookmarkSimple(
+  static IconData bookmarkSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5231,7 +5227,7 @@ class PhosphorIcons {
   /// bold: ![bookmarks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmarks.svg)
   /// fill: ![bookmarks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bookmarks.svg)
   /// duotone: ![bookmarks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmarks.svg)
-  static PhosphorIconData bookmarks(
+  static IconData bookmarks(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5255,7 +5251,7 @@ class PhosphorIcons {
   /// bold: ![bookmarks-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmarks-simple.svg)
   /// fill: ![bookmarks-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bookmarks-simple.svg)
   /// duotone: ![bookmarks-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmarks-simple.svg)
-  static PhosphorIconData bookmarksSimple(
+  static IconData bookmarksSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5279,7 +5275,7 @@ class PhosphorIcons {
   /// bold: ![books](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/books.svg)
   /// fill: ![books](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/books.svg)
   /// duotone: ![books](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/books.svg)
-  static PhosphorIconData books(
+  static IconData books(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5303,7 +5299,7 @@ class PhosphorIcons {
   /// bold: ![boot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boot.svg)
   /// fill: ![boot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/boot.svg)
   /// duotone: ![boot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boot.svg)
-  static PhosphorIconData boot(
+  static IconData boot(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5327,7 +5323,7 @@ class PhosphorIcons {
   /// bold: ![boules](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boules.svg)
   /// fill: ![boules](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/boules.svg)
   /// duotone: ![boules](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boules.svg)
-  static PhosphorIconData boules(
+  static IconData boules(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5351,7 +5347,7 @@ class PhosphorIcons {
   /// bold: ![bounding-box](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bounding-box.svg)
   /// fill: ![bounding-box](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bounding-box.svg)
   /// duotone: ![bounding-box](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bounding-box.svg)
-  static PhosphorIconData boundingBox(
+  static IconData boundingBox(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5375,7 +5371,7 @@ class PhosphorIcons {
   /// bold: ![bowl-food](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bowl-food.svg)
   /// fill: ![bowl-food](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bowl-food.svg)
   /// duotone: ![bowl-food](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowl-food.svg)
-  static PhosphorIconData bowlFood(
+  static IconData bowlFood(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5399,7 +5395,7 @@ class PhosphorIcons {
   /// bold: ![bowl-steam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bowl-steam.svg)
   /// fill: ![bowl-steam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bowl-steam.svg)
   /// duotone: ![bowl-steam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowl-steam.svg)
-  static PhosphorIconData bowlSteam(
+  static IconData bowlSteam(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5423,7 +5419,7 @@ class PhosphorIcons {
   /// bold: ![bowling-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bowling-ball.svg)
   /// fill: ![bowling-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bowling-ball.svg)
   /// duotone: ![bowling-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowling-ball.svg)
-  static PhosphorIconData bowlingBall(
+  static IconData bowlingBall(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5447,7 +5443,7 @@ class PhosphorIcons {
   /// bold: ![box-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/box-arrow-down.svg)
   /// fill: ![box-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/box-arrow-down.svg)
   /// duotone: ![box-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/box-arrow-down.svg)
-  static PhosphorIconData boxArrowDown(
+  static IconData boxArrowDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5471,7 +5467,7 @@ class PhosphorIcons {
   /// bold: ![box-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/box-arrow-up.svg)
   /// fill: ![box-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/box-arrow-up.svg)
   /// duotone: ![box-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/box-arrow-up.svg)
-  static PhosphorIconData boxArrowUp(
+  static IconData boxArrowUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5495,7 +5491,7 @@ class PhosphorIcons {
   /// bold: ![boxing-glove](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boxing-glove.svg)
   /// fill: ![boxing-glove](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/boxing-glove.svg)
   /// duotone: ![boxing-glove](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boxing-glove.svg)
-  static PhosphorIconData boxingGlove(
+  static IconData boxingGlove(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5519,7 +5515,7 @@ class PhosphorIcons {
   /// bold: ![brackets-angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-angle.svg)
   /// fill: ![brackets-angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brackets-angle.svg)
   /// duotone: ![brackets-angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-angle.svg)
-  static PhosphorIconData bracketsAngle(
+  static IconData bracketsAngle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5543,7 +5539,7 @@ class PhosphorIcons {
   /// bold: ![brackets-curly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-curly.svg)
   /// fill: ![brackets-curly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brackets-curly.svg)
   /// duotone: ![brackets-curly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-curly.svg)
-  static PhosphorIconData bracketsCurly(
+  static IconData bracketsCurly(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5567,7 +5563,7 @@ class PhosphorIcons {
   /// bold: ![brackets-round](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-round.svg)
   /// fill: ![brackets-round](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brackets-round.svg)
   /// duotone: ![brackets-round](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-round.svg)
-  static PhosphorIconData bracketsRound(
+  static IconData bracketsRound(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5591,7 +5587,7 @@ class PhosphorIcons {
   /// bold: ![brackets-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-square.svg)
   /// fill: ![brackets-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brackets-square.svg)
   /// duotone: ![brackets-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-square.svg)
-  static PhosphorIconData bracketsSquare(
+  static IconData bracketsSquare(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5615,7 +5611,7 @@ class PhosphorIcons {
   /// bold: ![brain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brain.svg)
   /// fill: ![brain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brain.svg)
   /// duotone: ![brain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brain.svg)
-  static PhosphorIconData brain(
+  static IconData brain(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5639,7 +5635,7 @@ class PhosphorIcons {
   /// bold: ![brandy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brandy.svg)
   /// fill: ![brandy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brandy.svg)
   /// duotone: ![brandy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brandy.svg)
-  static PhosphorIconData brandy(
+  static IconData brandy(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5663,7 +5659,7 @@ class PhosphorIcons {
   /// bold: ![bread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bread.svg)
   /// fill: ![bread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bread.svg)
   /// duotone: ![bread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bread.svg)
-  static PhosphorIconData bread(
+  static IconData bread(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5687,7 +5683,7 @@ class PhosphorIcons {
   /// bold: ![bridge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bridge.svg)
   /// fill: ![bridge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bridge.svg)
   /// duotone: ![bridge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bridge.svg)
-  static PhosphorIconData bridge(
+  static IconData bridge(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5711,7 +5707,7 @@ class PhosphorIcons {
   /// bold: ![briefcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/briefcase.svg)
   /// fill: ![briefcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/briefcase.svg)
   /// duotone: ![briefcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/briefcase.svg)
-  static PhosphorIconData briefcase(
+  static IconData briefcase(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5735,7 +5731,7 @@ class PhosphorIcons {
   /// bold: ![briefcase-metal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/briefcase-metal.svg)
   /// fill: ![briefcase-metal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/briefcase-metal.svg)
   /// duotone: ![briefcase-metal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/briefcase-metal.svg)
-  static PhosphorIconData briefcaseMetal(
+  static IconData briefcaseMetal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5759,7 +5755,7 @@ class PhosphorIcons {
   /// bold: ![broadcast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/broadcast.svg)
   /// fill: ![broadcast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/broadcast.svg)
   /// duotone: ![broadcast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/broadcast.svg)
-  static PhosphorIconData broadcast(
+  static IconData broadcast(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5783,7 +5779,7 @@ class PhosphorIcons {
   /// bold: ![broom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/broom.svg)
   /// fill: ![broom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/broom.svg)
   /// duotone: ![broom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/broom.svg)
-  static PhosphorIconData broom(
+  static IconData broom(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5807,7 +5803,7 @@ class PhosphorIcons {
   /// bold: ![browser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/browser.svg)
   /// fill: ![browser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/browser.svg)
   /// duotone: ![browser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/browser.svg)
-  static PhosphorIconData browser(
+  static IconData browser(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5831,7 +5827,7 @@ class PhosphorIcons {
   /// bold: ![browsers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/browsers.svg)
   /// fill: ![browsers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/browsers.svg)
   /// duotone: ![browsers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/browsers.svg)
-  static PhosphorIconData browsers(
+  static IconData browsers(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5855,8 +5851,7 @@ class PhosphorIcons {
   /// bold: ![bug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bug.svg)
   /// fill: ![bug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bug.svg)
   /// duotone: ![bug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug.svg)
-  static PhosphorIconData bug(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData bug([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.bug;
@@ -5879,7 +5874,7 @@ class PhosphorIcons {
   /// bold: ![bug-beetle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bug-beetle.svg)
   /// fill: ![bug-beetle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bug-beetle.svg)
   /// duotone: ![bug-beetle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-beetle.svg)
-  static PhosphorIconData bugBeetle(
+  static IconData bugBeetle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5903,7 +5898,7 @@ class PhosphorIcons {
   /// bold: ![bug-droid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bug-droid.svg)
   /// fill: ![bug-droid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bug-droid.svg)
   /// duotone: ![bug-droid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-droid.svg)
-  static PhosphorIconData bugDroid(
+  static IconData bugDroid(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5927,7 +5922,7 @@ class PhosphorIcons {
   /// bold: ![building](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/building.svg)
   /// fill: ![building](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/building.svg)
   /// duotone: ![building](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building.svg)
-  static PhosphorIconData building(
+  static IconData building(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5951,7 +5946,7 @@ class PhosphorIcons {
   /// bold: ![building-apartment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/building-apartment.svg)
   /// fill: ![building-apartment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/building-apartment.svg)
   /// duotone: ![building-apartment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-apartment.svg)
-  static PhosphorIconData buildingApartment(
+  static IconData buildingApartment(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5975,7 +5970,7 @@ class PhosphorIcons {
   /// bold: ![building-office](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/building-office.svg)
   /// fill: ![building-office](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/building-office.svg)
   /// duotone: ![building-office](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-office.svg)
-  static PhosphorIconData buildingOffice(
+  static IconData buildingOffice(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -5999,7 +5994,7 @@ class PhosphorIcons {
   /// bold: ![buildings](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/buildings.svg)
   /// fill: ![buildings](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/buildings.svg)
   /// duotone: ![buildings](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/buildings.svg)
-  static PhosphorIconData buildings(
+  static IconData buildings(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6023,7 +6018,7 @@ class PhosphorIcons {
   /// bold: ![bulldozer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bulldozer.svg)
   /// fill: ![bulldozer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bulldozer.svg)
   /// duotone: ![bulldozer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bulldozer.svg)
-  static PhosphorIconData bulldozer(
+  static IconData bulldozer(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6047,8 +6042,7 @@ class PhosphorIcons {
   /// bold: ![bus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bus.svg)
   /// fill: ![bus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bus.svg)
   /// duotone: ![bus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bus.svg)
-  static PhosphorIconData bus(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData bus([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.bus;
@@ -6071,7 +6065,7 @@ class PhosphorIcons {
   /// bold: ![butterfly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/butterfly.svg)
   /// fill: ![butterfly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/butterfly.svg)
   /// duotone: ![butterfly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/butterfly.svg)
-  static PhosphorIconData butterfly(
+  static IconData butterfly(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6095,7 +6089,7 @@ class PhosphorIcons {
   /// bold: ![cable-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cable-car.svg)
   /// fill: ![cable-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cable-car.svg)
   /// duotone: ![cable-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cable-car.svg)
-  static PhosphorIconData cableCar(
+  static IconData cableCar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6119,7 +6113,7 @@ class PhosphorIcons {
   /// bold: ![cactus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cactus.svg)
   /// fill: ![cactus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cactus.svg)
   /// duotone: ![cactus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cactus.svg)
-  static PhosphorIconData cactus(
+  static IconData cactus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6143,7 +6137,7 @@ class PhosphorIcons {
   /// bold: ![cake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cake.svg)
   /// fill: ![cake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cake.svg)
   /// duotone: ![cake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cake.svg)
-  static PhosphorIconData cake(
+  static IconData cake(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6167,7 +6161,7 @@ class PhosphorIcons {
   /// bold: ![calculator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calculator.svg)
   /// fill: ![calculator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calculator.svg)
   /// duotone: ![calculator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calculator.svg)
-  static PhosphorIconData calculator(
+  static IconData calculator(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6191,7 +6185,7 @@ class PhosphorIcons {
   /// bold: ![calendar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar.svg)
   /// fill: ![calendar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar.svg)
   /// duotone: ![calendar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar.svg)
-  static PhosphorIconData calendar(
+  static IconData calendar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6215,7 +6209,7 @@ class PhosphorIcons {
   /// bold: ![calendar-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-blank.svg)
   /// fill: ![calendar-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-blank.svg)
   /// duotone: ![calendar-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-blank.svg)
-  static PhosphorIconData calendarBlank(
+  static IconData calendarBlank(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6239,7 +6233,7 @@ class PhosphorIcons {
   /// bold: ![calendar-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-check.svg)
   /// fill: ![calendar-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-check.svg)
   /// duotone: ![calendar-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-check.svg)
-  static PhosphorIconData calendarCheck(
+  static IconData calendarCheck(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6263,7 +6257,7 @@ class PhosphorIcons {
   /// bold: ![calendar-dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-dot.svg)
   /// fill: ![calendar-dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-dot.svg)
   /// duotone: ![calendar-dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-dot.svg)
-  static PhosphorIconData calendarDot(
+  static IconData calendarDot(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6287,7 +6281,7 @@ class PhosphorIcons {
   /// bold: ![calendar-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-dots.svg)
   /// fill: ![calendar-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-dots.svg)
   /// duotone: ![calendar-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-dots.svg)
-  static PhosphorIconData calendarDots(
+  static IconData calendarDots(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6311,7 +6305,7 @@ class PhosphorIcons {
   /// bold: ![calendar-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-heart.svg)
   /// fill: ![calendar-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-heart.svg)
   /// duotone: ![calendar-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-heart.svg)
-  static PhosphorIconData calendarHeart(
+  static IconData calendarHeart(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6335,7 +6329,7 @@ class PhosphorIcons {
   /// bold: ![calendar-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-minus.svg)
   /// fill: ![calendar-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-minus.svg)
   /// duotone: ![calendar-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-minus.svg)
-  static PhosphorIconData calendarMinus(
+  static IconData calendarMinus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6359,7 +6353,7 @@ class PhosphorIcons {
   /// bold: ![calendar-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-plus.svg)
   /// fill: ![calendar-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-plus.svg)
   /// duotone: ![calendar-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-plus.svg)
-  static PhosphorIconData calendarPlus(
+  static IconData calendarPlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6383,7 +6377,7 @@ class PhosphorIcons {
   /// bold: ![calendar-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-slash.svg)
   /// fill: ![calendar-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-slash.svg)
   /// duotone: ![calendar-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-slash.svg)
-  static PhosphorIconData calendarSlash(
+  static IconData calendarSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6407,7 +6401,7 @@ class PhosphorIcons {
   /// bold: ![calendar-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-star.svg)
   /// fill: ![calendar-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-star.svg)
   /// duotone: ![calendar-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-star.svg)
-  static PhosphorIconData calendarStar(
+  static IconData calendarStar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6431,7 +6425,7 @@ class PhosphorIcons {
   /// bold: ![calendar-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-x.svg)
   /// fill: ![calendar-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-x.svg)
   /// duotone: ![calendar-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-x.svg)
-  static PhosphorIconData calendarX(
+  static IconData calendarX(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6455,7 +6449,7 @@ class PhosphorIcons {
   /// bold: ![call-bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/call-bell.svg)
   /// fill: ![call-bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/call-bell.svg)
   /// duotone: ![call-bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/call-bell.svg)
-  static PhosphorIconData callBell(
+  static IconData callBell(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6479,7 +6473,7 @@ class PhosphorIcons {
   /// bold: ![camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera.svg)
   /// fill: ![camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/camera.svg)
   /// duotone: ![camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera.svg)
-  static PhosphorIconData camera(
+  static IconData camera(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6503,7 +6497,7 @@ class PhosphorIcons {
   /// bold: ![camera-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera-plus.svg)
   /// fill: ![camera-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/camera-plus.svg)
   /// duotone: ![camera-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-plus.svg)
-  static PhosphorIconData cameraPlus(
+  static IconData cameraPlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6527,7 +6521,7 @@ class PhosphorIcons {
   /// bold: ![camera-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera-rotate.svg)
   /// fill: ![camera-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/camera-rotate.svg)
   /// duotone: ![camera-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-rotate.svg)
-  static PhosphorIconData cameraRotate(
+  static IconData cameraRotate(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6551,7 +6545,7 @@ class PhosphorIcons {
   /// bold: ![camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera-slash.svg)
   /// fill: ![camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/camera-slash.svg)
   /// duotone: ![camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-slash.svg)
-  static PhosphorIconData cameraSlash(
+  static IconData cameraSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6575,7 +6569,7 @@ class PhosphorIcons {
   /// bold: ![campfire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/campfire.svg)
   /// fill: ![campfire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/campfire.svg)
   /// duotone: ![campfire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/campfire.svg)
-  static PhosphorIconData campfire(
+  static IconData campfire(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6599,8 +6593,7 @@ class PhosphorIcons {
   /// bold: ![car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car.svg)
   /// fill: ![car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/car.svg)
   /// duotone: ![car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car.svg)
-  static PhosphorIconData car(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData car([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.car;
@@ -6623,7 +6616,7 @@ class PhosphorIcons {
   /// bold: ![car-battery](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car-battery.svg)
   /// fill: ![car-battery](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/car-battery.svg)
   /// duotone: ![car-battery](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-battery.svg)
-  static PhosphorIconData carBattery(
+  static IconData carBattery(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6647,7 +6640,7 @@ class PhosphorIcons {
   /// bold: ![car-profile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car-profile.svg)
   /// fill: ![car-profile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/car-profile.svg)
   /// duotone: ![car-profile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-profile.svg)
-  static PhosphorIconData carProfile(
+  static IconData carProfile(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6671,7 +6664,7 @@ class PhosphorIcons {
   /// bold: ![car-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car-simple.svg)
   /// fill: ![car-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/car-simple.svg)
   /// duotone: ![car-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-simple.svg)
-  static PhosphorIconData carSimple(
+  static IconData carSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6695,7 +6688,7 @@ class PhosphorIcons {
   /// bold: ![cardholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cardholder.svg)
   /// fill: ![cardholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cardholder.svg)
   /// duotone: ![cardholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cardholder.svg)
-  static PhosphorIconData cardholder(
+  static IconData cardholder(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6719,7 +6712,7 @@ class PhosphorIcons {
   /// bold: ![cards](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cards.svg)
   /// fill: ![cards](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cards.svg)
   /// duotone: ![cards](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cards.svg)
-  static PhosphorIconData cards(
+  static IconData cards(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6743,7 +6736,7 @@ class PhosphorIcons {
   /// bold: ![cards-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cards-three.svg)
   /// fill: ![cards-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cards-three.svg)
   /// duotone: ![cards-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cards-three.svg)
-  static PhosphorIconData cardsThree(
+  static IconData cardsThree(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6767,7 +6760,7 @@ class PhosphorIcons {
   /// bold: ![caret-circle-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-down.svg)
   /// fill: ![caret-circle-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-double-down.svg)
   /// duotone: ![caret-circle-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-down.svg)
-  static PhosphorIconData caretCircleDoubleDown(
+  static IconData caretCircleDoubleDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6791,7 +6784,7 @@ class PhosphorIcons {
   /// bold: ![caret-circle-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-left.svg)
   /// fill: ![caret-circle-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-double-left.svg)
   /// duotone: ![caret-circle-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-left.svg)
-  static PhosphorIconData caretCircleDoubleLeft(
+  static IconData caretCircleDoubleLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6815,7 +6808,7 @@ class PhosphorIcons {
   /// bold: ![caret-circle-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-right.svg)
   /// fill: ![caret-circle-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-double-right.svg)
   /// duotone: ![caret-circle-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-right.svg)
-  static PhosphorIconData caretCircleDoubleRight(
+  static IconData caretCircleDoubleRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6839,7 +6832,7 @@ class PhosphorIcons {
   /// bold: ![caret-circle-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-up.svg)
   /// fill: ![caret-circle-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-double-up.svg)
   /// duotone: ![caret-circle-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-up.svg)
-  static PhosphorIconData caretCircleDoubleUp(
+  static IconData caretCircleDoubleUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6863,7 +6856,7 @@ class PhosphorIcons {
   /// bold: ![caret-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-down.svg)
   /// fill: ![caret-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-down.svg)
   /// duotone: ![caret-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-down.svg)
-  static PhosphorIconData caretCircleDown(
+  static IconData caretCircleDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6887,7 +6880,7 @@ class PhosphorIcons {
   /// bold: ![caret-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-left.svg)
   /// fill: ![caret-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-left.svg)
   /// duotone: ![caret-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-left.svg)
-  static PhosphorIconData caretCircleLeft(
+  static IconData caretCircleLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6911,7 +6904,7 @@ class PhosphorIcons {
   /// bold: ![caret-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-right.svg)
   /// fill: ![caret-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-right.svg)
   /// duotone: ![caret-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-right.svg)
-  static PhosphorIconData caretCircleRight(
+  static IconData caretCircleRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6935,7 +6928,7 @@ class PhosphorIcons {
   /// bold: ![caret-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-up.svg)
   /// fill: ![caret-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-up.svg)
   /// duotone: ![caret-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-up.svg)
-  static PhosphorIconData caretCircleUp(
+  static IconData caretCircleUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6959,7 +6952,7 @@ class PhosphorIcons {
   /// bold: ![caret-circle-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-up-down.svg)
   /// fill: ![caret-circle-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-up-down.svg)
   /// duotone: ![caret-circle-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-up-down.svg)
-  static PhosphorIconData caretCircleUpDown(
+  static IconData caretCircleUpDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -6983,7 +6976,7 @@ class PhosphorIcons {
   /// bold: ![caret-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-down.svg)
   /// fill: ![caret-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-double-down.svg)
   /// duotone: ![caret-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-down.svg)
-  static PhosphorIconData caretDoubleDown(
+  static IconData caretDoubleDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7007,7 +7000,7 @@ class PhosphorIcons {
   /// bold: ![caret-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-left.svg)
   /// fill: ![caret-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-double-left.svg)
   /// duotone: ![caret-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-left.svg)
-  static PhosphorIconData caretDoubleLeft(
+  static IconData caretDoubleLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7031,7 +7024,7 @@ class PhosphorIcons {
   /// bold: ![caret-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-right.svg)
   /// fill: ![caret-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-double-right.svg)
   /// duotone: ![caret-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-right.svg)
-  static PhosphorIconData caretDoubleRight(
+  static IconData caretDoubleRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7055,7 +7048,7 @@ class PhosphorIcons {
   /// bold: ![caret-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-up.svg)
   /// fill: ![caret-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-double-up.svg)
   /// duotone: ![caret-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-up.svg)
-  static PhosphorIconData caretDoubleUp(
+  static IconData caretDoubleUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7079,7 +7072,7 @@ class PhosphorIcons {
   /// bold: ![caret-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-down.svg)
   /// fill: ![caret-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-down.svg)
   /// duotone: ![caret-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-down.svg)
-  static PhosphorIconData caretDown(
+  static IconData caretDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7103,7 +7096,7 @@ class PhosphorIcons {
   /// bold: ![caret-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-left.svg)
   /// fill: ![caret-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-left.svg)
   /// duotone: ![caret-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-left.svg)
-  static PhosphorIconData caretLeft(
+  static IconData caretLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7127,7 +7120,7 @@ class PhosphorIcons {
   /// bold: ![caret-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-down.svg)
   /// fill: ![caret-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-line-down.svg)
   /// duotone: ![caret-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-down.svg)
-  static PhosphorIconData caretLineDown(
+  static IconData caretLineDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7151,7 +7144,7 @@ class PhosphorIcons {
   /// bold: ![caret-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-left.svg)
   /// fill: ![caret-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-line-left.svg)
   /// duotone: ![caret-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-left.svg)
-  static PhosphorIconData caretLineLeft(
+  static IconData caretLineLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7175,7 +7168,7 @@ class PhosphorIcons {
   /// bold: ![caret-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-right.svg)
   /// fill: ![caret-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-line-right.svg)
   /// duotone: ![caret-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-right.svg)
-  static PhosphorIconData caretLineRight(
+  static IconData caretLineRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7199,7 +7192,7 @@ class PhosphorIcons {
   /// bold: ![caret-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-up.svg)
   /// fill: ![caret-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-line-up.svg)
   /// duotone: ![caret-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-up.svg)
-  static PhosphorIconData caretLineUp(
+  static IconData caretLineUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7223,7 +7216,7 @@ class PhosphorIcons {
   /// bold: ![caret-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-right.svg)
   /// fill: ![caret-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-right.svg)
   /// duotone: ![caret-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-right.svg)
-  static PhosphorIconData caretRight(
+  static IconData caretRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7247,7 +7240,7 @@ class PhosphorIcons {
   /// bold: ![caret-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-up.svg)
   /// fill: ![caret-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-up.svg)
   /// duotone: ![caret-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-up.svg)
-  static PhosphorIconData caretUp(
+  static IconData caretUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7271,7 +7264,7 @@ class PhosphorIcons {
   /// bold: ![caret-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-up-down.svg)
   /// fill: ![caret-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-up-down.svg)
   /// duotone: ![caret-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-up-down.svg)
-  static PhosphorIconData caretUpDown(
+  static IconData caretUpDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7295,7 +7288,7 @@ class PhosphorIcons {
   /// bold: ![carrot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/carrot.svg)
   /// fill: ![carrot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/carrot.svg)
   /// duotone: ![carrot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/carrot.svg)
-  static PhosphorIconData carrot(
+  static IconData carrot(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7319,7 +7312,7 @@ class PhosphorIcons {
   /// bold: ![cash-register](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cash-register.svg)
   /// fill: ![cash-register](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cash-register.svg)
   /// duotone: ![cash-register](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cash-register.svg)
-  static PhosphorIconData cashRegister(
+  static IconData cashRegister(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7343,7 +7336,7 @@ class PhosphorIcons {
   /// bold: ![cassette-tape](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cassette-tape.svg)
   /// fill: ![cassette-tape](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cassette-tape.svg)
   /// duotone: ![cassette-tape](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cassette-tape.svg)
-  static PhosphorIconData cassetteTape(
+  static IconData cassetteTape(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7367,7 +7360,7 @@ class PhosphorIcons {
   /// bold: ![castle-turret](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/castle-turret.svg)
   /// fill: ![castle-turret](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/castle-turret.svg)
   /// duotone: ![castle-turret](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/castle-turret.svg)
-  static PhosphorIconData castleTurret(
+  static IconData castleTurret(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7391,8 +7384,7 @@ class PhosphorIcons {
   /// bold: ![cat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cat.svg)
   /// fill: ![cat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cat.svg)
   /// duotone: ![cat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cat.svg)
-  static PhosphorIconData cat(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData cat([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.cat;
@@ -7415,7 +7407,7 @@ class PhosphorIcons {
   /// bold: ![cell-signal-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-full.svg)
   /// fill: ![cell-signal-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-full.svg)
   /// duotone: ![cell-signal-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-full.svg)
-  static PhosphorIconData cellSignalFull(
+  static IconData cellSignalFull(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7439,7 +7431,7 @@ class PhosphorIcons {
   /// bold: ![cell-signal-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-high.svg)
   /// fill: ![cell-signal-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-high.svg)
   /// duotone: ![cell-signal-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-high.svg)
-  static PhosphorIconData cellSignalHigh(
+  static IconData cellSignalHigh(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7463,7 +7455,7 @@ class PhosphorIcons {
   /// bold: ![cell-signal-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-low.svg)
   /// fill: ![cell-signal-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-low.svg)
   /// duotone: ![cell-signal-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-low.svg)
-  static PhosphorIconData cellSignalLow(
+  static IconData cellSignalLow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7487,7 +7479,7 @@ class PhosphorIcons {
   /// bold: ![cell-signal-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-medium.svg)
   /// fill: ![cell-signal-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-medium.svg)
   /// duotone: ![cell-signal-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-medium.svg)
-  static PhosphorIconData cellSignalMedium(
+  static IconData cellSignalMedium(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7511,7 +7503,7 @@ class PhosphorIcons {
   /// bold: ![cell-signal-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-none.svg)
   /// fill: ![cell-signal-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-none.svg)
   /// duotone: ![cell-signal-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-none.svg)
-  static PhosphorIconData cellSignalNone(
+  static IconData cellSignalNone(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7535,7 +7527,7 @@ class PhosphorIcons {
   /// bold: ![cell-signal-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-slash.svg)
   /// fill: ![cell-signal-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-slash.svg)
   /// duotone: ![cell-signal-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-slash.svg)
-  static PhosphorIconData cellSignalSlash(
+  static IconData cellSignalSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7559,7 +7551,7 @@ class PhosphorIcons {
   /// bold: ![cell-signal-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-x.svg)
   /// fill: ![cell-signal-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-x.svg)
   /// duotone: ![cell-signal-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-x.svg)
-  static PhosphorIconData cellSignalX(
+  static IconData cellSignalX(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7583,7 +7575,7 @@ class PhosphorIcons {
   /// bold: ![cell-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-tower.svg)
   /// fill: ![cell-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-tower.svg)
   /// duotone: ![cell-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-tower.svg)
-  static PhosphorIconData cellTower(
+  static IconData cellTower(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7607,7 +7599,7 @@ class PhosphorIcons {
   /// bold: ![certificate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/certificate.svg)
   /// fill: ![certificate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/certificate.svg)
   /// duotone: ![certificate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/certificate.svg)
-  static PhosphorIconData certificate(
+  static IconData certificate(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7631,7 +7623,7 @@ class PhosphorIcons {
   /// bold: ![chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chair.svg)
   /// fill: ![chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chair.svg)
   /// duotone: ![chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chair.svg)
-  static PhosphorIconData chair(
+  static IconData chair(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7655,7 +7647,7 @@ class PhosphorIcons {
   /// bold: ![chalkboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chalkboard.svg)
   /// fill: ![chalkboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chalkboard.svg)
   /// duotone: ![chalkboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard.svg)
-  static PhosphorIconData chalkboard(
+  static IconData chalkboard(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7679,7 +7671,7 @@ class PhosphorIcons {
   /// bold: ![chalkboard-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chalkboard-simple.svg)
   /// fill: ![chalkboard-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chalkboard-simple.svg)
   /// duotone: ![chalkboard-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-simple.svg)
-  static PhosphorIconData chalkboardSimple(
+  static IconData chalkboardSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7703,7 +7695,7 @@ class PhosphorIcons {
   /// bold: ![chalkboard-teacher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chalkboard-teacher.svg)
   /// fill: ![chalkboard-teacher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chalkboard-teacher.svg)
   /// duotone: ![chalkboard-teacher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-teacher.svg)
-  static PhosphorIconData chalkboardTeacher(
+  static IconData chalkboardTeacher(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7727,7 +7719,7 @@ class PhosphorIcons {
   /// bold: ![champagne](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/champagne.svg)
   /// fill: ![champagne](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/champagne.svg)
   /// duotone: ![champagne](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/champagne.svg)
-  static PhosphorIconData champagne(
+  static IconData champagne(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7751,7 +7743,7 @@ class PhosphorIcons {
   /// bold: ![charging-station](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/charging-station.svg)
   /// fill: ![charging-station](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/charging-station.svg)
   /// duotone: ![charging-station](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/charging-station.svg)
-  static PhosphorIconData chargingStation(
+  static IconData chargingStation(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7775,7 +7767,7 @@ class PhosphorIcons {
   /// bold: ![chart-bar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-bar.svg)
   /// fill: ![chart-bar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-bar.svg)
   /// duotone: ![chart-bar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-bar.svg)
-  static PhosphorIconData chartBar(
+  static IconData chartBar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7799,7 +7791,7 @@ class PhosphorIcons {
   /// bold: ![chart-bar-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-bar-horizontal.svg)
   /// fill: ![chart-bar-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-bar-horizontal.svg)
   /// duotone: ![chart-bar-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-bar-horizontal.svg)
-  static PhosphorIconData chartBarHorizontal(
+  static IconData chartBarHorizontal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7823,7 +7815,7 @@ class PhosphorIcons {
   /// bold: ![chart-donut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-donut.svg)
   /// fill: ![chart-donut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-donut.svg)
   /// duotone: ![chart-donut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-donut.svg)
-  static PhosphorIconData chartDonut(
+  static IconData chartDonut(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7847,7 +7839,7 @@ class PhosphorIcons {
   /// bold: ![chart-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-line.svg)
   /// fill: ![chart-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-line.svg)
   /// duotone: ![chart-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line.svg)
-  static PhosphorIconData chartLine(
+  static IconData chartLine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7871,7 +7863,7 @@ class PhosphorIcons {
   /// bold: ![chart-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-line-down.svg)
   /// fill: ![chart-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-line-down.svg)
   /// duotone: ![chart-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-down.svg)
-  static PhosphorIconData chartLineDown(
+  static IconData chartLineDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7895,7 +7887,7 @@ class PhosphorIcons {
   /// bold: ![chart-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-line-up.svg)
   /// fill: ![chart-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-line-up.svg)
   /// duotone: ![chart-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-up.svg)
-  static PhosphorIconData chartLineUp(
+  static IconData chartLineUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7919,7 +7911,7 @@ class PhosphorIcons {
   /// bold: ![chart-pie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-pie.svg)
   /// fill: ![chart-pie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-pie.svg)
   /// duotone: ![chart-pie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-pie.svg)
-  static PhosphorIconData chartPie(
+  static IconData chartPie(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7943,7 +7935,7 @@ class PhosphorIcons {
   /// bold: ![chart-pie-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-pie-slice.svg)
   /// fill: ![chart-pie-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-pie-slice.svg)
   /// duotone: ![chart-pie-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-pie-slice.svg)
-  static PhosphorIconData chartPieSlice(
+  static IconData chartPieSlice(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7967,7 +7959,7 @@ class PhosphorIcons {
   /// bold: ![chart-polar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-polar.svg)
   /// fill: ![chart-polar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-polar.svg)
   /// duotone: ![chart-polar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-polar.svg)
-  static PhosphorIconData chartPolar(
+  static IconData chartPolar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -7991,7 +7983,7 @@ class PhosphorIcons {
   /// bold: ![chart-scatter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-scatter.svg)
   /// fill: ![chart-scatter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-scatter.svg)
   /// duotone: ![chart-scatter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-scatter.svg)
-  static PhosphorIconData chartScatter(
+  static IconData chartScatter(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8015,7 +8007,7 @@ class PhosphorIcons {
   /// bold: ![chat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat.svg)
   /// fill: ![chat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat.svg)
   /// duotone: ![chat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat.svg)
-  static PhosphorIconData chat(
+  static IconData chat(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8039,7 +8031,7 @@ class PhosphorIcons {
   /// bold: ![chat-centered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered.svg)
   /// fill: ![chat-centered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-centered.svg)
   /// duotone: ![chat-centered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered.svg)
-  static PhosphorIconData chatCentered(
+  static IconData chatCentered(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8063,7 +8055,7 @@ class PhosphorIcons {
   /// bold: ![chat-centered-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered-dots.svg)
   /// fill: ![chat-centered-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-centered-dots.svg)
   /// duotone: ![chat-centered-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-dots.svg)
-  static PhosphorIconData chatCenteredDots(
+  static IconData chatCenteredDots(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8087,7 +8079,7 @@ class PhosphorIcons {
   /// bold: ![chat-centered-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered-slash.svg)
   /// fill: ![chat-centered-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-centered-slash.svg)
   /// duotone: ![chat-centered-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-slash.svg)
-  static PhosphorIconData chatCenteredSlash(
+  static IconData chatCenteredSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8111,7 +8103,7 @@ class PhosphorIcons {
   /// bold: ![chat-centered-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered-text.svg)
   /// fill: ![chat-centered-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-centered-text.svg)
   /// duotone: ![chat-centered-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-text.svg)
-  static PhosphorIconData chatCenteredText(
+  static IconData chatCenteredText(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8135,7 +8127,7 @@ class PhosphorIcons {
   /// bold: ![chat-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle.svg)
   /// fill: ![chat-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-circle.svg)
   /// duotone: ![chat-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle.svg)
-  static PhosphorIconData chatCircle(
+  static IconData chatCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8159,7 +8151,7 @@ class PhosphorIcons {
   /// bold: ![chat-circle-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle-dots.svg)
   /// fill: ![chat-circle-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-circle-dots.svg)
   /// duotone: ![chat-circle-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-dots.svg)
-  static PhosphorIconData chatCircleDots(
+  static IconData chatCircleDots(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8183,7 +8175,7 @@ class PhosphorIcons {
   /// bold: ![chat-circle-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle-slash.svg)
   /// fill: ![chat-circle-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-circle-slash.svg)
   /// duotone: ![chat-circle-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-slash.svg)
-  static PhosphorIconData chatCircleSlash(
+  static IconData chatCircleSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8207,7 +8199,7 @@ class PhosphorIcons {
   /// bold: ![chat-circle-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle-text.svg)
   /// fill: ![chat-circle-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-circle-text.svg)
   /// duotone: ![chat-circle-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-text.svg)
-  static PhosphorIconData chatCircleText(
+  static IconData chatCircleText(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8231,7 +8223,7 @@ class PhosphorIcons {
   /// bold: ![chat-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-dots.svg)
   /// fill: ![chat-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-dots.svg)
   /// duotone: ![chat-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-dots.svg)
-  static PhosphorIconData chatDots(
+  static IconData chatDots(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8255,7 +8247,7 @@ class PhosphorIcons {
   /// bold: ![chat-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-slash.svg)
   /// fill: ![chat-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-slash.svg)
   /// duotone: ![chat-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-slash.svg)
-  static PhosphorIconData chatSlash(
+  static IconData chatSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8279,7 +8271,7 @@ class PhosphorIcons {
   /// bold: ![chat-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop.svg)
   /// fill: ![chat-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-teardrop.svg)
   /// duotone: ![chat-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop.svg)
-  static PhosphorIconData chatTeardrop(
+  static IconData chatTeardrop(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8303,7 +8295,7 @@ class PhosphorIcons {
   /// bold: ![chat-teardrop-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop-dots.svg)
   /// fill: ![chat-teardrop-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-teardrop-dots.svg)
   /// duotone: ![chat-teardrop-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-dots.svg)
-  static PhosphorIconData chatTeardropDots(
+  static IconData chatTeardropDots(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8327,7 +8319,7 @@ class PhosphorIcons {
   /// bold: ![chat-teardrop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop-slash.svg)
   /// fill: ![chat-teardrop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-teardrop-slash.svg)
   /// duotone: ![chat-teardrop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-slash.svg)
-  static PhosphorIconData chatTeardropSlash(
+  static IconData chatTeardropSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8351,7 +8343,7 @@ class PhosphorIcons {
   /// bold: ![chat-teardrop-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop-text.svg)
   /// fill: ![chat-teardrop-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-teardrop-text.svg)
   /// duotone: ![chat-teardrop-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-text.svg)
-  static PhosphorIconData chatTeardropText(
+  static IconData chatTeardropText(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8375,7 +8367,7 @@ class PhosphorIcons {
   /// bold: ![chat-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-text.svg)
   /// fill: ![chat-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-text.svg)
   /// duotone: ![chat-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-text.svg)
-  static PhosphorIconData chatText(
+  static IconData chatText(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8399,7 +8391,7 @@ class PhosphorIcons {
   /// bold: ![chats](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chats.svg)
   /// fill: ![chats](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chats.svg)
   /// duotone: ![chats](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats.svg)
-  static PhosphorIconData chats(
+  static IconData chats(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8423,7 +8415,7 @@ class PhosphorIcons {
   /// bold: ![chats-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chats-circle.svg)
   /// fill: ![chats-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chats-circle.svg)
   /// duotone: ![chats-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-circle.svg)
-  static PhosphorIconData chatsCircle(
+  static IconData chatsCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8447,7 +8439,7 @@ class PhosphorIcons {
   /// bold: ![chats-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chats-teardrop.svg)
   /// fill: ![chats-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chats-teardrop.svg)
   /// duotone: ![chats-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-teardrop.svg)
-  static PhosphorIconData chatsTeardrop(
+  static IconData chatsTeardrop(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8471,7 +8463,7 @@ class PhosphorIcons {
   /// bold: ![check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check.svg)
   /// fill: ![check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/check.svg)
   /// duotone: ![check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check.svg)
-  static PhosphorIconData check(
+  static IconData check(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8495,7 +8487,7 @@ class PhosphorIcons {
   /// bold: ![check-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-circle.svg)
   /// fill: ![check-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/check-circle.svg)
   /// duotone: ![check-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-circle.svg)
-  static PhosphorIconData checkCircle(
+  static IconData checkCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8519,7 +8511,7 @@ class PhosphorIcons {
   /// bold: ![check-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-fat.svg)
   /// fill: ![check-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/check-fat.svg)
   /// duotone: ![check-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-fat.svg)
-  static PhosphorIconData checkFat(
+  static IconData checkFat(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8543,7 +8535,7 @@ class PhosphorIcons {
   /// bold: ![check-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-square.svg)
   /// fill: ![check-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/check-square.svg)
   /// duotone: ![check-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-square.svg)
-  static PhosphorIconData checkSquare(
+  static IconData checkSquare(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8567,7 +8559,7 @@ class PhosphorIcons {
   /// bold: ![check-square-offset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-square-offset.svg)
   /// fill: ![check-square-offset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/check-square-offset.svg)
   /// duotone: ![check-square-offset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-square-offset.svg)
-  static PhosphorIconData checkSquareOffset(
+  static IconData checkSquareOffset(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8591,7 +8583,7 @@ class PhosphorIcons {
   /// bold: ![checkerboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/checkerboard.svg)
   /// fill: ![checkerboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/checkerboard.svg)
   /// duotone: ![checkerboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/checkerboard.svg)
-  static PhosphorIconData checkerboard(
+  static IconData checkerboard(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8615,7 +8607,7 @@ class PhosphorIcons {
   /// bold: ![checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/checks.svg)
   /// fill: ![checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/checks.svg)
   /// duotone: ![checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/checks.svg)
-  static PhosphorIconData checks(
+  static IconData checks(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8639,7 +8631,7 @@ class PhosphorIcons {
   /// bold: ![cheers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cheers.svg)
   /// fill: ![cheers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cheers.svg)
   /// duotone: ![cheers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cheers.svg)
-  static PhosphorIconData cheers(
+  static IconData cheers(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8663,7 +8655,7 @@ class PhosphorIcons {
   /// bold: ![cheese](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cheese.svg)
   /// fill: ![cheese](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cheese.svg)
   /// duotone: ![cheese](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cheese.svg)
-  static PhosphorIconData cheese(
+  static IconData cheese(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8687,7 +8679,7 @@ class PhosphorIcons {
   /// bold: ![chef-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chef-hat.svg)
   /// fill: ![chef-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chef-hat.svg)
   /// duotone: ![chef-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chef-hat.svg)
-  static PhosphorIconData chefHat(
+  static IconData chefHat(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8711,7 +8703,7 @@ class PhosphorIcons {
   /// bold: ![cherries](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cherries.svg)
   /// fill: ![cherries](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cherries.svg)
   /// duotone: ![cherries](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cherries.svg)
-  static PhosphorIconData cherries(
+  static IconData cherries(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8735,7 +8727,7 @@ class PhosphorIcons {
   /// bold: ![church](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/church.svg)
   /// fill: ![church](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/church.svg)
   /// duotone: ![church](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/church.svg)
-  static PhosphorIconData church(
+  static IconData church(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8759,7 +8751,7 @@ class PhosphorIcons {
   /// bold: ![cigarette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cigarette.svg)
   /// fill: ![cigarette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cigarette.svg)
   /// duotone: ![cigarette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cigarette.svg)
-  static PhosphorIconData cigarette(
+  static IconData cigarette(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8783,7 +8775,7 @@ class PhosphorIcons {
   /// bold: ![cigarette-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cigarette-slash.svg)
   /// fill: ![cigarette-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cigarette-slash.svg)
   /// duotone: ![cigarette-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cigarette-slash.svg)
-  static PhosphorIconData cigaretteSlash(
+  static IconData cigaretteSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8807,7 +8799,7 @@ class PhosphorIcons {
   /// bold: ![circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle.svg)
   /// fill: ![circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle.svg)
   /// duotone: ![circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle.svg)
-  static PhosphorIconData circle(
+  static IconData circle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8831,7 +8823,7 @@ class PhosphorIcons {
   /// bold: ![circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-dashed.svg)
   /// fill: ![circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-dashed.svg)
   /// duotone: ![circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-dashed.svg)
-  static PhosphorIconData circleDashed(
+  static IconData circleDashed(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8855,7 +8847,7 @@ class PhosphorIcons {
   /// bold: ![circle-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-half.svg)
   /// fill: ![circle-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-half.svg)
   /// duotone: ![circle-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-half.svg)
-  static PhosphorIconData circleHalf(
+  static IconData circleHalf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8879,7 +8871,7 @@ class PhosphorIcons {
   /// bold: ![circle-half-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-half-tilt.svg)
   /// fill: ![circle-half-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-half-tilt.svg)
   /// duotone: ![circle-half-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-half-tilt.svg)
-  static PhosphorIconData circleHalfTilt(
+  static IconData circleHalfTilt(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8903,7 +8895,7 @@ class PhosphorIcons {
   /// bold: ![circle-notch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-notch.svg)
   /// fill: ![circle-notch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-notch.svg)
   /// duotone: ![circle-notch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-notch.svg)
-  static PhosphorIconData circleNotch(
+  static IconData circleNotch(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8927,7 +8919,7 @@ class PhosphorIcons {
   /// bold: ![circles-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circles-four.svg)
   /// fill: ![circles-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circles-four.svg)
   /// duotone: ![circles-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-four.svg)
-  static PhosphorIconData circlesFour(
+  static IconData circlesFour(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8951,7 +8943,7 @@ class PhosphorIcons {
   /// bold: ![circles-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circles-three.svg)
   /// fill: ![circles-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circles-three.svg)
   /// duotone: ![circles-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-three.svg)
-  static PhosphorIconData circlesThree(
+  static IconData circlesThree(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8975,7 +8967,7 @@ class PhosphorIcons {
   /// bold: ![circles-three-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circles-three-plus.svg)
   /// fill: ![circles-three-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circles-three-plus.svg)
   /// duotone: ![circles-three-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-three-plus.svg)
-  static PhosphorIconData circlesThreePlus(
+  static IconData circlesThreePlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -8999,7 +8991,7 @@ class PhosphorIcons {
   /// bold: ![circuitry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circuitry.svg)
   /// fill: ![circuitry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circuitry.svg)
   /// duotone: ![circuitry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circuitry.svg)
-  static PhosphorIconData circuitry(
+  static IconData circuitry(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9023,7 +9015,7 @@ class PhosphorIcons {
   /// bold: ![city](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/city.svg)
   /// fill: ![city](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/city.svg)
   /// duotone: ![city](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/city.svg)
-  static PhosphorIconData city(
+  static IconData city(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9047,7 +9039,7 @@ class PhosphorIcons {
   /// bold: ![clipboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clipboard.svg)
   /// fill: ![clipboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clipboard.svg)
   /// duotone: ![clipboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clipboard.svg)
-  static PhosphorIconData clipboard(
+  static IconData clipboard(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9071,7 +9063,7 @@ class PhosphorIcons {
   /// bold: ![clipboard-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clipboard-text.svg)
   /// fill: ![clipboard-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clipboard-text.svg)
   /// duotone: ![clipboard-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clipboard-text.svg)
-  static PhosphorIconData clipboardText(
+  static IconData clipboardText(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9095,7 +9087,7 @@ class PhosphorIcons {
   /// bold: ![clock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock.svg)
   /// fill: ![clock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock.svg)
   /// duotone: ![clock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock.svg)
-  static PhosphorIconData clock(
+  static IconData clock(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9119,7 +9111,7 @@ class PhosphorIcons {
   /// bold: ![clock-afternoon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-afternoon.svg)
   /// fill: ![clock-afternoon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock-afternoon.svg)
   /// duotone: ![clock-afternoon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-afternoon.svg)
-  static PhosphorIconData clockAfternoon(
+  static IconData clockAfternoon(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9143,7 +9135,7 @@ class PhosphorIcons {
   /// bold: ![clock-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-clockwise.svg)
   /// fill: ![clock-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock-clockwise.svg)
   /// duotone: ![clock-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-clockwise.svg)
-  static PhosphorIconData clockClockwise(
+  static IconData clockClockwise(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9167,7 +9159,7 @@ class PhosphorIcons {
   /// bold: ![clock-countdown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-countdown.svg)
   /// fill: ![clock-countdown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock-countdown.svg)
   /// duotone: ![clock-countdown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-countdown.svg)
-  static PhosphorIconData clockCountdown(
+  static IconData clockCountdown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9191,7 +9183,7 @@ class PhosphorIcons {
   /// bold: ![clock-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-counter-clockwise.svg)
   /// fill: ![clock-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock-counter-clockwise.svg)
   /// duotone: ![clock-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-counter-clockwise.svg)
-  static PhosphorIconData clockCounterClockwise(
+  static IconData clockCounterClockwise(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9215,7 +9207,7 @@ class PhosphorIcons {
   /// bold: ![clock-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-user.svg)
   /// fill: ![clock-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock-user.svg)
   /// duotone: ![clock-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-user.svg)
-  static PhosphorIconData clockUser(
+  static IconData clockUser(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9239,7 +9231,7 @@ class PhosphorIcons {
   /// bold: ![closed-captioning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/closed-captioning.svg)
   /// fill: ![closed-captioning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/closed-captioning.svg)
   /// duotone: ![closed-captioning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/closed-captioning.svg)
-  static PhosphorIconData closedCaptioning(
+  static IconData closedCaptioning(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9263,7 +9255,7 @@ class PhosphorIcons {
   /// bold: ![cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud.svg)
   /// fill: ![cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud.svg)
   /// duotone: ![cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud.svg)
-  static PhosphorIconData cloud(
+  static IconData cloud(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9287,7 +9279,7 @@ class PhosphorIcons {
   /// bold: ![cloud-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-arrow-down.svg)
   /// fill: ![cloud-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-arrow-down.svg)
   /// duotone: ![cloud-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-arrow-down.svg)
-  static PhosphorIconData cloudArrowDown(
+  static IconData cloudArrowDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9311,7 +9303,7 @@ class PhosphorIcons {
   /// bold: ![cloud-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-arrow-up.svg)
   /// fill: ![cloud-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-arrow-up.svg)
   /// duotone: ![cloud-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-arrow-up.svg)
-  static PhosphorIconData cloudArrowUp(
+  static IconData cloudArrowUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9335,7 +9327,7 @@ class PhosphorIcons {
   /// bold: ![cloud-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-check.svg)
   /// fill: ![cloud-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-check.svg)
   /// duotone: ![cloud-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-check.svg)
-  static PhosphorIconData cloudCheck(
+  static IconData cloudCheck(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9359,7 +9351,7 @@ class PhosphorIcons {
   /// bold: ![cloud-fog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-fog.svg)
   /// fill: ![cloud-fog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-fog.svg)
   /// duotone: ![cloud-fog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-fog.svg)
-  static PhosphorIconData cloudFog(
+  static IconData cloudFog(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9383,7 +9375,7 @@ class PhosphorIcons {
   /// bold: ![cloud-lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-lightning.svg)
   /// fill: ![cloud-lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-lightning.svg)
   /// duotone: ![cloud-lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-lightning.svg)
-  static PhosphorIconData cloudLightning(
+  static IconData cloudLightning(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9407,7 +9399,7 @@ class PhosphorIcons {
   /// bold: ![cloud-moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-moon.svg)
   /// fill: ![cloud-moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-moon.svg)
   /// duotone: ![cloud-moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-moon.svg)
-  static PhosphorIconData cloudMoon(
+  static IconData cloudMoon(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9431,7 +9423,7 @@ class PhosphorIcons {
   /// bold: ![cloud-rain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-rain.svg)
   /// fill: ![cloud-rain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-rain.svg)
   /// duotone: ![cloud-rain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-rain.svg)
-  static PhosphorIconData cloudRain(
+  static IconData cloudRain(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9455,7 +9447,7 @@ class PhosphorIcons {
   /// bold: ![cloud-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-slash.svg)
   /// fill: ![cloud-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-slash.svg)
   /// duotone: ![cloud-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-slash.svg)
-  static PhosphorIconData cloudSlash(
+  static IconData cloudSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9479,7 +9471,7 @@ class PhosphorIcons {
   /// bold: ![cloud-snow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-snow.svg)
   /// fill: ![cloud-snow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-snow.svg)
   /// duotone: ![cloud-snow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-snow.svg)
-  static PhosphorIconData cloudSnow(
+  static IconData cloudSnow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9503,7 +9495,7 @@ class PhosphorIcons {
   /// bold: ![cloud-sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-sun.svg)
   /// fill: ![cloud-sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-sun.svg)
   /// duotone: ![cloud-sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-sun.svg)
-  static PhosphorIconData cloudSun(
+  static IconData cloudSun(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9527,7 +9519,7 @@ class PhosphorIcons {
   /// bold: ![cloud-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-warning.svg)
   /// fill: ![cloud-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-warning.svg)
   /// duotone: ![cloud-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-warning.svg)
-  static PhosphorIconData cloudWarning(
+  static IconData cloudWarning(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9551,7 +9543,7 @@ class PhosphorIcons {
   /// bold: ![cloud-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-x.svg)
   /// fill: ![cloud-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-x.svg)
   /// duotone: ![cloud-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-x.svg)
-  static PhosphorIconData cloudX(
+  static IconData cloudX(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9575,7 +9567,7 @@ class PhosphorIcons {
   /// bold: ![clover](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clover.svg)
   /// fill: ![clover](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clover.svg)
   /// duotone: ![clover](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clover.svg)
-  static PhosphorIconData clover(
+  static IconData clover(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9599,7 +9591,7 @@ class PhosphorIcons {
   /// bold: ![club](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/club.svg)
   /// fill: ![club](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/club.svg)
   /// duotone: ![club](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/club.svg)
-  static PhosphorIconData club(
+  static IconData club(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9623,7 +9615,7 @@ class PhosphorIcons {
   /// bold: ![coat-hanger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coat-hanger.svg)
   /// fill: ![coat-hanger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coat-hanger.svg)
   /// duotone: ![coat-hanger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coat-hanger.svg)
-  static PhosphorIconData coatHanger(
+  static IconData coatHanger(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9647,7 +9639,7 @@ class PhosphorIcons {
   /// bold: ![coda-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coda-logo.svg)
   /// fill: ![coda-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coda-logo.svg)
   /// duotone: ![coda-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coda-logo.svg)
-  static PhosphorIconData codaLogo(
+  static IconData codaLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9671,7 +9663,7 @@ class PhosphorIcons {
   /// bold: ![code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/code.svg)
   /// fill: ![code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/code.svg)
   /// duotone: ![code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code.svg)
-  static PhosphorIconData code(
+  static IconData code(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9695,7 +9687,7 @@ class PhosphorIcons {
   /// bold: ![code-block](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/code-block.svg)
   /// fill: ![code-block](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/code-block.svg)
   /// duotone: ![code-block](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-block.svg)
-  static PhosphorIconData codeBlock(
+  static IconData codeBlock(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9719,7 +9711,7 @@ class PhosphorIcons {
   /// bold: ![code-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/code-simple.svg)
   /// fill: ![code-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/code-simple.svg)
   /// duotone: ![code-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-simple.svg)
-  static PhosphorIconData codeSimple(
+  static IconData codeSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9743,7 +9735,7 @@ class PhosphorIcons {
   /// bold: ![codepen-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/codepen-logo.svg)
   /// fill: ![codepen-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/codepen-logo.svg)
   /// duotone: ![codepen-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/codepen-logo.svg)
-  static PhosphorIconData codepenLogo(
+  static IconData codepenLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9767,7 +9759,7 @@ class PhosphorIcons {
   /// bold: ![codesandbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/codesandbox-logo.svg)
   /// fill: ![codesandbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/codesandbox-logo.svg)
   /// duotone: ![codesandbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/codesandbox-logo.svg)
-  static PhosphorIconData codesandboxLogo(
+  static IconData codesandboxLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9791,7 +9783,7 @@ class PhosphorIcons {
   /// bold: ![coffee](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coffee.svg)
   /// fill: ![coffee](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coffee.svg)
   /// duotone: ![coffee](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coffee.svg)
-  static PhosphorIconData coffee(
+  static IconData coffee(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9815,7 +9807,7 @@ class PhosphorIcons {
   /// bold: ![coffee-bean](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coffee-bean.svg)
   /// fill: ![coffee-bean](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coffee-bean.svg)
   /// duotone: ![coffee-bean](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coffee-bean.svg)
-  static PhosphorIconData coffeeBean(
+  static IconData coffeeBean(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9839,7 +9831,7 @@ class PhosphorIcons {
   /// bold: ![coin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coin.svg)
   /// fill: ![coin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coin.svg)
   /// duotone: ![coin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coin.svg)
-  static PhosphorIconData coin(
+  static IconData coin(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9863,7 +9855,7 @@ class PhosphorIcons {
   /// bold: ![coin-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coin-vertical.svg)
   /// fill: ![coin-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coin-vertical.svg)
   /// duotone: ![coin-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coin-vertical.svg)
-  static PhosphorIconData coinVertical(
+  static IconData coinVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9887,7 +9879,7 @@ class PhosphorIcons {
   /// bold: ![coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coins.svg)
   /// fill: ![coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coins.svg)
   /// duotone: ![coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coins.svg)
-  static PhosphorIconData coins(
+  static IconData coins(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9911,7 +9903,7 @@ class PhosphorIcons {
   /// bold: ![columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/columns.svg)
   /// fill: ![columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/columns.svg)
   /// duotone: ![columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns.svg)
-  static PhosphorIconData columns(
+  static IconData columns(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9935,7 +9927,7 @@ class PhosphorIcons {
   /// bold: ![columns-plus-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/columns-plus-left.svg)
   /// fill: ![columns-plus-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/columns-plus-left.svg)
   /// duotone: ![columns-plus-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-plus-left.svg)
-  static PhosphorIconData columnsPlusLeft(
+  static IconData columnsPlusLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9959,7 +9951,7 @@ class PhosphorIcons {
   /// bold: ![columns-plus-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/columns-plus-right.svg)
   /// fill: ![columns-plus-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/columns-plus-right.svg)
   /// duotone: ![columns-plus-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-plus-right.svg)
-  static PhosphorIconData columnsPlusRight(
+  static IconData columnsPlusRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -9983,7 +9975,7 @@ class PhosphorIcons {
   /// bold: ![command](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/command.svg)
   /// fill: ![command](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/command.svg)
   /// duotone: ![command](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/command.svg)
-  static PhosphorIconData command(
+  static IconData command(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10007,7 +9999,7 @@ class PhosphorIcons {
   /// bold: ![compass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/compass.svg)
   /// fill: ![compass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/compass.svg)
   /// duotone: ![compass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass.svg)
-  static PhosphorIconData compass(
+  static IconData compass(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10031,7 +10023,7 @@ class PhosphorIcons {
   /// bold: ![compass-rose](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/compass-rose.svg)
   /// fill: ![compass-rose](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/compass-rose.svg)
   /// duotone: ![compass-rose](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-rose.svg)
-  static PhosphorIconData compassRose(
+  static IconData compassRose(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10055,7 +10047,7 @@ class PhosphorIcons {
   /// bold: ![compass-tool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/compass-tool.svg)
   /// fill: ![compass-tool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/compass-tool.svg)
   /// duotone: ![compass-tool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-tool.svg)
-  static PhosphorIconData compassTool(
+  static IconData compassTool(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10079,7 +10071,7 @@ class PhosphorIcons {
   /// bold: ![computer-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/computer-tower.svg)
   /// fill: ![computer-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/computer-tower.svg)
   /// duotone: ![computer-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/computer-tower.svg)
-  static PhosphorIconData computerTower(
+  static IconData computerTower(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10103,7 +10095,7 @@ class PhosphorIcons {
   /// bold: ![confetti](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/confetti.svg)
   /// fill: ![confetti](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/confetti.svg)
   /// duotone: ![confetti](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/confetti.svg)
-  static PhosphorIconData confetti(
+  static IconData confetti(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10127,7 +10119,7 @@ class PhosphorIcons {
   /// bold: ![contactless-payment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/contactless-payment.svg)
   /// fill: ![contactless-payment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/contactless-payment.svg)
   /// duotone: ![contactless-payment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/contactless-payment.svg)
-  static PhosphorIconData contactlessPayment(
+  static IconData contactlessPayment(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10151,7 +10143,7 @@ class PhosphorIcons {
   /// bold: ![control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/control.svg)
   /// fill: ![control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/control.svg)
   /// duotone: ![control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/control.svg)
-  static PhosphorIconData control(
+  static IconData control(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10175,7 +10167,7 @@ class PhosphorIcons {
   /// bold: ![cookie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cookie.svg)
   /// fill: ![cookie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cookie.svg)
   /// duotone: ![cookie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cookie.svg)
-  static PhosphorIconData cookie(
+  static IconData cookie(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10199,7 +10191,7 @@ class PhosphorIcons {
   /// bold: ![cooking-pot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cooking-pot.svg)
   /// fill: ![cooking-pot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cooking-pot.svg)
   /// duotone: ![cooking-pot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cooking-pot.svg)
-  static PhosphorIconData cookingPot(
+  static IconData cookingPot(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10223,7 +10215,7 @@ class PhosphorIcons {
   /// bold: ![copy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copy.svg)
   /// fill: ![copy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/copy.svg)
   /// duotone: ![copy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copy.svg)
-  static PhosphorIconData copy(
+  static IconData copy(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10247,7 +10239,7 @@ class PhosphorIcons {
   /// bold: ![copy-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copy-simple.svg)
   /// fill: ![copy-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/copy-simple.svg)
   /// duotone: ![copy-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copy-simple.svg)
-  static PhosphorIconData copySimple(
+  static IconData copySimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10271,7 +10263,7 @@ class PhosphorIcons {
   /// bold: ![copyleft](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copyleft.svg)
   /// fill: ![copyleft](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/copyleft.svg)
   /// duotone: ![copyleft](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copyleft.svg)
-  static PhosphorIconData copyleft(
+  static IconData copyleft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10295,7 +10287,7 @@ class PhosphorIcons {
   /// bold: ![copyright](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copyright.svg)
   /// fill: ![copyright](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/copyright.svg)
   /// duotone: ![copyright](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copyright.svg)
-  static PhosphorIconData copyright(
+  static IconData copyright(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10319,7 +10311,7 @@ class PhosphorIcons {
   /// bold: ![corners-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/corners-in.svg)
   /// fill: ![corners-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/corners-in.svg)
   /// duotone: ![corners-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/corners-in.svg)
-  static PhosphorIconData cornersIn(
+  static IconData cornersIn(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10343,7 +10335,7 @@ class PhosphorIcons {
   /// bold: ![corners-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/corners-out.svg)
   /// fill: ![corners-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/corners-out.svg)
   /// duotone: ![corners-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/corners-out.svg)
-  static PhosphorIconData cornersOut(
+  static IconData cornersOut(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10367,7 +10359,7 @@ class PhosphorIcons {
   /// bold: ![couch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/couch.svg)
   /// fill: ![couch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/couch.svg)
   /// duotone: ![couch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/couch.svg)
-  static PhosphorIconData couch(
+  static IconData couch(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10391,7 +10383,7 @@ class PhosphorIcons {
   /// bold: ![court-basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/court-basketball.svg)
   /// fill: ![court-basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/court-basketball.svg)
   /// duotone: ![court-basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/court-basketball.svg)
-  static PhosphorIconData courtBasketball(
+  static IconData courtBasketball(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10415,8 +10407,7 @@ class PhosphorIcons {
   /// bold: ![cow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cow.svg)
   /// fill: ![cow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cow.svg)
   /// duotone: ![cow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cow.svg)
-  static PhosphorIconData cow(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData cow([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.cow;
@@ -10439,7 +10430,7 @@ class PhosphorIcons {
   /// bold: ![cowboy-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cowboy-hat.svg)
   /// fill: ![cowboy-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cowboy-hat.svg)
   /// duotone: ![cowboy-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cowboy-hat.svg)
-  static PhosphorIconData cowboyHat(
+  static IconData cowboyHat(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10463,8 +10454,7 @@ class PhosphorIcons {
   /// bold: ![cpu](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cpu.svg)
   /// fill: ![cpu](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cpu.svg)
   /// duotone: ![cpu](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cpu.svg)
-  static PhosphorIconData cpu(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData cpu([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.cpu;
@@ -10487,7 +10477,7 @@ class PhosphorIcons {
   /// bold: ![crane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crane.svg)
   /// fill: ![crane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crane.svg)
   /// duotone: ![crane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crane.svg)
-  static PhosphorIconData crane(
+  static IconData crane(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10511,7 +10501,7 @@ class PhosphorIcons {
   /// bold: ![crane-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crane-tower.svg)
   /// fill: ![crane-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crane-tower.svg)
   /// duotone: ![crane-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crane-tower.svg)
-  static PhosphorIconData craneTower(
+  static IconData craneTower(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10535,7 +10525,7 @@ class PhosphorIcons {
   /// bold: ![credit-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/credit-card.svg)
   /// fill: ![credit-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/credit-card.svg)
   /// duotone: ![credit-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/credit-card.svg)
-  static PhosphorIconData creditCard(
+  static IconData creditCard(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10559,7 +10549,7 @@ class PhosphorIcons {
   /// bold: ![cricket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cricket.svg)
   /// fill: ![cricket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cricket.svg)
   /// duotone: ![cricket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cricket.svg)
-  static PhosphorIconData cricket(
+  static IconData cricket(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10583,7 +10573,7 @@ class PhosphorIcons {
   /// bold: ![crop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crop.svg)
   /// fill: ![crop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crop.svg)
   /// duotone: ![crop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crop.svg)
-  static PhosphorIconData crop(
+  static IconData crop(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10607,7 +10597,7 @@ class PhosphorIcons {
   /// bold: ![cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cross.svg)
   /// fill: ![cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cross.svg)
   /// duotone: ![cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cross.svg)
-  static PhosphorIconData cross(
+  static IconData cross(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10631,7 +10621,7 @@ class PhosphorIcons {
   /// bold: ![crosshair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crosshair.svg)
   /// fill: ![crosshair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crosshair.svg)
   /// duotone: ![crosshair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crosshair.svg)
-  static PhosphorIconData crosshair(
+  static IconData crosshair(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10655,7 +10645,7 @@ class PhosphorIcons {
   /// bold: ![crosshair-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crosshair-simple.svg)
   /// fill: ![crosshair-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crosshair-simple.svg)
   /// duotone: ![crosshair-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crosshair-simple.svg)
-  static PhosphorIconData crosshairSimple(
+  static IconData crosshairSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10679,7 +10669,7 @@ class PhosphorIcons {
   /// bold: ![crown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crown.svg)
   /// fill: ![crown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crown.svg)
   /// duotone: ![crown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown.svg)
-  static PhosphorIconData crown(
+  static IconData crown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10703,7 +10693,7 @@ class PhosphorIcons {
   /// bold: ![crown-cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crown-cross.svg)
   /// fill: ![crown-cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crown-cross.svg)
   /// duotone: ![crown-cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-cross.svg)
-  static PhosphorIconData crownCross(
+  static IconData crownCross(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10727,7 +10717,7 @@ class PhosphorIcons {
   /// bold: ![crown-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crown-simple.svg)
   /// fill: ![crown-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crown-simple.svg)
   /// duotone: ![crown-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-simple.svg)
-  static PhosphorIconData crownSimple(
+  static IconData crownSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10751,7 +10741,7 @@ class PhosphorIcons {
   /// bold: ![cube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cube.svg)
   /// fill: ![cube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cube.svg)
   /// duotone: ![cube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube.svg)
-  static PhosphorIconData cube(
+  static IconData cube(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10775,7 +10765,7 @@ class PhosphorIcons {
   /// bold: ![cube-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cube-focus.svg)
   /// fill: ![cube-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cube-focus.svg)
   /// duotone: ![cube-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-focus.svg)
-  static PhosphorIconData cubeFocus(
+  static IconData cubeFocus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10799,7 +10789,7 @@ class PhosphorIcons {
   /// bold: ![cube-transparent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cube-transparent.svg)
   /// fill: ![cube-transparent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cube-transparent.svg)
   /// duotone: ![cube-transparent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-transparent.svg)
-  static PhosphorIconData cubeTransparent(
+  static IconData cubeTransparent(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10823,7 +10813,7 @@ class PhosphorIcons {
   /// bold: ![currency-btc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-btc.svg)
   /// fill: ![currency-btc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-btc.svg)
   /// duotone: ![currency-btc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-btc.svg)
-  static PhosphorIconData currencyBtc(
+  static IconData currencyBtc(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10847,7 +10837,7 @@ class PhosphorIcons {
   /// bold: ![currency-circle-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-circle-dollar.svg)
   /// fill: ![currency-circle-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-circle-dollar.svg)
   /// duotone: ![currency-circle-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-circle-dollar.svg)
-  static PhosphorIconData currencyCircleDollar(
+  static IconData currencyCircleDollar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10871,7 +10861,7 @@ class PhosphorIcons {
   /// bold: ![currency-cny](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-cny.svg)
   /// fill: ![currency-cny](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-cny.svg)
   /// duotone: ![currency-cny](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-cny.svg)
-  static PhosphorIconData currencyCny(
+  static IconData currencyCny(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10895,7 +10885,7 @@ class PhosphorIcons {
   /// bold: ![currency-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-dollar.svg)
   /// fill: ![currency-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-dollar.svg)
   /// duotone: ![currency-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-dollar.svg)
-  static PhosphorIconData currencyDollar(
+  static IconData currencyDollar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10919,7 +10909,7 @@ class PhosphorIcons {
   /// bold: ![currency-dollar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-dollar-simple.svg)
   /// fill: ![currency-dollar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-dollar-simple.svg)
   /// duotone: ![currency-dollar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-dollar-simple.svg)
-  static PhosphorIconData currencyDollarSimple(
+  static IconData currencyDollarSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10943,7 +10933,7 @@ class PhosphorIcons {
   /// bold: ![currency-eth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-eth.svg)
   /// fill: ![currency-eth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-eth.svg)
   /// duotone: ![currency-eth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-eth.svg)
-  static PhosphorIconData currencyEth(
+  static IconData currencyEth(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10967,7 +10957,7 @@ class PhosphorIcons {
   /// bold: ![currency-eur](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-eur.svg)
   /// fill: ![currency-eur](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-eur.svg)
   /// duotone: ![currency-eur](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-eur.svg)
-  static PhosphorIconData currencyEur(
+  static IconData currencyEur(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -10991,7 +10981,7 @@ class PhosphorIcons {
   /// bold: ![currency-gbp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-gbp.svg)
   /// fill: ![currency-gbp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-gbp.svg)
   /// duotone: ![currency-gbp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-gbp.svg)
-  static PhosphorIconData currencyGbp(
+  static IconData currencyGbp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11015,7 +11005,7 @@ class PhosphorIcons {
   /// bold: ![currency-inr](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-inr.svg)
   /// fill: ![currency-inr](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-inr.svg)
   /// duotone: ![currency-inr](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-inr.svg)
-  static PhosphorIconData currencyInr(
+  static IconData currencyInr(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11039,7 +11029,7 @@ class PhosphorIcons {
   /// bold: ![currency-jpy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-jpy.svg)
   /// fill: ![currency-jpy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-jpy.svg)
   /// duotone: ![currency-jpy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-jpy.svg)
-  static PhosphorIconData currencyJpy(
+  static IconData currencyJpy(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11063,7 +11053,7 @@ class PhosphorIcons {
   /// bold: ![currency-krw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-krw.svg)
   /// fill: ![currency-krw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-krw.svg)
   /// duotone: ![currency-krw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-krw.svg)
-  static PhosphorIconData currencyKrw(
+  static IconData currencyKrw(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11087,7 +11077,7 @@ class PhosphorIcons {
   /// bold: ![currency-kzt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-kzt.svg)
   /// fill: ![currency-kzt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-kzt.svg)
   /// duotone: ![currency-kzt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-kzt.svg)
-  static PhosphorIconData currencyKzt(
+  static IconData currencyKzt(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11111,7 +11101,7 @@ class PhosphorIcons {
   /// bold: ![currency-ngn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-ngn.svg)
   /// fill: ![currency-ngn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-ngn.svg)
   /// duotone: ![currency-ngn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-ngn.svg)
-  static PhosphorIconData currencyNgn(
+  static IconData currencyNgn(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11135,7 +11125,7 @@ class PhosphorIcons {
   /// bold: ![currency-rub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-rub.svg)
   /// fill: ![currency-rub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-rub.svg)
   /// duotone: ![currency-rub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-rub.svg)
-  static PhosphorIconData currencyRub(
+  static IconData currencyRub(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11159,7 +11149,7 @@ class PhosphorIcons {
   /// bold: ![cursor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cursor.svg)
   /// fill: ![cursor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cursor.svg)
   /// duotone: ![cursor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor.svg)
-  static PhosphorIconData cursor(
+  static IconData cursor(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11183,7 +11173,7 @@ class PhosphorIcons {
   /// bold: ![cursor-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cursor-click.svg)
   /// fill: ![cursor-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cursor-click.svg)
   /// duotone: ![cursor-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-click.svg)
-  static PhosphorIconData cursorClick(
+  static IconData cursorClick(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11207,7 +11197,7 @@ class PhosphorIcons {
   /// bold: ![cursor-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cursor-text.svg)
   /// fill: ![cursor-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cursor-text.svg)
   /// duotone: ![cursor-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-text.svg)
-  static PhosphorIconData cursorText(
+  static IconData cursorText(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11231,7 +11221,7 @@ class PhosphorIcons {
   /// bold: ![cylinder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cylinder.svg)
   /// fill: ![cylinder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cylinder.svg)
   /// duotone: ![cylinder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cylinder.svg)
-  static PhosphorIconData cylinder(
+  static IconData cylinder(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11255,7 +11245,7 @@ class PhosphorIcons {
   /// bold: ![database](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/database.svg)
   /// fill: ![database](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/database.svg)
   /// duotone: ![database](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/database.svg)
-  static PhosphorIconData database(
+  static IconData database(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11279,7 +11269,7 @@ class PhosphorIcons {
   /// bold: ![desk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/desk.svg)
   /// fill: ![desk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/desk.svg)
   /// duotone: ![desk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desk.svg)
-  static PhosphorIconData desk(
+  static IconData desk(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11303,7 +11293,7 @@ class PhosphorIcons {
   /// bold: ![desktop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/desktop.svg)
   /// fill: ![desktop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/desktop.svg)
   /// duotone: ![desktop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desktop.svg)
-  static PhosphorIconData desktop(
+  static IconData desktop(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11327,7 +11317,7 @@ class PhosphorIcons {
   /// bold: ![desktop-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/desktop-tower.svg)
   /// fill: ![desktop-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/desktop-tower.svg)
   /// duotone: ![desktop-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desktop-tower.svg)
-  static PhosphorIconData desktopTower(
+  static IconData desktopTower(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11351,7 +11341,7 @@ class PhosphorIcons {
   /// bold: ![detective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/detective.svg)
   /// fill: ![detective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/detective.svg)
   /// duotone: ![detective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/detective.svg)
-  static PhosphorIconData detective(
+  static IconData detective(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11375,7 +11365,7 @@ class PhosphorIcons {
   /// bold: ![dev-to-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dev-to-logo.svg)
   /// fill: ![dev-to-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dev-to-logo.svg)
   /// duotone: ![dev-to-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dev-to-logo.svg)
-  static PhosphorIconData devToLogo(
+  static IconData devToLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11399,7 +11389,7 @@ class PhosphorIcons {
   /// bold: ![device-mobile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile.svg)
   /// fill: ![device-mobile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-mobile.svg)
   /// duotone: ![device-mobile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile.svg)
-  static PhosphorIconData deviceMobile(
+  static IconData deviceMobile(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11423,7 +11413,7 @@ class PhosphorIcons {
   /// bold: ![device-mobile-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile-camera.svg)
   /// fill: ![device-mobile-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-mobile-camera.svg)
   /// duotone: ![device-mobile-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-camera.svg)
-  static PhosphorIconData deviceMobileCamera(
+  static IconData deviceMobileCamera(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11447,7 +11437,7 @@ class PhosphorIcons {
   /// bold: ![device-mobile-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile-slash.svg)
   /// fill: ![device-mobile-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-mobile-slash.svg)
   /// duotone: ![device-mobile-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-slash.svg)
-  static PhosphorIconData deviceMobileSlash(
+  static IconData deviceMobileSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11471,7 +11461,7 @@ class PhosphorIcons {
   /// bold: ![device-mobile-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile-speaker.svg)
   /// fill: ![device-mobile-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-mobile-speaker.svg)
   /// duotone: ![device-mobile-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-speaker.svg)
-  static PhosphorIconData deviceMobileSpeaker(
+  static IconData deviceMobileSpeaker(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11495,7 +11485,7 @@ class PhosphorIcons {
   /// bold: ![device-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-rotate.svg)
   /// fill: ![device-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-rotate.svg)
   /// duotone: ![device-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-rotate.svg)
-  static PhosphorIconData deviceRotate(
+  static IconData deviceRotate(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11519,7 +11509,7 @@ class PhosphorIcons {
   /// bold: ![device-tablet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-tablet.svg)
   /// fill: ![device-tablet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-tablet.svg)
   /// duotone: ![device-tablet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet.svg)
-  static PhosphorIconData deviceTablet(
+  static IconData deviceTablet(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11543,7 +11533,7 @@ class PhosphorIcons {
   /// bold: ![device-tablet-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-tablet-camera.svg)
   /// fill: ![device-tablet-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-tablet-camera.svg)
   /// duotone: ![device-tablet-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-camera.svg)
-  static PhosphorIconData deviceTabletCamera(
+  static IconData deviceTabletCamera(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11567,7 +11557,7 @@ class PhosphorIcons {
   /// bold: ![device-tablet-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-tablet-speaker.svg)
   /// fill: ![device-tablet-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-tablet-speaker.svg)
   /// duotone: ![device-tablet-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-speaker.svg)
-  static PhosphorIconData deviceTabletSpeaker(
+  static IconData deviceTabletSpeaker(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11591,7 +11581,7 @@ class PhosphorIcons {
   /// bold: ![devices](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/devices.svg)
   /// fill: ![devices](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/devices.svg)
   /// duotone: ![devices](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/devices.svg)
-  static PhosphorIconData devices(
+  static IconData devices(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11615,7 +11605,7 @@ class PhosphorIcons {
   /// bold: ![diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/diamond.svg)
   /// fill: ![diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/diamond.svg)
   /// duotone: ![diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/diamond.svg)
-  static PhosphorIconData diamond(
+  static IconData diamond(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11639,7 +11629,7 @@ class PhosphorIcons {
   /// bold: ![diamonds-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/diamonds-four.svg)
   /// fill: ![diamonds-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/diamonds-four.svg)
   /// duotone: ![diamonds-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/diamonds-four.svg)
-  static PhosphorIconData diamondsFour(
+  static IconData diamondsFour(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11663,7 +11653,7 @@ class PhosphorIcons {
   /// bold: ![dice-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-five.svg)
   /// fill: ![dice-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-five.svg)
   /// duotone: ![dice-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-five.svg)
-  static PhosphorIconData diceFive(
+  static IconData diceFive(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11687,7 +11677,7 @@ class PhosphorIcons {
   /// bold: ![dice-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-four.svg)
   /// fill: ![dice-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-four.svg)
   /// duotone: ![dice-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-four.svg)
-  static PhosphorIconData diceFour(
+  static IconData diceFour(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11711,7 +11701,7 @@ class PhosphorIcons {
   /// bold: ![dice-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-one.svg)
   /// fill: ![dice-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-one.svg)
   /// duotone: ![dice-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-one.svg)
-  static PhosphorIconData diceOne(
+  static IconData diceOne(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11735,7 +11725,7 @@ class PhosphorIcons {
   /// bold: ![dice-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-six.svg)
   /// fill: ![dice-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-six.svg)
   /// duotone: ![dice-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-six.svg)
-  static PhosphorIconData diceSix(
+  static IconData diceSix(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11759,7 +11749,7 @@ class PhosphorIcons {
   /// bold: ![dice-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-three.svg)
   /// fill: ![dice-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-three.svg)
   /// duotone: ![dice-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-three.svg)
-  static PhosphorIconData diceThree(
+  static IconData diceThree(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11783,7 +11773,7 @@ class PhosphorIcons {
   /// bold: ![dice-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-two.svg)
   /// fill: ![dice-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-two.svg)
   /// duotone: ![dice-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-two.svg)
-  static PhosphorIconData diceTwo(
+  static IconData diceTwo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11807,7 +11797,7 @@ class PhosphorIcons {
   /// bold: ![disc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/disc.svg)
   /// fill: ![disc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/disc.svg)
   /// duotone: ![disc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/disc.svg)
-  static PhosphorIconData disc(
+  static IconData disc(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11831,7 +11821,7 @@ class PhosphorIcons {
   /// bold: ![disco-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/disco-ball.svg)
   /// fill: ![disco-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/disco-ball.svg)
   /// duotone: ![disco-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/disco-ball.svg)
-  static PhosphorIconData discoBall(
+  static IconData discoBall(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11855,7 +11845,7 @@ class PhosphorIcons {
   /// bold: ![discord-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/discord-logo.svg)
   /// fill: ![discord-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/discord-logo.svg)
   /// duotone: ![discord-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/discord-logo.svg)
-  static PhosphorIconData discordLogo(
+  static IconData discordLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11879,7 +11869,7 @@ class PhosphorIcons {
   /// bold: ![divide](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/divide.svg)
   /// fill: ![divide](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/divide.svg)
   /// duotone: ![divide](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/divide.svg)
-  static PhosphorIconData divide(
+  static IconData divide(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11903,8 +11893,7 @@ class PhosphorIcons {
   /// bold: ![dna](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dna.svg)
   /// fill: ![dna](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dna.svg)
   /// duotone: ![dna](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dna.svg)
-  static PhosphorIconData dna(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData dna([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.dna;
@@ -11927,8 +11916,7 @@ class PhosphorIcons {
   /// bold: ![dog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dog.svg)
   /// fill: ![dog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dog.svg)
   /// duotone: ![dog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dog.svg)
-  static PhosphorIconData dog(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData dog([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.dog;
@@ -11951,7 +11939,7 @@ class PhosphorIcons {
   /// bold: ![door](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/door.svg)
   /// fill: ![door](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/door.svg)
   /// duotone: ![door](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/door.svg)
-  static PhosphorIconData door(
+  static IconData door(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11975,7 +11963,7 @@ class PhosphorIcons {
   /// bold: ![door-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/door-open.svg)
   /// fill: ![door-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/door-open.svg)
   /// duotone: ![door-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/door-open.svg)
-  static PhosphorIconData doorOpen(
+  static IconData doorOpen(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -11999,8 +11987,7 @@ class PhosphorIcons {
   /// bold: ![dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dot.svg)
   /// fill: ![dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dot.svg)
   /// duotone: ![dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dot.svg)
-  static PhosphorIconData dot(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData dot([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.dot;
@@ -12023,7 +12010,7 @@ class PhosphorIcons {
   /// bold: ![dot-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dot-outline.svg)
   /// fill: ![dot-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dot-outline.svg)
   /// duotone: ![dot-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dot-outline.svg)
-  static PhosphorIconData dotOutline(
+  static IconData dotOutline(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12047,7 +12034,7 @@ class PhosphorIcons {
   /// bold: ![dots-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-nine.svg)
   /// fill: ![dots-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-nine.svg)
   /// duotone: ![dots-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-nine.svg)
-  static PhosphorIconData dotsNine(
+  static IconData dotsNine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12071,7 +12058,7 @@ class PhosphorIcons {
   /// bold: ![dots-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-six.svg)
   /// fill: ![dots-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-six.svg)
   /// duotone: ![dots-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-six.svg)
-  static PhosphorIconData dotsSix(
+  static IconData dotsSix(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12095,7 +12082,7 @@ class PhosphorIcons {
   /// bold: ![dots-six-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-six-vertical.svg)
   /// fill: ![dots-six-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-six-vertical.svg)
   /// duotone: ![dots-six-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-six-vertical.svg)
-  static PhosphorIconData dotsSixVertical(
+  static IconData dotsSixVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12119,7 +12106,7 @@ class PhosphorIcons {
   /// bold: ![dots-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three.svg)
   /// fill: ![dots-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three.svg)
   /// duotone: ![dots-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three.svg)
-  static PhosphorIconData dotsThree(
+  static IconData dotsThree(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12143,7 +12130,7 @@ class PhosphorIcons {
   /// bold: ![dots-three-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-circle.svg)
   /// fill: ![dots-three-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three-circle.svg)
   /// duotone: ![dots-three-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-circle.svg)
-  static PhosphorIconData dotsThreeCircle(
+  static IconData dotsThreeCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12167,7 +12154,7 @@ class PhosphorIcons {
   /// bold: ![dots-three-circle-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-circle-vertical.svg)
   /// fill: ![dots-three-circle-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three-circle-vertical.svg)
   /// duotone: ![dots-three-circle-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-circle-vertical.svg)
-  static PhosphorIconData dotsThreeCircleVertical(
+  static IconData dotsThreeCircleVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12191,7 +12178,7 @@ class PhosphorIcons {
   /// bold: ![dots-three-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-outline.svg)
   /// fill: ![dots-three-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three-outline.svg)
   /// duotone: ![dots-three-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-outline.svg)
-  static PhosphorIconData dotsThreeOutline(
+  static IconData dotsThreeOutline(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12215,7 +12202,7 @@ class PhosphorIcons {
   /// bold: ![dots-three-outline-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-outline-vertical.svg)
   /// fill: ![dots-three-outline-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three-outline-vertical.svg)
   /// duotone: ![dots-three-outline-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-outline-vertical.svg)
-  static PhosphorIconData dotsThreeOutlineVertical(
+  static IconData dotsThreeOutlineVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12239,7 +12226,7 @@ class PhosphorIcons {
   /// bold: ![dots-three-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-vertical.svg)
   /// fill: ![dots-three-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three-vertical.svg)
   /// duotone: ![dots-three-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-vertical.svg)
-  static PhosphorIconData dotsThreeVertical(
+  static IconData dotsThreeVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12263,7 +12250,7 @@ class PhosphorIcons {
   /// bold: ![download](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/download.svg)
   /// fill: ![download](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/download.svg)
   /// duotone: ![download](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/download.svg)
-  static PhosphorIconData download(
+  static IconData download(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12287,7 +12274,7 @@ class PhosphorIcons {
   /// bold: ![download-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/download-simple.svg)
   /// fill: ![download-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/download-simple.svg)
   /// duotone: ![download-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/download-simple.svg)
-  static PhosphorIconData downloadSimple(
+  static IconData downloadSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12311,7 +12298,7 @@ class PhosphorIcons {
   /// bold: ![dress](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dress.svg)
   /// fill: ![dress](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dress.svg)
   /// duotone: ![dress](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dress.svg)
-  static PhosphorIconData dress(
+  static IconData dress(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12335,7 +12322,7 @@ class PhosphorIcons {
   /// bold: ![dresser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dresser.svg)
   /// fill: ![dresser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dresser.svg)
   /// duotone: ![dresser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dresser.svg)
-  static PhosphorIconData dresser(
+  static IconData dresser(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12359,7 +12346,7 @@ class PhosphorIcons {
   /// bold: ![dribbble-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dribbble-logo.svg)
   /// fill: ![dribbble-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dribbble-logo.svg)
   /// duotone: ![dribbble-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dribbble-logo.svg)
-  static PhosphorIconData dribbbleLogo(
+  static IconData dribbbleLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12383,7 +12370,7 @@ class PhosphorIcons {
   /// bold: ![drone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drone.svg)
   /// fill: ![drone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drone.svg)
   /// duotone: ![drone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drone.svg)
-  static PhosphorIconData drone(
+  static IconData drone(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12407,7 +12394,7 @@ class PhosphorIcons {
   /// bold: ![drop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop.svg)
   /// fill: ![drop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drop.svg)
   /// duotone: ![drop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop.svg)
-  static PhosphorIconData drop(
+  static IconData drop(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12431,7 +12418,7 @@ class PhosphorIcons {
   /// bold: ![drop-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-half.svg)
   /// fill: ![drop-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drop-half.svg)
   /// duotone: ![drop-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-half.svg)
-  static PhosphorIconData dropHalf(
+  static IconData dropHalf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12455,7 +12442,7 @@ class PhosphorIcons {
   /// bold: ![drop-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-half-bottom.svg)
   /// fill: ![drop-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drop-half-bottom.svg)
   /// duotone: ![drop-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-half-bottom.svg)
-  static PhosphorIconData dropHalfBottom(
+  static IconData dropHalfBottom(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12479,7 +12466,7 @@ class PhosphorIcons {
   /// bold: ![drop-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-simple.svg)
   /// fill: ![drop-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drop-simple.svg)
   /// duotone: ![drop-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-simple.svg)
-  static PhosphorIconData dropSimple(
+  static IconData dropSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12503,7 +12490,7 @@ class PhosphorIcons {
   /// bold: ![drop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-slash.svg)
   /// fill: ![drop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drop-slash.svg)
   /// duotone: ![drop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-slash.svg)
-  static PhosphorIconData dropSlash(
+  static IconData dropSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12527,7 +12514,7 @@ class PhosphorIcons {
   /// bold: ![dropbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dropbox-logo.svg)
   /// fill: ![dropbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dropbox-logo.svg)
   /// duotone: ![dropbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dropbox-logo.svg)
-  static PhosphorIconData dropboxLogo(
+  static IconData dropboxLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12551,8 +12538,7 @@ class PhosphorIcons {
   /// bold: ![ear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ear.svg)
   /// fill: ![ear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ear.svg)
   /// duotone: ![ear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ear.svg)
-  static PhosphorIconData ear(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData ear([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.ear;
@@ -12575,7 +12561,7 @@ class PhosphorIcons {
   /// bold: ![ear-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ear-slash.svg)
   /// fill: ![ear-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ear-slash.svg)
   /// duotone: ![ear-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ear-slash.svg)
-  static PhosphorIconData earSlash(
+  static IconData earSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12599,8 +12585,7 @@ class PhosphorIcons {
   /// bold: ![egg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/egg.svg)
   /// fill: ![egg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/egg.svg)
   /// duotone: ![egg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/egg.svg)
-  static PhosphorIconData egg(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData egg([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.egg;
@@ -12623,7 +12608,7 @@ class PhosphorIcons {
   /// bold: ![egg-crack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/egg-crack.svg)
   /// fill: ![egg-crack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/egg-crack.svg)
   /// duotone: ![egg-crack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/egg-crack.svg)
-  static PhosphorIconData eggCrack(
+  static IconData eggCrack(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12647,7 +12632,7 @@ class PhosphorIcons {
   /// bold: ![eject](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eject.svg)
   /// fill: ![eject](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eject.svg)
   /// duotone: ![eject](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eject.svg)
-  static PhosphorIconData eject(
+  static IconData eject(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12671,7 +12656,7 @@ class PhosphorIcons {
   /// bold: ![eject-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eject-simple.svg)
   /// fill: ![eject-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eject-simple.svg)
   /// duotone: ![eject-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eject-simple.svg)
-  static PhosphorIconData ejectSimple(
+  static IconData ejectSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12695,7 +12680,7 @@ class PhosphorIcons {
   /// bold: ![elevator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/elevator.svg)
   /// fill: ![elevator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/elevator.svg)
   /// duotone: ![elevator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/elevator.svg)
-  static PhosphorIconData elevator(
+  static IconData elevator(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12719,7 +12704,7 @@ class PhosphorIcons {
   /// bold: ![empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/empty.svg)
   /// fill: ![empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/empty.svg)
   /// duotone: ![empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/empty.svg)
-  static PhosphorIconData empty(
+  static IconData empty(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12743,7 +12728,7 @@ class PhosphorIcons {
   /// bold: ![engine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/engine.svg)
   /// fill: ![engine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/engine.svg)
   /// duotone: ![engine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/engine.svg)
-  static PhosphorIconData engine(
+  static IconData engine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12767,7 +12752,7 @@ class PhosphorIcons {
   /// bold: ![envelope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope.svg)
   /// fill: ![envelope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/envelope.svg)
   /// duotone: ![envelope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope.svg)
-  static PhosphorIconData envelope(
+  static IconData envelope(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12791,7 +12776,7 @@ class PhosphorIcons {
   /// bold: ![envelope-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope-open.svg)
   /// fill: ![envelope-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/envelope-open.svg)
   /// duotone: ![envelope-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-open.svg)
-  static PhosphorIconData envelopeOpen(
+  static IconData envelopeOpen(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12815,7 +12800,7 @@ class PhosphorIcons {
   /// bold: ![envelope-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope-simple.svg)
   /// fill: ![envelope-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/envelope-simple.svg)
   /// duotone: ![envelope-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-simple.svg)
-  static PhosphorIconData envelopeSimple(
+  static IconData envelopeSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12839,7 +12824,7 @@ class PhosphorIcons {
   /// bold: ![envelope-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope-simple-open.svg)
   /// fill: ![envelope-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/envelope-simple-open.svg)
   /// duotone: ![envelope-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-simple-open.svg)
-  static PhosphorIconData envelopeSimpleOpen(
+  static IconData envelopeSimpleOpen(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12863,7 +12848,7 @@ class PhosphorIcons {
   /// bold: ![equalizer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/equalizer.svg)
   /// fill: ![equalizer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/equalizer.svg)
   /// duotone: ![equalizer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/equalizer.svg)
-  static PhosphorIconData equalizer(
+  static IconData equalizer(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12887,7 +12872,7 @@ class PhosphorIcons {
   /// bold: ![equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/equals.svg)
   /// fill: ![equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/equals.svg)
   /// duotone: ![equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/equals.svg)
-  static PhosphorIconData equals(
+  static IconData equals(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12911,7 +12896,7 @@ class PhosphorIcons {
   /// bold: ![eraser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eraser.svg)
   /// fill: ![eraser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eraser.svg)
   /// duotone: ![eraser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eraser.svg)
-  static PhosphorIconData eraser(
+  static IconData eraser(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12935,7 +12920,7 @@ class PhosphorIcons {
   /// bold: ![escalator-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/escalator-down.svg)
   /// fill: ![escalator-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/escalator-down.svg)
   /// duotone: ![escalator-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/escalator-down.svg)
-  static PhosphorIconData escalatorDown(
+  static IconData escalatorDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12959,7 +12944,7 @@ class PhosphorIcons {
   /// bold: ![escalator-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/escalator-up.svg)
   /// fill: ![escalator-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/escalator-up.svg)
   /// duotone: ![escalator-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/escalator-up.svg)
-  static PhosphorIconData escalatorUp(
+  static IconData escalatorUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -12983,7 +12968,7 @@ class PhosphorIcons {
   /// bold: ![exam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exam.svg)
   /// fill: ![exam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/exam.svg)
   /// duotone: ![exam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exam.svg)
-  static PhosphorIconData exam(
+  static IconData exam(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13007,7 +12992,7 @@ class PhosphorIcons {
   /// bold: ![exclamation-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exclamation-mark.svg)
   /// fill: ![exclamation-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/exclamation-mark.svg)
   /// duotone: ![exclamation-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclamation-mark.svg)
-  static PhosphorIconData exclamationMark(
+  static IconData exclamationMark(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13031,7 +13016,7 @@ class PhosphorIcons {
   /// bold: ![exclude](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exclude.svg)
   /// fill: ![exclude](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/exclude.svg)
   /// duotone: ![exclude](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclude.svg)
-  static PhosphorIconData exclude(
+  static IconData exclude(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13055,7 +13040,7 @@ class PhosphorIcons {
   /// bold: ![exclude-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exclude-square.svg)
   /// fill: ![exclude-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/exclude-square.svg)
   /// duotone: ![exclude-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclude-square.svg)
-  static PhosphorIconData excludeSquare(
+  static IconData excludeSquare(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13079,7 +13064,7 @@ class PhosphorIcons {
   /// bold: ![export](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/export.svg)
   /// fill: ![export](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/export.svg)
   /// duotone: ![export](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/export.svg)
-  static PhosphorIconData export(
+  static IconData export(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13103,8 +13088,7 @@ class PhosphorIcons {
   /// bold: ![eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eye.svg)
   /// fill: ![eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eye.svg)
   /// duotone: ![eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye.svg)
-  static PhosphorIconData eye(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData eye([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.eye;
@@ -13127,7 +13111,7 @@ class PhosphorIcons {
   /// bold: ![eye-closed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eye-closed.svg)
   /// fill: ![eye-closed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eye-closed.svg)
   /// duotone: ![eye-closed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-closed.svg)
-  static PhosphorIconData eyeClosed(
+  static IconData eyeClosed(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13151,7 +13135,7 @@ class PhosphorIcons {
   /// bold: ![eye-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eye-slash.svg)
   /// fill: ![eye-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eye-slash.svg)
   /// duotone: ![eye-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-slash.svg)
-  static PhosphorIconData eyeSlash(
+  static IconData eyeSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13175,7 +13159,7 @@ class PhosphorIcons {
   /// bold: ![eyedropper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyedropper.svg)
   /// fill: ![eyedropper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eyedropper.svg)
   /// duotone: ![eyedropper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyedropper.svg)
-  static PhosphorIconData eyedropper(
+  static IconData eyedropper(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13199,7 +13183,7 @@ class PhosphorIcons {
   /// bold: ![eyedropper-sample](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyedropper-sample.svg)
   /// fill: ![eyedropper-sample](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eyedropper-sample.svg)
   /// duotone: ![eyedropper-sample](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyedropper-sample.svg)
-  static PhosphorIconData eyedropperSample(
+  static IconData eyedropperSample(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13223,7 +13207,7 @@ class PhosphorIcons {
   /// bold: ![eyeglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyeglasses.svg)
   /// fill: ![eyeglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eyeglasses.svg)
   /// duotone: ![eyeglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyeglasses.svg)
-  static PhosphorIconData eyeglasses(
+  static IconData eyeglasses(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13247,7 +13231,7 @@ class PhosphorIcons {
   /// bold: ![eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyes.svg)
   /// fill: ![eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eyes.svg)
   /// duotone: ![eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyes.svg)
-  static PhosphorIconData eyes(
+  static IconData eyes(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13271,7 +13255,7 @@ class PhosphorIcons {
   /// bold: ![face-mask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/face-mask.svg)
   /// fill: ![face-mask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/face-mask.svg)
   /// duotone: ![face-mask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/face-mask.svg)
-  static PhosphorIconData faceMask(
+  static IconData faceMask(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13295,7 +13279,7 @@ class PhosphorIcons {
   /// bold: ![facebook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/facebook-logo.svg)
   /// fill: ![facebook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/facebook-logo.svg)
   /// duotone: ![facebook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/facebook-logo.svg)
-  static PhosphorIconData facebookLogo(
+  static IconData facebookLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13319,7 +13303,7 @@ class PhosphorIcons {
   /// bold: ![factory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/factory.svg)
   /// fill: ![factory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/factory.svg)
   /// duotone: ![factory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/factory.svg)
-  static PhosphorIconData factory(
+  static IconData factory(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13343,7 +13327,7 @@ class PhosphorIcons {
   /// bold: ![faders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/faders.svg)
   /// fill: ![faders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/faders.svg)
   /// duotone: ![faders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/faders.svg)
-  static PhosphorIconData faders(
+  static IconData faders(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13367,7 +13351,7 @@ class PhosphorIcons {
   /// bold: ![faders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/faders-horizontal.svg)
   /// fill: ![faders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/faders-horizontal.svg)
   /// duotone: ![faders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/faders-horizontal.svg)
-  static PhosphorIconData fadersHorizontal(
+  static IconData fadersHorizontal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13391,7 +13375,7 @@ class PhosphorIcons {
   /// bold: ![fallout-shelter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fallout-shelter.svg)
   /// fill: ![fallout-shelter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fallout-shelter.svg)
   /// duotone: ![fallout-shelter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fallout-shelter.svg)
-  static PhosphorIconData falloutShelter(
+  static IconData falloutShelter(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13415,8 +13399,7 @@ class PhosphorIcons {
   /// bold: ![fan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fan.svg)
   /// fill: ![fan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fan.svg)
   /// duotone: ![fan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fan.svg)
-  static PhosphorIconData fan(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData fan([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.fan;
@@ -13439,7 +13422,7 @@ class PhosphorIcons {
   /// bold: ![farm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/farm.svg)
   /// fill: ![farm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/farm.svg)
   /// duotone: ![farm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/farm.svg)
-  static PhosphorIconData farm(
+  static IconData farm(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13463,7 +13446,7 @@ class PhosphorIcons {
   /// bold: ![fast-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fast-forward.svg)
   /// fill: ![fast-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fast-forward.svg)
   /// duotone: ![fast-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fast-forward.svg)
-  static PhosphorIconData fastForward(
+  static IconData fastForward(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13487,7 +13470,7 @@ class PhosphorIcons {
   /// bold: ![fast-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fast-forward-circle.svg)
   /// fill: ![fast-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fast-forward-circle.svg)
   /// duotone: ![fast-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fast-forward-circle.svg)
-  static PhosphorIconData fastForwardCircle(
+  static IconData fastForwardCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13511,7 +13494,7 @@ class PhosphorIcons {
   /// bold: ![feather](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/feather.svg)
   /// fill: ![feather](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/feather.svg)
   /// duotone: ![feather](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/feather.svg)
-  static PhosphorIconData feather(
+  static IconData feather(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13535,7 +13518,7 @@ class PhosphorIcons {
   /// bold: ![fediverse-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fediverse-logo.svg)
   /// fill: ![fediverse-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fediverse-logo.svg)
   /// duotone: ![fediverse-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fediverse-logo.svg)
-  static PhosphorIconData fediverseLogo(
+  static IconData fediverseLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13559,7 +13542,7 @@ class PhosphorIcons {
   /// bold: ![figma-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/figma-logo.svg)
   /// fill: ![figma-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/figma-logo.svg)
   /// duotone: ![figma-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/figma-logo.svg)
-  static PhosphorIconData figmaLogo(
+  static IconData figmaLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13583,7 +13566,7 @@ class PhosphorIcons {
   /// bold: ![file](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file.svg)
   /// fill: ![file](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file.svg)
   /// duotone: ![file](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file.svg)
-  static PhosphorIconData file(
+  static IconData file(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13607,7 +13590,7 @@ class PhosphorIcons {
   /// bold: ![file-archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-archive.svg)
   /// fill: ![file-archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-archive.svg)
   /// duotone: ![file-archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-archive.svg)
-  static PhosphorIconData fileArchive(
+  static IconData fileArchive(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13631,7 +13614,7 @@ class PhosphorIcons {
   /// bold: ![file-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-arrow-down.svg)
   /// fill: ![file-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-arrow-down.svg)
   /// duotone: ![file-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-arrow-down.svg)
-  static PhosphorIconData fileArrowDown(
+  static IconData fileArrowDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13655,7 +13638,7 @@ class PhosphorIcons {
   /// bold: ![file-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-arrow-up.svg)
   /// fill: ![file-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-arrow-up.svg)
   /// duotone: ![file-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-arrow-up.svg)
-  static PhosphorIconData fileArrowUp(
+  static IconData fileArrowUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13679,7 +13662,7 @@ class PhosphorIcons {
   /// bold: ![file-audio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-audio.svg)
   /// fill: ![file-audio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-audio.svg)
   /// duotone: ![file-audio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-audio.svg)
-  static PhosphorIconData fileAudio(
+  static IconData fileAudio(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13703,7 +13686,7 @@ class PhosphorIcons {
   /// bold: ![file-c](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-c.svg)
   /// fill: ![file-c](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-c.svg)
   /// duotone: ![file-c](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-c.svg)
-  static PhosphorIconData fileC(
+  static IconData fileC(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13727,7 +13710,7 @@ class PhosphorIcons {
   /// bold: ![file-c-sharp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-c-sharp.svg)
   /// fill: ![file-c-sharp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-c-sharp.svg)
   /// duotone: ![file-c-sharp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-c-sharp.svg)
-  static PhosphorIconData fileCSharp(
+  static IconData fileCSharp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13751,7 +13734,7 @@ class PhosphorIcons {
   /// bold: ![file-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-cloud.svg)
   /// fill: ![file-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-cloud.svg)
   /// duotone: ![file-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-cloud.svg)
-  static PhosphorIconData fileCloud(
+  static IconData fileCloud(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13775,7 +13758,7 @@ class PhosphorIcons {
   /// bold: ![file-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-code.svg)
   /// fill: ![file-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-code.svg)
   /// duotone: ![file-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-code.svg)
-  static PhosphorIconData fileCode(
+  static IconData fileCode(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13799,7 +13782,7 @@ class PhosphorIcons {
   /// bold: ![file-cpp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-cpp.svg)
   /// fill: ![file-cpp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-cpp.svg)
   /// duotone: ![file-cpp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-cpp.svg)
-  static PhosphorIconData fileCpp(
+  static IconData fileCpp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13823,7 +13806,7 @@ class PhosphorIcons {
   /// bold: ![file-css](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-css.svg)
   /// fill: ![file-css](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-css.svg)
   /// duotone: ![file-css](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-css.svg)
-  static PhosphorIconData fileCss(
+  static IconData fileCss(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13847,7 +13830,7 @@ class PhosphorIcons {
   /// bold: ![file-csv](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-csv.svg)
   /// fill: ![file-csv](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-csv.svg)
   /// duotone: ![file-csv](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-csv.svg)
-  static PhosphorIconData fileCsv(
+  static IconData fileCsv(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13871,7 +13854,7 @@ class PhosphorIcons {
   /// bold: ![file-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-dashed.svg)
   /// fill: ![file-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-dashed.svg)
   /// duotone: ![file-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-dashed.svg)
-  static PhosphorIconData fileDashed(
+  static IconData fileDashed(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13895,7 +13878,7 @@ class PhosphorIcons {
   /// bold: ![file-doc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-doc.svg)
   /// fill: ![file-doc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-doc.svg)
   /// duotone: ![file-doc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-doc.svg)
-  static PhosphorIconData fileDoc(
+  static IconData fileDoc(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13919,7 +13902,7 @@ class PhosphorIcons {
   /// bold: ![file-html](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-html.svg)
   /// fill: ![file-html](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-html.svg)
   /// duotone: ![file-html](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-html.svg)
-  static PhosphorIconData fileHtml(
+  static IconData fileHtml(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13943,7 +13926,7 @@ class PhosphorIcons {
   /// bold: ![file-image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-image.svg)
   /// fill: ![file-image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-image.svg)
   /// duotone: ![file-image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-image.svg)
-  static PhosphorIconData fileImage(
+  static IconData fileImage(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13967,7 +13950,7 @@ class PhosphorIcons {
   /// bold: ![file-ini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-ini.svg)
   /// fill: ![file-ini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-ini.svg)
   /// duotone: ![file-ini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ini.svg)
-  static PhosphorIconData fileIni(
+  static IconData fileIni(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -13991,7 +13974,7 @@ class PhosphorIcons {
   /// bold: ![file-jpg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-jpg.svg)
   /// fill: ![file-jpg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-jpg.svg)
   /// duotone: ![file-jpg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-jpg.svg)
-  static PhosphorIconData fileJpg(
+  static IconData fileJpg(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14015,7 +13998,7 @@ class PhosphorIcons {
   /// bold: ![file-js](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-js.svg)
   /// fill: ![file-js](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-js.svg)
   /// duotone: ![file-js](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-js.svg)
-  static PhosphorIconData fileJs(
+  static IconData fileJs(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14039,7 +14022,7 @@ class PhosphorIcons {
   /// bold: ![file-jsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-jsx.svg)
   /// fill: ![file-jsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-jsx.svg)
   /// duotone: ![file-jsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-jsx.svg)
-  static PhosphorIconData fileJsx(
+  static IconData fileJsx(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14063,7 +14046,7 @@ class PhosphorIcons {
   /// bold: ![file-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-lock.svg)
   /// fill: ![file-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-lock.svg)
   /// duotone: ![file-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-lock.svg)
-  static PhosphorIconData fileLock(
+  static IconData fileLock(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14087,7 +14070,7 @@ class PhosphorIcons {
   /// bold: ![file-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-magnifying-glass.svg)
   /// fill: ![file-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-magnifying-glass.svg)
   /// duotone: ![file-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-magnifying-glass.svg)
-  static PhosphorIconData fileMagnifyingGlass(
+  static IconData fileMagnifyingGlass(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14111,7 +14094,7 @@ class PhosphorIcons {
   /// bold: ![file-md](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-md.svg)
   /// fill: ![file-md](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-md.svg)
   /// duotone: ![file-md](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-md.svg)
-  static PhosphorIconData fileMd(
+  static IconData fileMd(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14135,7 +14118,7 @@ class PhosphorIcons {
   /// bold: ![file-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-minus.svg)
   /// fill: ![file-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-minus.svg)
   /// duotone: ![file-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-minus.svg)
-  static PhosphorIconData fileMinus(
+  static IconData fileMinus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14159,7 +14142,7 @@ class PhosphorIcons {
   /// bold: ![file-pdf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-pdf.svg)
   /// fill: ![file-pdf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-pdf.svg)
   /// duotone: ![file-pdf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-pdf.svg)
-  static PhosphorIconData filePdf(
+  static IconData filePdf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14183,7 +14166,7 @@ class PhosphorIcons {
   /// bold: ![file-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-plus.svg)
   /// fill: ![file-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-plus.svg)
   /// duotone: ![file-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-plus.svg)
-  static PhosphorIconData filePlus(
+  static IconData filePlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14207,7 +14190,7 @@ class PhosphorIcons {
   /// bold: ![file-png](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-png.svg)
   /// fill: ![file-png](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-png.svg)
   /// duotone: ![file-png](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-png.svg)
-  static PhosphorIconData filePng(
+  static IconData filePng(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14231,7 +14214,7 @@ class PhosphorIcons {
   /// bold: ![file-ppt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-ppt.svg)
   /// fill: ![file-ppt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-ppt.svg)
   /// duotone: ![file-ppt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ppt.svg)
-  static PhosphorIconData filePpt(
+  static IconData filePpt(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14255,7 +14238,7 @@ class PhosphorIcons {
   /// bold: ![file-py](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-py.svg)
   /// fill: ![file-py](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-py.svg)
   /// duotone: ![file-py](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-py.svg)
-  static PhosphorIconData filePy(
+  static IconData filePy(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14279,7 +14262,7 @@ class PhosphorIcons {
   /// bold: ![file-rs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-rs.svg)
   /// fill: ![file-rs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-rs.svg)
   /// duotone: ![file-rs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-rs.svg)
-  static PhosphorIconData fileRs(
+  static IconData fileRs(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14303,7 +14286,7 @@ class PhosphorIcons {
   /// bold: ![file-sql](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-sql.svg)
   /// fill: ![file-sql](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-sql.svg)
   /// duotone: ![file-sql](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-sql.svg)
-  static PhosphorIconData fileSql(
+  static IconData fileSql(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14327,7 +14310,7 @@ class PhosphorIcons {
   /// bold: ![file-svg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-svg.svg)
   /// fill: ![file-svg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-svg.svg)
   /// duotone: ![file-svg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-svg.svg)
-  static PhosphorIconData fileSvg(
+  static IconData fileSvg(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14351,7 +14334,7 @@ class PhosphorIcons {
   /// bold: ![file-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-text.svg)
   /// fill: ![file-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-text.svg)
   /// duotone: ![file-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-text.svg)
-  static PhosphorIconData fileText(
+  static IconData fileText(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14375,7 +14358,7 @@ class PhosphorIcons {
   /// bold: ![file-ts](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-ts.svg)
   /// fill: ![file-ts](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-ts.svg)
   /// duotone: ![file-ts](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ts.svg)
-  static PhosphorIconData fileTs(
+  static IconData fileTs(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14399,7 +14382,7 @@ class PhosphorIcons {
   /// bold: ![file-tsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-tsx.svg)
   /// fill: ![file-tsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-tsx.svg)
   /// duotone: ![file-tsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-tsx.svg)
-  static PhosphorIconData fileTsx(
+  static IconData fileTsx(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14423,7 +14406,7 @@ class PhosphorIcons {
   /// bold: ![file-txt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-txt.svg)
   /// fill: ![file-txt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-txt.svg)
   /// duotone: ![file-txt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-txt.svg)
-  static PhosphorIconData fileTxt(
+  static IconData fileTxt(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14447,7 +14430,7 @@ class PhosphorIcons {
   /// bold: ![file-video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-video.svg)
   /// fill: ![file-video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-video.svg)
   /// duotone: ![file-video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-video.svg)
-  static PhosphorIconData fileVideo(
+  static IconData fileVideo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14471,7 +14454,7 @@ class PhosphorIcons {
   /// bold: ![file-vue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-vue.svg)
   /// fill: ![file-vue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-vue.svg)
   /// duotone: ![file-vue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-vue.svg)
-  static PhosphorIconData fileVue(
+  static IconData fileVue(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14495,7 +14478,7 @@ class PhosphorIcons {
   /// bold: ![file-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-x.svg)
   /// fill: ![file-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-x.svg)
   /// duotone: ![file-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-x.svg)
-  static PhosphorIconData fileX(
+  static IconData fileX(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14519,7 +14502,7 @@ class PhosphorIcons {
   /// bold: ![file-xls](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-xls.svg)
   /// fill: ![file-xls](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-xls.svg)
   /// duotone: ![file-xls](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-xls.svg)
-  static PhosphorIconData fileXls(
+  static IconData fileXls(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14543,7 +14526,7 @@ class PhosphorIcons {
   /// bold: ![file-zip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-zip.svg)
   /// fill: ![file-zip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-zip.svg)
   /// duotone: ![file-zip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-zip.svg)
-  static PhosphorIconData fileZip(
+  static IconData fileZip(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14567,7 +14550,7 @@ class PhosphorIcons {
   /// bold: ![files](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/files.svg)
   /// fill: ![files](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/files.svg)
   /// duotone: ![files](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/files.svg)
-  static PhosphorIconData files(
+  static IconData files(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14591,7 +14574,7 @@ class PhosphorIcons {
   /// bold: ![film-reel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-reel.svg)
   /// fill: ![film-reel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/film-reel.svg)
   /// duotone: ![film-reel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-reel.svg)
-  static PhosphorIconData filmReel(
+  static IconData filmReel(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14615,7 +14598,7 @@ class PhosphorIcons {
   /// bold: ![film-script](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-script.svg)
   /// fill: ![film-script](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/film-script.svg)
   /// duotone: ![film-script](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-script.svg)
-  static PhosphorIconData filmScript(
+  static IconData filmScript(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14639,7 +14622,7 @@ class PhosphorIcons {
   /// bold: ![film-slate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-slate.svg)
   /// fill: ![film-slate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/film-slate.svg)
   /// duotone: ![film-slate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-slate.svg)
-  static PhosphorIconData filmSlate(
+  static IconData filmSlate(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14663,7 +14646,7 @@ class PhosphorIcons {
   /// bold: ![film-strip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-strip.svg)
   /// fill: ![film-strip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/film-strip.svg)
   /// duotone: ![film-strip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-strip.svg)
-  static PhosphorIconData filmStrip(
+  static IconData filmStrip(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14687,7 +14670,7 @@ class PhosphorIcons {
   /// bold: ![fingerprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fingerprint.svg)
   /// fill: ![fingerprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fingerprint.svg)
   /// duotone: ![fingerprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fingerprint.svg)
-  static PhosphorIconData fingerprint(
+  static IconData fingerprint(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14711,7 +14694,7 @@ class PhosphorIcons {
   /// bold: ![fingerprint-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fingerprint-simple.svg)
   /// fill: ![fingerprint-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fingerprint-simple.svg)
   /// duotone: ![fingerprint-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fingerprint-simple.svg)
-  static PhosphorIconData fingerprintSimple(
+  static IconData fingerprintSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14735,7 +14718,7 @@ class PhosphorIcons {
   /// bold: ![finn-the-human](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/finn-the-human.svg)
   /// fill: ![finn-the-human](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/finn-the-human.svg)
   /// duotone: ![finn-the-human](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/finn-the-human.svg)
-  static PhosphorIconData finnTheHuman(
+  static IconData finnTheHuman(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14759,7 +14742,7 @@ class PhosphorIcons {
   /// bold: ![fire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire.svg)
   /// fill: ![fire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fire.svg)
   /// duotone: ![fire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire.svg)
-  static PhosphorIconData fire(
+  static IconData fire(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14783,7 +14766,7 @@ class PhosphorIcons {
   /// bold: ![fire-extinguisher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire-extinguisher.svg)
   /// fill: ![fire-extinguisher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fire-extinguisher.svg)
   /// duotone: ![fire-extinguisher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-extinguisher.svg)
-  static PhosphorIconData fireExtinguisher(
+  static IconData fireExtinguisher(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14807,7 +14790,7 @@ class PhosphorIcons {
   /// bold: ![fire-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire-simple.svg)
   /// fill: ![fire-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fire-simple.svg)
   /// duotone: ![fire-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-simple.svg)
-  static PhosphorIconData fireSimple(
+  static IconData fireSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14831,7 +14814,7 @@ class PhosphorIcons {
   /// bold: ![fire-truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire-truck.svg)
   /// fill: ![fire-truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fire-truck.svg)
   /// duotone: ![fire-truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-truck.svg)
-  static PhosphorIconData fireTruck(
+  static IconData fireTruck(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14855,7 +14838,7 @@ class PhosphorIcons {
   /// bold: ![first-aid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/first-aid.svg)
   /// fill: ![first-aid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/first-aid.svg)
   /// duotone: ![first-aid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/first-aid.svg)
-  static PhosphorIconData firstAid(
+  static IconData firstAid(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14879,7 +14862,7 @@ class PhosphorIcons {
   /// bold: ![first-aid-kit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/first-aid-kit.svg)
   /// fill: ![first-aid-kit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/first-aid-kit.svg)
   /// duotone: ![first-aid-kit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/first-aid-kit.svg)
-  static PhosphorIconData firstAidKit(
+  static IconData firstAidKit(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14903,7 +14886,7 @@ class PhosphorIcons {
   /// bold: ![fish](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fish.svg)
   /// fill: ![fish](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fish.svg)
   /// duotone: ![fish](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fish.svg)
-  static PhosphorIconData fish(
+  static IconData fish(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14927,7 +14910,7 @@ class PhosphorIcons {
   /// bold: ![fish-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fish-simple.svg)
   /// fill: ![fish-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fish-simple.svg)
   /// duotone: ![fish-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fish-simple.svg)
-  static PhosphorIconData fishSimple(
+  static IconData fishSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14951,7 +14934,7 @@ class PhosphorIcons {
   /// bold: ![flag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag.svg)
   /// fill: ![flag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flag.svg)
   /// duotone: ![flag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag.svg)
-  static PhosphorIconData flag(
+  static IconData flag(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14975,7 +14958,7 @@ class PhosphorIcons {
   /// bold: ![flag-banner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-banner.svg)
   /// fill: ![flag-banner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flag-banner.svg)
   /// duotone: ![flag-banner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-banner.svg)
-  static PhosphorIconData flagBanner(
+  static IconData flagBanner(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -14999,7 +14982,7 @@ class PhosphorIcons {
   /// bold: ![flag-banner-fold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-banner-fold.svg)
   /// fill: ![flag-banner-fold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flag-banner-fold.svg)
   /// duotone: ![flag-banner-fold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-banner-fold.svg)
-  static PhosphorIconData flagBannerFold(
+  static IconData flagBannerFold(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15023,7 +15006,7 @@ class PhosphorIcons {
   /// bold: ![flag-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-checkered.svg)
   /// fill: ![flag-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flag-checkered.svg)
   /// duotone: ![flag-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-checkered.svg)
-  static PhosphorIconData flagCheckered(
+  static IconData flagCheckered(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15047,7 +15030,7 @@ class PhosphorIcons {
   /// bold: ![flag-pennant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-pennant.svg)
   /// fill: ![flag-pennant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flag-pennant.svg)
   /// duotone: ![flag-pennant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-pennant.svg)
-  static PhosphorIconData flagPennant(
+  static IconData flagPennant(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15071,7 +15054,7 @@ class PhosphorIcons {
   /// bold: ![flame](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flame.svg)
   /// fill: ![flame](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flame.svg)
   /// duotone: ![flame](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flame.svg)
-  static PhosphorIconData flame(
+  static IconData flame(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15095,7 +15078,7 @@ class PhosphorIcons {
   /// bold: ![flashlight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flashlight.svg)
   /// fill: ![flashlight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flashlight.svg)
   /// duotone: ![flashlight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flashlight.svg)
-  static PhosphorIconData flashlight(
+  static IconData flashlight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15119,7 +15102,7 @@ class PhosphorIcons {
   /// bold: ![flask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flask.svg)
   /// fill: ![flask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flask.svg)
   /// duotone: ![flask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flask.svg)
-  static PhosphorIconData flask(
+  static IconData flask(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15143,7 +15126,7 @@ class PhosphorIcons {
   /// bold: ![flip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flip-horizontal.svg)
   /// fill: ![flip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flip-horizontal.svg)
   /// duotone: ![flip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flip-horizontal.svg)
-  static PhosphorIconData flipHorizontal(
+  static IconData flipHorizontal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15167,7 +15150,7 @@ class PhosphorIcons {
   /// bold: ![flip-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flip-vertical.svg)
   /// fill: ![flip-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flip-vertical.svg)
   /// duotone: ![flip-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flip-vertical.svg)
-  static PhosphorIconData flipVertical(
+  static IconData flipVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15191,7 +15174,7 @@ class PhosphorIcons {
   /// bold: ![floppy-disk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/floppy-disk.svg)
   /// fill: ![floppy-disk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/floppy-disk.svg)
   /// duotone: ![floppy-disk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/floppy-disk.svg)
-  static PhosphorIconData floppyDisk(
+  static IconData floppyDisk(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15215,7 +15198,7 @@ class PhosphorIcons {
   /// bold: ![floppy-disk-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/floppy-disk-back.svg)
   /// fill: ![floppy-disk-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/floppy-disk-back.svg)
   /// duotone: ![floppy-disk-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/floppy-disk-back.svg)
-  static PhosphorIconData floppyDiskBack(
+  static IconData floppyDiskBack(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15239,7 +15222,7 @@ class PhosphorIcons {
   /// bold: ![flow-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flow-arrow.svg)
   /// fill: ![flow-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flow-arrow.svg)
   /// duotone: ![flow-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flow-arrow.svg)
-  static PhosphorIconData flowArrow(
+  static IconData flowArrow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15263,7 +15246,7 @@ class PhosphorIcons {
   /// bold: ![flower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flower.svg)
   /// fill: ![flower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flower.svg)
   /// duotone: ![flower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower.svg)
-  static PhosphorIconData flower(
+  static IconData flower(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15287,7 +15270,7 @@ class PhosphorIcons {
   /// bold: ![flower-lotus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flower-lotus.svg)
   /// fill: ![flower-lotus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flower-lotus.svg)
   /// duotone: ![flower-lotus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-lotus.svg)
-  static PhosphorIconData flowerLotus(
+  static IconData flowerLotus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15311,7 +15294,7 @@ class PhosphorIcons {
   /// bold: ![flower-tulip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flower-tulip.svg)
   /// fill: ![flower-tulip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flower-tulip.svg)
   /// duotone: ![flower-tulip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-tulip.svg)
-  static PhosphorIconData flowerTulip(
+  static IconData flowerTulip(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15335,7 +15318,7 @@ class PhosphorIcons {
   /// bold: ![flying-saucer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flying-saucer.svg)
   /// fill: ![flying-saucer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flying-saucer.svg)
   /// duotone: ![flying-saucer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flying-saucer.svg)
-  static PhosphorIconData flyingSaucer(
+  static IconData flyingSaucer(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15359,7 +15342,7 @@ class PhosphorIcons {
   /// bold: ![folder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder.svg)
   /// fill: ![folder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder.svg)
   /// duotone: ![folder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder.svg)
-  static PhosphorIconData folder(
+  static IconData folder(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15383,7 +15366,7 @@ class PhosphorIcons {
   /// bold: ![folder-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-dashed.svg)
   /// fill: ![folder-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-dashed.svg)
   /// duotone: ![folder-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-dashed.svg)
-  static PhosphorIconData folderDashed(
+  static IconData folderDashed(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15407,7 +15390,7 @@ class PhosphorIcons {
   /// bold: ![folder-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-lock.svg)
   /// fill: ![folder-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-lock.svg)
   /// duotone: ![folder-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-lock.svg)
-  static PhosphorIconData folderLock(
+  static IconData folderLock(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15431,7 +15414,7 @@ class PhosphorIcons {
   /// bold: ![folder-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-minus.svg)
   /// fill: ![folder-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-minus.svg)
   /// duotone: ![folder-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-minus.svg)
-  static PhosphorIconData folderMinus(
+  static IconData folderMinus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15455,7 +15438,7 @@ class PhosphorIcons {
   /// bold: ![folder-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-open.svg)
   /// fill: ![folder-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-open.svg)
   /// duotone: ![folder-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-open.svg)
-  static PhosphorIconData folderOpen(
+  static IconData folderOpen(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15479,7 +15462,7 @@ class PhosphorIcons {
   /// bold: ![folder-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-plus.svg)
   /// fill: ![folder-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-plus.svg)
   /// duotone: ![folder-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-plus.svg)
-  static PhosphorIconData folderPlus(
+  static IconData folderPlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15503,7 +15486,7 @@ class PhosphorIcons {
   /// bold: ![folder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple.svg)
   /// fill: ![folder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple.svg)
   /// duotone: ![folder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple.svg)
-  static PhosphorIconData folderSimple(
+  static IconData folderSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15527,7 +15510,7 @@ class PhosphorIcons {
   /// bold: ![folder-simple-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-dashed.svg)
   /// fill: ![folder-simple-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-dashed.svg)
   /// duotone: ![folder-simple-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-dashed.svg)
-  static PhosphorIconData folderSimpleDashed(
+  static IconData folderSimpleDashed(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15551,7 +15534,7 @@ class PhosphorIcons {
   /// bold: ![folder-simple-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-lock.svg)
   /// fill: ![folder-simple-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-lock.svg)
   /// duotone: ![folder-simple-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-lock.svg)
-  static PhosphorIconData folderSimpleLock(
+  static IconData folderSimpleLock(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15575,7 +15558,7 @@ class PhosphorIcons {
   /// bold: ![folder-simple-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-minus.svg)
   /// fill: ![folder-simple-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-minus.svg)
   /// duotone: ![folder-simple-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-minus.svg)
-  static PhosphorIconData folderSimpleMinus(
+  static IconData folderSimpleMinus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15599,7 +15582,7 @@ class PhosphorIcons {
   /// bold: ![folder-simple-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-plus.svg)
   /// fill: ![folder-simple-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-plus.svg)
   /// duotone: ![folder-simple-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-plus.svg)
-  static PhosphorIconData folderSimplePlus(
+  static IconData folderSimplePlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15623,7 +15606,7 @@ class PhosphorIcons {
   /// bold: ![folder-simple-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-star.svg)
   /// fill: ![folder-simple-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-star.svg)
   /// duotone: ![folder-simple-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-star.svg)
-  static PhosphorIconData folderSimpleStar(
+  static IconData folderSimpleStar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15647,7 +15630,7 @@ class PhosphorIcons {
   /// bold: ![folder-simple-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-user.svg)
   /// fill: ![folder-simple-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-user.svg)
   /// duotone: ![folder-simple-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-user.svg)
-  static PhosphorIconData folderSimpleUser(
+  static IconData folderSimpleUser(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15671,7 +15654,7 @@ class PhosphorIcons {
   /// bold: ![folder-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-star.svg)
   /// fill: ![folder-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-star.svg)
   /// duotone: ![folder-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-star.svg)
-  static PhosphorIconData folderStar(
+  static IconData folderStar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15695,7 +15678,7 @@ class PhosphorIcons {
   /// bold: ![folder-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-user.svg)
   /// fill: ![folder-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-user.svg)
   /// duotone: ![folder-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-user.svg)
-  static PhosphorIconData folderUser(
+  static IconData folderUser(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15719,7 +15702,7 @@ class PhosphorIcons {
   /// bold: ![folders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folders.svg)
   /// fill: ![folders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folders.svg)
   /// duotone: ![folders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folders.svg)
-  static PhosphorIconData folders(
+  static IconData folders(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15743,7 +15726,7 @@ class PhosphorIcons {
   /// bold: ![football](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/football.svg)
   /// fill: ![football](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/football.svg)
   /// duotone: ![football](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/football.svg)
-  static PhosphorIconData football(
+  static IconData football(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15767,7 +15750,7 @@ class PhosphorIcons {
   /// bold: ![football-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/football-helmet.svg)
   /// fill: ![football-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/football-helmet.svg)
   /// duotone: ![football-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/football-helmet.svg)
-  static PhosphorIconData footballHelmet(
+  static IconData footballHelmet(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15791,7 +15774,7 @@ class PhosphorIcons {
   /// bold: ![footprints](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/footprints.svg)
   /// fill: ![footprints](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/footprints.svg)
   /// duotone: ![footprints](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/footprints.svg)
-  static PhosphorIconData footprints(
+  static IconData footprints(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15815,7 +15798,7 @@ class PhosphorIcons {
   /// bold: ![fork-knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fork-knife.svg)
   /// fill: ![fork-knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fork-knife.svg)
   /// duotone: ![fork-knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fork-knife.svg)
-  static PhosphorIconData forkKnife(
+  static IconData forkKnife(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15839,7 +15822,7 @@ class PhosphorIcons {
   /// bold: ![four-k](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/four-k.svg)
   /// fill: ![four-k](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/four-k.svg)
   /// duotone: ![four-k](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/four-k.svg)
-  static PhosphorIconData fourK(
+  static IconData fourK(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15863,7 +15846,7 @@ class PhosphorIcons {
   /// bold: ![frame-corners](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/frame-corners.svg)
   /// fill: ![frame-corners](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/frame-corners.svg)
   /// duotone: ![frame-corners](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/frame-corners.svg)
-  static PhosphorIconData frameCorners(
+  static IconData frameCorners(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15887,7 +15870,7 @@ class PhosphorIcons {
   /// bold: ![framer-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/framer-logo.svg)
   /// fill: ![framer-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/framer-logo.svg)
   /// duotone: ![framer-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/framer-logo.svg)
-  static PhosphorIconData framerLogo(
+  static IconData framerLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15911,7 +15894,7 @@ class PhosphorIcons {
   /// bold: ![function](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/function.svg)
   /// fill: ![function](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/function.svg)
   /// duotone: ![function](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/function.svg)
-  static PhosphorIconData function(
+  static IconData function(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15935,7 +15918,7 @@ class PhosphorIcons {
   /// bold: ![funnel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel.svg)
   /// fill: ![funnel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/funnel.svg)
   /// duotone: ![funnel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel.svg)
-  static PhosphorIconData funnel(
+  static IconData funnel(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15959,7 +15942,7 @@ class PhosphorIcons {
   /// bold: ![funnel-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel-simple.svg)
   /// fill: ![funnel-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/funnel-simple.svg)
   /// duotone: ![funnel-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-simple.svg)
-  static PhosphorIconData funnelSimple(
+  static IconData funnelSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -15983,7 +15966,7 @@ class PhosphorIcons {
   /// bold: ![funnel-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel-simple-x.svg)
   /// fill: ![funnel-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/funnel-simple-x.svg)
   /// duotone: ![funnel-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-simple-x.svg)
-  static PhosphorIconData funnelSimpleX(
+  static IconData funnelSimpleX(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16007,7 +15990,7 @@ class PhosphorIcons {
   /// bold: ![funnel-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel-x.svg)
   /// fill: ![funnel-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/funnel-x.svg)
   /// duotone: ![funnel-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-x.svg)
-  static PhosphorIconData funnelX(
+  static IconData funnelX(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16031,7 +16014,7 @@ class PhosphorIcons {
   /// bold: ![game-controller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/game-controller.svg)
   /// fill: ![game-controller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/game-controller.svg)
   /// duotone: ![game-controller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/game-controller.svg)
-  static PhosphorIconData gameController(
+  static IconData gameController(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16055,7 +16038,7 @@ class PhosphorIcons {
   /// bold: ![garage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/garage.svg)
   /// fill: ![garage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/garage.svg)
   /// duotone: ![garage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/garage.svg)
-  static PhosphorIconData garage(
+  static IconData garage(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16079,7 +16062,7 @@ class PhosphorIcons {
   /// bold: ![gas-can](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gas-can.svg)
   /// fill: ![gas-can](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gas-can.svg)
   /// duotone: ![gas-can](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gas-can.svg)
-  static PhosphorIconData gasCan(
+  static IconData gasCan(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16103,7 +16086,7 @@ class PhosphorIcons {
   /// bold: ![gas-pump](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gas-pump.svg)
   /// fill: ![gas-pump](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gas-pump.svg)
   /// duotone: ![gas-pump](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gas-pump.svg)
-  static PhosphorIconData gasPump(
+  static IconData gasPump(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16127,7 +16110,7 @@ class PhosphorIcons {
   /// bold: ![gauge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gauge.svg)
   /// fill: ![gauge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gauge.svg)
   /// duotone: ![gauge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gauge.svg)
-  static PhosphorIconData gauge(
+  static IconData gauge(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16151,7 +16134,7 @@ class PhosphorIcons {
   /// bold: ![gavel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gavel.svg)
   /// fill: ![gavel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gavel.svg)
   /// duotone: ![gavel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gavel.svg)
-  static PhosphorIconData gavel(
+  static IconData gavel(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16175,7 +16158,7 @@ class PhosphorIcons {
   /// bold: ![gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gear.svg)
   /// fill: ![gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gear.svg)
   /// duotone: ![gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear.svg)
-  static PhosphorIconData gear(
+  static IconData gear(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16199,7 +16182,7 @@ class PhosphorIcons {
   /// bold: ![gear-fine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gear-fine.svg)
   /// fill: ![gear-fine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gear-fine.svg)
   /// duotone: ![gear-fine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-fine.svg)
-  static PhosphorIconData gearFine(
+  static IconData gearFine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16223,7 +16206,7 @@ class PhosphorIcons {
   /// bold: ![gear-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gear-six.svg)
   /// fill: ![gear-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gear-six.svg)
   /// duotone: ![gear-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-six.svg)
-  static PhosphorIconData gearSix(
+  static IconData gearSix(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16247,7 +16230,7 @@ class PhosphorIcons {
   /// bold: ![gender-female](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-female.svg)
   /// fill: ![gender-female](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-female.svg)
   /// duotone: ![gender-female](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-female.svg)
-  static PhosphorIconData genderFemale(
+  static IconData genderFemale(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16271,7 +16254,7 @@ class PhosphorIcons {
   /// bold: ![gender-intersex](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-intersex.svg)
   /// fill: ![gender-intersex](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-intersex.svg)
   /// duotone: ![gender-intersex](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-intersex.svg)
-  static PhosphorIconData genderIntersex(
+  static IconData genderIntersex(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16295,7 +16278,7 @@ class PhosphorIcons {
   /// bold: ![gender-male](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-male.svg)
   /// fill: ![gender-male](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-male.svg)
   /// duotone: ![gender-male](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-male.svg)
-  static PhosphorIconData genderMale(
+  static IconData genderMale(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16319,7 +16302,7 @@ class PhosphorIcons {
   /// bold: ![gender-neuter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-neuter.svg)
   /// fill: ![gender-neuter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-neuter.svg)
   /// duotone: ![gender-neuter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-neuter.svg)
-  static PhosphorIconData genderNeuter(
+  static IconData genderNeuter(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16343,7 +16326,7 @@ class PhosphorIcons {
   /// bold: ![gender-nonbinary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-nonbinary.svg)
   /// fill: ![gender-nonbinary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-nonbinary.svg)
   /// duotone: ![gender-nonbinary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-nonbinary.svg)
-  static PhosphorIconData genderNonbinary(
+  static IconData genderNonbinary(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16367,7 +16350,7 @@ class PhosphorIcons {
   /// bold: ![gender-transgender](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-transgender.svg)
   /// fill: ![gender-transgender](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-transgender.svg)
   /// duotone: ![gender-transgender](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-transgender.svg)
-  static PhosphorIconData genderTransgender(
+  static IconData genderTransgender(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16391,7 +16374,7 @@ class PhosphorIcons {
   /// bold: ![ghost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ghost.svg)
   /// fill: ![ghost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ghost.svg)
   /// duotone: ![ghost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ghost.svg)
-  static PhosphorIconData ghost(
+  static IconData ghost(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16415,8 +16398,7 @@ class PhosphorIcons {
   /// bold: ![gif](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gif.svg)
   /// fill: ![gif](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gif.svg)
   /// duotone: ![gif](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gif.svg)
-  static PhosphorIconData gif(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData gif([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.gif;
@@ -16439,7 +16421,7 @@ class PhosphorIcons {
   /// bold: ![gift](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gift.svg)
   /// fill: ![gift](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gift.svg)
   /// duotone: ![gift](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gift.svg)
-  static PhosphorIconData gift(
+  static IconData gift(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16463,7 +16445,7 @@ class PhosphorIcons {
   /// bold: ![git-branch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-branch.svg)
   /// fill: ![git-branch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-branch.svg)
   /// duotone: ![git-branch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-branch.svg)
-  static PhosphorIconData gitBranch(
+  static IconData gitBranch(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16487,7 +16469,7 @@ class PhosphorIcons {
   /// bold: ![git-commit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-commit.svg)
   /// fill: ![git-commit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-commit.svg)
   /// duotone: ![git-commit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-commit.svg)
-  static PhosphorIconData gitCommit(
+  static IconData gitCommit(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16511,7 +16493,7 @@ class PhosphorIcons {
   /// bold: ![git-diff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-diff.svg)
   /// fill: ![git-diff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-diff.svg)
   /// duotone: ![git-diff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-diff.svg)
-  static PhosphorIconData gitDiff(
+  static IconData gitDiff(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16535,7 +16517,7 @@ class PhosphorIcons {
   /// bold: ![git-fork](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-fork.svg)
   /// fill: ![git-fork](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-fork.svg)
   /// duotone: ![git-fork](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-fork.svg)
-  static PhosphorIconData gitFork(
+  static IconData gitFork(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16559,7 +16541,7 @@ class PhosphorIcons {
   /// bold: ![git-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-merge.svg)
   /// fill: ![git-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-merge.svg)
   /// duotone: ![git-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-merge.svg)
-  static PhosphorIconData gitMerge(
+  static IconData gitMerge(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16583,7 +16565,7 @@ class PhosphorIcons {
   /// bold: ![git-pull-request](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-pull-request.svg)
   /// fill: ![git-pull-request](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-pull-request.svg)
   /// duotone: ![git-pull-request](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-pull-request.svg)
-  static PhosphorIconData gitPullRequest(
+  static IconData gitPullRequest(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16607,7 +16589,7 @@ class PhosphorIcons {
   /// bold: ![github-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/github-logo.svg)
   /// fill: ![github-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/github-logo.svg)
   /// duotone: ![github-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/github-logo.svg)
-  static PhosphorIconData githubLogo(
+  static IconData githubLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16631,7 +16613,7 @@ class PhosphorIcons {
   /// bold: ![gitlab-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gitlab-logo.svg)
   /// fill: ![gitlab-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gitlab-logo.svg)
   /// duotone: ![gitlab-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gitlab-logo.svg)
-  static PhosphorIconData gitlabLogo(
+  static IconData gitlabLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16655,7 +16637,7 @@ class PhosphorIcons {
   /// bold: ![gitlab-logo-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gitlab-logo-simple.svg)
   /// fill: ![gitlab-logo-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gitlab-logo-simple.svg)
   /// duotone: ![gitlab-logo-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gitlab-logo-simple.svg)
-  static PhosphorIconData gitlabLogoSimple(
+  static IconData gitlabLogoSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16679,7 +16661,7 @@ class PhosphorIcons {
   /// bold: ![globe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe.svg)
   /// fill: ![globe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe.svg)
   /// duotone: ![globe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe.svg)
-  static PhosphorIconData globe(
+  static IconData globe(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16703,7 +16685,7 @@ class PhosphorIcons {
   /// bold: ![globe-hemisphere-east](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-hemisphere-east.svg)
   /// fill: ![globe-hemisphere-east](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-hemisphere-east.svg)
   /// duotone: ![globe-hemisphere-east](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-hemisphere-east.svg)
-  static PhosphorIconData globeHemisphereEast(
+  static IconData globeHemisphereEast(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16727,7 +16709,7 @@ class PhosphorIcons {
   /// bold: ![globe-hemisphere-west](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-hemisphere-west.svg)
   /// fill: ![globe-hemisphere-west](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-hemisphere-west.svg)
   /// duotone: ![globe-hemisphere-west](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-hemisphere-west.svg)
-  static PhosphorIconData globeHemisphereWest(
+  static IconData globeHemisphereWest(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16751,7 +16733,7 @@ class PhosphorIcons {
   /// bold: ![globe-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-simple.svg)
   /// fill: ![globe-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-simple.svg)
   /// duotone: ![globe-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-simple.svg)
-  static PhosphorIconData globeSimple(
+  static IconData globeSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16775,7 +16757,7 @@ class PhosphorIcons {
   /// bold: ![globe-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-simple-x.svg)
   /// fill: ![globe-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-simple-x.svg)
   /// duotone: ![globe-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-simple-x.svg)
-  static PhosphorIconData globeSimpleX(
+  static IconData globeSimpleX(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16799,7 +16781,7 @@ class PhosphorIcons {
   /// bold: ![globe-stand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-stand.svg)
   /// fill: ![globe-stand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-stand.svg)
   /// duotone: ![globe-stand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-stand.svg)
-  static PhosphorIconData globeStand(
+  static IconData globeStand(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16823,7 +16805,7 @@ class PhosphorIcons {
   /// bold: ![globe-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-x.svg)
   /// fill: ![globe-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-x.svg)
   /// duotone: ![globe-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-x.svg)
-  static PhosphorIconData globeX(
+  static IconData globeX(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16847,7 +16829,7 @@ class PhosphorIcons {
   /// bold: ![goggles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/goggles.svg)
   /// fill: ![goggles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/goggles.svg)
   /// duotone: ![goggles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/goggles.svg)
-  static PhosphorIconData goggles(
+  static IconData goggles(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16871,7 +16853,7 @@ class PhosphorIcons {
   /// bold: ![golf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/golf.svg)
   /// fill: ![golf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/golf.svg)
   /// duotone: ![golf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/golf.svg)
-  static PhosphorIconData golf(
+  static IconData golf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16895,7 +16877,7 @@ class PhosphorIcons {
   /// bold: ![goodreads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/goodreads-logo.svg)
   /// fill: ![goodreads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/goodreads-logo.svg)
   /// duotone: ![goodreads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/goodreads-logo.svg)
-  static PhosphorIconData goodreadsLogo(
+  static IconData goodreadsLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16919,7 +16901,7 @@ class PhosphorIcons {
   /// bold: ![google-cardboard-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-cardboard-logo.svg)
   /// fill: ![google-cardboard-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-cardboard-logo.svg)
   /// duotone: ![google-cardboard-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-cardboard-logo.svg)
-  static PhosphorIconData googleCardboardLogo(
+  static IconData googleCardboardLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16943,7 +16925,7 @@ class PhosphorIcons {
   /// bold: ![google-chrome-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-chrome-logo.svg)
   /// fill: ![google-chrome-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-chrome-logo.svg)
   /// duotone: ![google-chrome-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-chrome-logo.svg)
-  static PhosphorIconData googleChromeLogo(
+  static IconData googleChromeLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16967,7 +16949,7 @@ class PhosphorIcons {
   /// bold: ![google-drive-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-drive-logo.svg)
   /// fill: ![google-drive-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-drive-logo.svg)
   /// duotone: ![google-drive-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-drive-logo.svg)
-  static PhosphorIconData googleDriveLogo(
+  static IconData googleDriveLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -16991,7 +16973,7 @@ class PhosphorIcons {
   /// bold: ![google-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-logo.svg)
   /// fill: ![google-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-logo.svg)
   /// duotone: ![google-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-logo.svg)
-  static PhosphorIconData googleLogo(
+  static IconData googleLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17015,7 +16997,7 @@ class PhosphorIcons {
   /// bold: ![google-photos-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-photos-logo.svg)
   /// fill: ![google-photos-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-photos-logo.svg)
   /// duotone: ![google-photos-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-photos-logo.svg)
-  static PhosphorIconData googlePhotosLogo(
+  static IconData googlePhotosLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17039,7 +17021,7 @@ class PhosphorIcons {
   /// bold: ![google-play-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-play-logo.svg)
   /// fill: ![google-play-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-play-logo.svg)
   /// duotone: ![google-play-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-play-logo.svg)
-  static PhosphorIconData googlePlayLogo(
+  static IconData googlePlayLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17063,7 +17045,7 @@ class PhosphorIcons {
   /// bold: ![google-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-podcasts-logo.svg)
   /// fill: ![google-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-podcasts-logo.svg)
   /// duotone: ![google-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-podcasts-logo.svg)
-  static PhosphorIconData googlePodcastsLogo(
+  static IconData googlePodcastsLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17087,8 +17069,7 @@ class PhosphorIcons {
   /// bold: ![gps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gps.svg)
   /// fill: ![gps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gps.svg)
   /// duotone: ![gps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps.svg)
-  static PhosphorIconData gps(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData gps([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.gps;
@@ -17111,7 +17092,7 @@ class PhosphorIcons {
   /// bold: ![gps-fix](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gps-fix.svg)
   /// fill: ![gps-fix](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gps-fix.svg)
   /// duotone: ![gps-fix](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-fix.svg)
-  static PhosphorIconData gpsFix(
+  static IconData gpsFix(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17135,7 +17116,7 @@ class PhosphorIcons {
   /// bold: ![gps-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gps-slash.svg)
   /// fill: ![gps-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gps-slash.svg)
   /// duotone: ![gps-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-slash.svg)
-  static PhosphorIconData gpsSlash(
+  static IconData gpsSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17159,7 +17140,7 @@ class PhosphorIcons {
   /// bold: ![gradient](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gradient.svg)
   /// fill: ![gradient](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gradient.svg)
   /// duotone: ![gradient](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gradient.svg)
-  static PhosphorIconData gradient(
+  static IconData gradient(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17183,7 +17164,7 @@ class PhosphorIcons {
   /// bold: ![graduation-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/graduation-cap.svg)
   /// fill: ![graduation-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/graduation-cap.svg)
   /// duotone: ![graduation-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graduation-cap.svg)
-  static PhosphorIconData graduationCap(
+  static IconData graduationCap(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17207,7 +17188,7 @@ class PhosphorIcons {
   /// bold: ![grains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grains.svg)
   /// fill: ![grains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/grains.svg)
   /// duotone: ![grains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grains.svg)
-  static PhosphorIconData grains(
+  static IconData grains(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17231,7 +17212,7 @@ class PhosphorIcons {
   /// bold: ![grains-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grains-slash.svg)
   /// fill: ![grains-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/grains-slash.svg)
   /// duotone: ![grains-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grains-slash.svg)
-  static PhosphorIconData grainsSlash(
+  static IconData grainsSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17255,7 +17236,7 @@ class PhosphorIcons {
   /// bold: ![graph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/graph.svg)
   /// fill: ![graph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/graph.svg)
   /// duotone: ![graph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graph.svg)
-  static PhosphorIconData graph(
+  static IconData graph(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17279,7 +17260,7 @@ class PhosphorIcons {
   /// bold: ![graphics-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/graphics-card.svg)
   /// fill: ![graphics-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/graphics-card.svg)
   /// duotone: ![graphics-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graphics-card.svg)
-  static PhosphorIconData graphicsCard(
+  static IconData graphicsCard(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17303,7 +17284,7 @@ class PhosphorIcons {
   /// bold: ![greater-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/greater-than.svg)
   /// fill: ![greater-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/greater-than.svg)
   /// duotone: ![greater-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/greater-than.svg)
-  static PhosphorIconData greaterThan(
+  static IconData greaterThan(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17327,7 +17308,7 @@ class PhosphorIcons {
   /// bold: ![greater-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/greater-than-or-equal.svg)
   /// fill: ![greater-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/greater-than-or-equal.svg)
   /// duotone: ![greater-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/greater-than-or-equal.svg)
-  static PhosphorIconData greaterThanOrEqual(
+  static IconData greaterThanOrEqual(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17351,7 +17332,7 @@ class PhosphorIcons {
   /// bold: ![grid-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grid-four.svg)
   /// fill: ![grid-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/grid-four.svg)
   /// duotone: ![grid-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grid-four.svg)
-  static PhosphorIconData gridFour(
+  static IconData gridFour(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17375,7 +17356,7 @@ class PhosphorIcons {
   /// bold: ![grid-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grid-nine.svg)
   /// fill: ![grid-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/grid-nine.svg)
   /// duotone: ![grid-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grid-nine.svg)
-  static PhosphorIconData gridNine(
+  static IconData gridNine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17399,7 +17380,7 @@ class PhosphorIcons {
   /// bold: ![guitar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/guitar.svg)
   /// fill: ![guitar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/guitar.svg)
   /// duotone: ![guitar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/guitar.svg)
-  static PhosphorIconData guitar(
+  static IconData guitar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17423,7 +17404,7 @@ class PhosphorIcons {
   /// bold: ![hair-dryer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hair-dryer.svg)
   /// fill: ![hair-dryer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hair-dryer.svg)
   /// duotone: ![hair-dryer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hair-dryer.svg)
-  static PhosphorIconData hairDryer(
+  static IconData hairDryer(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17447,7 +17428,7 @@ class PhosphorIcons {
   /// bold: ![hamburger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hamburger.svg)
   /// fill: ![hamburger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hamburger.svg)
   /// duotone: ![hamburger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hamburger.svg)
-  static PhosphorIconData hamburger(
+  static IconData hamburger(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17471,7 +17452,7 @@ class PhosphorIcons {
   /// bold: ![hammer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hammer.svg)
   /// fill: ![hammer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hammer.svg)
   /// duotone: ![hammer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hammer.svg)
-  static PhosphorIconData hammer(
+  static IconData hammer(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17495,7 +17476,7 @@ class PhosphorIcons {
   /// bold: ![hand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand.svg)
   /// fill: ![hand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand.svg)
   /// duotone: ![hand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand.svg)
-  static PhosphorIconData hand(
+  static IconData hand(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17519,7 +17500,7 @@ class PhosphorIcons {
   /// bold: ![hand-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-arrow-down.svg)
   /// fill: ![hand-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-arrow-down.svg)
   /// duotone: ![hand-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-arrow-down.svg)
-  static PhosphorIconData handArrowDown(
+  static IconData handArrowDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17543,7 +17524,7 @@ class PhosphorIcons {
   /// bold: ![hand-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-arrow-up.svg)
   /// fill: ![hand-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-arrow-up.svg)
   /// duotone: ![hand-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-arrow-up.svg)
-  static PhosphorIconData handArrowUp(
+  static IconData handArrowUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17567,7 +17548,7 @@ class PhosphorIcons {
   /// bold: ![hand-coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-coins.svg)
   /// fill: ![hand-coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-coins.svg)
   /// duotone: ![hand-coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-coins.svg)
-  static PhosphorIconData handCoins(
+  static IconData handCoins(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17591,7 +17572,7 @@ class PhosphorIcons {
   /// bold: ![hand-deposit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-deposit.svg)
   /// fill: ![hand-deposit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-deposit.svg)
   /// duotone: ![hand-deposit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-deposit.svg)
-  static PhosphorIconData handDeposit(
+  static IconData handDeposit(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17615,7 +17596,7 @@ class PhosphorIcons {
   /// bold: ![hand-eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-eye.svg)
   /// fill: ![hand-eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-eye.svg)
   /// duotone: ![hand-eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-eye.svg)
-  static PhosphorIconData handEye(
+  static IconData handEye(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17639,7 +17620,7 @@ class PhosphorIcons {
   /// bold: ![hand-fist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-fist.svg)
   /// fill: ![hand-fist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-fist.svg)
   /// duotone: ![hand-fist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-fist.svg)
-  static PhosphorIconData handFist(
+  static IconData handFist(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17663,7 +17644,7 @@ class PhosphorIcons {
   /// bold: ![hand-grabbing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-grabbing.svg)
   /// fill: ![hand-grabbing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-grabbing.svg)
   /// duotone: ![hand-grabbing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-grabbing.svg)
-  static PhosphorIconData handGrabbing(
+  static IconData handGrabbing(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17687,7 +17668,7 @@ class PhosphorIcons {
   /// bold: ![hand-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-heart.svg)
   /// fill: ![hand-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-heart.svg)
   /// duotone: ![hand-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-heart.svg)
-  static PhosphorIconData handHeart(
+  static IconData handHeart(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17711,7 +17692,7 @@ class PhosphorIcons {
   /// bold: ![hand-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-palm.svg)
   /// fill: ![hand-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-palm.svg)
   /// duotone: ![hand-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-palm.svg)
-  static PhosphorIconData handPalm(
+  static IconData handPalm(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17735,7 +17716,7 @@ class PhosphorIcons {
   /// bold: ![hand-peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-peace.svg)
   /// fill: ![hand-peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-peace.svg)
   /// duotone: ![hand-peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-peace.svg)
-  static PhosphorIconData handPeace(
+  static IconData handPeace(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17759,7 +17740,7 @@ class PhosphorIcons {
   /// bold: ![hand-pointing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-pointing.svg)
   /// fill: ![hand-pointing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-pointing.svg)
   /// duotone: ![hand-pointing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-pointing.svg)
-  static PhosphorIconData handPointing(
+  static IconData handPointing(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17783,7 +17764,7 @@ class PhosphorIcons {
   /// bold: ![hand-soap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-soap.svg)
   /// fill: ![hand-soap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-soap.svg)
   /// duotone: ![hand-soap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-soap.svg)
-  static PhosphorIconData handSoap(
+  static IconData handSoap(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17807,7 +17788,7 @@ class PhosphorIcons {
   /// bold: ![hand-swipe-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-swipe-left.svg)
   /// fill: ![hand-swipe-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-swipe-left.svg)
   /// duotone: ![hand-swipe-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-swipe-left.svg)
-  static PhosphorIconData handSwipeLeft(
+  static IconData handSwipeLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17831,7 +17812,7 @@ class PhosphorIcons {
   /// bold: ![hand-swipe-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-swipe-right.svg)
   /// fill: ![hand-swipe-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-swipe-right.svg)
   /// duotone: ![hand-swipe-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-swipe-right.svg)
-  static PhosphorIconData handSwipeRight(
+  static IconData handSwipeRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17855,7 +17836,7 @@ class PhosphorIcons {
   /// bold: ![hand-tap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-tap.svg)
   /// fill: ![hand-tap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-tap.svg)
   /// duotone: ![hand-tap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-tap.svg)
-  static PhosphorIconData handTap(
+  static IconData handTap(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17879,7 +17860,7 @@ class PhosphorIcons {
   /// bold: ![hand-waving](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-waving.svg)
   /// fill: ![hand-waving](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-waving.svg)
   /// duotone: ![hand-waving](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-waving.svg)
-  static PhosphorIconData handWaving(
+  static IconData handWaving(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17903,7 +17884,7 @@ class PhosphorIcons {
   /// bold: ![hand-withdraw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-withdraw.svg)
   /// fill: ![hand-withdraw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-withdraw.svg)
   /// duotone: ![hand-withdraw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-withdraw.svg)
-  static PhosphorIconData handWithdraw(
+  static IconData handWithdraw(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17927,7 +17908,7 @@ class PhosphorIcons {
   /// bold: ![handbag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/handbag.svg)
   /// fill: ![handbag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/handbag.svg)
   /// duotone: ![handbag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handbag.svg)
-  static PhosphorIconData handbag(
+  static IconData handbag(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17951,7 +17932,7 @@ class PhosphorIcons {
   /// bold: ![handbag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/handbag-simple.svg)
   /// fill: ![handbag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/handbag-simple.svg)
   /// duotone: ![handbag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handbag-simple.svg)
-  static PhosphorIconData handbagSimple(
+  static IconData handbagSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17975,7 +17956,7 @@ class PhosphorIcons {
   /// bold: ![hands-clapping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hands-clapping.svg)
   /// fill: ![hands-clapping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hands-clapping.svg)
   /// duotone: ![hands-clapping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hands-clapping.svg)
-  static PhosphorIconData handsClapping(
+  static IconData handsClapping(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -17999,7 +17980,7 @@ class PhosphorIcons {
   /// bold: ![hands-praying](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hands-praying.svg)
   /// fill: ![hands-praying](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hands-praying.svg)
   /// duotone: ![hands-praying](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hands-praying.svg)
-  static PhosphorIconData handsPraying(
+  static IconData handsPraying(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18023,7 +18004,7 @@ class PhosphorIcons {
   /// bold: ![handshake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/handshake.svg)
   /// fill: ![handshake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/handshake.svg)
   /// duotone: ![handshake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handshake.svg)
-  static PhosphorIconData handshake(
+  static IconData handshake(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18047,7 +18028,7 @@ class PhosphorIcons {
   /// bold: ![hard-drive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hard-drive.svg)
   /// fill: ![hard-drive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hard-drive.svg)
   /// duotone: ![hard-drive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-drive.svg)
-  static PhosphorIconData hardDrive(
+  static IconData hardDrive(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18071,7 +18052,7 @@ class PhosphorIcons {
   /// bold: ![hard-drives](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hard-drives.svg)
   /// fill: ![hard-drives](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hard-drives.svg)
   /// duotone: ![hard-drives](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-drives.svg)
-  static PhosphorIconData hardDrives(
+  static IconData hardDrives(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18095,7 +18076,7 @@ class PhosphorIcons {
   /// bold: ![hard-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hard-hat.svg)
   /// fill: ![hard-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hard-hat.svg)
   /// duotone: ![hard-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-hat.svg)
-  static PhosphorIconData hardHat(
+  static IconData hardHat(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18119,7 +18100,7 @@ class PhosphorIcons {
   /// bold: ![hash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hash.svg)
   /// fill: ![hash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hash.svg)
   /// duotone: ![hash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hash.svg)
-  static PhosphorIconData hash(
+  static IconData hash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18143,7 +18124,7 @@ class PhosphorIcons {
   /// bold: ![hash-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hash-straight.svg)
   /// fill: ![hash-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hash-straight.svg)
   /// duotone: ![hash-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hash-straight.svg)
-  static PhosphorIconData hashStraight(
+  static IconData hashStraight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18167,7 +18148,7 @@ class PhosphorIcons {
   /// bold: ![head-circuit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/head-circuit.svg)
   /// fill: ![head-circuit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/head-circuit.svg)
   /// duotone: ![head-circuit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/head-circuit.svg)
-  static PhosphorIconData headCircuit(
+  static IconData headCircuit(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18191,7 +18172,7 @@ class PhosphorIcons {
   /// bold: ![headlights](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/headlights.svg)
   /// fill: ![headlights](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/headlights.svg)
   /// duotone: ![headlights](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headlights.svg)
-  static PhosphorIconData headlights(
+  static IconData headlights(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18215,7 +18196,7 @@ class PhosphorIcons {
   /// bold: ![headphones](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/headphones.svg)
   /// fill: ![headphones](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/headphones.svg)
   /// duotone: ![headphones](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headphones.svg)
-  static PhosphorIconData headphones(
+  static IconData headphones(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18239,7 +18220,7 @@ class PhosphorIcons {
   /// bold: ![headset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/headset.svg)
   /// fill: ![headset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/headset.svg)
   /// duotone: ![headset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headset.svg)
-  static PhosphorIconData headset(
+  static IconData headset(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18263,7 +18244,7 @@ class PhosphorIcons {
   /// bold: ![heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart.svg)
   /// fill: ![heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heart.svg)
   /// duotone: ![heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart.svg)
-  static PhosphorIconData heart(
+  static IconData heart(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18287,7 +18268,7 @@ class PhosphorIcons {
   /// bold: ![heart-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-break.svg)
   /// fill: ![heart-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heart-break.svg)
   /// duotone: ![heart-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-break.svg)
-  static PhosphorIconData heartBreak(
+  static IconData heartBreak(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18311,7 +18292,7 @@ class PhosphorIcons {
   /// bold: ![heart-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-half.svg)
   /// fill: ![heart-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heart-half.svg)
   /// duotone: ![heart-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-half.svg)
-  static PhosphorIconData heartHalf(
+  static IconData heartHalf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18335,7 +18316,7 @@ class PhosphorIcons {
   /// bold: ![heart-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-straight.svg)
   /// fill: ![heart-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heart-straight.svg)
   /// duotone: ![heart-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-straight.svg)
-  static PhosphorIconData heartStraight(
+  static IconData heartStraight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18359,7 +18340,7 @@ class PhosphorIcons {
   /// bold: ![heart-straight-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-straight-break.svg)
   /// fill: ![heart-straight-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heart-straight-break.svg)
   /// duotone: ![heart-straight-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-straight-break.svg)
-  static PhosphorIconData heartStraightBreak(
+  static IconData heartStraightBreak(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18383,7 +18364,7 @@ class PhosphorIcons {
   /// bold: ![heartbeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heartbeat.svg)
   /// fill: ![heartbeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heartbeat.svg)
   /// duotone: ![heartbeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heartbeat.svg)
-  static PhosphorIconData heartbeat(
+  static IconData heartbeat(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18407,7 +18388,7 @@ class PhosphorIcons {
   /// bold: ![hexagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hexagon.svg)
   /// fill: ![hexagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hexagon.svg)
   /// duotone: ![hexagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hexagon.svg)
-  static PhosphorIconData hexagon(
+  static IconData hexagon(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18431,7 +18412,7 @@ class PhosphorIcons {
   /// bold: ![high-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/high-definition.svg)
   /// fill: ![high-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/high-definition.svg)
   /// duotone: ![high-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/high-definition.svg)
-  static PhosphorIconData highDefinition(
+  static IconData highDefinition(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18455,7 +18436,7 @@ class PhosphorIcons {
   /// bold: ![high-heel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/high-heel.svg)
   /// fill: ![high-heel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/high-heel.svg)
   /// duotone: ![high-heel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/high-heel.svg)
-  static PhosphorIconData highHeel(
+  static IconData highHeel(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18479,7 +18460,7 @@ class PhosphorIcons {
   /// bold: ![highlighter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/highlighter.svg)
   /// fill: ![highlighter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/highlighter.svg)
   /// duotone: ![highlighter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/highlighter.svg)
-  static PhosphorIconData highlighter(
+  static IconData highlighter(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18503,7 +18484,7 @@ class PhosphorIcons {
   /// bold: ![highlighter-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/highlighter-circle.svg)
   /// fill: ![highlighter-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/highlighter-circle.svg)
   /// duotone: ![highlighter-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/highlighter-circle.svg)
-  static PhosphorIconData highlighterCircle(
+  static IconData highlighterCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18527,7 +18508,7 @@ class PhosphorIcons {
   /// bold: ![hockey](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hockey.svg)
   /// fill: ![hockey](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hockey.svg)
   /// duotone: ![hockey](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hockey.svg)
-  static PhosphorIconData hockey(
+  static IconData hockey(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18551,7 +18532,7 @@ class PhosphorIcons {
   /// bold: ![hoodie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hoodie.svg)
   /// fill: ![hoodie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hoodie.svg)
   /// duotone: ![hoodie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hoodie.svg)
-  static PhosphorIconData hoodie(
+  static IconData hoodie(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18575,7 +18556,7 @@ class PhosphorIcons {
   /// bold: ![horse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/horse.svg)
   /// fill: ![horse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/horse.svg)
   /// duotone: ![horse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/horse.svg)
-  static PhosphorIconData horse(
+  static IconData horse(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18599,7 +18580,7 @@ class PhosphorIcons {
   /// bold: ![hospital](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hospital.svg)
   /// fill: ![hospital](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hospital.svg)
   /// duotone: ![hospital](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hospital.svg)
-  static PhosphorIconData hospital(
+  static IconData hospital(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18623,7 +18604,7 @@ class PhosphorIcons {
   /// bold: ![hourglass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass.svg)
   /// fill: ![hourglass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass.svg)
   /// duotone: ![hourglass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass.svg)
-  static PhosphorIconData hourglass(
+  static IconData hourglass(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18647,7 +18628,7 @@ class PhosphorIcons {
   /// bold: ![hourglass-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-high.svg)
   /// fill: ![hourglass-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-high.svg)
   /// duotone: ![hourglass-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-high.svg)
-  static PhosphorIconData hourglassHigh(
+  static IconData hourglassHigh(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18671,7 +18652,7 @@ class PhosphorIcons {
   /// bold: ![hourglass-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-low.svg)
   /// fill: ![hourglass-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-low.svg)
   /// duotone: ![hourglass-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-low.svg)
-  static PhosphorIconData hourglassLow(
+  static IconData hourglassLow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18695,7 +18676,7 @@ class PhosphorIcons {
   /// bold: ![hourglass-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-medium.svg)
   /// fill: ![hourglass-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-medium.svg)
   /// duotone: ![hourglass-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-medium.svg)
-  static PhosphorIconData hourglassMedium(
+  static IconData hourglassMedium(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18719,7 +18700,7 @@ class PhosphorIcons {
   /// bold: ![hourglass-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple.svg)
   /// fill: ![hourglass-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-simple.svg)
   /// duotone: ![hourglass-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple.svg)
-  static PhosphorIconData hourglassSimple(
+  static IconData hourglassSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18743,7 +18724,7 @@ class PhosphorIcons {
   /// bold: ![hourglass-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple-high.svg)
   /// fill: ![hourglass-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-simple-high.svg)
   /// duotone: ![hourglass-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-high.svg)
-  static PhosphorIconData hourglassSimpleHigh(
+  static IconData hourglassSimpleHigh(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18767,7 +18748,7 @@ class PhosphorIcons {
   /// bold: ![hourglass-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple-low.svg)
   /// fill: ![hourglass-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-simple-low.svg)
   /// duotone: ![hourglass-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-low.svg)
-  static PhosphorIconData hourglassSimpleLow(
+  static IconData hourglassSimpleLow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18791,7 +18772,7 @@ class PhosphorIcons {
   /// bold: ![hourglass-simple-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple-medium.svg)
   /// fill: ![hourglass-simple-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-simple-medium.svg)
   /// duotone: ![hourglass-simple-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-medium.svg)
-  static PhosphorIconData hourglassSimpleMedium(
+  static IconData hourglassSimpleMedium(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18815,7 +18796,7 @@ class PhosphorIcons {
   /// bold: ![house](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/house.svg)
   /// fill: ![house](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/house.svg)
   /// duotone: ![house](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house.svg)
-  static PhosphorIconData house(
+  static IconData house(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18839,7 +18820,7 @@ class PhosphorIcons {
   /// bold: ![house-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/house-line.svg)
   /// fill: ![house-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/house-line.svg)
   /// duotone: ![house-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-line.svg)
-  static PhosphorIconData houseLine(
+  static IconData houseLine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18863,7 +18844,7 @@ class PhosphorIcons {
   /// bold: ![house-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/house-simple.svg)
   /// fill: ![house-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/house-simple.svg)
   /// duotone: ![house-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-simple.svg)
-  static PhosphorIconData houseSimple(
+  static IconData houseSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18887,7 +18868,7 @@ class PhosphorIcons {
   /// bold: ![hurricane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hurricane.svg)
   /// fill: ![hurricane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hurricane.svg)
   /// duotone: ![hurricane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hurricane.svg)
-  static PhosphorIconData hurricane(
+  static IconData hurricane(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18911,7 +18892,7 @@ class PhosphorIcons {
   /// bold: ![ice-cream](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ice-cream.svg)
   /// fill: ![ice-cream](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ice-cream.svg)
   /// duotone: ![ice-cream](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ice-cream.svg)
-  static PhosphorIconData iceCream(
+  static IconData iceCream(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18935,7 +18916,7 @@ class PhosphorIcons {
   /// bold: ![identification-badge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/identification-badge.svg)
   /// fill: ![identification-badge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/identification-badge.svg)
   /// duotone: ![identification-badge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/identification-badge.svg)
-  static PhosphorIconData identificationBadge(
+  static IconData identificationBadge(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18959,7 +18940,7 @@ class PhosphorIcons {
   /// bold: ![identification-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/identification-card.svg)
   /// fill: ![identification-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/identification-card.svg)
   /// duotone: ![identification-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/identification-card.svg)
-  static PhosphorIconData identificationCard(
+  static IconData identificationCard(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -18983,7 +18964,7 @@ class PhosphorIcons {
   /// bold: ![image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/image.svg)
   /// fill: ![image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/image.svg)
   /// duotone: ![image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image.svg)
-  static PhosphorIconData image(
+  static IconData image(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19007,7 +18988,7 @@ class PhosphorIcons {
   /// bold: ![image-broken](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/image-broken.svg)
   /// fill: ![image-broken](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/image-broken.svg)
   /// duotone: ![image-broken](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-broken.svg)
-  static PhosphorIconData imageBroken(
+  static IconData imageBroken(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19031,7 +19012,7 @@ class PhosphorIcons {
   /// bold: ![image-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/image-square.svg)
   /// fill: ![image-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/image-square.svg)
   /// duotone: ![image-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-square.svg)
-  static PhosphorIconData imageSquare(
+  static IconData imageSquare(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19055,7 +19036,7 @@ class PhosphorIcons {
   /// bold: ![images](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/images.svg)
   /// fill: ![images](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/images.svg)
   /// duotone: ![images](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/images.svg)
-  static PhosphorIconData images(
+  static IconData images(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19079,7 +19060,7 @@ class PhosphorIcons {
   /// bold: ![images-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/images-square.svg)
   /// fill: ![images-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/images-square.svg)
   /// duotone: ![images-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/images-square.svg)
-  static PhosphorIconData imagesSquare(
+  static IconData imagesSquare(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19103,7 +19084,7 @@ class PhosphorIcons {
   /// bold: ![infinity](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/infinity.svg)
   /// fill: ![infinity](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/infinity.svg)
   /// duotone: ![infinity](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/infinity.svg)
-  static PhosphorIconData infinity(
+  static IconData infinity(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19127,7 +19108,7 @@ class PhosphorIcons {
   /// bold: ![info](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/info.svg)
   /// fill: ![info](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/info.svg)
   /// duotone: ![info](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/info.svg)
-  static PhosphorIconData info(
+  static IconData info(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19151,7 +19132,7 @@ class PhosphorIcons {
   /// bold: ![instagram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/instagram-logo.svg)
   /// fill: ![instagram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/instagram-logo.svg)
   /// duotone: ![instagram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/instagram-logo.svg)
-  static PhosphorIconData instagramLogo(
+  static IconData instagramLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19175,7 +19156,7 @@ class PhosphorIcons {
   /// bold: ![intersect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersect.svg)
   /// fill: ![intersect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/intersect.svg)
   /// duotone: ![intersect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect.svg)
-  static PhosphorIconData intersect(
+  static IconData intersect(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19199,7 +19180,7 @@ class PhosphorIcons {
   /// bold: ![intersect-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersect-square.svg)
   /// fill: ![intersect-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/intersect-square.svg)
   /// duotone: ![intersect-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-square.svg)
-  static PhosphorIconData intersectSquare(
+  static IconData intersectSquare(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19223,7 +19204,7 @@ class PhosphorIcons {
   /// bold: ![intersect-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersect-three.svg)
   /// fill: ![intersect-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/intersect-three.svg)
   /// duotone: ![intersect-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-three.svg)
-  static PhosphorIconData intersectThree(
+  static IconData intersectThree(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19247,7 +19228,7 @@ class PhosphorIcons {
   /// bold: ![intersection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersection.svg)
   /// fill: ![intersection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/intersection.svg)
   /// duotone: ![intersection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersection.svg)
-  static PhosphorIconData intersection(
+  static IconData intersection(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19271,7 +19252,7 @@ class PhosphorIcons {
   /// bold: ![invoice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/invoice.svg)
   /// fill: ![invoice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/invoice.svg)
   /// duotone: ![invoice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/invoice.svg)
-  static PhosphorIconData invoice(
+  static IconData invoice(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19295,7 +19276,7 @@ class PhosphorIcons {
   /// bold: ![island](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/island.svg)
   /// fill: ![island](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/island.svg)
   /// duotone: ![island](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/island.svg)
-  static PhosphorIconData island(
+  static IconData island(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19319,8 +19300,7 @@ class PhosphorIcons {
   /// bold: ![jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/jar.svg)
   /// fill: ![jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/jar.svg)
   /// duotone: ![jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jar.svg)
-  static PhosphorIconData jar(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData jar([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.jar;
@@ -19343,7 +19323,7 @@ class PhosphorIcons {
   /// bold: ![jar-label](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/jar-label.svg)
   /// fill: ![jar-label](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/jar-label.svg)
   /// duotone: ![jar-label](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jar-label.svg)
-  static PhosphorIconData jarLabel(
+  static IconData jarLabel(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19367,7 +19347,7 @@ class PhosphorIcons {
   /// bold: ![jeep](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/jeep.svg)
   /// fill: ![jeep](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/jeep.svg)
   /// duotone: ![jeep](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jeep.svg)
-  static PhosphorIconData jeep(
+  static IconData jeep(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19391,7 +19371,7 @@ class PhosphorIcons {
   /// bold: ![joystick](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/joystick.svg)
   /// fill: ![joystick](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/joystick.svg)
   /// duotone: ![joystick](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/joystick.svg)
-  static PhosphorIconData joystick(
+  static IconData joystick(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19415,7 +19395,7 @@ class PhosphorIcons {
   /// bold: ![kanban](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/kanban.svg)
   /// fill: ![kanban](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/kanban.svg)
   /// duotone: ![kanban](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/kanban.svg)
-  static PhosphorIconData kanban(
+  static IconData kanban(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19439,8 +19419,7 @@ class PhosphorIcons {
   /// bold: ![key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/key.svg)
   /// fill: ![key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/key.svg)
   /// duotone: ![key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/key.svg)
-  static PhosphorIconData key(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData key([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.key;
@@ -19463,7 +19442,7 @@ class PhosphorIcons {
   /// bold: ![key-return](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/key-return.svg)
   /// fill: ![key-return](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/key-return.svg)
   /// duotone: ![key-return](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/key-return.svg)
-  static PhosphorIconData keyReturn(
+  static IconData keyReturn(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19487,7 +19466,7 @@ class PhosphorIcons {
   /// bold: ![keyboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/keyboard.svg)
   /// fill: ![keyboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/keyboard.svg)
   /// duotone: ![keyboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/keyboard.svg)
-  static PhosphorIconData keyboard(
+  static IconData keyboard(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19511,7 +19490,7 @@ class PhosphorIcons {
   /// bold: ![keyhole](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/keyhole.svg)
   /// fill: ![keyhole](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/keyhole.svg)
   /// duotone: ![keyhole](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/keyhole.svg)
-  static PhosphorIconData keyhole(
+  static IconData keyhole(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19535,7 +19514,7 @@ class PhosphorIcons {
   /// bold: ![knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/knife.svg)
   /// fill: ![knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/knife.svg)
   /// duotone: ![knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/knife.svg)
-  static PhosphorIconData knife(
+  static IconData knife(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19559,7 +19538,7 @@ class PhosphorIcons {
   /// bold: ![ladder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ladder.svg)
   /// fill: ![ladder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ladder.svg)
   /// duotone: ![ladder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ladder.svg)
-  static PhosphorIconData ladder(
+  static IconData ladder(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19583,7 +19562,7 @@ class PhosphorIcons {
   /// bold: ![ladder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ladder-simple.svg)
   /// fill: ![ladder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ladder-simple.svg)
   /// duotone: ![ladder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ladder-simple.svg)
-  static PhosphorIconData ladderSimple(
+  static IconData ladderSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19607,7 +19586,7 @@ class PhosphorIcons {
   /// bold: ![lamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lamp.svg)
   /// fill: ![lamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lamp.svg)
   /// duotone: ![lamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lamp.svg)
-  static PhosphorIconData lamp(
+  static IconData lamp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19631,7 +19610,7 @@ class PhosphorIcons {
   /// bold: ![lamp-pendant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lamp-pendant.svg)
   /// fill: ![lamp-pendant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lamp-pendant.svg)
   /// duotone: ![lamp-pendant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lamp-pendant.svg)
-  static PhosphorIconData lampPendant(
+  static IconData lampPendant(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19655,7 +19634,7 @@ class PhosphorIcons {
   /// bold: ![laptop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/laptop.svg)
   /// fill: ![laptop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/laptop.svg)
   /// duotone: ![laptop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/laptop.svg)
-  static PhosphorIconData laptop(
+  static IconData laptop(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19679,7 +19658,7 @@ class PhosphorIcons {
   /// bold: ![lasso](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lasso.svg)
   /// fill: ![lasso](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lasso.svg)
   /// duotone: ![lasso](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lasso.svg)
-  static PhosphorIconData lasso(
+  static IconData lasso(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19703,7 +19682,7 @@ class PhosphorIcons {
   /// bold: ![lastfm-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lastfm-logo.svg)
   /// fill: ![lastfm-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lastfm-logo.svg)
   /// duotone: ![lastfm-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lastfm-logo.svg)
-  static PhosphorIconData lastfmLogo(
+  static IconData lastfmLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19727,7 +19706,7 @@ class PhosphorIcons {
   /// bold: ![layout](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/layout.svg)
   /// fill: ![layout](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/layout.svg)
   /// duotone: ![layout](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/layout.svg)
-  static PhosphorIconData layout(
+  static IconData layout(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19751,7 +19730,7 @@ class PhosphorIcons {
   /// bold: ![leaf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/leaf.svg)
   /// fill: ![leaf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/leaf.svg)
   /// duotone: ![leaf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/leaf.svg)
-  static PhosphorIconData leaf(
+  static IconData leaf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19775,7 +19754,7 @@ class PhosphorIcons {
   /// bold: ![lectern](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lectern.svg)
   /// fill: ![lectern](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lectern.svg)
   /// duotone: ![lectern](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lectern.svg)
-  static PhosphorIconData lectern(
+  static IconData lectern(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19799,7 +19778,7 @@ class PhosphorIcons {
   /// bold: ![lego](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lego.svg)
   /// fill: ![lego](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lego.svg)
   /// duotone: ![lego](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lego.svg)
-  static PhosphorIconData lego(
+  static IconData lego(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19823,7 +19802,7 @@ class PhosphorIcons {
   /// bold: ![lego-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lego-smiley.svg)
   /// fill: ![lego-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lego-smiley.svg)
   /// duotone: ![lego-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lego-smiley.svg)
-  static PhosphorIconData legoSmiley(
+  static IconData legoSmiley(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19847,7 +19826,7 @@ class PhosphorIcons {
   /// bold: ![less-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/less-than.svg)
   /// fill: ![less-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/less-than.svg)
   /// duotone: ![less-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/less-than.svg)
-  static PhosphorIconData lessThan(
+  static IconData lessThan(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19871,7 +19850,7 @@ class PhosphorIcons {
   /// bold: ![less-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/less-than-or-equal.svg)
   /// fill: ![less-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/less-than-or-equal.svg)
   /// duotone: ![less-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/less-than-or-equal.svg)
-  static PhosphorIconData lessThanOrEqual(
+  static IconData lessThanOrEqual(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19895,7 +19874,7 @@ class PhosphorIcons {
   /// bold: ![letter-circle-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/letter-circle-h.svg)
   /// fill: ![letter-circle-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/letter-circle-h.svg)
   /// duotone: ![letter-circle-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-h.svg)
-  static PhosphorIconData letterCircleH(
+  static IconData letterCircleH(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19919,7 +19898,7 @@ class PhosphorIcons {
   /// bold: ![letter-circle-p](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/letter-circle-p.svg)
   /// fill: ![letter-circle-p](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/letter-circle-p.svg)
   /// duotone: ![letter-circle-p](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-p.svg)
-  static PhosphorIconData letterCircleP(
+  static IconData letterCircleP(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19943,7 +19922,7 @@ class PhosphorIcons {
   /// bold: ![letter-circle-v](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/letter-circle-v.svg)
   /// fill: ![letter-circle-v](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/letter-circle-v.svg)
   /// duotone: ![letter-circle-v](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-v.svg)
-  static PhosphorIconData letterCircleV(
+  static IconData letterCircleV(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19967,7 +19946,7 @@ class PhosphorIcons {
   /// bold: ![lifebuoy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lifebuoy.svg)
   /// fill: ![lifebuoy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lifebuoy.svg)
   /// duotone: ![lifebuoy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lifebuoy.svg)
-  static PhosphorIconData lifebuoy(
+  static IconData lifebuoy(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -19991,7 +19970,7 @@ class PhosphorIcons {
   /// bold: ![lightbulb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightbulb.svg)
   /// fill: ![lightbulb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lightbulb.svg)
   /// duotone: ![lightbulb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightbulb.svg)
-  static PhosphorIconData lightbulb(
+  static IconData lightbulb(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20015,7 +19994,7 @@ class PhosphorIcons {
   /// bold: ![lightbulb-filament](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightbulb-filament.svg)
   /// fill: ![lightbulb-filament](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lightbulb-filament.svg)
   /// duotone: ![lightbulb-filament](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightbulb-filament.svg)
-  static PhosphorIconData lightbulbFilament(
+  static IconData lightbulbFilament(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20039,7 +20018,7 @@ class PhosphorIcons {
   /// bold: ![lighthouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lighthouse.svg)
   /// fill: ![lighthouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lighthouse.svg)
   /// duotone: ![lighthouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lighthouse.svg)
-  static PhosphorIconData lighthouse(
+  static IconData lighthouse(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20063,7 +20042,7 @@ class PhosphorIcons {
   /// bold: ![lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightning.svg)
   /// fill: ![lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lightning.svg)
   /// duotone: ![lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning.svg)
-  static PhosphorIconData lightning(
+  static IconData lightning(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20087,7 +20066,7 @@ class PhosphorIcons {
   /// bold: ![lightning-a](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightning-a.svg)
   /// fill: ![lightning-a](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lightning-a.svg)
   /// duotone: ![lightning-a](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-a.svg)
-  static PhosphorIconData lightningA(
+  static IconData lightningA(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20111,7 +20090,7 @@ class PhosphorIcons {
   /// bold: ![lightning-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightning-slash.svg)
   /// fill: ![lightning-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lightning-slash.svg)
   /// duotone: ![lightning-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-slash.svg)
-  static PhosphorIconData lightningSlash(
+  static IconData lightningSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20135,7 +20114,7 @@ class PhosphorIcons {
   /// bold: ![line-segment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/line-segment.svg)
   /// fill: ![line-segment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/line-segment.svg)
   /// duotone: ![line-segment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-segment.svg)
-  static PhosphorIconData lineSegment(
+  static IconData lineSegment(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20159,7 +20138,7 @@ class PhosphorIcons {
   /// bold: ![line-segments](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/line-segments.svg)
   /// fill: ![line-segments](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/line-segments.svg)
   /// duotone: ![line-segments](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-segments.svg)
-  static PhosphorIconData lineSegments(
+  static IconData lineSegments(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20183,7 +20162,7 @@ class PhosphorIcons {
   /// bold: ![line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/line-vertical.svg)
   /// fill: ![line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/line-vertical.svg)
   /// duotone: ![line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-vertical.svg)
-  static PhosphorIconData lineVertical(
+  static IconData lineVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20207,7 +20186,7 @@ class PhosphorIcons {
   /// bold: ![link](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link.svg)
   /// fill: ![link](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link.svg)
   /// duotone: ![link](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link.svg)
-  static PhosphorIconData link(
+  static IconData link(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20231,7 +20210,7 @@ class PhosphorIcons {
   /// bold: ![link-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-break.svg)
   /// fill: ![link-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link-break.svg)
   /// duotone: ![link-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-break.svg)
-  static PhosphorIconData linkBreak(
+  static IconData linkBreak(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20255,7 +20234,7 @@ class PhosphorIcons {
   /// bold: ![link-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple.svg)
   /// fill: ![link-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link-simple.svg)
   /// duotone: ![link-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple.svg)
-  static PhosphorIconData linkSimple(
+  static IconData linkSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20279,7 +20258,7 @@ class PhosphorIcons {
   /// bold: ![link-simple-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple-break.svg)
   /// fill: ![link-simple-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link-simple-break.svg)
   /// duotone: ![link-simple-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-break.svg)
-  static PhosphorIconData linkSimpleBreak(
+  static IconData linkSimpleBreak(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20303,7 +20282,7 @@ class PhosphorIcons {
   /// bold: ![link-simple-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple-horizontal.svg)
   /// fill: ![link-simple-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link-simple-horizontal.svg)
   /// duotone: ![link-simple-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-horizontal.svg)
-  static PhosphorIconData linkSimpleHorizontal(
+  static IconData linkSimpleHorizontal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20327,7 +20306,7 @@ class PhosphorIcons {
   /// bold: ![link-simple-horizontal-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple-horizontal-break.svg)
   /// fill: ![link-simple-horizontal-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link-simple-horizontal-break.svg)
   /// duotone: ![link-simple-horizontal-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-horizontal-break.svg)
-  static PhosphorIconData linkSimpleHorizontalBreak(
+  static IconData linkSimpleHorizontalBreak(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20351,7 +20330,7 @@ class PhosphorIcons {
   /// bold: ![linkedin-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/linkedin-logo.svg)
   /// fill: ![linkedin-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/linkedin-logo.svg)
   /// duotone: ![linkedin-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linkedin-logo.svg)
-  static PhosphorIconData linkedinLogo(
+  static IconData linkedinLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20375,7 +20354,7 @@ class PhosphorIcons {
   /// bold: ![linktree-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/linktree-logo.svg)
   /// fill: ![linktree-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/linktree-logo.svg)
   /// duotone: ![linktree-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linktree-logo.svg)
-  static PhosphorIconData linktreeLogo(
+  static IconData linktreeLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20399,7 +20378,7 @@ class PhosphorIcons {
   /// bold: ![linux-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/linux-logo.svg)
   /// fill: ![linux-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/linux-logo.svg)
   /// duotone: ![linux-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linux-logo.svg)
-  static PhosphorIconData linuxLogo(
+  static IconData linuxLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20423,7 +20402,7 @@ class PhosphorIcons {
   /// bold: ![list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list.svg)
   /// fill: ![list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list.svg)
   /// duotone: ![list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list.svg)
-  static PhosphorIconData list(
+  static IconData list(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20447,7 +20426,7 @@ class PhosphorIcons {
   /// bold: ![list-bullets](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-bullets.svg)
   /// fill: ![list-bullets](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-bullets.svg)
   /// duotone: ![list-bullets](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-bullets.svg)
-  static PhosphorIconData listBullets(
+  static IconData listBullets(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20471,7 +20450,7 @@ class PhosphorIcons {
   /// bold: ![list-checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-checks.svg)
   /// fill: ![list-checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-checks.svg)
   /// duotone: ![list-checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-checks.svg)
-  static PhosphorIconData listChecks(
+  static IconData listChecks(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20495,7 +20474,7 @@ class PhosphorIcons {
   /// bold: ![list-dashes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-dashes.svg)
   /// fill: ![list-dashes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-dashes.svg)
   /// duotone: ![list-dashes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-dashes.svg)
-  static PhosphorIconData listDashes(
+  static IconData listDashes(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20519,7 +20498,7 @@ class PhosphorIcons {
   /// bold: ![list-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-heart.svg)
   /// fill: ![list-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-heart.svg)
   /// duotone: ![list-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-heart.svg)
-  static PhosphorIconData listHeart(
+  static IconData listHeart(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20543,7 +20522,7 @@ class PhosphorIcons {
   /// bold: ![list-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-magnifying-glass.svg)
   /// fill: ![list-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-magnifying-glass.svg)
   /// duotone: ![list-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-magnifying-glass.svg)
-  static PhosphorIconData listMagnifyingGlass(
+  static IconData listMagnifyingGlass(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20567,7 +20546,7 @@ class PhosphorIcons {
   /// bold: ![list-numbers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-numbers.svg)
   /// fill: ![list-numbers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-numbers.svg)
   /// duotone: ![list-numbers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-numbers.svg)
-  static PhosphorIconData listNumbers(
+  static IconData listNumbers(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20591,7 +20570,7 @@ class PhosphorIcons {
   /// bold: ![list-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-plus.svg)
   /// fill: ![list-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-plus.svg)
   /// duotone: ![list-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-plus.svg)
-  static PhosphorIconData listPlus(
+  static IconData listPlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20615,7 +20594,7 @@ class PhosphorIcons {
   /// bold: ![list-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-star.svg)
   /// fill: ![list-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-star.svg)
   /// duotone: ![list-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-star.svg)
-  static PhosphorIconData listStar(
+  static IconData listStar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20639,7 +20618,7 @@ class PhosphorIcons {
   /// bold: ![lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock.svg)
   /// fill: ![lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock.svg)
   /// duotone: ![lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock.svg)
-  static PhosphorIconData lock(
+  static IconData lock(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20663,7 +20642,7 @@ class PhosphorIcons {
   /// bold: ![lock-key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-key.svg)
   /// fill: ![lock-key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-key.svg)
   /// duotone: ![lock-key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-key.svg)
-  static PhosphorIconData lockKey(
+  static IconData lockKey(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20687,7 +20666,7 @@ class PhosphorIcons {
   /// bold: ![lock-key-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-key-open.svg)
   /// fill: ![lock-key-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-key-open.svg)
   /// duotone: ![lock-key-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-key-open.svg)
-  static PhosphorIconData lockKeyOpen(
+  static IconData lockKeyOpen(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20711,7 +20690,7 @@ class PhosphorIcons {
   /// bold: ![lock-laminated](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-laminated.svg)
   /// fill: ![lock-laminated](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-laminated.svg)
   /// duotone: ![lock-laminated](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-laminated.svg)
-  static PhosphorIconData lockLaminated(
+  static IconData lockLaminated(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20735,7 +20714,7 @@ class PhosphorIcons {
   /// bold: ![lock-laminated-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-laminated-open.svg)
   /// fill: ![lock-laminated-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-laminated-open.svg)
   /// duotone: ![lock-laminated-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-laminated-open.svg)
-  static PhosphorIconData lockLaminatedOpen(
+  static IconData lockLaminatedOpen(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20759,7 +20738,7 @@ class PhosphorIcons {
   /// bold: ![lock-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-open.svg)
   /// fill: ![lock-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-open.svg)
   /// duotone: ![lock-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-open.svg)
-  static PhosphorIconData lockOpen(
+  static IconData lockOpen(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20783,7 +20762,7 @@ class PhosphorIcons {
   /// bold: ![lock-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-simple.svg)
   /// fill: ![lock-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-simple.svg)
   /// duotone: ![lock-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-simple.svg)
-  static PhosphorIconData lockSimple(
+  static IconData lockSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20807,7 +20786,7 @@ class PhosphorIcons {
   /// bold: ![lock-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-simple-open.svg)
   /// fill: ![lock-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-simple-open.svg)
   /// duotone: ![lock-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-simple-open.svg)
-  static PhosphorIconData lockSimpleOpen(
+  static IconData lockSimpleOpen(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20831,7 +20810,7 @@ class PhosphorIcons {
   /// bold: ![lockers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lockers.svg)
   /// fill: ![lockers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lockers.svg)
   /// duotone: ![lockers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lockers.svg)
-  static PhosphorIconData lockers(
+  static IconData lockers(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20855,8 +20834,7 @@ class PhosphorIcons {
   /// bold: ![log](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/log.svg)
   /// fill: ![log](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/log.svg)
   /// duotone: ![log](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/log.svg)
-  static PhosphorIconData log(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData log([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.log;
@@ -20879,7 +20857,7 @@ class PhosphorIcons {
   /// bold: ![magic-wand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magic-wand.svg)
   /// fill: ![magic-wand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magic-wand.svg)
   /// duotone: ![magic-wand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magic-wand.svg)
-  static PhosphorIconData magicWand(
+  static IconData magicWand(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20903,7 +20881,7 @@ class PhosphorIcons {
   /// bold: ![magnet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnet.svg)
   /// fill: ![magnet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magnet.svg)
   /// duotone: ![magnet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnet.svg)
-  static PhosphorIconData magnet(
+  static IconData magnet(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20927,7 +20905,7 @@ class PhosphorIcons {
   /// bold: ![magnet-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnet-straight.svg)
   /// fill: ![magnet-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magnet-straight.svg)
   /// duotone: ![magnet-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnet-straight.svg)
-  static PhosphorIconData magnetStraight(
+  static IconData magnetStraight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20951,7 +20929,7 @@ class PhosphorIcons {
   /// bold: ![magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnifying-glass.svg)
   /// fill: ![magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magnifying-glass.svg)
   /// duotone: ![magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass.svg)
-  static PhosphorIconData magnifyingGlass(
+  static IconData magnifyingGlass(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20975,7 +20953,7 @@ class PhosphorIcons {
   /// bold: ![magnifying-glass-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnifying-glass-minus.svg)
   /// fill: ![magnifying-glass-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magnifying-glass-minus.svg)
   /// duotone: ![magnifying-glass-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-minus.svg)
-  static PhosphorIconData magnifyingGlassMinus(
+  static IconData magnifyingGlassMinus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -20999,7 +20977,7 @@ class PhosphorIcons {
   /// bold: ![magnifying-glass-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnifying-glass-plus.svg)
   /// fill: ![magnifying-glass-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magnifying-glass-plus.svg)
   /// duotone: ![magnifying-glass-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-plus.svg)
-  static PhosphorIconData magnifyingGlassPlus(
+  static IconData magnifyingGlassPlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21023,7 +21001,7 @@ class PhosphorIcons {
   /// bold: ![mailbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mailbox.svg)
   /// fill: ![mailbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mailbox.svg)
   /// duotone: ![mailbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mailbox.svg)
-  static PhosphorIconData mailbox(
+  static IconData mailbox(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21047,7 +21025,7 @@ class PhosphorIcons {
   /// bold: ![map-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin.svg)
   /// fill: ![map-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin.svg)
   /// duotone: ![map-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin.svg)
-  static PhosphorIconData mapPin(
+  static IconData mapPin(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21071,7 +21049,7 @@ class PhosphorIcons {
   /// bold: ![map-pin-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-area.svg)
   /// fill: ![map-pin-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-area.svg)
   /// duotone: ![map-pin-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-area.svg)
-  static PhosphorIconData mapPinArea(
+  static IconData mapPinArea(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21095,7 +21073,7 @@ class PhosphorIcons {
   /// bold: ![map-pin-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-line.svg)
   /// fill: ![map-pin-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-line.svg)
   /// duotone: ![map-pin-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-line.svg)
-  static PhosphorIconData mapPinLine(
+  static IconData mapPinLine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21119,7 +21097,7 @@ class PhosphorIcons {
   /// bold: ![map-pin-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-plus.svg)
   /// fill: ![map-pin-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-plus.svg)
   /// duotone: ![map-pin-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-plus.svg)
-  static PhosphorIconData mapPinPlus(
+  static IconData mapPinPlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21143,7 +21121,7 @@ class PhosphorIcons {
   /// bold: ![map-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-simple.svg)
   /// fill: ![map-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-simple.svg)
   /// duotone: ![map-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple.svg)
-  static PhosphorIconData mapPinSimple(
+  static IconData mapPinSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21167,7 +21145,7 @@ class PhosphorIcons {
   /// bold: ![map-pin-simple-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-simple-area.svg)
   /// fill: ![map-pin-simple-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-simple-area.svg)
   /// duotone: ![map-pin-simple-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-area.svg)
-  static PhosphorIconData mapPinSimpleArea(
+  static IconData mapPinSimpleArea(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21191,7 +21169,7 @@ class PhosphorIcons {
   /// bold: ![map-pin-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-simple-line.svg)
   /// fill: ![map-pin-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-simple-line.svg)
   /// duotone: ![map-pin-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-line.svg)
-  static PhosphorIconData mapPinSimpleLine(
+  static IconData mapPinSimpleLine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21215,7 +21193,7 @@ class PhosphorIcons {
   /// bold: ![map-trifold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-trifold.svg)
   /// fill: ![map-trifold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-trifold.svg)
   /// duotone: ![map-trifold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-trifold.svg)
-  static PhosphorIconData mapTrifold(
+  static IconData mapTrifold(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21239,7 +21217,7 @@ class PhosphorIcons {
   /// bold: ![markdown-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/markdown-logo.svg)
   /// fill: ![markdown-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/markdown-logo.svg)
   /// duotone: ![markdown-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/markdown-logo.svg)
-  static PhosphorIconData markdownLogo(
+  static IconData markdownLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21263,7 +21241,7 @@ class PhosphorIcons {
   /// bold: ![marker-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/marker-circle.svg)
   /// fill: ![marker-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/marker-circle.svg)
   /// duotone: ![marker-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/marker-circle.svg)
-  static PhosphorIconData markerCircle(
+  static IconData markerCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21287,7 +21265,7 @@ class PhosphorIcons {
   /// bold: ![martini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/martini.svg)
   /// fill: ![martini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/martini.svg)
   /// duotone: ![martini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/martini.svg)
-  static PhosphorIconData martini(
+  static IconData martini(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21311,7 +21289,7 @@ class PhosphorIcons {
   /// bold: ![mask-happy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mask-happy.svg)
   /// fill: ![mask-happy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mask-happy.svg)
   /// duotone: ![mask-happy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mask-happy.svg)
-  static PhosphorIconData maskHappy(
+  static IconData maskHappy(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21335,7 +21313,7 @@ class PhosphorIcons {
   /// bold: ![mask-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mask-sad.svg)
   /// fill: ![mask-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mask-sad.svg)
   /// duotone: ![mask-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mask-sad.svg)
-  static PhosphorIconData maskSad(
+  static IconData maskSad(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21359,7 +21337,7 @@ class PhosphorIcons {
   /// bold: ![mastodon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mastodon-logo.svg)
   /// fill: ![mastodon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mastodon-logo.svg)
   /// duotone: ![mastodon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mastodon-logo.svg)
-  static PhosphorIconData mastodonLogo(
+  static IconData mastodonLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21383,7 +21361,7 @@ class PhosphorIcons {
   /// bold: ![math-operations](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/math-operations.svg)
   /// fill: ![math-operations](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/math-operations.svg)
   /// duotone: ![math-operations](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/math-operations.svg)
-  static PhosphorIconData mathOperations(
+  static IconData mathOperations(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21407,7 +21385,7 @@ class PhosphorIcons {
   /// bold: ![matrix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/matrix-logo.svg)
   /// fill: ![matrix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/matrix-logo.svg)
   /// duotone: ![matrix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/matrix-logo.svg)
-  static PhosphorIconData matrixLogo(
+  static IconData matrixLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21431,7 +21409,7 @@ class PhosphorIcons {
   /// bold: ![medal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/medal.svg)
   /// fill: ![medal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/medal.svg)
   /// duotone: ![medal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medal.svg)
-  static PhosphorIconData medal(
+  static IconData medal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21455,7 +21433,7 @@ class PhosphorIcons {
   /// bold: ![medal-military](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/medal-military.svg)
   /// fill: ![medal-military](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/medal-military.svg)
   /// duotone: ![medal-military](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medal-military.svg)
-  static PhosphorIconData medalMilitary(
+  static IconData medalMilitary(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21479,7 +21457,7 @@ class PhosphorIcons {
   /// bold: ![medium-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/medium-logo.svg)
   /// fill: ![medium-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/medium-logo.svg)
   /// duotone: ![medium-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medium-logo.svg)
-  static PhosphorIconData mediumLogo(
+  static IconData mediumLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21503,7 +21481,7 @@ class PhosphorIcons {
   /// bold: ![megaphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/megaphone.svg)
   /// fill: ![megaphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/megaphone.svg)
   /// duotone: ![megaphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/megaphone.svg)
-  static PhosphorIconData megaphone(
+  static IconData megaphone(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21527,7 +21505,7 @@ class PhosphorIcons {
   /// bold: ![megaphone-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/megaphone-simple.svg)
   /// fill: ![megaphone-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/megaphone-simple.svg)
   /// duotone: ![megaphone-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/megaphone-simple.svg)
-  static PhosphorIconData megaphoneSimple(
+  static IconData megaphoneSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21551,7 +21529,7 @@ class PhosphorIcons {
   /// bold: ![member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/member-of.svg)
   /// fill: ![member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/member-of.svg)
   /// duotone: ![member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/member-of.svg)
-  static PhosphorIconData memberOf(
+  static IconData memberOf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21575,7 +21553,7 @@ class PhosphorIcons {
   /// bold: ![memory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/memory.svg)
   /// fill: ![memory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/memory.svg)
   /// duotone: ![memory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/memory.svg)
-  static PhosphorIconData memory(
+  static IconData memory(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21599,7 +21577,7 @@ class PhosphorIcons {
   /// bold: ![messenger-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/messenger-logo.svg)
   /// fill: ![messenger-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/messenger-logo.svg)
   /// duotone: ![messenger-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/messenger-logo.svg)
-  static PhosphorIconData messengerLogo(
+  static IconData messengerLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21623,7 +21601,7 @@ class PhosphorIcons {
   /// bold: ![meta-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/meta-logo.svg)
   /// fill: ![meta-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/meta-logo.svg)
   /// duotone: ![meta-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/meta-logo.svg)
-  static PhosphorIconData metaLogo(
+  static IconData metaLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21647,7 +21625,7 @@ class PhosphorIcons {
   /// bold: ![meteor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/meteor.svg)
   /// fill: ![meteor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/meteor.svg)
   /// duotone: ![meteor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/meteor.svg)
-  static PhosphorIconData meteor(
+  static IconData meteor(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21671,7 +21649,7 @@ class PhosphorIcons {
   /// bold: ![metronome](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/metronome.svg)
   /// fill: ![metronome](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/metronome.svg)
   /// duotone: ![metronome](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/metronome.svg)
-  static PhosphorIconData metronome(
+  static IconData metronome(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21695,7 +21673,7 @@ class PhosphorIcons {
   /// bold: ![microphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microphone.svg)
   /// fill: ![microphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microphone.svg)
   /// duotone: ![microphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone.svg)
-  static PhosphorIconData microphone(
+  static IconData microphone(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21719,7 +21697,7 @@ class PhosphorIcons {
   /// bold: ![microphone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microphone-slash.svg)
   /// fill: ![microphone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microphone-slash.svg)
   /// duotone: ![microphone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-slash.svg)
-  static PhosphorIconData microphoneSlash(
+  static IconData microphoneSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21743,7 +21721,7 @@ class PhosphorIcons {
   /// bold: ![microphone-stage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microphone-stage.svg)
   /// fill: ![microphone-stage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microphone-stage.svg)
   /// duotone: ![microphone-stage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-stage.svg)
-  static PhosphorIconData microphoneStage(
+  static IconData microphoneStage(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21767,7 +21745,7 @@ class PhosphorIcons {
   /// bold: ![microscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microscope.svg)
   /// fill: ![microscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microscope.svg)
   /// duotone: ![microscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microscope.svg)
-  static PhosphorIconData microscope(
+  static IconData microscope(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21791,7 +21769,7 @@ class PhosphorIcons {
   /// bold: ![microsoft-excel-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-excel-logo.svg)
   /// fill: ![microsoft-excel-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microsoft-excel-logo.svg)
   /// duotone: ![microsoft-excel-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-excel-logo.svg)
-  static PhosphorIconData microsoftExcelLogo(
+  static IconData microsoftExcelLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21815,7 +21793,7 @@ class PhosphorIcons {
   /// bold: ![microsoft-outlook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-outlook-logo.svg)
   /// fill: ![microsoft-outlook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microsoft-outlook-logo.svg)
   /// duotone: ![microsoft-outlook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-outlook-logo.svg)
-  static PhosphorIconData microsoftOutlookLogo(
+  static IconData microsoftOutlookLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21839,7 +21817,7 @@ class PhosphorIcons {
   /// bold: ![microsoft-powerpoint-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-powerpoint-logo.svg)
   /// fill: ![microsoft-powerpoint-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microsoft-powerpoint-logo.svg)
   /// duotone: ![microsoft-powerpoint-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-powerpoint-logo.svg)
-  static PhosphorIconData microsoftPowerpointLogo(
+  static IconData microsoftPowerpointLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21863,7 +21841,7 @@ class PhosphorIcons {
   /// bold: ![microsoft-teams-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-teams-logo.svg)
   /// fill: ![microsoft-teams-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microsoft-teams-logo.svg)
   /// duotone: ![microsoft-teams-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-teams-logo.svg)
-  static PhosphorIconData microsoftTeamsLogo(
+  static IconData microsoftTeamsLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21887,7 +21865,7 @@ class PhosphorIcons {
   /// bold: ![microsoft-word-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-word-logo.svg)
   /// fill: ![microsoft-word-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microsoft-word-logo.svg)
   /// duotone: ![microsoft-word-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-word-logo.svg)
-  static PhosphorIconData microsoftWordLogo(
+  static IconData microsoftWordLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21911,7 +21889,7 @@ class PhosphorIcons {
   /// bold: ![minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/minus.svg)
   /// fill: ![minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/minus.svg)
   /// duotone: ![minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus.svg)
-  static PhosphorIconData minus(
+  static IconData minus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21935,7 +21913,7 @@ class PhosphorIcons {
   /// bold: ![minus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/minus-circle.svg)
   /// fill: ![minus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/minus-circle.svg)
   /// duotone: ![minus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-circle.svg)
-  static PhosphorIconData minusCircle(
+  static IconData minusCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21959,7 +21937,7 @@ class PhosphorIcons {
   /// bold: ![minus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/minus-square.svg)
   /// fill: ![minus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/minus-square.svg)
   /// duotone: ![minus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-square.svg)
-  static PhosphorIconData minusSquare(
+  static IconData minusSquare(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -21983,7 +21961,7 @@ class PhosphorIcons {
   /// bold: ![money](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/money.svg)
   /// fill: ![money](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/money.svg)
   /// duotone: ![money](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/money.svg)
-  static PhosphorIconData money(
+  static IconData money(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22007,7 +21985,7 @@ class PhosphorIcons {
   /// bold: ![money-wavy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/money-wavy.svg)
   /// fill: ![money-wavy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/money-wavy.svg)
   /// duotone: ![money-wavy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/money-wavy.svg)
-  static PhosphorIconData moneyWavy(
+  static IconData moneyWavy(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22031,7 +22009,7 @@ class PhosphorIcons {
   /// bold: ![monitor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/monitor.svg)
   /// fill: ![monitor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/monitor.svg)
   /// duotone: ![monitor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor.svg)
-  static PhosphorIconData monitor(
+  static IconData monitor(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22055,7 +22033,7 @@ class PhosphorIcons {
   /// bold: ![monitor-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/monitor-arrow-up.svg)
   /// fill: ![monitor-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/monitor-arrow-up.svg)
   /// duotone: ![monitor-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-arrow-up.svg)
-  static PhosphorIconData monitorArrowUp(
+  static IconData monitorArrowUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22079,7 +22057,7 @@ class PhosphorIcons {
   /// bold: ![monitor-play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/monitor-play.svg)
   /// fill: ![monitor-play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/monitor-play.svg)
   /// duotone: ![monitor-play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-play.svg)
-  static PhosphorIconData monitorPlay(
+  static IconData monitorPlay(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22103,7 +22081,7 @@ class PhosphorIcons {
   /// bold: ![moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moon.svg)
   /// fill: ![moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/moon.svg)
   /// duotone: ![moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moon.svg)
-  static PhosphorIconData moon(
+  static IconData moon(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22127,7 +22105,7 @@ class PhosphorIcons {
   /// bold: ![moon-stars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moon-stars.svg)
   /// fill: ![moon-stars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/moon-stars.svg)
   /// duotone: ![moon-stars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moon-stars.svg)
-  static PhosphorIconData moonStars(
+  static IconData moonStars(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22151,7 +22129,7 @@ class PhosphorIcons {
   /// bold: ![moped](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moped.svg)
   /// fill: ![moped](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/moped.svg)
   /// duotone: ![moped](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moped.svg)
-  static PhosphorIconData moped(
+  static IconData moped(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22175,7 +22153,7 @@ class PhosphorIcons {
   /// bold: ![moped-front](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moped-front.svg)
   /// fill: ![moped-front](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/moped-front.svg)
   /// duotone: ![moped-front](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moped-front.svg)
-  static PhosphorIconData mopedFront(
+  static IconData mopedFront(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22199,7 +22177,7 @@ class PhosphorIcons {
   /// bold: ![mosque](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mosque.svg)
   /// fill: ![mosque](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mosque.svg)
   /// duotone: ![mosque](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mosque.svg)
-  static PhosphorIconData mosque(
+  static IconData mosque(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22223,7 +22201,7 @@ class PhosphorIcons {
   /// bold: ![motorcycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/motorcycle.svg)
   /// fill: ![motorcycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/motorcycle.svg)
   /// duotone: ![motorcycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/motorcycle.svg)
-  static PhosphorIconData motorcycle(
+  static IconData motorcycle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22247,7 +22225,7 @@ class PhosphorIcons {
   /// bold: ![mountains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mountains.svg)
   /// fill: ![mountains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mountains.svg)
   /// duotone: ![mountains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mountains.svg)
-  static PhosphorIconData mountains(
+  static IconData mountains(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22271,7 +22249,7 @@ class PhosphorIcons {
   /// bold: ![mouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse.svg)
   /// fill: ![mouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse.svg)
   /// duotone: ![mouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse.svg)
-  static PhosphorIconData mouse(
+  static IconData mouse(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22295,7 +22273,7 @@ class PhosphorIcons {
   /// bold: ![mouse-left-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-left-click.svg)
   /// fill: ![mouse-left-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse-left-click.svg)
   /// duotone: ![mouse-left-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-left-click.svg)
-  static PhosphorIconData mouseLeftClick(
+  static IconData mouseLeftClick(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22319,7 +22297,7 @@ class PhosphorIcons {
   /// bold: ![mouse-middle-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-middle-click.svg)
   /// fill: ![mouse-middle-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse-middle-click.svg)
   /// duotone: ![mouse-middle-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-middle-click.svg)
-  static PhosphorIconData mouseMiddleClick(
+  static IconData mouseMiddleClick(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22343,7 +22321,7 @@ class PhosphorIcons {
   /// bold: ![mouse-right-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-right-click.svg)
   /// fill: ![mouse-right-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse-right-click.svg)
   /// duotone: ![mouse-right-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-right-click.svg)
-  static PhosphorIconData mouseRightClick(
+  static IconData mouseRightClick(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22367,7 +22345,7 @@ class PhosphorIcons {
   /// bold: ![mouse-scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-scroll.svg)
   /// fill: ![mouse-scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse-scroll.svg)
   /// duotone: ![mouse-scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-scroll.svg)
-  static PhosphorIconData mouseScroll(
+  static IconData mouseScroll(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22391,7 +22369,7 @@ class PhosphorIcons {
   /// bold: ![mouse-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-simple.svg)
   /// fill: ![mouse-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse-simple.svg)
   /// duotone: ![mouse-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-simple.svg)
-  static PhosphorIconData mouseSimple(
+  static IconData mouseSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22415,7 +22393,7 @@ class PhosphorIcons {
   /// bold: ![music-note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-note.svg)
   /// fill: ![music-note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-note.svg)
   /// duotone: ![music-note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-note.svg)
-  static PhosphorIconData musicNote(
+  static IconData musicNote(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22439,7 +22417,7 @@ class PhosphorIcons {
   /// bold: ![music-note-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-note-simple.svg)
   /// fill: ![music-note-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-note-simple.svg)
   /// duotone: ![music-note-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-note-simple.svg)
-  static PhosphorIconData musicNoteSimple(
+  static IconData musicNoteSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22463,7 +22441,7 @@ class PhosphorIcons {
   /// bold: ![music-notes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes.svg)
   /// fill: ![music-notes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-notes.svg)
   /// duotone: ![music-notes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes.svg)
-  static PhosphorIconData musicNotes(
+  static IconData musicNotes(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22487,7 +22465,7 @@ class PhosphorIcons {
   /// bold: ![music-notes-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes-minus.svg)
   /// fill: ![music-notes-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-notes-minus.svg)
   /// duotone: ![music-notes-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-minus.svg)
-  static PhosphorIconData musicNotesMinus(
+  static IconData musicNotesMinus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22511,7 +22489,7 @@ class PhosphorIcons {
   /// bold: ![music-notes-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes-plus.svg)
   /// fill: ![music-notes-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-notes-plus.svg)
   /// duotone: ![music-notes-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-plus.svg)
-  static PhosphorIconData musicNotesPlus(
+  static IconData musicNotesPlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22535,7 +22513,7 @@ class PhosphorIcons {
   /// bold: ![music-notes-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes-simple.svg)
   /// fill: ![music-notes-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-notes-simple.svg)
   /// duotone: ![music-notes-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-simple.svg)
-  static PhosphorIconData musicNotesSimple(
+  static IconData musicNotesSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22559,7 +22537,7 @@ class PhosphorIcons {
   /// bold: ![navigation-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/navigation-arrow.svg)
   /// fill: ![navigation-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/navigation-arrow.svg)
   /// duotone: ![navigation-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/navigation-arrow.svg)
-  static PhosphorIconData navigationArrow(
+  static IconData navigationArrow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22583,7 +22561,7 @@ class PhosphorIcons {
   /// bold: ![needle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/needle.svg)
   /// fill: ![needle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/needle.svg)
   /// duotone: ![needle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/needle.svg)
-  static PhosphorIconData needle(
+  static IconData needle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22607,7 +22585,7 @@ class PhosphorIcons {
   /// bold: ![network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/network.svg)
   /// fill: ![network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/network.svg)
   /// duotone: ![network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network.svg)
-  static PhosphorIconData network(
+  static IconData network(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22631,7 +22609,7 @@ class PhosphorIcons {
   /// bold: ![network-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/network-slash.svg)
   /// fill: ![network-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/network-slash.svg)
   /// duotone: ![network-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-slash.svg)
-  static PhosphorIconData networkSlash(
+  static IconData networkSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22655,7 +22633,7 @@ class PhosphorIcons {
   /// bold: ![network-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/network-x.svg)
   /// fill: ![network-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/network-x.svg)
   /// duotone: ![network-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-x.svg)
-  static PhosphorIconData networkX(
+  static IconData networkX(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22679,7 +22657,7 @@ class PhosphorIcons {
   /// bold: ![newspaper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/newspaper.svg)
   /// fill: ![newspaper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/newspaper.svg)
   /// duotone: ![newspaper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/newspaper.svg)
-  static PhosphorIconData newspaper(
+  static IconData newspaper(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22703,7 +22681,7 @@ class PhosphorIcons {
   /// bold: ![newspaper-clipping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/newspaper-clipping.svg)
   /// fill: ![newspaper-clipping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/newspaper-clipping.svg)
   /// duotone: ![newspaper-clipping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/newspaper-clipping.svg)
-  static PhosphorIconData newspaperClipping(
+  static IconData newspaperClipping(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22727,7 +22705,7 @@ class PhosphorIcons {
   /// bold: ![not-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-equals.svg)
   /// fill: ![not-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/not-equals.svg)
   /// duotone: ![not-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-equals.svg)
-  static PhosphorIconData notEquals(
+  static IconData notEquals(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22751,7 +22729,7 @@ class PhosphorIcons {
   /// bold: ![not-member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-member-of.svg)
   /// fill: ![not-member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/not-member-of.svg)
   /// duotone: ![not-member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-member-of.svg)
-  static PhosphorIconData notMemberOf(
+  static IconData notMemberOf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22775,7 +22753,7 @@ class PhosphorIcons {
   /// bold: ![not-subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-subset-of.svg)
   /// fill: ![not-subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/not-subset-of.svg)
   /// duotone: ![not-subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-subset-of.svg)
-  static PhosphorIconData notSubsetOf(
+  static IconData notSubsetOf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22799,7 +22777,7 @@ class PhosphorIcons {
   /// bold: ![not-superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-superset-of.svg)
   /// fill: ![not-superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/not-superset-of.svg)
   /// duotone: ![not-superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-superset-of.svg)
-  static PhosphorIconData notSupersetOf(
+  static IconData notSupersetOf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22823,7 +22801,7 @@ class PhosphorIcons {
   /// bold: ![notches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notches.svg)
   /// fill: ![notches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/notches.svg)
   /// duotone: ![notches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notches.svg)
-  static PhosphorIconData notches(
+  static IconData notches(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22847,7 +22825,7 @@ class PhosphorIcons {
   /// bold: ![note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/note.svg)
   /// fill: ![note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/note.svg)
   /// duotone: ![note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note.svg)
-  static PhosphorIconData note(
+  static IconData note(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22871,7 +22849,7 @@ class PhosphorIcons {
   /// bold: ![note-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/note-blank.svg)
   /// fill: ![note-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/note-blank.svg)
   /// duotone: ![note-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-blank.svg)
-  static PhosphorIconData noteBlank(
+  static IconData noteBlank(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22895,7 +22873,7 @@ class PhosphorIcons {
   /// bold: ![note-pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/note-pencil.svg)
   /// fill: ![note-pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/note-pencil.svg)
   /// duotone: ![note-pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-pencil.svg)
-  static PhosphorIconData notePencil(
+  static IconData notePencil(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22919,7 +22897,7 @@ class PhosphorIcons {
   /// bold: ![notebook](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notebook.svg)
   /// fill: ![notebook](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/notebook.svg)
   /// duotone: ![notebook](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notebook.svg)
-  static PhosphorIconData notebook(
+  static IconData notebook(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22943,7 +22921,7 @@ class PhosphorIcons {
   /// bold: ![notepad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notepad.svg)
   /// fill: ![notepad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/notepad.svg)
   /// duotone: ![notepad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notepad.svg)
-  static PhosphorIconData notepad(
+  static IconData notepad(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22967,7 +22945,7 @@ class PhosphorIcons {
   /// bold: ![notification](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notification.svg)
   /// fill: ![notification](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/notification.svg)
   /// duotone: ![notification](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notification.svg)
-  static PhosphorIconData notification(
+  static IconData notification(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -22991,7 +22969,7 @@ class PhosphorIcons {
   /// bold: ![notion-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notion-logo.svg)
   /// fill: ![notion-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/notion-logo.svg)
   /// duotone: ![notion-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notion-logo.svg)
-  static PhosphorIconData notionLogo(
+  static IconData notionLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23015,7 +22993,7 @@ class PhosphorIcons {
   /// bold: ![nuclear-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/nuclear-plant.svg)
   /// fill: ![nuclear-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/nuclear-plant.svg)
   /// duotone: ![nuclear-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/nuclear-plant.svg)
-  static PhosphorIconData nuclearPlant(
+  static IconData nuclearPlant(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23039,7 +23017,7 @@ class PhosphorIcons {
   /// bold: ![number-circle-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-eight.svg)
   /// fill: ![number-circle-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-eight.svg)
   /// duotone: ![number-circle-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-eight.svg)
-  static PhosphorIconData numberCircleEight(
+  static IconData numberCircleEight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23063,7 +23041,7 @@ class PhosphorIcons {
   /// bold: ![number-circle-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-five.svg)
   /// fill: ![number-circle-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-five.svg)
   /// duotone: ![number-circle-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-five.svg)
-  static PhosphorIconData numberCircleFive(
+  static IconData numberCircleFive(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23087,7 +23065,7 @@ class PhosphorIcons {
   /// bold: ![number-circle-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-four.svg)
   /// fill: ![number-circle-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-four.svg)
   /// duotone: ![number-circle-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-four.svg)
-  static PhosphorIconData numberCircleFour(
+  static IconData numberCircleFour(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23111,7 +23089,7 @@ class PhosphorIcons {
   /// bold: ![number-circle-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-nine.svg)
   /// fill: ![number-circle-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-nine.svg)
   /// duotone: ![number-circle-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-nine.svg)
-  static PhosphorIconData numberCircleNine(
+  static IconData numberCircleNine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23135,7 +23113,7 @@ class PhosphorIcons {
   /// bold: ![number-circle-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-one.svg)
   /// fill: ![number-circle-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-one.svg)
   /// duotone: ![number-circle-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-one.svg)
-  static PhosphorIconData numberCircleOne(
+  static IconData numberCircleOne(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23159,7 +23137,7 @@ class PhosphorIcons {
   /// bold: ![number-circle-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-seven.svg)
   /// fill: ![number-circle-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-seven.svg)
   /// duotone: ![number-circle-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-seven.svg)
-  static PhosphorIconData numberCircleSeven(
+  static IconData numberCircleSeven(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23183,7 +23161,7 @@ class PhosphorIcons {
   /// bold: ![number-circle-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-six.svg)
   /// fill: ![number-circle-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-six.svg)
   /// duotone: ![number-circle-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-six.svg)
-  static PhosphorIconData numberCircleSix(
+  static IconData numberCircleSix(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23207,7 +23185,7 @@ class PhosphorIcons {
   /// bold: ![number-circle-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-three.svg)
   /// fill: ![number-circle-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-three.svg)
   /// duotone: ![number-circle-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-three.svg)
-  static PhosphorIconData numberCircleThree(
+  static IconData numberCircleThree(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23231,7 +23209,7 @@ class PhosphorIcons {
   /// bold: ![number-circle-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-two.svg)
   /// fill: ![number-circle-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-two.svg)
   /// duotone: ![number-circle-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-two.svg)
-  static PhosphorIconData numberCircleTwo(
+  static IconData numberCircleTwo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23255,7 +23233,7 @@ class PhosphorIcons {
   /// bold: ![number-circle-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-zero.svg)
   /// fill: ![number-circle-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-zero.svg)
   /// duotone: ![number-circle-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-zero.svg)
-  static PhosphorIconData numberCircleZero(
+  static IconData numberCircleZero(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23279,7 +23257,7 @@ class PhosphorIcons {
   /// bold: ![number-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-eight.svg)
   /// fill: ![number-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-eight.svg)
   /// duotone: ![number-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-eight.svg)
-  static PhosphorIconData numberEight(
+  static IconData numberEight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23303,7 +23281,7 @@ class PhosphorIcons {
   /// bold: ![number-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-five.svg)
   /// fill: ![number-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-five.svg)
   /// duotone: ![number-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-five.svg)
-  static PhosphorIconData numberFive(
+  static IconData numberFive(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23327,7 +23305,7 @@ class PhosphorIcons {
   /// bold: ![number-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-four.svg)
   /// fill: ![number-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-four.svg)
   /// duotone: ![number-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-four.svg)
-  static PhosphorIconData numberFour(
+  static IconData numberFour(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23351,7 +23329,7 @@ class PhosphorIcons {
   /// bold: ![number-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-nine.svg)
   /// fill: ![number-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-nine.svg)
   /// duotone: ![number-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-nine.svg)
-  static PhosphorIconData numberNine(
+  static IconData numberNine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23375,7 +23353,7 @@ class PhosphorIcons {
   /// bold: ![number-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-one.svg)
   /// fill: ![number-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-one.svg)
   /// duotone: ![number-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-one.svg)
-  static PhosphorIconData numberOne(
+  static IconData numberOne(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23399,7 +23377,7 @@ class PhosphorIcons {
   /// bold: ![number-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-seven.svg)
   /// fill: ![number-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-seven.svg)
   /// duotone: ![number-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-seven.svg)
-  static PhosphorIconData numberSeven(
+  static IconData numberSeven(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23423,7 +23401,7 @@ class PhosphorIcons {
   /// bold: ![number-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-six.svg)
   /// fill: ![number-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-six.svg)
   /// duotone: ![number-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-six.svg)
-  static PhosphorIconData numberSix(
+  static IconData numberSix(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23447,7 +23425,7 @@ class PhosphorIcons {
   /// bold: ![number-square-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-eight.svg)
   /// fill: ![number-square-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-eight.svg)
   /// duotone: ![number-square-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-eight.svg)
-  static PhosphorIconData numberSquareEight(
+  static IconData numberSquareEight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23471,7 +23449,7 @@ class PhosphorIcons {
   /// bold: ![number-square-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-five.svg)
   /// fill: ![number-square-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-five.svg)
   /// duotone: ![number-square-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-five.svg)
-  static PhosphorIconData numberSquareFive(
+  static IconData numberSquareFive(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23495,7 +23473,7 @@ class PhosphorIcons {
   /// bold: ![number-square-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-four.svg)
   /// fill: ![number-square-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-four.svg)
   /// duotone: ![number-square-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-four.svg)
-  static PhosphorIconData numberSquareFour(
+  static IconData numberSquareFour(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23519,7 +23497,7 @@ class PhosphorIcons {
   /// bold: ![number-square-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-nine.svg)
   /// fill: ![number-square-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-nine.svg)
   /// duotone: ![number-square-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-nine.svg)
-  static PhosphorIconData numberSquareNine(
+  static IconData numberSquareNine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23543,7 +23521,7 @@ class PhosphorIcons {
   /// bold: ![number-square-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-one.svg)
   /// fill: ![number-square-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-one.svg)
   /// duotone: ![number-square-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-one.svg)
-  static PhosphorIconData numberSquareOne(
+  static IconData numberSquareOne(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23567,7 +23545,7 @@ class PhosphorIcons {
   /// bold: ![number-square-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-seven.svg)
   /// fill: ![number-square-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-seven.svg)
   /// duotone: ![number-square-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-seven.svg)
-  static PhosphorIconData numberSquareSeven(
+  static IconData numberSquareSeven(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23591,7 +23569,7 @@ class PhosphorIcons {
   /// bold: ![number-square-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-six.svg)
   /// fill: ![number-square-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-six.svg)
   /// duotone: ![number-square-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-six.svg)
-  static PhosphorIconData numberSquareSix(
+  static IconData numberSquareSix(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23615,7 +23593,7 @@ class PhosphorIcons {
   /// bold: ![number-square-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-three.svg)
   /// fill: ![number-square-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-three.svg)
   /// duotone: ![number-square-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-three.svg)
-  static PhosphorIconData numberSquareThree(
+  static IconData numberSquareThree(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23639,7 +23617,7 @@ class PhosphorIcons {
   /// bold: ![number-square-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-two.svg)
   /// fill: ![number-square-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-two.svg)
   /// duotone: ![number-square-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-two.svg)
-  static PhosphorIconData numberSquareTwo(
+  static IconData numberSquareTwo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23663,7 +23641,7 @@ class PhosphorIcons {
   /// bold: ![number-square-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-zero.svg)
   /// fill: ![number-square-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-zero.svg)
   /// duotone: ![number-square-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-zero.svg)
-  static PhosphorIconData numberSquareZero(
+  static IconData numberSquareZero(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23687,7 +23665,7 @@ class PhosphorIcons {
   /// bold: ![number-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-three.svg)
   /// fill: ![number-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-three.svg)
   /// duotone: ![number-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-three.svg)
-  static PhosphorIconData numberThree(
+  static IconData numberThree(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23711,7 +23689,7 @@ class PhosphorIcons {
   /// bold: ![number-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-two.svg)
   /// fill: ![number-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-two.svg)
   /// duotone: ![number-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-two.svg)
-  static PhosphorIconData numberTwo(
+  static IconData numberTwo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23735,7 +23713,7 @@ class PhosphorIcons {
   /// bold: ![number-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-zero.svg)
   /// fill: ![number-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-zero.svg)
   /// duotone: ![number-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-zero.svg)
-  static PhosphorIconData numberZero(
+  static IconData numberZero(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23759,7 +23737,7 @@ class PhosphorIcons {
   /// bold: ![numpad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/numpad.svg)
   /// fill: ![numpad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/numpad.svg)
   /// duotone: ![numpad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/numpad.svg)
-  static PhosphorIconData numpad(
+  static IconData numpad(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23783,8 +23761,7 @@ class PhosphorIcons {
   /// bold: ![nut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/nut.svg)
   /// fill: ![nut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/nut.svg)
   /// duotone: ![nut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/nut.svg)
-  static PhosphorIconData nut(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData nut([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.nut;
@@ -23807,7 +23784,7 @@ class PhosphorIcons {
   /// bold: ![ny-times-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ny-times-logo.svg)
   /// fill: ![ny-times-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ny-times-logo.svg)
   /// duotone: ![ny-times-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ny-times-logo.svg)
-  static PhosphorIconData nyTimesLogo(
+  static IconData nyTimesLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23831,7 +23808,7 @@ class PhosphorIcons {
   /// bold: ![octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/octagon.svg)
   /// fill: ![octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/octagon.svg)
   /// duotone: ![octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/octagon.svg)
-  static PhosphorIconData octagon(
+  static IconData octagon(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23855,7 +23832,7 @@ class PhosphorIcons {
   /// bold: ![office-chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/office-chair.svg)
   /// fill: ![office-chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/office-chair.svg)
   /// duotone: ![office-chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/office-chair.svg)
-  static PhosphorIconData officeChair(
+  static IconData officeChair(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23879,7 +23856,7 @@ class PhosphorIcons {
   /// bold: ![onigiri](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/onigiri.svg)
   /// fill: ![onigiri](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/onigiri.svg)
   /// duotone: ![onigiri](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/onigiri.svg)
-  static PhosphorIconData onigiri(
+  static IconData onigiri(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23903,7 +23880,7 @@ class PhosphorIcons {
   /// bold: ![open-ai-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/open-ai-logo.svg)
   /// fill: ![open-ai-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/open-ai-logo.svg)
   /// duotone: ![open-ai-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/open-ai-logo.svg)
-  static PhosphorIconData openAiLogo(
+  static IconData openAiLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23927,7 +23904,7 @@ class PhosphorIcons {
   /// bold: ![option](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/option.svg)
   /// fill: ![option](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/option.svg)
   /// duotone: ![option](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/option.svg)
-  static PhosphorIconData option(
+  static IconData option(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23951,7 +23928,7 @@ class PhosphorIcons {
   /// bold: ![orange](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/orange.svg)
   /// fill: ![orange](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/orange.svg)
   /// duotone: ![orange](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/orange.svg)
-  static PhosphorIconData orange(
+  static IconData orange(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23975,7 +23952,7 @@ class PhosphorIcons {
   /// bold: ![orange-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/orange-slice.svg)
   /// fill: ![orange-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/orange-slice.svg)
   /// duotone: ![orange-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/orange-slice.svg)
-  static PhosphorIconData orangeSlice(
+  static IconData orangeSlice(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -23999,7 +23976,7 @@ class PhosphorIcons {
   /// bold: ![oven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/oven.svg)
   /// fill: ![oven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/oven.svg)
   /// duotone: ![oven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/oven.svg)
-  static PhosphorIconData oven(
+  static IconData oven(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24023,7 +24000,7 @@ class PhosphorIcons {
   /// bold: ![package](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/package.svg)
   /// fill: ![package](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/package.svg)
   /// duotone: ![package](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/package.svg)
-  static PhosphorIconData package(
+  static IconData package(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24047,7 +24024,7 @@ class PhosphorIcons {
   /// bold: ![paint-brush](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-brush.svg)
   /// fill: ![paint-brush](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paint-brush.svg)
   /// duotone: ![paint-brush](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush.svg)
-  static PhosphorIconData paintBrush(
+  static IconData paintBrush(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24071,7 +24048,7 @@ class PhosphorIcons {
   /// bold: ![paint-brush-broad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-brush-broad.svg)
   /// fill: ![paint-brush-broad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paint-brush-broad.svg)
   /// duotone: ![paint-brush-broad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-broad.svg)
-  static PhosphorIconData paintBrushBroad(
+  static IconData paintBrushBroad(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24095,7 +24072,7 @@ class PhosphorIcons {
   /// bold: ![paint-brush-household](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-brush-household.svg)
   /// fill: ![paint-brush-household](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paint-brush-household.svg)
   /// duotone: ![paint-brush-household](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-household.svg)
-  static PhosphorIconData paintBrushHousehold(
+  static IconData paintBrushHousehold(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24119,7 +24096,7 @@ class PhosphorIcons {
   /// bold: ![paint-bucket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-bucket.svg)
   /// fill: ![paint-bucket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paint-bucket.svg)
   /// duotone: ![paint-bucket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-bucket.svg)
-  static PhosphorIconData paintBucket(
+  static IconData paintBucket(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24143,7 +24120,7 @@ class PhosphorIcons {
   /// bold: ![paint-roller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-roller.svg)
   /// fill: ![paint-roller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paint-roller.svg)
   /// duotone: ![paint-roller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-roller.svg)
-  static PhosphorIconData paintRoller(
+  static IconData paintRoller(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24167,7 +24144,7 @@ class PhosphorIcons {
   /// bold: ![palette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/palette.svg)
   /// fill: ![palette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/palette.svg)
   /// duotone: ![palette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/palette.svg)
-  static PhosphorIconData palette(
+  static IconData palette(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24191,7 +24168,7 @@ class PhosphorIcons {
   /// bold: ![panorama](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/panorama.svg)
   /// fill: ![panorama](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/panorama.svg)
   /// duotone: ![panorama](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/panorama.svg)
-  static PhosphorIconData panorama(
+  static IconData panorama(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24215,7 +24192,7 @@ class PhosphorIcons {
   /// bold: ![pants](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pants.svg)
   /// fill: ![pants](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pants.svg)
   /// duotone: ![pants](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pants.svg)
-  static PhosphorIconData pants(
+  static IconData pants(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24239,7 +24216,7 @@ class PhosphorIcons {
   /// bold: ![paper-plane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paper-plane.svg)
   /// fill: ![paper-plane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paper-plane.svg)
   /// duotone: ![paper-plane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane.svg)
-  static PhosphorIconData paperPlane(
+  static IconData paperPlane(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24263,7 +24240,7 @@ class PhosphorIcons {
   /// bold: ![paper-plane-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paper-plane-right.svg)
   /// fill: ![paper-plane-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paper-plane-right.svg)
   /// duotone: ![paper-plane-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-right.svg)
-  static PhosphorIconData paperPlaneRight(
+  static IconData paperPlaneRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24287,7 +24264,7 @@ class PhosphorIcons {
   /// bold: ![paper-plane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paper-plane-tilt.svg)
   /// fill: ![paper-plane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paper-plane-tilt.svg)
   /// duotone: ![paper-plane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-tilt.svg)
-  static PhosphorIconData paperPlaneTilt(
+  static IconData paperPlaneTilt(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24311,7 +24288,7 @@ class PhosphorIcons {
   /// bold: ![paperclip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paperclip.svg)
   /// fill: ![paperclip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paperclip.svg)
   /// duotone: ![paperclip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paperclip.svg)
-  static PhosphorIconData paperclip(
+  static IconData paperclip(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24335,7 +24312,7 @@ class PhosphorIcons {
   /// bold: ![paperclip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paperclip-horizontal.svg)
   /// fill: ![paperclip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paperclip-horizontal.svg)
   /// duotone: ![paperclip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paperclip-horizontal.svg)
-  static PhosphorIconData paperclipHorizontal(
+  static IconData paperclipHorizontal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24359,7 +24336,7 @@ class PhosphorIcons {
   /// bold: ![parachute](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/parachute.svg)
   /// fill: ![parachute](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/parachute.svg)
   /// duotone: ![parachute](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/parachute.svg)
-  static PhosphorIconData parachute(
+  static IconData parachute(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24383,7 +24360,7 @@ class PhosphorIcons {
   /// bold: ![paragraph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paragraph.svg)
   /// fill: ![paragraph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paragraph.svg)
   /// duotone: ![paragraph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paragraph.svg)
-  static PhosphorIconData paragraph(
+  static IconData paragraph(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24407,7 +24384,7 @@ class PhosphorIcons {
   /// bold: ![parallelogram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/parallelogram.svg)
   /// fill: ![parallelogram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/parallelogram.svg)
   /// duotone: ![parallelogram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/parallelogram.svg)
-  static PhosphorIconData parallelogram(
+  static IconData parallelogram(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24431,7 +24408,7 @@ class PhosphorIcons {
   /// bold: ![park](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/park.svg)
   /// fill: ![park](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/park.svg)
   /// duotone: ![park](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/park.svg)
-  static PhosphorIconData park(
+  static IconData park(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24455,7 +24432,7 @@ class PhosphorIcons {
   /// bold: ![password](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/password.svg)
   /// fill: ![password](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/password.svg)
   /// duotone: ![password](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/password.svg)
-  static PhosphorIconData password(
+  static IconData password(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24479,7 +24456,7 @@ class PhosphorIcons {
   /// bold: ![path](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/path.svg)
   /// fill: ![path](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/path.svg)
   /// duotone: ![path](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/path.svg)
-  static PhosphorIconData path(
+  static IconData path(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24503,7 +24480,7 @@ class PhosphorIcons {
   /// bold: ![patreon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/patreon-logo.svg)
   /// fill: ![patreon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/patreon-logo.svg)
   /// duotone: ![patreon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/patreon-logo.svg)
-  static PhosphorIconData patreonLogo(
+  static IconData patreonLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24527,7 +24504,7 @@ class PhosphorIcons {
   /// bold: ![pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pause.svg)
   /// fill: ![pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pause.svg)
   /// duotone: ![pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pause.svg)
-  static PhosphorIconData pause(
+  static IconData pause(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24551,7 +24528,7 @@ class PhosphorIcons {
   /// bold: ![pause-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pause-circle.svg)
   /// fill: ![pause-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pause-circle.svg)
   /// duotone: ![pause-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pause-circle.svg)
-  static PhosphorIconData pauseCircle(
+  static IconData pauseCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24575,7 +24552,7 @@ class PhosphorIcons {
   /// bold: ![paw-print](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paw-print.svg)
   /// fill: ![paw-print](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paw-print.svg)
   /// duotone: ![paw-print](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paw-print.svg)
-  static PhosphorIconData pawPrint(
+  static IconData pawPrint(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24599,7 +24576,7 @@ class PhosphorIcons {
   /// bold: ![paypal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paypal-logo.svg)
   /// fill: ![paypal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paypal-logo.svg)
   /// duotone: ![paypal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paypal-logo.svg)
-  static PhosphorIconData paypalLogo(
+  static IconData paypalLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24623,7 +24600,7 @@ class PhosphorIcons {
   /// bold: ![peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/peace.svg)
   /// fill: ![peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/peace.svg)
   /// duotone: ![peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/peace.svg)
-  static PhosphorIconData peace(
+  static IconData peace(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24647,8 +24624,7 @@ class PhosphorIcons {
   /// bold: ![pen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pen.svg)
   /// fill: ![pen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pen.svg)
   /// duotone: ![pen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen.svg)
-  static PhosphorIconData pen(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData pen([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.pen;
@@ -24671,7 +24647,7 @@ class PhosphorIcons {
   /// bold: ![pen-nib](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pen-nib.svg)
   /// fill: ![pen-nib](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pen-nib.svg)
   /// duotone: ![pen-nib](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-nib.svg)
-  static PhosphorIconData penNib(
+  static IconData penNib(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24695,7 +24671,7 @@ class PhosphorIcons {
   /// bold: ![pen-nib-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pen-nib-straight.svg)
   /// fill: ![pen-nib-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pen-nib-straight.svg)
   /// duotone: ![pen-nib-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-nib-straight.svg)
-  static PhosphorIconData penNibStraight(
+  static IconData penNibStraight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24719,7 +24695,7 @@ class PhosphorIcons {
   /// bold: ![pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil.svg)
   /// fill: ![pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil.svg)
   /// duotone: ![pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil.svg)
-  static PhosphorIconData pencil(
+  static IconData pencil(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24743,7 +24719,7 @@ class PhosphorIcons {
   /// bold: ![pencil-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-circle.svg)
   /// fill: ![pencil-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-circle.svg)
   /// duotone: ![pencil-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-circle.svg)
-  static PhosphorIconData pencilCircle(
+  static IconData pencilCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24767,7 +24743,7 @@ class PhosphorIcons {
   /// bold: ![pencil-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-line.svg)
   /// fill: ![pencil-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-line.svg)
   /// duotone: ![pencil-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-line.svg)
-  static PhosphorIconData pencilLine(
+  static IconData pencilLine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24791,7 +24767,7 @@ class PhosphorIcons {
   /// bold: ![pencil-ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-ruler.svg)
   /// fill: ![pencil-ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-ruler.svg)
   /// duotone: ![pencil-ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-ruler.svg)
-  static PhosphorIconData pencilRuler(
+  static IconData pencilRuler(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24815,7 +24791,7 @@ class PhosphorIcons {
   /// bold: ![pencil-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-simple.svg)
   /// fill: ![pencil-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-simple.svg)
   /// duotone: ![pencil-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple.svg)
-  static PhosphorIconData pencilSimple(
+  static IconData pencilSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24839,7 +24815,7 @@ class PhosphorIcons {
   /// bold: ![pencil-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-simple-line.svg)
   /// fill: ![pencil-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-simple-line.svg)
   /// duotone: ![pencil-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-line.svg)
-  static PhosphorIconData pencilSimpleLine(
+  static IconData pencilSimpleLine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24863,7 +24839,7 @@ class PhosphorIcons {
   /// bold: ![pencil-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-simple-slash.svg)
   /// fill: ![pencil-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-simple-slash.svg)
   /// duotone: ![pencil-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-slash.svg)
-  static PhosphorIconData pencilSimpleSlash(
+  static IconData pencilSimpleSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24887,7 +24863,7 @@ class PhosphorIcons {
   /// bold: ![pencil-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-slash.svg)
   /// fill: ![pencil-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-slash.svg)
   /// duotone: ![pencil-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-slash.svg)
-  static PhosphorIconData pencilSlash(
+  static IconData pencilSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24911,7 +24887,7 @@ class PhosphorIcons {
   /// bold: ![pentagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pentagon.svg)
   /// fill: ![pentagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pentagon.svg)
   /// duotone: ![pentagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pentagon.svg)
-  static PhosphorIconData pentagon(
+  static IconData pentagon(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24935,7 +24911,7 @@ class PhosphorIcons {
   /// bold: ![pentagram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pentagram.svg)
   /// fill: ![pentagram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pentagram.svg)
   /// duotone: ![pentagram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pentagram.svg)
-  static PhosphorIconData pentagram(
+  static IconData pentagram(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24959,7 +24935,7 @@ class PhosphorIcons {
   /// bold: ![pepper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pepper.svg)
   /// fill: ![pepper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pepper.svg)
   /// duotone: ![pepper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pepper.svg)
-  static PhosphorIconData pepper(
+  static IconData pepper(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -24983,7 +24959,7 @@ class PhosphorIcons {
   /// bold: ![percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/percent.svg)
   /// fill: ![percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/percent.svg)
   /// duotone: ![percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/percent.svg)
-  static PhosphorIconData percent(
+  static IconData percent(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25007,7 +24983,7 @@ class PhosphorIcons {
   /// bold: ![person](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person.svg)
   /// fill: ![person](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person.svg)
   /// duotone: ![person](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person.svg)
-  static PhosphorIconData person(
+  static IconData person(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25031,7 +25007,7 @@ class PhosphorIcons {
   /// bold: ![person-arms-spread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-arms-spread.svg)
   /// fill: ![person-arms-spread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-arms-spread.svg)
   /// duotone: ![person-arms-spread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-arms-spread.svg)
-  static PhosphorIconData personArmsSpread(
+  static IconData personArmsSpread(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25055,7 +25031,7 @@ class PhosphorIcons {
   /// bold: ![person-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple.svg)
   /// fill: ![person-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple.svg)
   /// duotone: ![person-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple.svg)
-  static PhosphorIconData personSimple(
+  static IconData personSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25079,7 +25055,7 @@ class PhosphorIcons {
   /// bold: ![person-simple-bike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-bike.svg)
   /// fill: ![person-simple-bike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-bike.svg)
   /// duotone: ![person-simple-bike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-bike.svg)
-  static PhosphorIconData personSimpleBike(
+  static IconData personSimpleBike(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25103,7 +25079,7 @@ class PhosphorIcons {
   /// bold: ![person-simple-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-circle.svg)
   /// fill: ![person-simple-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-circle.svg)
   /// duotone: ![person-simple-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-circle.svg)
-  static PhosphorIconData personSimpleCircle(
+  static IconData personSimpleCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25127,7 +25103,7 @@ class PhosphorIcons {
   /// bold: ![person-simple-hike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-hike.svg)
   /// fill: ![person-simple-hike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-hike.svg)
   /// duotone: ![person-simple-hike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-hike.svg)
-  static PhosphorIconData personSimpleHike(
+  static IconData personSimpleHike(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25151,7 +25127,7 @@ class PhosphorIcons {
   /// bold: ![person-simple-run](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-run.svg)
   /// fill: ![person-simple-run](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-run.svg)
   /// duotone: ![person-simple-run](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-run.svg)
-  static PhosphorIconData personSimpleRun(
+  static IconData personSimpleRun(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25175,7 +25151,7 @@ class PhosphorIcons {
   /// bold: ![person-simple-ski](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-ski.svg)
   /// fill: ![person-simple-ski](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-ski.svg)
   /// duotone: ![person-simple-ski](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-ski.svg)
-  static PhosphorIconData personSimpleSki(
+  static IconData personSimpleSki(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25199,7 +25175,7 @@ class PhosphorIcons {
   /// bold: ![person-simple-snowboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-snowboard.svg)
   /// fill: ![person-simple-snowboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-snowboard.svg)
   /// duotone: ![person-simple-snowboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-snowboard.svg)
-  static PhosphorIconData personSimpleSnowboard(
+  static IconData personSimpleSnowboard(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25223,7 +25199,7 @@ class PhosphorIcons {
   /// bold: ![person-simple-swim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-swim.svg)
   /// fill: ![person-simple-swim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-swim.svg)
   /// duotone: ![person-simple-swim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-swim.svg)
-  static PhosphorIconData personSimpleSwim(
+  static IconData personSimpleSwim(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25247,7 +25223,7 @@ class PhosphorIcons {
   /// bold: ![person-simple-tai-chi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-tai-chi.svg)
   /// fill: ![person-simple-tai-chi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-tai-chi.svg)
   /// duotone: ![person-simple-tai-chi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-tai-chi.svg)
-  static PhosphorIconData personSimpleTaiChi(
+  static IconData personSimpleTaiChi(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25271,7 +25247,7 @@ class PhosphorIcons {
   /// bold: ![person-simple-throw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-throw.svg)
   /// fill: ![person-simple-throw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-throw.svg)
   /// duotone: ![person-simple-throw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-throw.svg)
-  static PhosphorIconData personSimpleThrow(
+  static IconData personSimpleThrow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25295,7 +25271,7 @@ class PhosphorIcons {
   /// bold: ![person-simple-walk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-walk.svg)
   /// fill: ![person-simple-walk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-walk.svg)
   /// duotone: ![person-simple-walk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-walk.svg)
-  static PhosphorIconData personSimpleWalk(
+  static IconData personSimpleWalk(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25319,7 +25295,7 @@ class PhosphorIcons {
   /// bold: ![perspective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/perspective.svg)
   /// fill: ![perspective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/perspective.svg)
   /// duotone: ![perspective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/perspective.svg)
-  static PhosphorIconData perspective(
+  static IconData perspective(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25343,7 +25319,7 @@ class PhosphorIcons {
   /// bold: ![phone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone.svg)
   /// fill: ![phone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone.svg)
   /// duotone: ![phone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone.svg)
-  static PhosphorIconData phone(
+  static IconData phone(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25367,7 +25343,7 @@ class PhosphorIcons {
   /// bold: ![phone-call](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-call.svg)
   /// fill: ![phone-call](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-call.svg)
   /// duotone: ![phone-call](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-call.svg)
-  static PhosphorIconData phoneCall(
+  static IconData phoneCall(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25391,7 +25367,7 @@ class PhosphorIcons {
   /// bold: ![phone-disconnect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-disconnect.svg)
   /// fill: ![phone-disconnect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-disconnect.svg)
   /// duotone: ![phone-disconnect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-disconnect.svg)
-  static PhosphorIconData phoneDisconnect(
+  static IconData phoneDisconnect(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25415,7 +25391,7 @@ class PhosphorIcons {
   /// bold: ![phone-incoming](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-incoming.svg)
   /// fill: ![phone-incoming](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-incoming.svg)
   /// duotone: ![phone-incoming](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-incoming.svg)
-  static PhosphorIconData phoneIncoming(
+  static IconData phoneIncoming(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25439,7 +25415,7 @@ class PhosphorIcons {
   /// bold: ![phone-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-list.svg)
   /// fill: ![phone-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-list.svg)
   /// duotone: ![phone-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-list.svg)
-  static PhosphorIconData phoneList(
+  static IconData phoneList(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25463,7 +25439,7 @@ class PhosphorIcons {
   /// bold: ![phone-outgoing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-outgoing.svg)
   /// fill: ![phone-outgoing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-outgoing.svg)
   /// duotone: ![phone-outgoing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-outgoing.svg)
-  static PhosphorIconData phoneOutgoing(
+  static IconData phoneOutgoing(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25487,7 +25463,7 @@ class PhosphorIcons {
   /// bold: ![phone-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-pause.svg)
   /// fill: ![phone-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-pause.svg)
   /// duotone: ![phone-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-pause.svg)
-  static PhosphorIconData phonePause(
+  static IconData phonePause(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25511,7 +25487,7 @@ class PhosphorIcons {
   /// bold: ![phone-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-plus.svg)
   /// fill: ![phone-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-plus.svg)
   /// duotone: ![phone-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-plus.svg)
-  static PhosphorIconData phonePlus(
+  static IconData phonePlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25535,7 +25511,7 @@ class PhosphorIcons {
   /// bold: ![phone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-slash.svg)
   /// fill: ![phone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-slash.svg)
   /// duotone: ![phone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-slash.svg)
-  static PhosphorIconData phoneSlash(
+  static IconData phoneSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25559,7 +25535,7 @@ class PhosphorIcons {
   /// bold: ![phone-transfer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-transfer.svg)
   /// fill: ![phone-transfer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-transfer.svg)
   /// duotone: ![phone-transfer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-transfer.svg)
-  static PhosphorIconData phoneTransfer(
+  static IconData phoneTransfer(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25583,7 +25559,7 @@ class PhosphorIcons {
   /// bold: ![phone-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-x.svg)
   /// fill: ![phone-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-x.svg)
   /// duotone: ![phone-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-x.svg)
-  static PhosphorIconData phoneX(
+  static IconData phoneX(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25607,7 +25583,7 @@ class PhosphorIcons {
   /// bold: ![phosphor-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phosphor-logo.svg)
   /// fill: ![phosphor-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phosphor-logo.svg)
   /// duotone: ![phosphor-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phosphor-logo.svg)
-  static PhosphorIconData phosphorLogo(
+  static IconData phosphorLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25631,8 +25607,7 @@ class PhosphorIcons {
   /// bold: ![pi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pi.svg)
   /// fill: ![pi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pi.svg)
   /// duotone: ![pi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pi.svg)
-  static PhosphorIconData pi(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData pi([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.pi;
@@ -25655,7 +25630,7 @@ class PhosphorIcons {
   /// bold: ![piano-keys](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/piano-keys.svg)
   /// fill: ![piano-keys](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/piano-keys.svg)
   /// duotone: ![piano-keys](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/piano-keys.svg)
-  static PhosphorIconData pianoKeys(
+  static IconData pianoKeys(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25679,7 +25654,7 @@ class PhosphorIcons {
   /// bold: ![picnic-table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/picnic-table.svg)
   /// fill: ![picnic-table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/picnic-table.svg)
   /// duotone: ![picnic-table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/picnic-table.svg)
-  static PhosphorIconData picnicTable(
+  static IconData picnicTable(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25703,7 +25678,7 @@ class PhosphorIcons {
   /// bold: ![picture-in-picture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/picture-in-picture.svg)
   /// fill: ![picture-in-picture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/picture-in-picture.svg)
   /// duotone: ![picture-in-picture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/picture-in-picture.svg)
-  static PhosphorIconData pictureInpicture(
+  static IconData pictureInpicture(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25727,7 +25702,7 @@ class PhosphorIcons {
   /// bold: ![piggy-bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/piggy-bank.svg)
   /// fill: ![piggy-bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/piggy-bank.svg)
   /// duotone: ![piggy-bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/piggy-bank.svg)
-  static PhosphorIconData piggyBank(
+  static IconData piggyBank(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25751,7 +25726,7 @@ class PhosphorIcons {
   /// bold: ![pill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pill.svg)
   /// fill: ![pill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pill.svg)
   /// duotone: ![pill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pill.svg)
-  static PhosphorIconData pill(
+  static IconData pill(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25775,7 +25750,7 @@ class PhosphorIcons {
   /// bold: ![ping-pong](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ping-pong.svg)
   /// fill: ![ping-pong](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ping-pong.svg)
   /// duotone: ![ping-pong](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ping-pong.svg)
-  static PhosphorIconData pingPong(
+  static IconData pingPong(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25799,7 +25774,7 @@ class PhosphorIcons {
   /// bold: ![pint-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pint-glass.svg)
   /// fill: ![pint-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pint-glass.svg)
   /// duotone: ![pint-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pint-glass.svg)
-  static PhosphorIconData pintGlass(
+  static IconData pintGlass(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25823,7 +25798,7 @@ class PhosphorIcons {
   /// bold: ![pinterest-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pinterest-logo.svg)
   /// fill: ![pinterest-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pinterest-logo.svg)
   /// duotone: ![pinterest-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pinterest-logo.svg)
-  static PhosphorIconData pinterestLogo(
+  static IconData pinterestLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25847,7 +25822,7 @@ class PhosphorIcons {
   /// bold: ![pinwheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pinwheel.svg)
   /// fill: ![pinwheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pinwheel.svg)
   /// duotone: ![pinwheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pinwheel.svg)
-  static PhosphorIconData pinwheel(
+  static IconData pinwheel(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25871,7 +25846,7 @@ class PhosphorIcons {
   /// bold: ![pipe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pipe.svg)
   /// fill: ![pipe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pipe.svg)
   /// duotone: ![pipe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pipe.svg)
-  static PhosphorIconData pipe(
+  static IconData pipe(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25895,7 +25870,7 @@ class PhosphorIcons {
   /// bold: ![pipe-wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pipe-wrench.svg)
   /// fill: ![pipe-wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pipe-wrench.svg)
   /// duotone: ![pipe-wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pipe-wrench.svg)
-  static PhosphorIconData pipeWrench(
+  static IconData pipeWrench(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25919,7 +25894,7 @@ class PhosphorIcons {
   /// bold: ![pix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pix-logo.svg)
   /// fill: ![pix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pix-logo.svg)
   /// duotone: ![pix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pix-logo.svg)
-  static PhosphorIconData pixLogo(
+  static IconData pixLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25943,7 +25918,7 @@ class PhosphorIcons {
   /// bold: ![pizza](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pizza.svg)
   /// fill: ![pizza](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pizza.svg)
   /// duotone: ![pizza](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pizza.svg)
-  static PhosphorIconData pizza(
+  static IconData pizza(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25967,7 +25942,7 @@ class PhosphorIcons {
   /// bold: ![placeholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/placeholder.svg)
   /// fill: ![placeholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/placeholder.svg)
   /// duotone: ![placeholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/placeholder.svg)
-  static PhosphorIconData placeholder(
+  static IconData placeholder(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -25991,7 +25966,7 @@ class PhosphorIcons {
   /// bold: ![planet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/planet.svg)
   /// fill: ![planet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/planet.svg)
   /// duotone: ![planet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/planet.svg)
-  static PhosphorIconData planet(
+  static IconData planet(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26015,7 +25990,7 @@ class PhosphorIcons {
   /// bold: ![plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plant.svg)
   /// fill: ![plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plant.svg)
   /// duotone: ![plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plant.svg)
-  static PhosphorIconData plant(
+  static IconData plant(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26039,7 +26014,7 @@ class PhosphorIcons {
   /// bold: ![play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/play.svg)
   /// fill: ![play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/play.svg)
   /// duotone: ![play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play.svg)
-  static PhosphorIconData play(
+  static IconData play(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26063,7 +26038,7 @@ class PhosphorIcons {
   /// bold: ![play-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/play-circle.svg)
   /// fill: ![play-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/play-circle.svg)
   /// duotone: ![play-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-circle.svg)
-  static PhosphorIconData playCircle(
+  static IconData playCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26087,7 +26062,7 @@ class PhosphorIcons {
   /// bold: ![play-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/play-pause.svg)
   /// fill: ![play-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/play-pause.svg)
   /// duotone: ![play-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-pause.svg)
-  static PhosphorIconData playPause(
+  static IconData playPause(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26111,7 +26086,7 @@ class PhosphorIcons {
   /// bold: ![playlist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/playlist.svg)
   /// fill: ![playlist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/playlist.svg)
   /// duotone: ![playlist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/playlist.svg)
-  static PhosphorIconData playlist(
+  static IconData playlist(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26135,7 +26110,7 @@ class PhosphorIcons {
   /// bold: ![plug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plug.svg)
   /// fill: ![plug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plug.svg)
   /// duotone: ![plug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plug.svg)
-  static PhosphorIconData plug(
+  static IconData plug(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26159,7 +26134,7 @@ class PhosphorIcons {
   /// bold: ![plug-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plug-charging.svg)
   /// fill: ![plug-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plug-charging.svg)
   /// duotone: ![plug-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plug-charging.svg)
-  static PhosphorIconData plugCharging(
+  static IconData plugCharging(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26183,7 +26158,7 @@ class PhosphorIcons {
   /// bold: ![plugs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plugs.svg)
   /// fill: ![plugs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plugs.svg)
   /// duotone: ![plugs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plugs.svg)
-  static PhosphorIconData plugs(
+  static IconData plugs(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26207,7 +26182,7 @@ class PhosphorIcons {
   /// bold: ![plugs-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plugs-connected.svg)
   /// fill: ![plugs-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plugs-connected.svg)
   /// duotone: ![plugs-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plugs-connected.svg)
-  static PhosphorIconData plugsConnected(
+  static IconData plugsConnected(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26231,7 +26206,7 @@ class PhosphorIcons {
   /// bold: ![plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus.svg)
   /// fill: ![plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plus.svg)
   /// duotone: ![plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus.svg)
-  static PhosphorIconData plus(
+  static IconData plus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26255,7 +26230,7 @@ class PhosphorIcons {
   /// bold: ![plus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus-circle.svg)
   /// fill: ![plus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plus-circle.svg)
   /// duotone: ![plus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-circle.svg)
-  static PhosphorIconData plusCircle(
+  static IconData plusCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26279,7 +26254,7 @@ class PhosphorIcons {
   /// bold: ![plus-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus-minus.svg)
   /// fill: ![plus-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plus-minus.svg)
   /// duotone: ![plus-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-minus.svg)
-  static PhosphorIconData plusMinus(
+  static IconData plusMinus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26303,7 +26278,7 @@ class PhosphorIcons {
   /// bold: ![plus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus-square.svg)
   /// fill: ![plus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plus-square.svg)
   /// duotone: ![plus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-square.svg)
-  static PhosphorIconData plusSquare(
+  static IconData plusSquare(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26327,7 +26302,7 @@ class PhosphorIcons {
   /// bold: ![poker-chip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/poker-chip.svg)
   /// fill: ![poker-chip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/poker-chip.svg)
   /// duotone: ![poker-chip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/poker-chip.svg)
-  static PhosphorIconData pokerChip(
+  static IconData pokerChip(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26351,7 +26326,7 @@ class PhosphorIcons {
   /// bold: ![police-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/police-car.svg)
   /// fill: ![police-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/police-car.svg)
   /// duotone: ![police-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/police-car.svg)
-  static PhosphorIconData policeCar(
+  static IconData policeCar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26375,7 +26350,7 @@ class PhosphorIcons {
   /// bold: ![polygon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/polygon.svg)
   /// fill: ![polygon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/polygon.svg)
   /// duotone: ![polygon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/polygon.svg)
-  static PhosphorIconData polygon(
+  static IconData polygon(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26399,7 +26374,7 @@ class PhosphorIcons {
   /// bold: ![popcorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/popcorn.svg)
   /// fill: ![popcorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/popcorn.svg)
   /// duotone: ![popcorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/popcorn.svg)
-  static PhosphorIconData popcorn(
+  static IconData popcorn(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26423,7 +26398,7 @@ class PhosphorIcons {
   /// bold: ![popsicle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/popsicle.svg)
   /// fill: ![popsicle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/popsicle.svg)
   /// duotone: ![popsicle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/popsicle.svg)
-  static PhosphorIconData popsicle(
+  static IconData popsicle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26447,7 +26422,7 @@ class PhosphorIcons {
   /// bold: ![potted-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/potted-plant.svg)
   /// fill: ![potted-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/potted-plant.svg)
   /// duotone: ![potted-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/potted-plant.svg)
-  static PhosphorIconData pottedPlant(
+  static IconData pottedPlant(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26471,7 +26446,7 @@ class PhosphorIcons {
   /// bold: ![power](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/power.svg)
   /// fill: ![power](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/power.svg)
   /// duotone: ![power](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/power.svg)
-  static PhosphorIconData power(
+  static IconData power(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26495,7 +26470,7 @@ class PhosphorIcons {
   /// bold: ![prescription](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/prescription.svg)
   /// fill: ![prescription](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/prescription.svg)
   /// duotone: ![prescription](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prescription.svg)
-  static PhosphorIconData prescription(
+  static IconData prescription(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26519,7 +26494,7 @@ class PhosphorIcons {
   /// bold: ![presentation](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/presentation.svg)
   /// fill: ![presentation](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/presentation.svg)
   /// duotone: ![presentation](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/presentation.svg)
-  static PhosphorIconData presentation(
+  static IconData presentation(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26543,7 +26518,7 @@ class PhosphorIcons {
   /// bold: ![presentation-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/presentation-chart.svg)
   /// fill: ![presentation-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/presentation-chart.svg)
   /// duotone: ![presentation-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/presentation-chart.svg)
-  static PhosphorIconData presentationChart(
+  static IconData presentationChart(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26567,7 +26542,7 @@ class PhosphorIcons {
   /// bold: ![printer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/printer.svg)
   /// fill: ![printer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/printer.svg)
   /// duotone: ![printer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/printer.svg)
-  static PhosphorIconData printer(
+  static IconData printer(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26591,7 +26566,7 @@ class PhosphorIcons {
   /// bold: ![prohibit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/prohibit.svg)
   /// fill: ![prohibit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/prohibit.svg)
   /// duotone: ![prohibit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prohibit.svg)
-  static PhosphorIconData prohibit(
+  static IconData prohibit(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26615,7 +26590,7 @@ class PhosphorIcons {
   /// bold: ![prohibit-inset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/prohibit-inset.svg)
   /// fill: ![prohibit-inset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/prohibit-inset.svg)
   /// duotone: ![prohibit-inset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prohibit-inset.svg)
-  static PhosphorIconData prohibitInset(
+  static IconData prohibitInset(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26639,7 +26614,7 @@ class PhosphorIcons {
   /// bold: ![projector-screen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/projector-screen.svg)
   /// fill: ![projector-screen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/projector-screen.svg)
   /// duotone: ![projector-screen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/projector-screen.svg)
-  static PhosphorIconData projectorScreen(
+  static IconData projectorScreen(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26663,7 +26638,7 @@ class PhosphorIcons {
   /// bold: ![projector-screen-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/projector-screen-chart.svg)
   /// fill: ![projector-screen-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/projector-screen-chart.svg)
   /// duotone: ![projector-screen-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/projector-screen-chart.svg)
-  static PhosphorIconData projectorScreenChart(
+  static IconData projectorScreenChart(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26687,7 +26662,7 @@ class PhosphorIcons {
   /// bold: ![pulse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pulse.svg)
   /// fill: ![pulse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pulse.svg)
   /// duotone: ![pulse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pulse.svg)
-  static PhosphorIconData pulse(
+  static IconData pulse(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26711,7 +26686,7 @@ class PhosphorIcons {
   /// bold: ![push-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin.svg)
   /// fill: ![push-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/push-pin.svg)
   /// duotone: ![push-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin.svg)
-  static PhosphorIconData pushPin(
+  static IconData pushPin(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26735,7 +26710,7 @@ class PhosphorIcons {
   /// bold: ![push-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin-simple.svg)
   /// fill: ![push-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/push-pin-simple.svg)
   /// duotone: ![push-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-simple.svg)
-  static PhosphorIconData pushPinSimple(
+  static IconData pushPinSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26759,7 +26734,7 @@ class PhosphorIcons {
   /// bold: ![push-pin-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin-simple-slash.svg)
   /// fill: ![push-pin-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/push-pin-simple-slash.svg)
   /// duotone: ![push-pin-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-simple-slash.svg)
-  static PhosphorIconData pushPinSimpleSlash(
+  static IconData pushPinSimpleSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26783,7 +26758,7 @@ class PhosphorIcons {
   /// bold: ![push-pin-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin-slash.svg)
   /// fill: ![push-pin-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/push-pin-slash.svg)
   /// duotone: ![push-pin-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-slash.svg)
-  static PhosphorIconData pushPinSlash(
+  static IconData pushPinSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26807,7 +26782,7 @@ class PhosphorIcons {
   /// bold: ![puzzle-piece](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/puzzle-piece.svg)
   /// fill: ![puzzle-piece](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/puzzle-piece.svg)
   /// duotone: ![puzzle-piece](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/puzzle-piece.svg)
-  static PhosphorIconData puzzlePiece(
+  static IconData puzzlePiece(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26831,7 +26806,7 @@ class PhosphorIcons {
   /// bold: ![qr-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/qr-code.svg)
   /// fill: ![qr-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/qr-code.svg)
   /// duotone: ![qr-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/qr-code.svg)
-  static PhosphorIconData qrCode(
+  static IconData qrCode(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26855,7 +26830,7 @@ class PhosphorIcons {
   /// bold: ![question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/question.svg)
   /// fill: ![question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/question.svg)
   /// duotone: ![question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/question.svg)
-  static PhosphorIconData question(
+  static IconData question(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26879,7 +26854,7 @@ class PhosphorIcons {
   /// bold: ![question-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/question-mark.svg)
   /// fill: ![question-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/question-mark.svg)
   /// duotone: ![question-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/question-mark.svg)
-  static PhosphorIconData questionMark(
+  static IconData questionMark(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26903,7 +26878,7 @@ class PhosphorIcons {
   /// bold: ![queue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/queue.svg)
   /// fill: ![queue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/queue.svg)
   /// duotone: ![queue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/queue.svg)
-  static PhosphorIconData queue(
+  static IconData queue(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26927,7 +26902,7 @@ class PhosphorIcons {
   /// bold: ![quotes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/quotes.svg)
   /// fill: ![quotes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/quotes.svg)
   /// duotone: ![quotes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/quotes.svg)
-  static PhosphorIconData quotes(
+  static IconData quotes(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26951,7 +26926,7 @@ class PhosphorIcons {
   /// bold: ![rabbit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rabbit.svg)
   /// fill: ![rabbit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rabbit.svg)
   /// duotone: ![rabbit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rabbit.svg)
-  static PhosphorIconData rabbit(
+  static IconData rabbit(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26975,7 +26950,7 @@ class PhosphorIcons {
   /// bold: ![racquet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/racquet.svg)
   /// fill: ![racquet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/racquet.svg)
   /// duotone: ![racquet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/racquet.svg)
-  static PhosphorIconData racquet(
+  static IconData racquet(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -26999,7 +26974,7 @@ class PhosphorIcons {
   /// bold: ![radical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radical.svg)
   /// fill: ![radical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/radical.svg)
   /// duotone: ![radical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radical.svg)
-  static PhosphorIconData radical(
+  static IconData radical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27023,7 +26998,7 @@ class PhosphorIcons {
   /// bold: ![radio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radio.svg)
   /// fill: ![radio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/radio.svg)
   /// duotone: ![radio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radio.svg)
-  static PhosphorIconData radio(
+  static IconData radio(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27047,7 +27022,7 @@ class PhosphorIcons {
   /// bold: ![radio-button](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radio-button.svg)
   /// fill: ![radio-button](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/radio-button.svg)
   /// duotone: ![radio-button](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radio-button.svg)
-  static PhosphorIconData radioButton(
+  static IconData radioButton(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27071,7 +27046,7 @@ class PhosphorIcons {
   /// bold: ![radioactive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radioactive.svg)
   /// fill: ![radioactive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/radioactive.svg)
   /// duotone: ![radioactive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radioactive.svg)
-  static PhosphorIconData radioactive(
+  static IconData radioactive(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27095,7 +27070,7 @@ class PhosphorIcons {
   /// bold: ![rainbow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rainbow.svg)
   /// fill: ![rainbow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rainbow.svg)
   /// duotone: ![rainbow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rainbow.svg)
-  static PhosphorIconData rainbow(
+  static IconData rainbow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27119,7 +27094,7 @@ class PhosphorIcons {
   /// bold: ![rainbow-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rainbow-cloud.svg)
   /// fill: ![rainbow-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rainbow-cloud.svg)
   /// duotone: ![rainbow-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rainbow-cloud.svg)
-  static PhosphorIconData rainbowCloud(
+  static IconData rainbowCloud(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27143,7 +27118,7 @@ class PhosphorIcons {
   /// bold: ![ranking](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ranking.svg)
   /// fill: ![ranking](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ranking.svg)
   /// duotone: ![ranking](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ranking.svg)
-  static PhosphorIconData ranking(
+  static IconData ranking(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27167,7 +27142,7 @@ class PhosphorIcons {
   /// bold: ![read-cv-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/read-cv-logo.svg)
   /// fill: ![read-cv-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/read-cv-logo.svg)
   /// duotone: ![read-cv-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/read-cv-logo.svg)
-  static PhosphorIconData readCvLogo(
+  static IconData readCvLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27191,7 +27166,7 @@ class PhosphorIcons {
   /// bold: ![receipt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/receipt.svg)
   /// fill: ![receipt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/receipt.svg)
   /// duotone: ![receipt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/receipt.svg)
-  static PhosphorIconData receipt(
+  static IconData receipt(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27215,7 +27190,7 @@ class PhosphorIcons {
   /// bold: ![receipt-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/receipt-x.svg)
   /// fill: ![receipt-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/receipt-x.svg)
   /// duotone: ![receipt-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/receipt-x.svg)
-  static PhosphorIconData receiptX(
+  static IconData receiptX(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27239,7 +27214,7 @@ class PhosphorIcons {
   /// bold: ![record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/record.svg)
   /// fill: ![record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/record.svg)
   /// duotone: ![record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/record.svg)
-  static PhosphorIconData record(
+  static IconData record(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27263,7 +27238,7 @@ class PhosphorIcons {
   /// bold: ![rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rectangle.svg)
   /// fill: ![rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rectangle.svg)
   /// duotone: ![rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rectangle.svg)
-  static PhosphorIconData rectangle(
+  static IconData rectangle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27287,7 +27262,7 @@ class PhosphorIcons {
   /// bold: ![rectangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rectangle-dashed.svg)
   /// fill: ![rectangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rectangle-dashed.svg)
   /// duotone: ![rectangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rectangle-dashed.svg)
-  static PhosphorIconData rectangleDashed(
+  static IconData rectangleDashed(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27311,7 +27286,7 @@ class PhosphorIcons {
   /// bold: ![recycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/recycle.svg)
   /// fill: ![recycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/recycle.svg)
   /// duotone: ![recycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/recycle.svg)
-  static PhosphorIconData recycle(
+  static IconData recycle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27335,7 +27310,7 @@ class PhosphorIcons {
   /// bold: ![reddit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/reddit-logo.svg)
   /// fill: ![reddit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/reddit-logo.svg)
   /// duotone: ![reddit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/reddit-logo.svg)
-  static PhosphorIconData redditLogo(
+  static IconData redditLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27359,7 +27334,7 @@ class PhosphorIcons {
   /// bold: ![repeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/repeat.svg)
   /// fill: ![repeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/repeat.svg)
   /// duotone: ![repeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/repeat.svg)
-  static PhosphorIconData repeat(
+  static IconData repeat(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27383,7 +27358,7 @@ class PhosphorIcons {
   /// bold: ![repeat-once](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/repeat-once.svg)
   /// fill: ![repeat-once](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/repeat-once.svg)
   /// duotone: ![repeat-once](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/repeat-once.svg)
-  static PhosphorIconData repeatOnce(
+  static IconData repeatOnce(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27407,7 +27382,7 @@ class PhosphorIcons {
   /// bold: ![replit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/replit-logo.svg)
   /// fill: ![replit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/replit-logo.svg)
   /// duotone: ![replit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/replit-logo.svg)
-  static PhosphorIconData replitLogo(
+  static IconData replitLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27431,7 +27406,7 @@ class PhosphorIcons {
   /// bold: ![resize](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/resize.svg)
   /// fill: ![resize](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/resize.svg)
   /// duotone: ![resize](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/resize.svg)
-  static PhosphorIconData resize(
+  static IconData resize(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27455,7 +27430,7 @@ class PhosphorIcons {
   /// bold: ![rewind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rewind.svg)
   /// fill: ![rewind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rewind.svg)
   /// duotone: ![rewind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rewind.svg)
-  static PhosphorIconData rewind(
+  static IconData rewind(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27479,7 +27454,7 @@ class PhosphorIcons {
   /// bold: ![rewind-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rewind-circle.svg)
   /// fill: ![rewind-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rewind-circle.svg)
   /// duotone: ![rewind-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rewind-circle.svg)
-  static PhosphorIconData rewindCircle(
+  static IconData rewindCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27503,7 +27478,7 @@ class PhosphorIcons {
   /// bold: ![road-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/road-horizon.svg)
   /// fill: ![road-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/road-horizon.svg)
   /// duotone: ![road-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/road-horizon.svg)
-  static PhosphorIconData roadHorizon(
+  static IconData roadHorizon(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27527,7 +27502,7 @@ class PhosphorIcons {
   /// bold: ![robot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/robot.svg)
   /// fill: ![robot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/robot.svg)
   /// duotone: ![robot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/robot.svg)
-  static PhosphorIconData robot(
+  static IconData robot(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27551,7 +27526,7 @@ class PhosphorIcons {
   /// bold: ![rocket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rocket.svg)
   /// fill: ![rocket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rocket.svg)
   /// duotone: ![rocket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rocket.svg)
-  static PhosphorIconData rocket(
+  static IconData rocket(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27575,7 +27550,7 @@ class PhosphorIcons {
   /// bold: ![rocket-launch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rocket-launch.svg)
   /// fill: ![rocket-launch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rocket-launch.svg)
   /// duotone: ![rocket-launch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rocket-launch.svg)
-  static PhosphorIconData rocketLaunch(
+  static IconData rocketLaunch(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27599,7 +27574,7 @@ class PhosphorIcons {
   /// bold: ![rows](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rows.svg)
   /// fill: ![rows](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rows.svg)
   /// duotone: ![rows](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows.svg)
-  static PhosphorIconData rows(
+  static IconData rows(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27623,7 +27598,7 @@ class PhosphorIcons {
   /// bold: ![rows-plus-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rows-plus-bottom.svg)
   /// fill: ![rows-plus-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rows-plus-bottom.svg)
   /// duotone: ![rows-plus-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-plus-bottom.svg)
-  static PhosphorIconData rowsPlusBottom(
+  static IconData rowsPlusBottom(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27647,7 +27622,7 @@ class PhosphorIcons {
   /// bold: ![rows-plus-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rows-plus-top.svg)
   /// fill: ![rows-plus-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rows-plus-top.svg)
   /// duotone: ![rows-plus-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-plus-top.svg)
-  static PhosphorIconData rowsPlusTop(
+  static IconData rowsPlusTop(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27671,8 +27646,7 @@ class PhosphorIcons {
   /// bold: ![rss](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rss.svg)
   /// fill: ![rss](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rss.svg)
   /// duotone: ![rss](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rss.svg)
-  static PhosphorIconData rss(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData rss([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.rss;
@@ -27695,7 +27669,7 @@ class PhosphorIcons {
   /// bold: ![rss-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rss-simple.svg)
   /// fill: ![rss-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rss-simple.svg)
   /// duotone: ![rss-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rss-simple.svg)
-  static PhosphorIconData rssSimple(
+  static IconData rssSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27719,8 +27693,7 @@ class PhosphorIcons {
   /// bold: ![rug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rug.svg)
   /// fill: ![rug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rug.svg)
   /// duotone: ![rug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rug.svg)
-  static PhosphorIconData rug(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData rug([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.rug;
@@ -27743,7 +27716,7 @@ class PhosphorIcons {
   /// bold: ![ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ruler.svg)
   /// fill: ![ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ruler.svg)
   /// duotone: ![ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ruler.svg)
-  static PhosphorIconData ruler(
+  static IconData ruler(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27767,7 +27740,7 @@ class PhosphorIcons {
   /// bold: ![sailboat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sailboat.svg)
   /// fill: ![sailboat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sailboat.svg)
   /// duotone: ![sailboat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sailboat.svg)
-  static PhosphorIconData sailboat(
+  static IconData sailboat(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27791,7 +27764,7 @@ class PhosphorIcons {
   /// bold: ![scales](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scales.svg)
   /// fill: ![scales](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scales.svg)
   /// duotone: ![scales](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scales.svg)
-  static PhosphorIconData scales(
+  static IconData scales(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27815,7 +27788,7 @@ class PhosphorIcons {
   /// bold: ![scan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scan.svg)
   /// fill: ![scan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scan.svg)
   /// duotone: ![scan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scan.svg)
-  static PhosphorIconData scan(
+  static IconData scan(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27839,7 +27812,7 @@ class PhosphorIcons {
   /// bold: ![scan-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scan-smiley.svg)
   /// fill: ![scan-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scan-smiley.svg)
   /// duotone: ![scan-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scan-smiley.svg)
-  static PhosphorIconData scanSmiley(
+  static IconData scanSmiley(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27863,7 +27836,7 @@ class PhosphorIcons {
   /// bold: ![scissors](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scissors.svg)
   /// fill: ![scissors](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scissors.svg)
   /// duotone: ![scissors](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scissors.svg)
-  static PhosphorIconData scissors(
+  static IconData scissors(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27887,7 +27860,7 @@ class PhosphorIcons {
   /// bold: ![scooter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scooter.svg)
   /// fill: ![scooter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scooter.svg)
   /// duotone: ![scooter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scooter.svg)
-  static PhosphorIconData scooter(
+  static IconData scooter(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27911,7 +27884,7 @@ class PhosphorIcons {
   /// bold: ![screencast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/screencast.svg)
   /// fill: ![screencast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/screencast.svg)
   /// duotone: ![screencast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/screencast.svg)
-  static PhosphorIconData screencast(
+  static IconData screencast(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27935,7 +27908,7 @@ class PhosphorIcons {
   /// bold: ![screwdriver](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/screwdriver.svg)
   /// fill: ![screwdriver](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/screwdriver.svg)
   /// duotone: ![screwdriver](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/screwdriver.svg)
-  static PhosphorIconData screwdriver(
+  static IconData screwdriver(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27959,7 +27932,7 @@ class PhosphorIcons {
   /// bold: ![scribble](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scribble.svg)
   /// fill: ![scribble](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scribble.svg)
   /// duotone: ![scribble](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scribble.svg)
-  static PhosphorIconData scribble(
+  static IconData scribble(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -27983,7 +27956,7 @@ class PhosphorIcons {
   /// bold: ![scribble-loop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scribble-loop.svg)
   /// fill: ![scribble-loop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scribble-loop.svg)
   /// duotone: ![scribble-loop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scribble-loop.svg)
-  static PhosphorIconData scribbleLoop(
+  static IconData scribbleLoop(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28007,7 +27980,7 @@ class PhosphorIcons {
   /// bold: ![scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scroll.svg)
   /// fill: ![scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scroll.svg)
   /// duotone: ![scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scroll.svg)
-  static PhosphorIconData scroll(
+  static IconData scroll(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28031,7 +28004,7 @@ class PhosphorIcons {
   /// bold: ![seal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal.svg)
   /// fill: ![seal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seal.svg)
   /// duotone: ![seal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal.svg)
-  static PhosphorIconData seal(
+  static IconData seal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28055,7 +28028,7 @@ class PhosphorIcons {
   /// bold: ![seal-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-check.svg)
   /// fill: ![seal-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seal-check.svg)
   /// duotone: ![seal-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-check.svg)
-  static PhosphorIconData sealCheck(
+  static IconData sealCheck(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28079,7 +28052,7 @@ class PhosphorIcons {
   /// bold: ![seal-percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-percent.svg)
   /// fill: ![seal-percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seal-percent.svg)
   /// duotone: ![seal-percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-percent.svg)
-  static PhosphorIconData sealPercent(
+  static IconData sealPercent(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28103,7 +28076,7 @@ class PhosphorIcons {
   /// bold: ![seal-question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-question.svg)
   /// fill: ![seal-question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seal-question.svg)
   /// duotone: ![seal-question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-question.svg)
-  static PhosphorIconData sealQuestion(
+  static IconData sealQuestion(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28127,7 +28100,7 @@ class PhosphorIcons {
   /// bold: ![seal-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-warning.svg)
   /// fill: ![seal-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seal-warning.svg)
   /// duotone: ![seal-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-warning.svg)
-  static PhosphorIconData sealWarning(
+  static IconData sealWarning(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28151,7 +28124,7 @@ class PhosphorIcons {
   /// bold: ![seat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seat.svg)
   /// fill: ![seat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seat.svg)
   /// duotone: ![seat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seat.svg)
-  static PhosphorIconData seat(
+  static IconData seat(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28175,7 +28148,7 @@ class PhosphorIcons {
   /// bold: ![seatbelt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seatbelt.svg)
   /// fill: ![seatbelt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seatbelt.svg)
   /// duotone: ![seatbelt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seatbelt.svg)
-  static PhosphorIconData seatbelt(
+  static IconData seatbelt(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28199,7 +28172,7 @@ class PhosphorIcons {
   /// bold: ![security-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/security-camera.svg)
   /// fill: ![security-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/security-camera.svg)
   /// duotone: ![security-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/security-camera.svg)
-  static PhosphorIconData securityCamera(
+  static IconData securityCamera(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28223,7 +28196,7 @@ class PhosphorIcons {
   /// bold: ![selection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection.svg)
   /// fill: ![selection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection.svg)
   /// duotone: ![selection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection.svg)
-  static PhosphorIconData selection(
+  static IconData selection(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28247,7 +28220,7 @@ class PhosphorIcons {
   /// bold: ![selection-all](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-all.svg)
   /// fill: ![selection-all](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-all.svg)
   /// duotone: ![selection-all](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-all.svg)
-  static PhosphorIconData selectionAll(
+  static IconData selectionAll(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28271,7 +28244,7 @@ class PhosphorIcons {
   /// bold: ![selection-background](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-background.svg)
   /// fill: ![selection-background](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-background.svg)
   /// duotone: ![selection-background](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-background.svg)
-  static PhosphorIconData selectionBackground(
+  static IconData selectionBackground(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28295,7 +28268,7 @@ class PhosphorIcons {
   /// bold: ![selection-foreground](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-foreground.svg)
   /// fill: ![selection-foreground](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-foreground.svg)
   /// duotone: ![selection-foreground](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-foreground.svg)
-  static PhosphorIconData selectionForeground(
+  static IconData selectionForeground(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28319,7 +28292,7 @@ class PhosphorIcons {
   /// bold: ![selection-inverse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-inverse.svg)
   /// fill: ![selection-inverse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-inverse.svg)
   /// duotone: ![selection-inverse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-inverse.svg)
-  static PhosphorIconData selectionInverse(
+  static IconData selectionInverse(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28343,7 +28316,7 @@ class PhosphorIcons {
   /// bold: ![selection-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-plus.svg)
   /// fill: ![selection-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-plus.svg)
   /// duotone: ![selection-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-plus.svg)
-  static PhosphorIconData selectionPlus(
+  static IconData selectionPlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28367,7 +28340,7 @@ class PhosphorIcons {
   /// bold: ![selection-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-slash.svg)
   /// fill: ![selection-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-slash.svg)
   /// duotone: ![selection-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-slash.svg)
-  static PhosphorIconData selectionSlash(
+  static IconData selectionSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28391,7 +28364,7 @@ class PhosphorIcons {
   /// bold: ![shapes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shapes.svg)
   /// fill: ![shapes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shapes.svg)
   /// duotone: ![shapes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shapes.svg)
-  static PhosphorIconData shapes(
+  static IconData shapes(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28415,7 +28388,7 @@ class PhosphorIcons {
   /// bold: ![share](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/share.svg)
   /// fill: ![share](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/share.svg)
   /// duotone: ![share](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share.svg)
-  static PhosphorIconData share(
+  static IconData share(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28439,7 +28412,7 @@ class PhosphorIcons {
   /// bold: ![share-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/share-fat.svg)
   /// fill: ![share-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/share-fat.svg)
   /// duotone: ![share-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-fat.svg)
-  static PhosphorIconData shareFat(
+  static IconData shareFat(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28463,7 +28436,7 @@ class PhosphorIcons {
   /// bold: ![share-network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/share-network.svg)
   /// fill: ![share-network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/share-network.svg)
   /// duotone: ![share-network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-network.svg)
-  static PhosphorIconData shareNetwork(
+  static IconData shareNetwork(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28487,7 +28460,7 @@ class PhosphorIcons {
   /// bold: ![shield](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield.svg)
   /// fill: ![shield](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield.svg)
   /// duotone: ![shield](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield.svg)
-  static PhosphorIconData shield(
+  static IconData shield(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28511,7 +28484,7 @@ class PhosphorIcons {
   /// bold: ![shield-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-check.svg)
   /// fill: ![shield-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-check.svg)
   /// duotone: ![shield-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-check.svg)
-  static PhosphorIconData shieldCheck(
+  static IconData shieldCheck(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28535,7 +28508,7 @@ class PhosphorIcons {
   /// bold: ![shield-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-checkered.svg)
   /// fill: ![shield-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-checkered.svg)
   /// duotone: ![shield-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-checkered.svg)
-  static PhosphorIconData shieldCheckered(
+  static IconData shieldCheckered(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28559,7 +28532,7 @@ class PhosphorIcons {
   /// bold: ![shield-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-chevron.svg)
   /// fill: ![shield-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-chevron.svg)
   /// duotone: ![shield-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-chevron.svg)
-  static PhosphorIconData shieldChevron(
+  static IconData shieldChevron(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28583,7 +28556,7 @@ class PhosphorIcons {
   /// bold: ![shield-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-plus.svg)
   /// fill: ![shield-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-plus.svg)
   /// duotone: ![shield-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-plus.svg)
-  static PhosphorIconData shieldPlus(
+  static IconData shieldPlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28607,7 +28580,7 @@ class PhosphorIcons {
   /// bold: ![shield-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-slash.svg)
   /// fill: ![shield-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-slash.svg)
   /// duotone: ![shield-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-slash.svg)
-  static PhosphorIconData shieldSlash(
+  static IconData shieldSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28631,7 +28604,7 @@ class PhosphorIcons {
   /// bold: ![shield-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-star.svg)
   /// fill: ![shield-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-star.svg)
   /// duotone: ![shield-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-star.svg)
-  static PhosphorIconData shieldStar(
+  static IconData shieldStar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28655,7 +28628,7 @@ class PhosphorIcons {
   /// bold: ![shield-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-warning.svg)
   /// fill: ![shield-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-warning.svg)
   /// duotone: ![shield-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-warning.svg)
-  static PhosphorIconData shieldWarning(
+  static IconData shieldWarning(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28679,7 +28652,7 @@ class PhosphorIcons {
   /// bold: ![shipping-container](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shipping-container.svg)
   /// fill: ![shipping-container](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shipping-container.svg)
   /// duotone: ![shipping-container](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shipping-container.svg)
-  static PhosphorIconData shippingContainer(
+  static IconData shippingContainer(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28703,7 +28676,7 @@ class PhosphorIcons {
   /// bold: ![shirt-folded](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shirt-folded.svg)
   /// fill: ![shirt-folded](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shirt-folded.svg)
   /// duotone: ![shirt-folded](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shirt-folded.svg)
-  static PhosphorIconData shirtFolded(
+  static IconData shirtFolded(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28727,7 +28700,7 @@ class PhosphorIcons {
   /// bold: ![shooting-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shooting-star.svg)
   /// fill: ![shooting-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shooting-star.svg)
   /// duotone: ![shooting-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shooting-star.svg)
-  static PhosphorIconData shootingStar(
+  static IconData shootingStar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28751,7 +28724,7 @@ class PhosphorIcons {
   /// bold: ![shopping-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-bag.svg)
   /// fill: ![shopping-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shopping-bag.svg)
   /// duotone: ![shopping-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-bag.svg)
-  static PhosphorIconData shoppingBag(
+  static IconData shoppingBag(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28775,7 +28748,7 @@ class PhosphorIcons {
   /// bold: ![shopping-bag-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-bag-open.svg)
   /// fill: ![shopping-bag-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shopping-bag-open.svg)
   /// duotone: ![shopping-bag-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-bag-open.svg)
-  static PhosphorIconData shoppingBagOpen(
+  static IconData shoppingBagOpen(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28799,7 +28772,7 @@ class PhosphorIcons {
   /// bold: ![shopping-cart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-cart.svg)
   /// fill: ![shopping-cart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shopping-cart.svg)
   /// duotone: ![shopping-cart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-cart.svg)
-  static PhosphorIconData shoppingCart(
+  static IconData shoppingCart(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28823,7 +28796,7 @@ class PhosphorIcons {
   /// bold: ![shopping-cart-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-cart-simple.svg)
   /// fill: ![shopping-cart-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shopping-cart-simple.svg)
   /// duotone: ![shopping-cart-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-cart-simple.svg)
-  static PhosphorIconData shoppingCartSimple(
+  static IconData shoppingCartSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28847,7 +28820,7 @@ class PhosphorIcons {
   /// bold: ![shovel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shovel.svg)
   /// fill: ![shovel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shovel.svg)
   /// duotone: ![shovel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shovel.svg)
-  static PhosphorIconData shovel(
+  static IconData shovel(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28871,7 +28844,7 @@ class PhosphorIcons {
   /// bold: ![shower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shower.svg)
   /// fill: ![shower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shower.svg)
   /// duotone: ![shower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shower.svg)
-  static PhosphorIconData shower(
+  static IconData shower(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28895,7 +28868,7 @@ class PhosphorIcons {
   /// bold: ![shrimp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shrimp.svg)
   /// fill: ![shrimp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shrimp.svg)
   /// duotone: ![shrimp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shrimp.svg)
-  static PhosphorIconData shrimp(
+  static IconData shrimp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28919,7 +28892,7 @@ class PhosphorIcons {
   /// bold: ![shuffle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shuffle.svg)
   /// fill: ![shuffle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shuffle.svg)
   /// duotone: ![shuffle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle.svg)
-  static PhosphorIconData shuffle(
+  static IconData shuffle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28943,7 +28916,7 @@ class PhosphorIcons {
   /// bold: ![shuffle-angular](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shuffle-angular.svg)
   /// fill: ![shuffle-angular](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shuffle-angular.svg)
   /// duotone: ![shuffle-angular](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-angular.svg)
-  static PhosphorIconData shuffleAngular(
+  static IconData shuffleAngular(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28967,7 +28940,7 @@ class PhosphorIcons {
   /// bold: ![shuffle-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shuffle-simple.svg)
   /// fill: ![shuffle-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shuffle-simple.svg)
   /// duotone: ![shuffle-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-simple.svg)
-  static PhosphorIconData shuffleSimple(
+  static IconData shuffleSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -28991,7 +28964,7 @@ class PhosphorIcons {
   /// bold: ![sidebar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sidebar.svg)
   /// fill: ![sidebar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sidebar.svg)
   /// duotone: ![sidebar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sidebar.svg)
-  static PhosphorIconData sidebar(
+  static IconData sidebar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29015,7 +28988,7 @@ class PhosphorIcons {
   /// bold: ![sidebar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sidebar-simple.svg)
   /// fill: ![sidebar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sidebar-simple.svg)
   /// duotone: ![sidebar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sidebar-simple.svg)
-  static PhosphorIconData sidebarSimple(
+  static IconData sidebarSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29039,7 +29012,7 @@ class PhosphorIcons {
   /// bold: ![sigma](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sigma.svg)
   /// fill: ![sigma](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sigma.svg)
   /// duotone: ![sigma](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sigma.svg)
-  static PhosphorIconData sigma(
+  static IconData sigma(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29063,7 +29036,7 @@ class PhosphorIcons {
   /// bold: ![sign-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sign-in.svg)
   /// fill: ![sign-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sign-in.svg)
   /// duotone: ![sign-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sign-in.svg)
-  static PhosphorIconData signIn(
+  static IconData signIn(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29087,7 +29060,7 @@ class PhosphorIcons {
   /// bold: ![sign-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sign-out.svg)
   /// fill: ![sign-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sign-out.svg)
   /// duotone: ![sign-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sign-out.svg)
-  static PhosphorIconData signOut(
+  static IconData signOut(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29111,7 +29084,7 @@ class PhosphorIcons {
   /// bold: ![signature](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/signature.svg)
   /// fill: ![signature](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/signature.svg)
   /// duotone: ![signature](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/signature.svg)
-  static PhosphorIconData signature(
+  static IconData signature(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29135,7 +29108,7 @@ class PhosphorIcons {
   /// bold: ![signpost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/signpost.svg)
   /// fill: ![signpost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/signpost.svg)
   /// duotone: ![signpost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/signpost.svg)
-  static PhosphorIconData signpost(
+  static IconData signpost(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29159,7 +29132,7 @@ class PhosphorIcons {
   /// bold: ![sim-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sim-card.svg)
   /// fill: ![sim-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sim-card.svg)
   /// duotone: ![sim-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sim-card.svg)
-  static PhosphorIconData simCard(
+  static IconData simCard(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29183,7 +29156,7 @@ class PhosphorIcons {
   /// bold: ![siren](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/siren.svg)
   /// fill: ![siren](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/siren.svg)
   /// duotone: ![siren](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/siren.svg)
-  static PhosphorIconData siren(
+  static IconData siren(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29207,7 +29180,7 @@ class PhosphorIcons {
   /// bold: ![sketch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sketch-logo.svg)
   /// fill: ![sketch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sketch-logo.svg)
   /// duotone: ![sketch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sketch-logo.svg)
-  static PhosphorIconData sketchLogo(
+  static IconData sketchLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29231,7 +29204,7 @@ class PhosphorIcons {
   /// bold: ![skip-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-back.svg)
   /// fill: ![skip-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skip-back.svg)
   /// duotone: ![skip-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-back.svg)
-  static PhosphorIconData skipBack(
+  static IconData skipBack(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29255,7 +29228,7 @@ class PhosphorIcons {
   /// bold: ![skip-back-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-back-circle.svg)
   /// fill: ![skip-back-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skip-back-circle.svg)
   /// duotone: ![skip-back-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-back-circle.svg)
-  static PhosphorIconData skipBackCircle(
+  static IconData skipBackCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29279,7 +29252,7 @@ class PhosphorIcons {
   /// bold: ![skip-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-forward.svg)
   /// fill: ![skip-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skip-forward.svg)
   /// duotone: ![skip-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-forward.svg)
-  static PhosphorIconData skipForward(
+  static IconData skipForward(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29303,7 +29276,7 @@ class PhosphorIcons {
   /// bold: ![skip-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-forward-circle.svg)
   /// fill: ![skip-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skip-forward-circle.svg)
   /// duotone: ![skip-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-forward-circle.svg)
-  static PhosphorIconData skipForwardCircle(
+  static IconData skipForwardCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29327,7 +29300,7 @@ class PhosphorIcons {
   /// bold: ![skull](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skull.svg)
   /// fill: ![skull](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skull.svg)
   /// duotone: ![skull](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skull.svg)
-  static PhosphorIconData skull(
+  static IconData skull(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29351,7 +29324,7 @@ class PhosphorIcons {
   /// bold: ![skype-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skype-logo.svg)
   /// fill: ![skype-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skype-logo.svg)
   /// duotone: ![skype-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skype-logo.svg)
-  static PhosphorIconData skypeLogo(
+  static IconData skypeLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29375,7 +29348,7 @@ class PhosphorIcons {
   /// bold: ![slack-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/slack-logo.svg)
   /// fill: ![slack-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/slack-logo.svg)
   /// duotone: ![slack-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/slack-logo.svg)
-  static PhosphorIconData slackLogo(
+  static IconData slackLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29399,7 +29372,7 @@ class PhosphorIcons {
   /// bold: ![sliders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sliders.svg)
   /// fill: ![sliders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sliders.svg)
   /// duotone: ![sliders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sliders.svg)
-  static PhosphorIconData sliders(
+  static IconData sliders(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29423,7 +29396,7 @@ class PhosphorIcons {
   /// bold: ![sliders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sliders-horizontal.svg)
   /// fill: ![sliders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sliders-horizontal.svg)
   /// duotone: ![sliders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sliders-horizontal.svg)
-  static PhosphorIconData slidersHorizontal(
+  static IconData slidersHorizontal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29447,7 +29420,7 @@ class PhosphorIcons {
   /// bold: ![slideshow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/slideshow.svg)
   /// fill: ![slideshow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/slideshow.svg)
   /// duotone: ![slideshow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/slideshow.svg)
-  static PhosphorIconData slideshow(
+  static IconData slideshow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29471,7 +29444,7 @@ class PhosphorIcons {
   /// bold: ![smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley.svg)
   /// fill: ![smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley.svg)
   /// duotone: ![smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley.svg)
-  static PhosphorIconData smiley(
+  static IconData smiley(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29495,7 +29468,7 @@ class PhosphorIcons {
   /// bold: ![smiley-angry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-angry.svg)
   /// fill: ![smiley-angry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-angry.svg)
   /// duotone: ![smiley-angry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-angry.svg)
-  static PhosphorIconData smileyAngry(
+  static IconData smileyAngry(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29519,7 +29492,7 @@ class PhosphorIcons {
   /// bold: ![smiley-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-blank.svg)
   /// fill: ![smiley-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-blank.svg)
   /// duotone: ![smiley-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-blank.svg)
-  static PhosphorIconData smileyBlank(
+  static IconData smileyBlank(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29543,7 +29516,7 @@ class PhosphorIcons {
   /// bold: ![smiley-meh](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-meh.svg)
   /// fill: ![smiley-meh](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-meh.svg)
   /// duotone: ![smiley-meh](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-meh.svg)
-  static PhosphorIconData smileyMeh(
+  static IconData smileyMeh(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29567,7 +29540,7 @@ class PhosphorIcons {
   /// bold: ![smiley-melting](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-melting.svg)
   /// fill: ![smiley-melting](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-melting.svg)
   /// duotone: ![smiley-melting](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-melting.svg)
-  static PhosphorIconData smileyMelting(
+  static IconData smileyMelting(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29591,7 +29564,7 @@ class PhosphorIcons {
   /// bold: ![smiley-nervous](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-nervous.svg)
   /// fill: ![smiley-nervous](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-nervous.svg)
   /// duotone: ![smiley-nervous](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-nervous.svg)
-  static PhosphorIconData smileyNervous(
+  static IconData smileyNervous(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29615,7 +29588,7 @@ class PhosphorIcons {
   /// bold: ![smiley-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-sad.svg)
   /// fill: ![smiley-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-sad.svg)
   /// duotone: ![smiley-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-sad.svg)
-  static PhosphorIconData smileySad(
+  static IconData smileySad(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29639,7 +29612,7 @@ class PhosphorIcons {
   /// bold: ![smiley-sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-sticker.svg)
   /// fill: ![smiley-sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-sticker.svg)
   /// duotone: ![smiley-sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-sticker.svg)
-  static PhosphorIconData smileySticker(
+  static IconData smileySticker(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29663,7 +29636,7 @@ class PhosphorIcons {
   /// bold: ![smiley-wink](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-wink.svg)
   /// fill: ![smiley-wink](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-wink.svg)
   /// duotone: ![smiley-wink](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-wink.svg)
-  static PhosphorIconData smileyWink(
+  static IconData smileyWink(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29687,7 +29660,7 @@ class PhosphorIcons {
   /// bold: ![smiley-x-eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-x-eyes.svg)
   /// fill: ![smiley-x-eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-x-eyes.svg)
   /// duotone: ![smiley-x-eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-x-eyes.svg)
-  static PhosphorIconData smileyXEyes(
+  static IconData smileyXEyes(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29711,7 +29684,7 @@ class PhosphorIcons {
   /// bold: ![snapchat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/snapchat-logo.svg)
   /// fill: ![snapchat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/snapchat-logo.svg)
   /// duotone: ![snapchat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/snapchat-logo.svg)
-  static PhosphorIconData snapchatLogo(
+  static IconData snapchatLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29735,7 +29708,7 @@ class PhosphorIcons {
   /// bold: ![sneaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sneaker.svg)
   /// fill: ![sneaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sneaker.svg)
   /// duotone: ![sneaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sneaker.svg)
-  static PhosphorIconData sneaker(
+  static IconData sneaker(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29759,7 +29732,7 @@ class PhosphorIcons {
   /// bold: ![sneaker-move](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sneaker-move.svg)
   /// fill: ![sneaker-move](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sneaker-move.svg)
   /// duotone: ![sneaker-move](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sneaker-move.svg)
-  static PhosphorIconData sneakerMove(
+  static IconData sneakerMove(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29783,7 +29756,7 @@ class PhosphorIcons {
   /// bold: ![snowflake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/snowflake.svg)
   /// fill: ![snowflake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/snowflake.svg)
   /// duotone: ![snowflake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/snowflake.svg)
-  static PhosphorIconData snowflake(
+  static IconData snowflake(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29807,7 +29780,7 @@ class PhosphorIcons {
   /// bold: ![soccer-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/soccer-ball.svg)
   /// fill: ![soccer-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/soccer-ball.svg)
   /// duotone: ![soccer-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/soccer-ball.svg)
-  static PhosphorIconData soccerBall(
+  static IconData soccerBall(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29831,7 +29804,7 @@ class PhosphorIcons {
   /// bold: ![sock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sock.svg)
   /// fill: ![sock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sock.svg)
   /// duotone: ![sock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sock.svg)
-  static PhosphorIconData sock(
+  static IconData sock(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29855,7 +29828,7 @@ class PhosphorIcons {
   /// bold: ![solar-panel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/solar-panel.svg)
   /// fill: ![solar-panel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/solar-panel.svg)
   /// duotone: ![solar-panel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/solar-panel.svg)
-  static PhosphorIconData solarPanel(
+  static IconData solarPanel(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29879,7 +29852,7 @@ class PhosphorIcons {
   /// bold: ![solar-roof](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/solar-roof.svg)
   /// fill: ![solar-roof](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/solar-roof.svg)
   /// duotone: ![solar-roof](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/solar-roof.svg)
-  static PhosphorIconData solarRoof(
+  static IconData solarRoof(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29903,7 +29876,7 @@ class PhosphorIcons {
   /// bold: ![sort-ascending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sort-ascending.svg)
   /// fill: ![sort-ascending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sort-ascending.svg)
   /// duotone: ![sort-ascending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sort-ascending.svg)
-  static PhosphorIconData sortAscending(
+  static IconData sortAscending(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29927,7 +29900,7 @@ class PhosphorIcons {
   /// bold: ![sort-descending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sort-descending.svg)
   /// fill: ![sort-descending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sort-descending.svg)
   /// duotone: ![sort-descending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sort-descending.svg)
-  static PhosphorIconData sortDescending(
+  static IconData sortDescending(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29951,7 +29924,7 @@ class PhosphorIcons {
   /// bold: ![soundcloud-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/soundcloud-logo.svg)
   /// fill: ![soundcloud-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/soundcloud-logo.svg)
   /// duotone: ![soundcloud-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/soundcloud-logo.svg)
-  static PhosphorIconData soundcloudLogo(
+  static IconData soundcloudLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29975,7 +29948,7 @@ class PhosphorIcons {
   /// bold: ![spade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spade.svg)
   /// fill: ![spade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spade.svg)
   /// duotone: ![spade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spade.svg)
-  static PhosphorIconData spade(
+  static IconData spade(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -29999,7 +29972,7 @@ class PhosphorIcons {
   /// bold: ![sparkle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sparkle.svg)
   /// fill: ![sparkle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sparkle.svg)
   /// duotone: ![sparkle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sparkle.svg)
-  static PhosphorIconData sparkle(
+  static IconData sparkle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30023,7 +29996,7 @@ class PhosphorIcons {
   /// bold: ![speaker-hifi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-hifi.svg)
   /// fill: ![speaker-hifi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-hifi.svg)
   /// duotone: ![speaker-hifi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-hifi.svg)
-  static PhosphorIconData speakerHifi(
+  static IconData speakerHifi(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30047,7 +30020,7 @@ class PhosphorIcons {
   /// bold: ![speaker-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-high.svg)
   /// fill: ![speaker-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-high.svg)
   /// duotone: ![speaker-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-high.svg)
-  static PhosphorIconData speakerHigh(
+  static IconData speakerHigh(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30071,7 +30044,7 @@ class PhosphorIcons {
   /// bold: ![speaker-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-low.svg)
   /// fill: ![speaker-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-low.svg)
   /// duotone: ![speaker-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-low.svg)
-  static PhosphorIconData speakerLow(
+  static IconData speakerLow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30095,7 +30068,7 @@ class PhosphorIcons {
   /// bold: ![speaker-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-none.svg)
   /// fill: ![speaker-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-none.svg)
   /// duotone: ![speaker-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-none.svg)
-  static PhosphorIconData speakerNone(
+  static IconData speakerNone(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30119,7 +30092,7 @@ class PhosphorIcons {
   /// bold: ![speaker-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-high.svg)
   /// fill: ![speaker-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-simple-high.svg)
   /// duotone: ![speaker-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-high.svg)
-  static PhosphorIconData speakerSimpleHigh(
+  static IconData speakerSimpleHigh(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30143,7 +30116,7 @@ class PhosphorIcons {
   /// bold: ![speaker-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-low.svg)
   /// fill: ![speaker-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-simple-low.svg)
   /// duotone: ![speaker-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-low.svg)
-  static PhosphorIconData speakerSimpleLow(
+  static IconData speakerSimpleLow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30167,7 +30140,7 @@ class PhosphorIcons {
   /// bold: ![speaker-simple-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-none.svg)
   /// fill: ![speaker-simple-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-simple-none.svg)
   /// duotone: ![speaker-simple-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-none.svg)
-  static PhosphorIconData speakerSimpleNone(
+  static IconData speakerSimpleNone(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30191,7 +30164,7 @@ class PhosphorIcons {
   /// bold: ![speaker-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-slash.svg)
   /// fill: ![speaker-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-simple-slash.svg)
   /// duotone: ![speaker-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-slash.svg)
-  static PhosphorIconData speakerSimpleSlash(
+  static IconData speakerSimpleSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30215,7 +30188,7 @@ class PhosphorIcons {
   /// bold: ![speaker-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-x.svg)
   /// fill: ![speaker-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-simple-x.svg)
   /// duotone: ![speaker-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-x.svg)
-  static PhosphorIconData speakerSimpleX(
+  static IconData speakerSimpleX(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30239,7 +30212,7 @@ class PhosphorIcons {
   /// bold: ![speaker-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-slash.svg)
   /// fill: ![speaker-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-slash.svg)
   /// duotone: ![speaker-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-slash.svg)
-  static PhosphorIconData speakerSlash(
+  static IconData speakerSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30263,7 +30236,7 @@ class PhosphorIcons {
   /// bold: ![speaker-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-x.svg)
   /// fill: ![speaker-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-x.svg)
   /// duotone: ![speaker-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-x.svg)
-  static PhosphorIconData speakerX(
+  static IconData speakerX(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30287,7 +30260,7 @@ class PhosphorIcons {
   /// bold: ![speedometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speedometer.svg)
   /// fill: ![speedometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speedometer.svg)
   /// duotone: ![speedometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speedometer.svg)
-  static PhosphorIconData speedometer(
+  static IconData speedometer(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30311,7 +30284,7 @@ class PhosphorIcons {
   /// bold: ![sphere](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sphere.svg)
   /// fill: ![sphere](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sphere.svg)
   /// duotone: ![sphere](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sphere.svg)
-  static PhosphorIconData sphere(
+  static IconData sphere(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30335,7 +30308,7 @@ class PhosphorIcons {
   /// bold: ![spinner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spinner.svg)
   /// fill: ![spinner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spinner.svg)
   /// duotone: ![spinner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner.svg)
-  static PhosphorIconData spinner(
+  static IconData spinner(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30359,7 +30332,7 @@ class PhosphorIcons {
   /// bold: ![spinner-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spinner-ball.svg)
   /// fill: ![spinner-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spinner-ball.svg)
   /// duotone: ![spinner-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-ball.svg)
-  static PhosphorIconData spinnerBall(
+  static IconData spinnerBall(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30383,7 +30356,7 @@ class PhosphorIcons {
   /// bold: ![spinner-gap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spinner-gap.svg)
   /// fill: ![spinner-gap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spinner-gap.svg)
   /// duotone: ![spinner-gap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-gap.svg)
-  static PhosphorIconData spinnerGap(
+  static IconData spinnerGap(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30407,7 +30380,7 @@ class PhosphorIcons {
   /// bold: ![spiral](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spiral.svg)
   /// fill: ![spiral](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spiral.svg)
   /// duotone: ![spiral](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spiral.svg)
-  static PhosphorIconData spiral(
+  static IconData spiral(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30431,7 +30404,7 @@ class PhosphorIcons {
   /// bold: ![split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/split-horizontal.svg)
   /// fill: ![split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/split-horizontal.svg)
   /// duotone: ![split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/split-horizontal.svg)
-  static PhosphorIconData splitHorizontal(
+  static IconData splitHorizontal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30455,7 +30428,7 @@ class PhosphorIcons {
   /// bold: ![split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/split-vertical.svg)
   /// fill: ![split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/split-vertical.svg)
   /// duotone: ![split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/split-vertical.svg)
-  static PhosphorIconData splitVertical(
+  static IconData splitVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30479,7 +30452,7 @@ class PhosphorIcons {
   /// bold: ![spotify-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spotify-logo.svg)
   /// fill: ![spotify-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spotify-logo.svg)
   /// duotone: ![spotify-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spotify-logo.svg)
-  static PhosphorIconData spotifyLogo(
+  static IconData spotifyLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30503,7 +30476,7 @@ class PhosphorIcons {
   /// bold: ![spray-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spray-bottle.svg)
   /// fill: ![spray-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spray-bottle.svg)
   /// duotone: ![spray-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spray-bottle.svg)
-  static PhosphorIconData sprayBottle(
+  static IconData sprayBottle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30527,7 +30500,7 @@ class PhosphorIcons {
   /// bold: ![square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square.svg)
   /// fill: ![square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square.svg)
   /// duotone: ![square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square.svg)
-  static PhosphorIconData square(
+  static IconData square(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30551,7 +30524,7 @@ class PhosphorIcons {
   /// bold: ![square-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-half.svg)
   /// fill: ![square-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square-half.svg)
   /// duotone: ![square-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-half.svg)
-  static PhosphorIconData squareHalf(
+  static IconData squareHalf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30575,7 +30548,7 @@ class PhosphorIcons {
   /// bold: ![square-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-half-bottom.svg)
   /// fill: ![square-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square-half-bottom.svg)
   /// duotone: ![square-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-half-bottom.svg)
-  static PhosphorIconData squareHalfBottom(
+  static IconData squareHalfBottom(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30599,7 +30572,7 @@ class PhosphorIcons {
   /// bold: ![square-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-logo.svg)
   /// fill: ![square-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square-logo.svg)
   /// duotone: ![square-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-logo.svg)
-  static PhosphorIconData squareLogo(
+  static IconData squareLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30623,7 +30596,7 @@ class PhosphorIcons {
   /// bold: ![square-split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-split-horizontal.svg)
   /// fill: ![square-split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square-split-horizontal.svg)
   /// duotone: ![square-split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-split-horizontal.svg)
-  static PhosphorIconData squareSplitHorizontal(
+  static IconData squareSplitHorizontal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30647,7 +30620,7 @@ class PhosphorIcons {
   /// bold: ![square-split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-split-vertical.svg)
   /// fill: ![square-split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square-split-vertical.svg)
   /// duotone: ![square-split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-split-vertical.svg)
-  static PhosphorIconData squareSplitVertical(
+  static IconData squareSplitVertical(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30671,7 +30644,7 @@ class PhosphorIcons {
   /// bold: ![squares-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/squares-four.svg)
   /// fill: ![squares-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/squares-four.svg)
   /// duotone: ![squares-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/squares-four.svg)
-  static PhosphorIconData squaresFour(
+  static IconData squaresFour(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30695,7 +30668,7 @@ class PhosphorIcons {
   /// bold: ![stack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack.svg)
   /// fill: ![stack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stack.svg)
   /// duotone: ![stack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack.svg)
-  static PhosphorIconData stack(
+  static IconData stack(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30719,7 +30692,7 @@ class PhosphorIcons {
   /// bold: ![stack-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-minus.svg)
   /// fill: ![stack-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stack-minus.svg)
   /// duotone: ![stack-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-minus.svg)
-  static PhosphorIconData stackMinus(
+  static IconData stackMinus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30743,7 +30716,7 @@ class PhosphorIcons {
   /// bold: ![stack-overflow-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-overflow-logo.svg)
   /// fill: ![stack-overflow-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stack-overflow-logo.svg)
   /// duotone: ![stack-overflow-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-overflow-logo.svg)
-  static PhosphorIconData stackOverflowLogo(
+  static IconData stackOverflowLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30767,7 +30740,7 @@ class PhosphorIcons {
   /// bold: ![stack-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-plus.svg)
   /// fill: ![stack-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stack-plus.svg)
   /// duotone: ![stack-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-plus.svg)
-  static PhosphorIconData stackPlus(
+  static IconData stackPlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30791,7 +30764,7 @@ class PhosphorIcons {
   /// bold: ![stack-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-simple.svg)
   /// fill: ![stack-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stack-simple.svg)
   /// duotone: ![stack-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-simple.svg)
-  static PhosphorIconData stackSimple(
+  static IconData stackSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30815,7 +30788,7 @@ class PhosphorIcons {
   /// bold: ![stairs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stairs.svg)
   /// fill: ![stairs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stairs.svg)
   /// duotone: ![stairs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stairs.svg)
-  static PhosphorIconData stairs(
+  static IconData stairs(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30839,7 +30812,7 @@ class PhosphorIcons {
   /// bold: ![stamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stamp.svg)
   /// fill: ![stamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stamp.svg)
   /// duotone: ![stamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stamp.svg)
-  static PhosphorIconData stamp(
+  static IconData stamp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30863,7 +30836,7 @@ class PhosphorIcons {
   /// bold: ![standard-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/standard-definition.svg)
   /// fill: ![standard-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/standard-definition.svg)
   /// duotone: ![standard-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/standard-definition.svg)
-  static PhosphorIconData standardDefinition(
+  static IconData standardDefinition(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30887,7 +30860,7 @@ class PhosphorIcons {
   /// bold: ![star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star.svg)
   /// fill: ![star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/star.svg)
   /// duotone: ![star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star.svg)
-  static PhosphorIconData star(
+  static IconData star(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30911,7 +30884,7 @@ class PhosphorIcons {
   /// bold: ![star-and-crescent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-and-crescent.svg)
   /// fill: ![star-and-crescent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/star-and-crescent.svg)
   /// duotone: ![star-and-crescent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-and-crescent.svg)
-  static PhosphorIconData starAndCrescent(
+  static IconData starAndCrescent(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30935,7 +30908,7 @@ class PhosphorIcons {
   /// bold: ![star-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-four.svg)
   /// fill: ![star-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/star-four.svg)
   /// duotone: ![star-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-four.svg)
-  static PhosphorIconData starFour(
+  static IconData starFour(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30959,7 +30932,7 @@ class PhosphorIcons {
   /// bold: ![star-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-half.svg)
   /// fill: ![star-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/star-half.svg)
   /// duotone: ![star-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-half.svg)
-  static PhosphorIconData starHalf(
+  static IconData starHalf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -30983,7 +30956,7 @@ class PhosphorIcons {
   /// bold: ![star-of-david](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-of-david.svg)
   /// fill: ![star-of-david](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/star-of-david.svg)
   /// duotone: ![star-of-david](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-of-david.svg)
-  static PhosphorIconData starOfDavid(
+  static IconData starOfDavid(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31007,7 +30980,7 @@ class PhosphorIcons {
   /// bold: ![steam-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/steam-logo.svg)
   /// fill: ![steam-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/steam-logo.svg)
   /// duotone: ![steam-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steam-logo.svg)
-  static PhosphorIconData steamLogo(
+  static IconData steamLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31031,7 +31004,7 @@ class PhosphorIcons {
   /// bold: ![steering-wheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/steering-wheel.svg)
   /// fill: ![steering-wheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/steering-wheel.svg)
   /// duotone: ![steering-wheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steering-wheel.svg)
-  static PhosphorIconData steeringWheel(
+  static IconData steeringWheel(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31055,7 +31028,7 @@ class PhosphorIcons {
   /// bold: ![steps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/steps.svg)
   /// fill: ![steps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/steps.svg)
   /// duotone: ![steps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steps.svg)
-  static PhosphorIconData steps(
+  static IconData steps(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31079,7 +31052,7 @@ class PhosphorIcons {
   /// bold: ![stethoscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stethoscope.svg)
   /// fill: ![stethoscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stethoscope.svg)
   /// duotone: ![stethoscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stethoscope.svg)
-  static PhosphorIconData stethoscope(
+  static IconData stethoscope(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31103,7 +31076,7 @@ class PhosphorIcons {
   /// bold: ![sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sticker.svg)
   /// fill: ![sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sticker.svg)
   /// duotone: ![sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sticker.svg)
-  static PhosphorIconData sticker(
+  static IconData sticker(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31127,7 +31100,7 @@ class PhosphorIcons {
   /// bold: ![stool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stool.svg)
   /// fill: ![stool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stool.svg)
   /// duotone: ![stool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stool.svg)
-  static PhosphorIconData stool(
+  static IconData stool(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31151,7 +31124,7 @@ class PhosphorIcons {
   /// bold: ![stop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stop.svg)
   /// fill: ![stop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stop.svg)
   /// duotone: ![stop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stop.svg)
-  static PhosphorIconData stop(
+  static IconData stop(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31175,7 +31148,7 @@ class PhosphorIcons {
   /// bold: ![stop-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stop-circle.svg)
   /// fill: ![stop-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stop-circle.svg)
   /// duotone: ![stop-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stop-circle.svg)
-  static PhosphorIconData stopCircle(
+  static IconData stopCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31199,7 +31172,7 @@ class PhosphorIcons {
   /// bold: ![storefront](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/storefront.svg)
   /// fill: ![storefront](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/storefront.svg)
   /// duotone: ![storefront](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/storefront.svg)
-  static PhosphorIconData storefront(
+  static IconData storefront(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31223,7 +31196,7 @@ class PhosphorIcons {
   /// bold: ![strategy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/strategy.svg)
   /// fill: ![strategy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/strategy.svg)
   /// duotone: ![strategy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/strategy.svg)
-  static PhosphorIconData strategy(
+  static IconData strategy(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31247,7 +31220,7 @@ class PhosphorIcons {
   /// bold: ![stripe-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stripe-logo.svg)
   /// fill: ![stripe-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stripe-logo.svg)
   /// duotone: ![stripe-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stripe-logo.svg)
-  static PhosphorIconData stripeLogo(
+  static IconData stripeLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31271,7 +31244,7 @@ class PhosphorIcons {
   /// bold: ![student](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/student.svg)
   /// fill: ![student](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/student.svg)
   /// duotone: ![student](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/student.svg)
-  static PhosphorIconData student(
+  static IconData student(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31295,7 +31268,7 @@ class PhosphorIcons {
   /// bold: ![subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subset-of.svg)
   /// fill: ![subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subset-of.svg)
   /// duotone: ![subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subset-of.svg)
-  static PhosphorIconData subsetOf(
+  static IconData subsetOf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31319,7 +31292,7 @@ class PhosphorIcons {
   /// bold: ![subset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subset-proper-of.svg)
   /// fill: ![subset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subset-proper-of.svg)
   /// duotone: ![subset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subset-proper-of.svg)
-  static PhosphorIconData subsetProperOf(
+  static IconData subsetProperOf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31343,7 +31316,7 @@ class PhosphorIcons {
   /// bold: ![subtitles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtitles.svg)
   /// fill: ![subtitles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subtitles.svg)
   /// duotone: ![subtitles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtitles.svg)
-  static PhosphorIconData subtitles(
+  static IconData subtitles(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31367,7 +31340,7 @@ class PhosphorIcons {
   /// bold: ![subtitles-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtitles-slash.svg)
   /// fill: ![subtitles-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subtitles-slash.svg)
   /// duotone: ![subtitles-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtitles-slash.svg)
-  static PhosphorIconData subtitlesSlash(
+  static IconData subtitlesSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31391,7 +31364,7 @@ class PhosphorIcons {
   /// bold: ![subtract](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtract.svg)
   /// fill: ![subtract](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subtract.svg)
   /// duotone: ![subtract](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtract.svg)
-  static PhosphorIconData subtract(
+  static IconData subtract(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31415,7 +31388,7 @@ class PhosphorIcons {
   /// bold: ![subtract-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtract-square.svg)
   /// fill: ![subtract-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subtract-square.svg)
   /// duotone: ![subtract-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtract-square.svg)
-  static PhosphorIconData subtractSquare(
+  static IconData subtractSquare(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31439,7 +31412,7 @@ class PhosphorIcons {
   /// bold: ![subway](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subway.svg)
   /// fill: ![subway](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subway.svg)
   /// duotone: ![subway](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subway.svg)
-  static PhosphorIconData subway(
+  static IconData subway(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31463,7 +31436,7 @@ class PhosphorIcons {
   /// bold: ![suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/suitcase.svg)
   /// fill: ![suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/suitcase.svg)
   /// duotone: ![suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase.svg)
-  static PhosphorIconData suitcase(
+  static IconData suitcase(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31487,7 +31460,7 @@ class PhosphorIcons {
   /// bold: ![suitcase-rolling](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/suitcase-rolling.svg)
   /// fill: ![suitcase-rolling](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/suitcase-rolling.svg)
   /// duotone: ![suitcase-rolling](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-rolling.svg)
-  static PhosphorIconData suitcaseRolling(
+  static IconData suitcaseRolling(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31511,7 +31484,7 @@ class PhosphorIcons {
   /// bold: ![suitcase-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/suitcase-simple.svg)
   /// fill: ![suitcase-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/suitcase-simple.svg)
   /// duotone: ![suitcase-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-simple.svg)
-  static PhosphorIconData suitcaseSimple(
+  static IconData suitcaseSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31535,8 +31508,7 @@ class PhosphorIcons {
   /// bold: ![sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sun.svg)
   /// fill: ![sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sun.svg)
   /// duotone: ![sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun.svg)
-  static PhosphorIconData sun(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData sun([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.sun;
@@ -31559,7 +31531,7 @@ class PhosphorIcons {
   /// bold: ![sun-dim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sun-dim.svg)
   /// fill: ![sun-dim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sun-dim.svg)
   /// duotone: ![sun-dim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-dim.svg)
-  static PhosphorIconData sunDim(
+  static IconData sunDim(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31583,7 +31555,7 @@ class PhosphorIcons {
   /// bold: ![sun-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sun-horizon.svg)
   /// fill: ![sun-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sun-horizon.svg)
   /// duotone: ![sun-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-horizon.svg)
-  static PhosphorIconData sunHorizon(
+  static IconData sunHorizon(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31607,7 +31579,7 @@ class PhosphorIcons {
   /// bold: ![sunglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sunglasses.svg)
   /// fill: ![sunglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sunglasses.svg)
   /// duotone: ![sunglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sunglasses.svg)
-  static PhosphorIconData sunglasses(
+  static IconData sunglasses(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31631,7 +31603,7 @@ class PhosphorIcons {
   /// bold: ![superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/superset-of.svg)
   /// fill: ![superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/superset-of.svg)
   /// duotone: ![superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/superset-of.svg)
-  static PhosphorIconData supersetOf(
+  static IconData supersetOf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31655,7 +31627,7 @@ class PhosphorIcons {
   /// bold: ![superset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/superset-proper-of.svg)
   /// fill: ![superset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/superset-proper-of.svg)
   /// duotone: ![superset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/superset-proper-of.svg)
-  static PhosphorIconData supersetProperOf(
+  static IconData supersetProperOf(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31679,7 +31651,7 @@ class PhosphorIcons {
   /// bold: ![swap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/swap.svg)
   /// fill: ![swap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/swap.svg)
   /// duotone: ![swap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swap.svg)
-  static PhosphorIconData swap(
+  static IconData swap(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31703,7 +31675,7 @@ class PhosphorIcons {
   /// bold: ![swatches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/swatches.svg)
   /// fill: ![swatches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/swatches.svg)
   /// duotone: ![swatches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swatches.svg)
-  static PhosphorIconData swatches(
+  static IconData swatches(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31727,7 +31699,7 @@ class PhosphorIcons {
   /// bold: ![swimming-pool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/swimming-pool.svg)
   /// fill: ![swimming-pool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/swimming-pool.svg)
   /// duotone: ![swimming-pool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swimming-pool.svg)
-  static PhosphorIconData swimmingPool(
+  static IconData swimmingPool(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31751,7 +31723,7 @@ class PhosphorIcons {
   /// bold: ![sword](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sword.svg)
   /// fill: ![sword](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sword.svg)
   /// duotone: ![sword](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sword.svg)
-  static PhosphorIconData sword(
+  static IconData sword(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31775,7 +31747,7 @@ class PhosphorIcons {
   /// bold: ![synagogue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/synagogue.svg)
   /// fill: ![synagogue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/synagogue.svg)
   /// duotone: ![synagogue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/synagogue.svg)
-  static PhosphorIconData synagogue(
+  static IconData synagogue(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31799,7 +31771,7 @@ class PhosphorIcons {
   /// bold: ![syringe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/syringe.svg)
   /// fill: ![syringe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/syringe.svg)
   /// duotone: ![syringe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/syringe.svg)
-  static PhosphorIconData syringe(
+  static IconData syringe(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31823,7 +31795,7 @@ class PhosphorIcons {
   /// bold: ![t-shirt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/t-shirt.svg)
   /// fill: ![t-shirt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/t-shirt.svg)
   /// duotone: ![t-shirt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/t-shirt.svg)
-  static PhosphorIconData tShirt(
+  static IconData tShirt(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31847,7 +31819,7 @@ class PhosphorIcons {
   /// bold: ![table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/table.svg)
   /// fill: ![table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/table.svg)
   /// duotone: ![table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/table.svg)
-  static PhosphorIconData table(
+  static IconData table(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31871,7 +31843,7 @@ class PhosphorIcons {
   /// bold: ![tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tabs.svg)
   /// fill: ![tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tabs.svg)
   /// duotone: ![tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tabs.svg)
-  static PhosphorIconData tabs(
+  static IconData tabs(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31895,8 +31867,7 @@ class PhosphorIcons {
   /// bold: ![tag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tag.svg)
   /// fill: ![tag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tag.svg)
   /// duotone: ![tag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag.svg)
-  static PhosphorIconData tag(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData tag([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.tag;
@@ -31919,7 +31890,7 @@ class PhosphorIcons {
   /// bold: ![tag-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tag-chevron.svg)
   /// fill: ![tag-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tag-chevron.svg)
   /// duotone: ![tag-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-chevron.svg)
-  static PhosphorIconData tagChevron(
+  static IconData tagChevron(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31943,7 +31914,7 @@ class PhosphorIcons {
   /// bold: ![tag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tag-simple.svg)
   /// fill: ![tag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tag-simple.svg)
   /// duotone: ![tag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-simple.svg)
-  static PhosphorIconData tagSimple(
+  static IconData tagSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31967,7 +31938,7 @@ class PhosphorIcons {
   /// bold: ![target](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/target.svg)
   /// fill: ![target](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/target.svg)
   /// duotone: ![target](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/target.svg)
-  static PhosphorIconData target(
+  static IconData target(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -31991,7 +31962,7 @@ class PhosphorIcons {
   /// bold: ![taxi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/taxi.svg)
   /// fill: ![taxi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/taxi.svg)
   /// duotone: ![taxi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/taxi.svg)
-  static PhosphorIconData taxi(
+  static IconData taxi(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32015,7 +31986,7 @@ class PhosphorIcons {
   /// bold: ![tea-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tea-bag.svg)
   /// fill: ![tea-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tea-bag.svg)
   /// duotone: ![tea-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tea-bag.svg)
-  static PhosphorIconData teaBag(
+  static IconData teaBag(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32039,7 +32010,7 @@ class PhosphorIcons {
   /// bold: ![telegram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/telegram-logo.svg)
   /// fill: ![telegram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/telegram-logo.svg)
   /// duotone: ![telegram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/telegram-logo.svg)
-  static PhosphorIconData telegramLogo(
+  static IconData telegramLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32063,7 +32034,7 @@ class PhosphorIcons {
   /// bold: ![television](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/television.svg)
   /// fill: ![television](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/television.svg)
   /// duotone: ![television](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/television.svg)
-  static PhosphorIconData television(
+  static IconData television(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32087,7 +32058,7 @@ class PhosphorIcons {
   /// bold: ![television-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/television-simple.svg)
   /// fill: ![television-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/television-simple.svg)
   /// duotone: ![television-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/television-simple.svg)
-  static PhosphorIconData televisionSimple(
+  static IconData televisionSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32111,7 +32082,7 @@ class PhosphorIcons {
   /// bold: ![tennis-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tennis-ball.svg)
   /// fill: ![tennis-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tennis-ball.svg)
   /// duotone: ![tennis-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tennis-ball.svg)
-  static PhosphorIconData tennisBall(
+  static IconData tennisBall(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32135,7 +32106,7 @@ class PhosphorIcons {
   /// bold: ![tent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tent.svg)
   /// fill: ![tent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tent.svg)
   /// duotone: ![tent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tent.svg)
-  static PhosphorIconData tent(
+  static IconData tent(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32159,7 +32130,7 @@ class PhosphorIcons {
   /// bold: ![terminal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/terminal.svg)
   /// fill: ![terminal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/terminal.svg)
   /// duotone: ![terminal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/terminal.svg)
-  static PhosphorIconData terminal(
+  static IconData terminal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32183,7 +32154,7 @@ class PhosphorIcons {
   /// bold: ![terminal-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/terminal-window.svg)
   /// fill: ![terminal-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/terminal-window.svg)
   /// duotone: ![terminal-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/terminal-window.svg)
-  static PhosphorIconData terminalWindow(
+  static IconData terminalWindow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32207,7 +32178,7 @@ class PhosphorIcons {
   /// bold: ![test-tube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/test-tube.svg)
   /// fill: ![test-tube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/test-tube.svg)
   /// duotone: ![test-tube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/test-tube.svg)
-  static PhosphorIconData testTube(
+  static IconData testTube(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32231,7 +32202,7 @@ class PhosphorIcons {
   /// bold: ![text-a-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-a-underline.svg)
   /// fill: ![text-a-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-a-underline.svg)
   /// duotone: ![text-a-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-a-underline.svg)
-  static PhosphorIconData textAUnderline(
+  static IconData textAUnderline(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32255,7 +32226,7 @@ class PhosphorIcons {
   /// bold: ![text-aa](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-aa.svg)
   /// fill: ![text-aa](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-aa.svg)
   /// duotone: ![text-aa](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-aa.svg)
-  static PhosphorIconData textAa(
+  static IconData textAa(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32279,7 +32250,7 @@ class PhosphorIcons {
   /// bold: ![text-align-center](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-center.svg)
   /// fill: ![text-align-center](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-align-center.svg)
   /// duotone: ![text-align-center](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-center.svg)
-  static PhosphorIconData textAlignCenter(
+  static IconData textAlignCenter(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32303,7 +32274,7 @@ class PhosphorIcons {
   /// bold: ![text-align-justify](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-justify.svg)
   /// fill: ![text-align-justify](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-align-justify.svg)
   /// duotone: ![text-align-justify](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-justify.svg)
-  static PhosphorIconData textAlignJustify(
+  static IconData textAlignJustify(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32327,7 +32298,7 @@ class PhosphorIcons {
   /// bold: ![text-align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-left.svg)
   /// fill: ![text-align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-align-left.svg)
   /// duotone: ![text-align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-left.svg)
-  static PhosphorIconData textAlignLeft(
+  static IconData textAlignLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32351,7 +32322,7 @@ class PhosphorIcons {
   /// bold: ![text-align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-right.svg)
   /// fill: ![text-align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-align-right.svg)
   /// duotone: ![text-align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-right.svg)
-  static PhosphorIconData textAlignRight(
+  static IconData textAlignRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32375,7 +32346,7 @@ class PhosphorIcons {
   /// bold: ![text-b](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-b.svg)
   /// fill: ![text-b](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-b.svg)
   /// duotone: ![text-b](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-b.svg)
-  static PhosphorIconData textB(
+  static IconData textB(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32399,7 +32370,7 @@ class PhosphorIcons {
   /// bold: ![text-columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-columns.svg)
   /// fill: ![text-columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-columns.svg)
   /// duotone: ![text-columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-columns.svg)
-  static PhosphorIconData textColumns(
+  static IconData textColumns(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32423,7 +32394,7 @@ class PhosphorIcons {
   /// bold: ![text-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h.svg)
   /// fill: ![text-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h.svg)
   /// duotone: ![text-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h.svg)
-  static PhosphorIconData textH(
+  static IconData textH(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32447,7 +32418,7 @@ class PhosphorIcons {
   /// bold: ![text-h-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-five.svg)
   /// fill: ![text-h-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-five.svg)
   /// duotone: ![text-h-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-five.svg)
-  static PhosphorIconData textHFive(
+  static IconData textHFive(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32471,7 +32442,7 @@ class PhosphorIcons {
   /// bold: ![text-h-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-four.svg)
   /// fill: ![text-h-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-four.svg)
   /// duotone: ![text-h-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-four.svg)
-  static PhosphorIconData textHFour(
+  static IconData textHFour(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32495,7 +32466,7 @@ class PhosphorIcons {
   /// bold: ![text-h-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-one.svg)
   /// fill: ![text-h-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-one.svg)
   /// duotone: ![text-h-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-one.svg)
-  static PhosphorIconData textHOne(
+  static IconData textHOne(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32519,7 +32490,7 @@ class PhosphorIcons {
   /// bold: ![text-h-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-six.svg)
   /// fill: ![text-h-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-six.svg)
   /// duotone: ![text-h-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-six.svg)
-  static PhosphorIconData textHSix(
+  static IconData textHSix(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32543,7 +32514,7 @@ class PhosphorIcons {
   /// bold: ![text-h-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-three.svg)
   /// fill: ![text-h-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-three.svg)
   /// duotone: ![text-h-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-three.svg)
-  static PhosphorIconData textHThree(
+  static IconData textHThree(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32567,7 +32538,7 @@ class PhosphorIcons {
   /// bold: ![text-h-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-two.svg)
   /// fill: ![text-h-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-two.svg)
   /// duotone: ![text-h-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-two.svg)
-  static PhosphorIconData textHTwo(
+  static IconData textHTwo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32591,7 +32562,7 @@ class PhosphorIcons {
   /// bold: ![text-indent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-indent.svg)
   /// fill: ![text-indent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-indent.svg)
   /// duotone: ![text-indent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-indent.svg)
-  static PhosphorIconData textIndent(
+  static IconData textIndent(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32615,7 +32586,7 @@ class PhosphorIcons {
   /// bold: ![text-italic](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-italic.svg)
   /// fill: ![text-italic](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-italic.svg)
   /// duotone: ![text-italic](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-italic.svg)
-  static PhosphorIconData textItalic(
+  static IconData textItalic(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32639,7 +32610,7 @@ class PhosphorIcons {
   /// bold: ![text-outdent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-outdent.svg)
   /// fill: ![text-outdent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-outdent.svg)
   /// duotone: ![text-outdent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-outdent.svg)
-  static PhosphorIconData textOutdent(
+  static IconData textOutdent(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32663,7 +32634,7 @@ class PhosphorIcons {
   /// bold: ![text-strikethrough](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-strikethrough.svg)
   /// fill: ![text-strikethrough](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-strikethrough.svg)
   /// duotone: ![text-strikethrough](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-strikethrough.svg)
-  static PhosphorIconData textStrikethrough(
+  static IconData textStrikethrough(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32687,7 +32658,7 @@ class PhosphorIcons {
   /// bold: ![text-subscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-subscript.svg)
   /// fill: ![text-subscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-subscript.svg)
   /// duotone: ![text-subscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-subscript.svg)
-  static PhosphorIconData textSubscript(
+  static IconData textSubscript(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32711,7 +32682,7 @@ class PhosphorIcons {
   /// bold: ![text-superscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-superscript.svg)
   /// fill: ![text-superscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-superscript.svg)
   /// duotone: ![text-superscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-superscript.svg)
-  static PhosphorIconData textSuperscript(
+  static IconData textSuperscript(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32735,7 +32706,7 @@ class PhosphorIcons {
   /// bold: ![text-t](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-t.svg)
   /// fill: ![text-t](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-t.svg)
   /// duotone: ![text-t](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-t.svg)
-  static PhosphorIconData textT(
+  static IconData textT(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32759,7 +32730,7 @@ class PhosphorIcons {
   /// bold: ![text-t-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-t-slash.svg)
   /// fill: ![text-t-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-t-slash.svg)
   /// duotone: ![text-t-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-t-slash.svg)
-  static PhosphorIconData textTSlash(
+  static IconData textTSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32783,7 +32754,7 @@ class PhosphorIcons {
   /// bold: ![text-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-underline.svg)
   /// fill: ![text-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-underline.svg)
   /// duotone: ![text-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-underline.svg)
-  static PhosphorIconData textUnderline(
+  static IconData textUnderline(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32807,7 +32778,7 @@ class PhosphorIcons {
   /// bold: ![textbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/textbox.svg)
   /// fill: ![textbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/textbox.svg)
   /// duotone: ![textbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/textbox.svg)
-  static PhosphorIconData textbox(
+  static IconData textbox(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32831,7 +32802,7 @@ class PhosphorIcons {
   /// bold: ![thermometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer.svg)
   /// fill: ![thermometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thermometer.svg)
   /// duotone: ![thermometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer.svg)
-  static PhosphorIconData thermometer(
+  static IconData thermometer(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32855,7 +32826,7 @@ class PhosphorIcons {
   /// bold: ![thermometer-cold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer-cold.svg)
   /// fill: ![thermometer-cold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thermometer-cold.svg)
   /// duotone: ![thermometer-cold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-cold.svg)
-  static PhosphorIconData thermometerCold(
+  static IconData thermometerCold(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32879,7 +32850,7 @@ class PhosphorIcons {
   /// bold: ![thermometer-hot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer-hot.svg)
   /// fill: ![thermometer-hot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thermometer-hot.svg)
   /// duotone: ![thermometer-hot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-hot.svg)
-  static PhosphorIconData thermometerHot(
+  static IconData thermometerHot(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32903,7 +32874,7 @@ class PhosphorIcons {
   /// bold: ![thermometer-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer-simple.svg)
   /// fill: ![thermometer-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thermometer-simple.svg)
   /// duotone: ![thermometer-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-simple.svg)
-  static PhosphorIconData thermometerSimple(
+  static IconData thermometerSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32927,7 +32898,7 @@ class PhosphorIcons {
   /// bold: ![threads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/threads-logo.svg)
   /// fill: ![threads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/threads-logo.svg)
   /// duotone: ![threads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/threads-logo.svg)
-  static PhosphorIconData threadsLogo(
+  static IconData threadsLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32951,7 +32922,7 @@ class PhosphorIcons {
   /// bold: ![three-d](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/three-d.svg)
   /// fill: ![three-d](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/three-d.svg)
   /// duotone: ![three-d](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/three-d.svg)
-  static PhosphorIconData threeD(
+  static IconData threeD(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32975,7 +32946,7 @@ class PhosphorIcons {
   /// bold: ![thumbs-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thumbs-down.svg)
   /// fill: ![thumbs-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thumbs-down.svg)
   /// duotone: ![thumbs-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thumbs-down.svg)
-  static PhosphorIconData thumbsDown(
+  static IconData thumbsDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -32999,7 +32970,7 @@ class PhosphorIcons {
   /// bold: ![thumbs-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thumbs-up.svg)
   /// fill: ![thumbs-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thumbs-up.svg)
   /// duotone: ![thumbs-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thumbs-up.svg)
-  static PhosphorIconData thumbsUp(
+  static IconData thumbsUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33023,7 +32994,7 @@ class PhosphorIcons {
   /// bold: ![ticket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ticket.svg)
   /// fill: ![ticket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ticket.svg)
   /// duotone: ![ticket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ticket.svg)
-  static PhosphorIconData ticket(
+  static IconData ticket(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33047,7 +33018,7 @@ class PhosphorIcons {
   /// bold: ![tidal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tidal-logo.svg)
   /// fill: ![tidal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tidal-logo.svg)
   /// duotone: ![tidal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tidal-logo.svg)
-  static PhosphorIconData tidalLogo(
+  static IconData tidalLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33071,7 +33042,7 @@ class PhosphorIcons {
   /// bold: ![tiktok-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tiktok-logo.svg)
   /// fill: ![tiktok-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tiktok-logo.svg)
   /// duotone: ![tiktok-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tiktok-logo.svg)
-  static PhosphorIconData tiktokLogo(
+  static IconData tiktokLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33095,7 +33066,7 @@ class PhosphorIcons {
   /// bold: ![tilde](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tilde.svg)
   /// fill: ![tilde](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tilde.svg)
   /// duotone: ![tilde](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tilde.svg)
-  static PhosphorIconData tilde(
+  static IconData tilde(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33119,7 +33090,7 @@ class PhosphorIcons {
   /// bold: ![timer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/timer.svg)
   /// fill: ![timer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/timer.svg)
   /// duotone: ![timer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/timer.svg)
-  static PhosphorIconData timer(
+  static IconData timer(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33143,7 +33114,7 @@ class PhosphorIcons {
   /// bold: ![tip-jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tip-jar.svg)
   /// fill: ![tip-jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tip-jar.svg)
   /// duotone: ![tip-jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tip-jar.svg)
-  static PhosphorIconData tipJar(
+  static IconData tipJar(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33167,7 +33138,7 @@ class PhosphorIcons {
   /// bold: ![tipi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tipi.svg)
   /// fill: ![tipi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tipi.svg)
   /// duotone: ![tipi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tipi.svg)
-  static PhosphorIconData tipi(
+  static IconData tipi(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33191,7 +33162,7 @@ class PhosphorIcons {
   /// bold: ![tire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tire.svg)
   /// fill: ![tire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tire.svg)
   /// duotone: ![tire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tire.svg)
-  static PhosphorIconData tire(
+  static IconData tire(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33215,7 +33186,7 @@ class PhosphorIcons {
   /// bold: ![toggle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toggle-left.svg)
   /// fill: ![toggle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/toggle-left.svg)
   /// duotone: ![toggle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toggle-left.svg)
-  static PhosphorIconData toggleLeft(
+  static IconData toggleLeft(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33239,7 +33210,7 @@ class PhosphorIcons {
   /// bold: ![toggle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toggle-right.svg)
   /// fill: ![toggle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/toggle-right.svg)
   /// duotone: ![toggle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toggle-right.svg)
-  static PhosphorIconData toggleRight(
+  static IconData toggleRight(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33263,7 +33234,7 @@ class PhosphorIcons {
   /// bold: ![toilet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toilet.svg)
   /// fill: ![toilet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/toilet.svg)
   /// duotone: ![toilet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toilet.svg)
-  static PhosphorIconData toilet(
+  static IconData toilet(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33287,7 +33258,7 @@ class PhosphorIcons {
   /// bold: ![toilet-paper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toilet-paper.svg)
   /// fill: ![toilet-paper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/toilet-paper.svg)
   /// duotone: ![toilet-paper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toilet-paper.svg)
-  static PhosphorIconData toiletPaper(
+  static IconData toiletPaper(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33311,7 +33282,7 @@ class PhosphorIcons {
   /// bold: ![toolbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toolbox.svg)
   /// fill: ![toolbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/toolbox.svg)
   /// duotone: ![toolbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toolbox.svg)
-  static PhosphorIconData toolbox(
+  static IconData toolbox(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33335,7 +33306,7 @@ class PhosphorIcons {
   /// bold: ![tooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tooth.svg)
   /// fill: ![tooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tooth.svg)
   /// duotone: ![tooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tooth.svg)
-  static PhosphorIconData tooth(
+  static IconData tooth(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33359,7 +33330,7 @@ class PhosphorIcons {
   /// bold: ![tornado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tornado.svg)
   /// fill: ![tornado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tornado.svg)
   /// duotone: ![tornado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tornado.svg)
-  static PhosphorIconData tornado(
+  static IconData tornado(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33383,7 +33354,7 @@ class PhosphorIcons {
   /// bold: ![tote](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tote.svg)
   /// fill: ![tote](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tote.svg)
   /// duotone: ![tote](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tote.svg)
-  static PhosphorIconData tote(
+  static IconData tote(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33407,7 +33378,7 @@ class PhosphorIcons {
   /// bold: ![tote-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tote-simple.svg)
   /// fill: ![tote-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tote-simple.svg)
   /// duotone: ![tote-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tote-simple.svg)
-  static PhosphorIconData toteSimple(
+  static IconData toteSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33431,7 +33402,7 @@ class PhosphorIcons {
   /// bold: ![towel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/towel.svg)
   /// fill: ![towel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/towel.svg)
   /// duotone: ![towel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/towel.svg)
-  static PhosphorIconData towel(
+  static IconData towel(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33455,7 +33426,7 @@ class PhosphorIcons {
   /// bold: ![tractor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tractor.svg)
   /// fill: ![tractor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tractor.svg)
   /// duotone: ![tractor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tractor.svg)
-  static PhosphorIconData tractor(
+  static IconData tractor(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33479,7 +33450,7 @@ class PhosphorIcons {
   /// bold: ![trademark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trademark.svg)
   /// fill: ![trademark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trademark.svg)
   /// duotone: ![trademark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trademark.svg)
-  static PhosphorIconData trademark(
+  static IconData trademark(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33503,7 +33474,7 @@ class PhosphorIcons {
   /// bold: ![trademark-registered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trademark-registered.svg)
   /// fill: ![trademark-registered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trademark-registered.svg)
   /// duotone: ![trademark-registered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trademark-registered.svg)
-  static PhosphorIconData trademarkRegistered(
+  static IconData trademarkRegistered(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33527,7 +33498,7 @@ class PhosphorIcons {
   /// bold: ![traffic-cone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/traffic-cone.svg)
   /// fill: ![traffic-cone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/traffic-cone.svg)
   /// duotone: ![traffic-cone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-cone.svg)
-  static PhosphorIconData trafficCone(
+  static IconData trafficCone(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33551,7 +33522,7 @@ class PhosphorIcons {
   /// bold: ![traffic-sign](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/traffic-sign.svg)
   /// fill: ![traffic-sign](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/traffic-sign.svg)
   /// duotone: ![traffic-sign](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-sign.svg)
-  static PhosphorIconData trafficSign(
+  static IconData trafficSign(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33575,7 +33546,7 @@ class PhosphorIcons {
   /// bold: ![traffic-signal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/traffic-signal.svg)
   /// fill: ![traffic-signal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/traffic-signal.svg)
   /// duotone: ![traffic-signal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-signal.svg)
-  static PhosphorIconData trafficSignal(
+  static IconData trafficSignal(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33599,7 +33570,7 @@ class PhosphorIcons {
   /// bold: ![train](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/train.svg)
   /// fill: ![train](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/train.svg)
   /// duotone: ![train](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train.svg)
-  static PhosphorIconData train(
+  static IconData train(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33623,7 +33594,7 @@ class PhosphorIcons {
   /// bold: ![train-regional](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/train-regional.svg)
   /// fill: ![train-regional](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/train-regional.svg)
   /// duotone: ![train-regional](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-regional.svg)
-  static PhosphorIconData trainRegional(
+  static IconData trainRegional(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33647,7 +33618,7 @@ class PhosphorIcons {
   /// bold: ![train-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/train-simple.svg)
   /// fill: ![train-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/train-simple.svg)
   /// duotone: ![train-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-simple.svg)
-  static PhosphorIconData trainSimple(
+  static IconData trainSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33671,7 +33642,7 @@ class PhosphorIcons {
   /// bold: ![tram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tram.svg)
   /// fill: ![tram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tram.svg)
   /// duotone: ![tram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tram.svg)
-  static PhosphorIconData tram(
+  static IconData tram(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33695,7 +33666,7 @@ class PhosphorIcons {
   /// bold: ![translate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/translate.svg)
   /// fill: ![translate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/translate.svg)
   /// duotone: ![translate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/translate.svg)
-  static PhosphorIconData translate(
+  static IconData translate(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33719,7 +33690,7 @@ class PhosphorIcons {
   /// bold: ![trash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trash.svg)
   /// fill: ![trash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trash.svg)
   /// duotone: ![trash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trash.svg)
-  static PhosphorIconData trash(
+  static IconData trash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33743,7 +33714,7 @@ class PhosphorIcons {
   /// bold: ![trash-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trash-simple.svg)
   /// fill: ![trash-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trash-simple.svg)
   /// duotone: ![trash-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trash-simple.svg)
-  static PhosphorIconData trashSimple(
+  static IconData trashSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33767,7 +33738,7 @@ class PhosphorIcons {
   /// bold: ![tray](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tray.svg)
   /// fill: ![tray](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tray.svg)
   /// duotone: ![tray](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray.svg)
-  static PhosphorIconData tray(
+  static IconData tray(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33791,7 +33762,7 @@ class PhosphorIcons {
   /// bold: ![tray-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tray-arrow-down.svg)
   /// fill: ![tray-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tray-arrow-down.svg)
   /// duotone: ![tray-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-arrow-down.svg)
-  static PhosphorIconData trayArrowDown(
+  static IconData trayArrowDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33815,7 +33786,7 @@ class PhosphorIcons {
   /// bold: ![tray-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tray-arrow-up.svg)
   /// fill: ![tray-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tray-arrow-up.svg)
   /// duotone: ![tray-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-arrow-up.svg)
-  static PhosphorIconData trayArrowUp(
+  static IconData trayArrowUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33839,7 +33810,7 @@ class PhosphorIcons {
   /// bold: ![treasure-chest](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/treasure-chest.svg)
   /// fill: ![treasure-chest](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/treasure-chest.svg)
   /// duotone: ![treasure-chest](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/treasure-chest.svg)
-  static PhosphorIconData treasureChest(
+  static IconData treasureChest(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33863,7 +33834,7 @@ class PhosphorIcons {
   /// bold: ![tree](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree.svg)
   /// fill: ![tree](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tree.svg)
   /// duotone: ![tree](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree.svg)
-  static PhosphorIconData tree(
+  static IconData tree(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33887,7 +33858,7 @@ class PhosphorIcons {
   /// bold: ![tree-evergreen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-evergreen.svg)
   /// fill: ![tree-evergreen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tree-evergreen.svg)
   /// duotone: ![tree-evergreen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-evergreen.svg)
-  static PhosphorIconData treeEvergreen(
+  static IconData treeEvergreen(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33911,7 +33882,7 @@ class PhosphorIcons {
   /// bold: ![tree-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-palm.svg)
   /// fill: ![tree-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tree-palm.svg)
   /// duotone: ![tree-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-palm.svg)
-  static PhosphorIconData treePalm(
+  static IconData treePalm(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33935,7 +33906,7 @@ class PhosphorIcons {
   /// bold: ![tree-structure](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-structure.svg)
   /// fill: ![tree-structure](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tree-structure.svg)
   /// duotone: ![tree-structure](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-structure.svg)
-  static PhosphorIconData treeStructure(
+  static IconData treeStructure(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33959,7 +33930,7 @@ class PhosphorIcons {
   /// bold: ![tree-view](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-view.svg)
   /// fill: ![tree-view](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tree-view.svg)
   /// duotone: ![tree-view](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-view.svg)
-  static PhosphorIconData treeView(
+  static IconData treeView(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -33983,7 +33954,7 @@ class PhosphorIcons {
   /// bold: ![trend-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trend-down.svg)
   /// fill: ![trend-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trend-down.svg)
   /// duotone: ![trend-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trend-down.svg)
-  static PhosphorIconData trendDown(
+  static IconData trendDown(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34007,7 +33978,7 @@ class PhosphorIcons {
   /// bold: ![trend-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trend-up.svg)
   /// fill: ![trend-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trend-up.svg)
   /// duotone: ![trend-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trend-up.svg)
-  static PhosphorIconData trendUp(
+  static IconData trendUp(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34031,7 +34002,7 @@ class PhosphorIcons {
   /// bold: ![triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/triangle.svg)
   /// fill: ![triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/triangle.svg)
   /// duotone: ![triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/triangle.svg)
-  static PhosphorIconData triangle(
+  static IconData triangle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34055,7 +34026,7 @@ class PhosphorIcons {
   /// bold: ![triangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/triangle-dashed.svg)
   /// fill: ![triangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/triangle-dashed.svg)
   /// duotone: ![triangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/triangle-dashed.svg)
-  static PhosphorIconData triangleDashed(
+  static IconData triangleDashed(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34079,7 +34050,7 @@ class PhosphorIcons {
   /// bold: ![trolley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trolley.svg)
   /// fill: ![trolley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trolley.svg)
   /// duotone: ![trolley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trolley.svg)
-  static PhosphorIconData trolley(
+  static IconData trolley(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34103,7 +34074,7 @@ class PhosphorIcons {
   /// bold: ![trolley-suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trolley-suitcase.svg)
   /// fill: ![trolley-suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trolley-suitcase.svg)
   /// duotone: ![trolley-suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trolley-suitcase.svg)
-  static PhosphorIconData trolleySuitcase(
+  static IconData trolleySuitcase(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34127,7 +34098,7 @@ class PhosphorIcons {
   /// bold: ![trophy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trophy.svg)
   /// fill: ![trophy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trophy.svg)
   /// duotone: ![trophy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trophy.svg)
-  static PhosphorIconData trophy(
+  static IconData trophy(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34151,7 +34122,7 @@ class PhosphorIcons {
   /// bold: ![truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/truck.svg)
   /// fill: ![truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/truck.svg)
   /// duotone: ![truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/truck.svg)
-  static PhosphorIconData truck(
+  static IconData truck(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34175,7 +34146,7 @@ class PhosphorIcons {
   /// bold: ![truck-trailer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/truck-trailer.svg)
   /// fill: ![truck-trailer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/truck-trailer.svg)
   /// duotone: ![truck-trailer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/truck-trailer.svg)
-  static PhosphorIconData truckTrailer(
+  static IconData truckTrailer(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34199,7 +34170,7 @@ class PhosphorIcons {
   /// bold: ![tumblr-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tumblr-logo.svg)
   /// fill: ![tumblr-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tumblr-logo.svg)
   /// duotone: ![tumblr-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tumblr-logo.svg)
-  static PhosphorIconData tumblrLogo(
+  static IconData tumblrLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34223,7 +34194,7 @@ class PhosphorIcons {
   /// bold: ![twitch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/twitch-logo.svg)
   /// fill: ![twitch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/twitch-logo.svg)
   /// duotone: ![twitch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/twitch-logo.svg)
-  static PhosphorIconData twitchLogo(
+  static IconData twitchLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34247,7 +34218,7 @@ class PhosphorIcons {
   /// bold: ![twitter-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/twitter-logo.svg)
   /// fill: ![twitter-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/twitter-logo.svg)
   /// duotone: ![twitter-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/twitter-logo.svg)
-  static PhosphorIconData twitterLogo(
+  static IconData twitterLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34271,7 +34242,7 @@ class PhosphorIcons {
   /// bold: ![umbrella](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/umbrella.svg)
   /// fill: ![umbrella](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/umbrella.svg)
   /// duotone: ![umbrella](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/umbrella.svg)
-  static PhosphorIconData umbrella(
+  static IconData umbrella(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34295,7 +34266,7 @@ class PhosphorIcons {
   /// bold: ![umbrella-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/umbrella-simple.svg)
   /// fill: ![umbrella-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/umbrella-simple.svg)
   /// duotone: ![umbrella-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/umbrella-simple.svg)
-  static PhosphorIconData umbrellaSimple(
+  static IconData umbrellaSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34319,7 +34290,7 @@ class PhosphorIcons {
   /// bold: ![union](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/union.svg)
   /// fill: ![union](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/union.svg)
   /// duotone: ![union](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/union.svg)
-  static PhosphorIconData union(
+  static IconData union(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34343,7 +34314,7 @@ class PhosphorIcons {
   /// bold: ![unite](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/unite.svg)
   /// fill: ![unite](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/unite.svg)
   /// duotone: ![unite](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/unite.svg)
-  static PhosphorIconData unite(
+  static IconData unite(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34367,7 +34338,7 @@ class PhosphorIcons {
   /// bold: ![unite-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/unite-square.svg)
   /// fill: ![unite-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/unite-square.svg)
   /// duotone: ![unite-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/unite-square.svg)
-  static PhosphorIconData uniteSquare(
+  static IconData uniteSquare(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34391,7 +34362,7 @@ class PhosphorIcons {
   /// bold: ![upload](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/upload.svg)
   /// fill: ![upload](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/upload.svg)
   /// duotone: ![upload](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/upload.svg)
-  static PhosphorIconData upload(
+  static IconData upload(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34415,7 +34386,7 @@ class PhosphorIcons {
   /// bold: ![upload-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/upload-simple.svg)
   /// fill: ![upload-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/upload-simple.svg)
   /// duotone: ![upload-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/upload-simple.svg)
-  static PhosphorIconData uploadSimple(
+  static IconData uploadSimple(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34439,8 +34410,7 @@ class PhosphorIcons {
   /// bold: ![usb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/usb.svg)
   /// fill: ![usb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/usb.svg)
   /// duotone: ![usb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/usb.svg)
-  static PhosphorIconData usb(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData usb([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.usb;
@@ -34463,7 +34433,7 @@ class PhosphorIcons {
   /// bold: ![user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user.svg)
   /// fill: ![user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user.svg)
   /// duotone: ![user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user.svg)
-  static PhosphorIconData user(
+  static IconData user(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34487,7 +34457,7 @@ class PhosphorIcons {
   /// bold: ![user-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-check.svg)
   /// fill: ![user-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-check.svg)
   /// duotone: ![user-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-check.svg)
-  static PhosphorIconData userCheck(
+  static IconData userCheck(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34511,7 +34481,7 @@ class PhosphorIcons {
   /// bold: ![user-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle.svg)
   /// fill: ![user-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle.svg)
   /// duotone: ![user-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle.svg)
-  static PhosphorIconData userCircle(
+  static IconData userCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34535,7 +34505,7 @@ class PhosphorIcons {
   /// bold: ![user-circle-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-check.svg)
   /// fill: ![user-circle-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle-check.svg)
   /// duotone: ![user-circle-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-check.svg)
-  static PhosphorIconData userCircleCheck(
+  static IconData userCircleCheck(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34559,7 +34529,7 @@ class PhosphorIcons {
   /// bold: ![user-circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-dashed.svg)
   /// fill: ![user-circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle-dashed.svg)
   /// duotone: ![user-circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-dashed.svg)
-  static PhosphorIconData userCircleDashed(
+  static IconData userCircleDashed(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34583,7 +34553,7 @@ class PhosphorIcons {
   /// bold: ![user-circle-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-gear.svg)
   /// fill: ![user-circle-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle-gear.svg)
   /// duotone: ![user-circle-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-gear.svg)
-  static PhosphorIconData userCircleGear(
+  static IconData userCircleGear(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34607,7 +34577,7 @@ class PhosphorIcons {
   /// bold: ![user-circle-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-minus.svg)
   /// fill: ![user-circle-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle-minus.svg)
   /// duotone: ![user-circle-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-minus.svg)
-  static PhosphorIconData userCircleMinus(
+  static IconData userCircleMinus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34631,7 +34601,7 @@ class PhosphorIcons {
   /// bold: ![user-circle-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-plus.svg)
   /// fill: ![user-circle-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle-plus.svg)
   /// duotone: ![user-circle-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-plus.svg)
-  static PhosphorIconData userCirclePlus(
+  static IconData userCirclePlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34655,7 +34625,7 @@ class PhosphorIcons {
   /// bold: ![user-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-focus.svg)
   /// fill: ![user-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-focus.svg)
   /// duotone: ![user-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-focus.svg)
-  static PhosphorIconData userFocus(
+  static IconData userFocus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34679,7 +34649,7 @@ class PhosphorIcons {
   /// bold: ![user-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-gear.svg)
   /// fill: ![user-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-gear.svg)
   /// duotone: ![user-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-gear.svg)
-  static PhosphorIconData userGear(
+  static IconData userGear(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34703,7 +34673,7 @@ class PhosphorIcons {
   /// bold: ![user-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-list.svg)
   /// fill: ![user-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-list.svg)
   /// duotone: ![user-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-list.svg)
-  static PhosphorIconData userList(
+  static IconData userList(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34727,7 +34697,7 @@ class PhosphorIcons {
   /// bold: ![user-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-minus.svg)
   /// fill: ![user-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-minus.svg)
   /// duotone: ![user-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-minus.svg)
-  static PhosphorIconData userMinus(
+  static IconData userMinus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34751,7 +34721,7 @@ class PhosphorIcons {
   /// bold: ![user-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-plus.svg)
   /// fill: ![user-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-plus.svg)
   /// duotone: ![user-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-plus.svg)
-  static PhosphorIconData userPlus(
+  static IconData userPlus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34775,7 +34745,7 @@ class PhosphorIcons {
   /// bold: ![user-rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-rectangle.svg)
   /// fill: ![user-rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-rectangle.svg)
   /// duotone: ![user-rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-rectangle.svg)
-  static PhosphorIconData userRectangle(
+  static IconData userRectangle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34799,7 +34769,7 @@ class PhosphorIcons {
   /// bold: ![user-sound](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-sound.svg)
   /// fill: ![user-sound](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-sound.svg)
   /// duotone: ![user-sound](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-sound.svg)
-  static PhosphorIconData userSound(
+  static IconData userSound(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34823,7 +34793,7 @@ class PhosphorIcons {
   /// bold: ![user-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-square.svg)
   /// fill: ![user-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-square.svg)
   /// duotone: ![user-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-square.svg)
-  static PhosphorIconData userSquare(
+  static IconData userSquare(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34847,7 +34817,7 @@ class PhosphorIcons {
   /// bold: ![user-switch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-switch.svg)
   /// fill: ![user-switch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-switch.svg)
   /// duotone: ![user-switch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-switch.svg)
-  static PhosphorIconData userSwitch(
+  static IconData userSwitch(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34871,7 +34841,7 @@ class PhosphorIcons {
   /// bold: ![users](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/users.svg)
   /// fill: ![users](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/users.svg)
   /// duotone: ![users](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users.svg)
-  static PhosphorIconData users(
+  static IconData users(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34895,7 +34865,7 @@ class PhosphorIcons {
   /// bold: ![users-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/users-four.svg)
   /// fill: ![users-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/users-four.svg)
   /// duotone: ![users-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-four.svg)
-  static PhosphorIconData usersFour(
+  static IconData usersFour(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34919,7 +34889,7 @@ class PhosphorIcons {
   /// bold: ![users-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/users-three.svg)
   /// fill: ![users-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/users-three.svg)
   /// duotone: ![users-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-three.svg)
-  static PhosphorIconData usersThree(
+  static IconData usersThree(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34943,8 +34913,7 @@ class PhosphorIcons {
   /// bold: ![van](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/van.svg)
   /// fill: ![van](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/van.svg)
   /// duotone: ![van](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/van.svg)
-  static PhosphorIconData van(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData van([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.van;
@@ -34967,7 +34936,7 @@ class PhosphorIcons {
   /// bold: ![vault](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vault.svg)
   /// fill: ![vault](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vault.svg)
   /// duotone: ![vault](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vault.svg)
-  static PhosphorIconData vault(
+  static IconData vault(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -34991,7 +34960,7 @@ class PhosphorIcons {
   /// bold: ![vector-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vector-three.svg)
   /// fill: ![vector-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vector-three.svg)
   /// duotone: ![vector-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vector-three.svg)
-  static PhosphorIconData vectorThree(
+  static IconData vectorThree(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35015,7 +34984,7 @@ class PhosphorIcons {
   /// bold: ![vector-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vector-two.svg)
   /// fill: ![vector-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vector-two.svg)
   /// duotone: ![vector-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vector-two.svg)
-  static PhosphorIconData vectorTwo(
+  static IconData vectorTwo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35039,7 +35008,7 @@ class PhosphorIcons {
   /// bold: ![vibrate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vibrate.svg)
   /// fill: ![vibrate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vibrate.svg)
   /// duotone: ![vibrate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vibrate.svg)
-  static PhosphorIconData vibrate(
+  static IconData vibrate(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35063,7 +35032,7 @@ class PhosphorIcons {
   /// bold: ![video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video.svg)
   /// fill: ![video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/video.svg)
   /// duotone: ![video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video.svg)
-  static PhosphorIconData video(
+  static IconData video(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35087,7 +35056,7 @@ class PhosphorIcons {
   /// bold: ![video-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video-camera.svg)
   /// fill: ![video-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/video-camera.svg)
   /// duotone: ![video-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-camera.svg)
-  static PhosphorIconData videoCamera(
+  static IconData videoCamera(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35111,7 +35080,7 @@ class PhosphorIcons {
   /// bold: ![video-camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video-camera-slash.svg)
   /// fill: ![video-camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/video-camera-slash.svg)
   /// duotone: ![video-camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-camera-slash.svg)
-  static PhosphorIconData videoCameraSlash(
+  static IconData videoCameraSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35135,7 +35104,7 @@ class PhosphorIcons {
   /// bold: ![video-conference](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video-conference.svg)
   /// fill: ![video-conference](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/video-conference.svg)
   /// duotone: ![video-conference](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-conference.svg)
-  static PhosphorIconData videoConference(
+  static IconData videoConference(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35159,7 +35128,7 @@ class PhosphorIcons {
   /// bold: ![vignette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vignette.svg)
   /// fill: ![vignette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vignette.svg)
   /// duotone: ![vignette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vignette.svg)
-  static PhosphorIconData vignette(
+  static IconData vignette(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35183,7 +35152,7 @@ class PhosphorIcons {
   /// bold: ![vinyl-record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vinyl-record.svg)
   /// fill: ![vinyl-record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vinyl-record.svg)
   /// duotone: ![vinyl-record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vinyl-record.svg)
-  static PhosphorIconData vinylRecord(
+  static IconData vinylRecord(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35207,7 +35176,7 @@ class PhosphorIcons {
   /// bold: ![virtual-reality](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/virtual-reality.svg)
   /// fill: ![virtual-reality](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/virtual-reality.svg)
   /// duotone: ![virtual-reality](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/virtual-reality.svg)
-  static PhosphorIconData virtualReality(
+  static IconData virtualReality(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35231,7 +35200,7 @@ class PhosphorIcons {
   /// bold: ![virus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/virus.svg)
   /// fill: ![virus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/virus.svg)
   /// duotone: ![virus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/virus.svg)
-  static PhosphorIconData virus(
+  static IconData virus(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35255,7 +35224,7 @@ class PhosphorIcons {
   /// bold: ![visor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/visor.svg)
   /// fill: ![visor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/visor.svg)
   /// duotone: ![visor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/visor.svg)
-  static PhosphorIconData visor(
+  static IconData visor(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35279,7 +35248,7 @@ class PhosphorIcons {
   /// bold: ![voicemail](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/voicemail.svg)
   /// fill: ![voicemail](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/voicemail.svg)
   /// duotone: ![voicemail](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/voicemail.svg)
-  static PhosphorIconData voicemail(
+  static IconData voicemail(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35303,7 +35272,7 @@ class PhosphorIcons {
   /// bold: ![volleyball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/volleyball.svg)
   /// fill: ![volleyball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/volleyball.svg)
   /// duotone: ![volleyball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/volleyball.svg)
-  static PhosphorIconData volleyball(
+  static IconData volleyball(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35327,7 +35296,7 @@ class PhosphorIcons {
   /// bold: ![wall](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wall.svg)
   /// fill: ![wall](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wall.svg)
   /// duotone: ![wall](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wall.svg)
-  static PhosphorIconData wall(
+  static IconData wall(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35351,7 +35320,7 @@ class PhosphorIcons {
   /// bold: ![wallet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wallet.svg)
   /// fill: ![wallet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wallet.svg)
   /// duotone: ![wallet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wallet.svg)
-  static PhosphorIconData wallet(
+  static IconData wallet(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35375,7 +35344,7 @@ class PhosphorIcons {
   /// bold: ![warehouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warehouse.svg)
   /// fill: ![warehouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/warehouse.svg)
   /// duotone: ![warehouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warehouse.svg)
-  static PhosphorIconData warehouse(
+  static IconData warehouse(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35399,7 +35368,7 @@ class PhosphorIcons {
   /// bold: ![warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning.svg)
   /// fill: ![warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/warning.svg)
   /// duotone: ![warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning.svg)
-  static PhosphorIconData warning(
+  static IconData warning(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35423,7 +35392,7 @@ class PhosphorIcons {
   /// bold: ![warning-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning-circle.svg)
   /// fill: ![warning-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/warning-circle.svg)
   /// duotone: ![warning-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-circle.svg)
-  static PhosphorIconData warningCircle(
+  static IconData warningCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35447,7 +35416,7 @@ class PhosphorIcons {
   /// bold: ![warning-diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning-diamond.svg)
   /// fill: ![warning-diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/warning-diamond.svg)
   /// duotone: ![warning-diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-diamond.svg)
-  static PhosphorIconData warningDiamond(
+  static IconData warningDiamond(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35471,7 +35440,7 @@ class PhosphorIcons {
   /// bold: ![warning-octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning-octagon.svg)
   /// fill: ![warning-octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/warning-octagon.svg)
   /// duotone: ![warning-octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-octagon.svg)
-  static PhosphorIconData warningOctagon(
+  static IconData warningOctagon(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35495,7 +35464,7 @@ class PhosphorIcons {
   /// bold: ![washing-machine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/washing-machine.svg)
   /// fill: ![washing-machine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/washing-machine.svg)
   /// duotone: ![washing-machine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/washing-machine.svg)
-  static PhosphorIconData washingMachine(
+  static IconData washingMachine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35519,7 +35488,7 @@ class PhosphorIcons {
   /// bold: ![watch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/watch.svg)
   /// fill: ![watch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/watch.svg)
   /// duotone: ![watch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/watch.svg)
-  static PhosphorIconData watch(
+  static IconData watch(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35543,7 +35512,7 @@ class PhosphorIcons {
   /// bold: ![wave-sawtooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-sawtooth.svg)
   /// fill: ![wave-sawtooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wave-sawtooth.svg)
   /// duotone: ![wave-sawtooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-sawtooth.svg)
-  static PhosphorIconData waveSawtooth(
+  static IconData waveSawtooth(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35567,7 +35536,7 @@ class PhosphorIcons {
   /// bold: ![wave-sine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-sine.svg)
   /// fill: ![wave-sine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wave-sine.svg)
   /// duotone: ![wave-sine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-sine.svg)
-  static PhosphorIconData waveSine(
+  static IconData waveSine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35591,7 +35560,7 @@ class PhosphorIcons {
   /// bold: ![wave-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-square.svg)
   /// fill: ![wave-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wave-square.svg)
   /// duotone: ![wave-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-square.svg)
-  static PhosphorIconData waveSquare(
+  static IconData waveSquare(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35615,7 +35584,7 @@ class PhosphorIcons {
   /// bold: ![wave-triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-triangle.svg)
   /// fill: ![wave-triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wave-triangle.svg)
   /// duotone: ![wave-triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-triangle.svg)
-  static PhosphorIconData waveTriangle(
+  static IconData waveTriangle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35639,7 +35608,7 @@ class PhosphorIcons {
   /// bold: ![waveform](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/waveform.svg)
   /// fill: ![waveform](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/waveform.svg)
   /// duotone: ![waveform](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waveform.svg)
-  static PhosphorIconData waveform(
+  static IconData waveform(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35663,7 +35632,7 @@ class PhosphorIcons {
   /// bold: ![waveform-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/waveform-slash.svg)
   /// fill: ![waveform-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/waveform-slash.svg)
   /// duotone: ![waveform-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waveform-slash.svg)
-  static PhosphorIconData waveformSlash(
+  static IconData waveformSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35687,7 +35656,7 @@ class PhosphorIcons {
   /// bold: ![waves](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/waves.svg)
   /// fill: ![waves](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/waves.svg)
   /// duotone: ![waves](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waves.svg)
-  static PhosphorIconData waves(
+  static IconData waves(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35711,7 +35680,7 @@ class PhosphorIcons {
   /// bold: ![webcam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/webcam.svg)
   /// fill: ![webcam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/webcam.svg)
   /// duotone: ![webcam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webcam.svg)
-  static PhosphorIconData webcam(
+  static IconData webcam(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35735,7 +35704,7 @@ class PhosphorIcons {
   /// bold: ![webcam-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/webcam-slash.svg)
   /// fill: ![webcam-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/webcam-slash.svg)
   /// duotone: ![webcam-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webcam-slash.svg)
-  static PhosphorIconData webcamSlash(
+  static IconData webcamSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35759,7 +35728,7 @@ class PhosphorIcons {
   /// bold: ![webhooks-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/webhooks-logo.svg)
   /// fill: ![webhooks-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/webhooks-logo.svg)
   /// duotone: ![webhooks-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webhooks-logo.svg)
-  static PhosphorIconData webhooksLogo(
+  static IconData webhooksLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35783,7 +35752,7 @@ class PhosphorIcons {
   /// bold: ![wechat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wechat-logo.svg)
   /// fill: ![wechat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wechat-logo.svg)
   /// duotone: ![wechat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wechat-logo.svg)
-  static PhosphorIconData wechatLogo(
+  static IconData wechatLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35807,7 +35776,7 @@ class PhosphorIcons {
   /// bold: ![whatsapp-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/whatsapp-logo.svg)
   /// fill: ![whatsapp-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/whatsapp-logo.svg)
   /// duotone: ![whatsapp-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/whatsapp-logo.svg)
-  static PhosphorIconData whatsappLogo(
+  static IconData whatsappLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35831,7 +35800,7 @@ class PhosphorIcons {
   /// bold: ![wheelchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wheelchair.svg)
   /// fill: ![wheelchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wheelchair.svg)
   /// duotone: ![wheelchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wheelchair.svg)
-  static PhosphorIconData wheelchair(
+  static IconData wheelchair(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35855,7 +35824,7 @@ class PhosphorIcons {
   /// bold: ![wheelchair-motion](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wheelchair-motion.svg)
   /// fill: ![wheelchair-motion](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wheelchair-motion.svg)
   /// duotone: ![wheelchair-motion](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wheelchair-motion.svg)
-  static PhosphorIconData wheelchairMotion(
+  static IconData wheelchairMotion(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35879,7 +35848,7 @@ class PhosphorIcons {
   /// bold: ![wifi-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-high.svg)
   /// fill: ![wifi-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-high.svg)
   /// duotone: ![wifi-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-high.svg)
-  static PhosphorIconData wifiHigh(
+  static IconData wifiHigh(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35903,7 +35872,7 @@ class PhosphorIcons {
   /// bold: ![wifi-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-low.svg)
   /// fill: ![wifi-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-low.svg)
   /// duotone: ![wifi-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-low.svg)
-  static PhosphorIconData wifiLow(
+  static IconData wifiLow(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35927,7 +35896,7 @@ class PhosphorIcons {
   /// bold: ![wifi-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-medium.svg)
   /// fill: ![wifi-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-medium.svg)
   /// duotone: ![wifi-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-medium.svg)
-  static PhosphorIconData wifiMedium(
+  static IconData wifiMedium(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35951,7 +35920,7 @@ class PhosphorIcons {
   /// bold: ![wifi-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-none.svg)
   /// fill: ![wifi-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-none.svg)
   /// duotone: ![wifi-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-none.svg)
-  static PhosphorIconData wifiNone(
+  static IconData wifiNone(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35975,7 +35944,7 @@ class PhosphorIcons {
   /// bold: ![wifi-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-slash.svg)
   /// fill: ![wifi-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-slash.svg)
   /// duotone: ![wifi-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-slash.svg)
-  static PhosphorIconData wifiSlash(
+  static IconData wifiSlash(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -35999,7 +35968,7 @@ class PhosphorIcons {
   /// bold: ![wifi-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-x.svg)
   /// fill: ![wifi-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-x.svg)
   /// duotone: ![wifi-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-x.svg)
-  static PhosphorIconData wifiX(
+  static IconData wifiX(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -36023,7 +35992,7 @@ class PhosphorIcons {
   /// bold: ![wind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wind.svg)
   /// fill: ![wind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wind.svg)
   /// duotone: ![wind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wind.svg)
-  static PhosphorIconData wind(
+  static IconData wind(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -36047,7 +36016,7 @@ class PhosphorIcons {
   /// bold: ![windmill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/windmill.svg)
   /// fill: ![windmill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/windmill.svg)
   /// duotone: ![windmill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/windmill.svg)
-  static PhosphorIconData windmill(
+  static IconData windmill(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -36071,7 +36040,7 @@ class PhosphorIcons {
   /// bold: ![windows-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/windows-logo.svg)
   /// fill: ![windows-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/windows-logo.svg)
   /// duotone: ![windows-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/windows-logo.svg)
-  static PhosphorIconData windowsLogo(
+  static IconData windowsLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -36095,7 +36064,7 @@ class PhosphorIcons {
   /// bold: ![wine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wine.svg)
   /// fill: ![wine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wine.svg)
   /// duotone: ![wine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wine.svg)
-  static PhosphorIconData wine(
+  static IconData wine(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -36119,7 +36088,7 @@ class PhosphorIcons {
   /// bold: ![wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wrench.svg)
   /// fill: ![wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wrench.svg)
   /// duotone: ![wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wrench.svg)
-  static PhosphorIconData wrench(
+  static IconData wrench(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -36143,8 +36112,7 @@ class PhosphorIcons {
   /// bold: ![x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x.svg)
   /// fill: ![x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/x.svg)
   /// duotone: ![x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x.svg)
-  static PhosphorIconData x(
-      [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
+  static IconData x([PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
         return PhosphorIconsRegular.x;
@@ -36167,7 +36135,7 @@ class PhosphorIcons {
   /// bold: ![x-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x-circle.svg)
   /// fill: ![x-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/x-circle.svg)
   /// duotone: ![x-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-circle.svg)
-  static PhosphorIconData xCircle(
+  static IconData xCircle(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -36191,7 +36159,7 @@ class PhosphorIcons {
   /// bold: ![x-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x-logo.svg)
   /// fill: ![x-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/x-logo.svg)
   /// duotone: ![x-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-logo.svg)
-  static PhosphorIconData xLogo(
+  static IconData xLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -36215,7 +36183,7 @@ class PhosphorIcons {
   /// bold: ![x-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x-square.svg)
   /// fill: ![x-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/x-square.svg)
   /// duotone: ![x-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-square.svg)
-  static PhosphorIconData xSquare(
+  static IconData xSquare(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -36239,7 +36207,7 @@ class PhosphorIcons {
   /// bold: ![yarn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/yarn.svg)
   /// fill: ![yarn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/yarn.svg)
   /// duotone: ![yarn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/yarn.svg)
-  static PhosphorIconData yarn(
+  static IconData yarn(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -36263,7 +36231,7 @@ class PhosphorIcons {
   /// bold: ![yin-yang](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/yin-yang.svg)
   /// fill: ![yin-yang](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/yin-yang.svg)
   /// duotone: ![yin-yang](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/yin-yang.svg)
-  static PhosphorIconData yinYang(
+  static IconData yinYang(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:
@@ -36287,7 +36255,7 @@ class PhosphorIcons {
   /// bold: ![youtube-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/youtube-logo.svg)
   /// fill: ![youtube-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/youtube-logo.svg)
   /// duotone: ![youtube-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/youtube-logo.svg)
-  static PhosphorIconData youtubeLogo(
+  static IconData youtubeLogo(
       [PhosphorIconsStyle style = PhosphorIconsStyle.regular]) {
     switch (style) {
       case PhosphorIconsStyle.regular:

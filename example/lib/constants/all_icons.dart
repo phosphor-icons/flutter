@@ -1,14 +1,15 @@
 // Auto generated File
 // DON'T EDIT BY HAND
 
+import 'package:flutter/widgets.dart';
 import 'package:phosphor_flutter/phosphor_flutter.dart';
 
 abstract class AllIcons {
-  static List<PhosphorIconData> get icons => allFlatIconsAsMap.values.toList();
+  static List<IconData> get icons => allFlatIconsAsMap.values.toList();
 
   static List<String> get names => allFlatIconsAsMap.keys.toList();
 
-  static Map<String, PhosphorIconData> get allFlatIconsAsMap => {
+  static Map<String, IconData> get allFlatIconsAsMap => {
         ...regularIcons,
         ...thinIcons,
         ...lightIcons,
@@ -17,7 +18,7 @@ abstract class AllIcons {
         ...duotoneIcons,
       };
 
-  static Map<String, PhosphorIconData> get regularIcons => {
+  static Map<String, IconData> get regularIcons => {
         'acorn': PhosphorIcons.acorn(PhosphorIconsStyle.regular),
         'address-book': PhosphorIcons.addressBook(PhosphorIconsStyle.regular),
         'address-book-tabs':
@@ -1992,7 +1993,7 @@ abstract class AllIcons {
         'youtube-logo': PhosphorIcons.youtubeLogo(PhosphorIconsStyle.regular)
       };
 
-  static Map<String, PhosphorIconData> get thinIcons => {
+  static Map<String, IconData> get thinIcons => {
         'acorn': PhosphorIcons.acorn(PhosphorIconsStyle.thin),
         'address-book': PhosphorIcons.addressBook(PhosphorIconsStyle.thin),
         'address-book-tabs':
@@ -3870,7 +3871,7 @@ abstract class AllIcons {
         'youtube-logo': PhosphorIcons.youtubeLogo(PhosphorIconsStyle.thin)
       };
 
-  static Map<String, PhosphorIconData> get lightIcons => {
+  static Map<String, IconData> get lightIcons => {
         'acorn': PhosphorIcons.acorn(PhosphorIconsStyle.light),
         'address-book': PhosphorIcons.addressBook(PhosphorIconsStyle.light),
         'address-book-tabs':
@@ -5774,7 +5775,7 @@ abstract class AllIcons {
         'youtube-logo': PhosphorIcons.youtubeLogo(PhosphorIconsStyle.light)
       };
 
-  static Map<String, PhosphorIconData> get boldIcons => {
+  static Map<String, IconData> get boldIcons => {
         'acorn': PhosphorIcons.acorn(PhosphorIconsStyle.bold),
         'address-book': PhosphorIcons.addressBook(PhosphorIconsStyle.bold),
         'address-book-tabs':
@@ -7652,7 +7653,7 @@ abstract class AllIcons {
         'youtube-logo': PhosphorIcons.youtubeLogo(PhosphorIconsStyle.bold)
       };
 
-  static Map<String, PhosphorIconData> get fillIcons => {
+  static Map<String, IconData> get fillIcons => {
         'acorn': PhosphorIcons.acorn(PhosphorIconsStyle.fill),
         'address-book': PhosphorIcons.addressBook(PhosphorIconsStyle.fill),
         'address-book-tabs':
@@ -9530,7 +9531,7 @@ abstract class AllIcons {
         'youtube-logo': PhosphorIcons.youtubeLogo(PhosphorIconsStyle.fill)
       };
 
-  static Map<String, PhosphorIconData> get duotoneIcons => {
+  static Map<String, IconData> get duotoneIcons => {
         'acorn': PhosphorIcons.acorn(PhosphorIconsStyle.duotone),
         'address-book': PhosphorIcons.addressBook(PhosphorIconsStyle.duotone),
         'address-book-tabs':
